@@ -39,9 +39,9 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 		var imagefilename  = image.substring(n + 1);
 		var imagefilename = imagefilename.replace('%20', '-');
 		const folder = '/../pages/insights/';
-  	const path = __dirname + folder + alias;
+  	const path = __dirname + folder;
 		fs.mkdir(path, (err) => { });
-  		const file = fs.createWriteStream(path + '/index.md', { flags: 'w' });
+  		const file = fs.createWriteStream(path + alias + '.md', { flags: 'w' });
   // This is here incase any errors occur
 		  file.on('open', function () {
 		    file.write('---\n');

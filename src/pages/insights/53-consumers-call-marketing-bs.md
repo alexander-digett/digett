@@ -1,8 +1,9 @@
 ---
-title: '53% of Consumers Call Marketing &quot;B.S.&quot;'
+title: 53% of Consumers Call Marketing &quot;B.S.&quot;
 templateKey: blog-post
 date: 2012-11-27T14:42:31.000Z
-category: Market Targeting, Marketing
+category: 
+  - Market Targeting, Marketing
 alias: 53-consumers-call-marketing-bs
 summary: > 
  As consumers become better at ignoring and filtering out advertising, companies have to come up with better ways to get their message to their audience. However, some recent findings from Adobe indicate that advertising and marketing aren’t at the top of anyone’s list of favorites.
