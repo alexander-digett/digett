@@ -27,8 +27,7 @@ export default class BlogPage extends React.Component {
       <Layout>
               <Helmet>
       <meta charSet="utf-8" />
-      <title>1986.io | Blog</title>
-      <link rel="canonical" href="https://1986.io/blog"></link>
+      <title>digett.com | Blog</title>
       </Helmet>
         <section className="section">
             <div className="content blog-index-header" style={{
@@ -97,7 +96,6 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            description
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")

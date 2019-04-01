@@ -28,10 +28,16 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 	result.forEach(row => {
 		const title = row.title;
 		const alias = row.alias.split('/insights/')[1];;
-		const tags = row.term_node_tid;
-		const body = turndownService.turndown(row.body);
+		const category = row.term_node_tid;
+		var bodyreplace = row.body.replace(/sites\/default\/files\/inline-images/g, "assets")
+		const body = turndownService.turndown(bodyreplace);
 		const date = new Date(row.created * 1000);
-		const image = row.field_teaser_image;
+		const summary = row.body_1;
+		const author = row.uid;
+		var image = row.field_teaser_image;
+		var n = image.lastIndexOf('/');
+		var imagefilename  = image.substring(n + 1);
+		var imagefilename = imagefilename.replace('%20', '-');
 		const folder = '/../pages/insights/';
   	const path = __dirname + folder + alias;
 		fs.mkdir(path, (err) => { });
@@ -39,20 +45,31 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
   // This is here incase any errors occur
 		  file.on('open', function () {
 		    file.write('---\n');
-		    file.write('title: "' + title + '"\n');
+				file.write('title: "' + title + '"\n');
+				file.write('templateKey: "blog-post"\n');
 		    file.write('date: ' + date.toISOString() + '\n');
-				file.write('tags: ' + JSON.stringify(tags) + '\n');
+				file.write('category: "' + category + '"\n');
 				file.write('alias: "' + alias + '"\n');
-		    file.write('---\n\n');
+				file.write('summary: ' + summary + '\n');
+				file.write('author: "' + author + '"\n');
 		    if (image) {
 					// taken from: https://stackoverflow.com/a/22907134/9055
 					options = {
 						url: image,
-						dest: __dirname + '/../images/blog'       // Save to /path/to/dest/photo.jpg
+						dest: __dirname + '/../../static/assets/' + imagefilename       // Save to /path/to/dest/photo.jpg
 					}		
-		      download(options);
+					download.image(options)
+					.then(({ filename, image }) => {
+						console.log('File saved to', imagefilename)
+						
+					})
+					.catch((err) => {
+						console.error(err)
+					})
+					file.write('image: "/assets/' + imagefilename + '"\n');	
 		      // file.write(`![${image.filename}](./${image.filename})\n\n`);
-		    }
+				}
+				file.write('---\n\n');
 		    file.write(body);
 		    file.end();
 		  });

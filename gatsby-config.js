@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `1986`,
+    title: `Digett`,
     description: `Screaming fast sites.`,
-    siteUrl: `https://1986.io`,
+    siteUrl: `https://www.digett.com`,
     author: `@alexanderfountain`,
     logo: `/assets/logo_no_comp.png`,
     menuLinks:[
@@ -11,8 +11,8 @@ module.exports = {
          link:'/'
       },
       {
-         name:'blog',
-         link:'/blog'
+         name:'insights',
+         link:'/insights'
       },
       {
          name:'contact',
@@ -22,6 +22,12 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: ["gatsby-remark-copy-linked-files"],
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

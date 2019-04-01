@@ -1,8 +1,12 @@
 ---
 title: "Leave Things Better Than You Find Them"
+templateKey: "blog-post"
 date: 2019-01-28T19:05:43.000Z
-tags: "Strategy"
+category: "Strategy"
 alias: "leave-things-better-than-you-find-them"
+summary: Marketing is a complex coordination of planning, production and operations. But applying the simple outdoor principle of "leaving things better than we find them" goes a long way toward improving short- and long-term impact. If we pay attention to caring for the "marketing asset"—in addition to achieving other desired outcomes—we can gain clarity on how to better allocate resources, improve outcomes, and maximize return on investment.
+author: "Mark Figart"
+image: "/assets/Main-Photo_0.jpg"
 ---
 
 My mom and dad weren't big campers. In fact, my mom never went along on a family camping adventure, preferring instead to let my older brother and me suffer the consequences of my dad's questionable planning. Fortunately, my dad braved the elements—and the persnickety personalities of his two young boys—on more than one occasion so that we didn’t entirely miss out on one of the great traditions of the outdoors. And despite my mother’s absences, she had quite an impact on my own experience with nature that's stuck with me ever since.
@@ -30,7 +34,7 @@ Placing a dollar value on each and every input, output and outcome can be challe
 
 Let’s take three distinct sets of activities that comprise marketing at a high level: Planning, setup and operations. Each of these activities contributes to the overall asset. Planning produces a strategy, an asset. If you think strategy is not an asset, you probably don’t have one. Setup produces a marketing platform we can leverage to execute our strategy. And operations takes the assets produced by the other two activities to produce—in addition to certain desired outcomes—even more assets. Think about how a skillful marketing operations team can increase market reach by cultivating quality email lists. The lists themselves aren’t the desired outcome, but they’re a valuable asset in obtaining that outcome. Consider an ever-expanding library of valuable content. Blog posts and videos are not the ultimate outcomes we are after, but they can definitely contribute in our efforts to achieve those outcomes. How about the improved audience intelligence resulting from skillful A/B testing? Again, intelligence isn’t the end goal, but it’s a valuable asset in the pursuit of our goal.
 
-![Two boys fishing](/sites/default/files/inline-images/Embedded%20Photo_0.jpg)All of these assets, tangible or intangible, are ideally carefully nurtured, and yet too often unacknowledged, neglected or ignored entirely. The most common failure I see is one of planning. Firms are quick to deploy tactics without having developed an overall marketing strategy, and it’s the very essence of such strategy to determine not only what tactics could be effective, but how they play a role in cultivating, growing, and measuring the value they contribute to the marketing asset as a whole.
+![Two boys fishing](/assets/Embedded%20Photo_0.jpg)All of these assets, tangible or intangible, are ideally carefully nurtured, and yet too often unacknowledged, neglected or ignored entirely. The most common failure I see is one of planning. Firms are quick to deploy tactics without having developed an overall marketing strategy, and it’s the very essence of such strategy to determine not only what tactics could be effective, but how they play a role in cultivating, growing, and measuring the value they contribute to the marketing asset as a whole.
 
 Picking Up Trash
 ----------------

@@ -55,14 +55,5 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       node,
       value,
     })
-    if(node.frontmatter){
-      if(node.frontmatter.content.sectionvalue.markdown){
-        const markdown2 = node.frontmatter.content.sectionvalue.markdown
-        node.frontmatter.content.sectionvalue.markdown = remark()
-          .use(remarkHTML)
-          .processSync(markdown2)
-          .toString();
-      }
-    }
   }
 }

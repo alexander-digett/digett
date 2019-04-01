@@ -1,8 +1,12 @@
 ---
 title: "The Myth of the Elusive Unique Value Proposition"
+templateKey: "blog-post"
 date: 2018-08-07T14:01:36.000Z
-tags: ""
+category: ""
 alias: "myth-elusive-unique-value-proposition"
+summary: How do you achieve your goal of helping your prospects understand the unique value of working with you without some long-winded recitation of all the things you and your firm do "better" than a competitor? It may be more simple than you think.
+author: "Mark Figart"
+image: "/assets/alex-iby-297804-unsplash_4.jpg"
 ---
 
 Here's a question that has challenged MSPs since the beginning of, well, MSPs:

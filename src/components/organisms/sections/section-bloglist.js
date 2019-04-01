@@ -26,12 +26,11 @@ export const BlogList = () => (
                 slug
               }
               frontmatter {
-                description
+                summary
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 image
-                author
               }
             }
           }

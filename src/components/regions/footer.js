@@ -72,13 +72,13 @@ const Footer = () => (
     }}>
       <Leftfooter>
       <h4>CONTACT US</h4>
-      <p>P.O Box 471</p>
-      <p>St. Croix Falls, WI 54024</p>
-      <p>651-399-9164</p>
+      <p>P.O Box 443</p>
+      <p>San Antonio</p>
+      <p>1800-323-2323</p>
       </Leftfooter>
       <Rightfooter>
       <h4>ABOUT US</h4>
-      <p>1986.io is a small web development / design / marketing firm based in America! We're real humans ready to chat face to face.</p>
+      <p>digett.com is a small web development / design / marketing firm based in America! We're real humans ready to chat face to face.</p>
       </Rightfooter>
     </Container>
   </footer>
