@@ -5,18 +5,38 @@ module.exports = {
     siteUrl: `https://www.digett.com`,
     author: `@alexanderfountain`,
     logo: `/assets/logo_no_comp.png`,
-    menuLinks:[
-      {
-         name:'home',
-         link:'/'
-      },
-      {
-         name:'insights',
-         link:'/insights'
-      },
+    topLinks:[
       {
          name:'contact',
-         link:'/contact'
+         link:'/contact',
+         class:'button'
+      },
+      {
+         name:'210-853-5808',
+         link:'tel:210-853-5808',
+         icon: 'fas fa-mobile-alt'
+      }
+    ],
+    menuLinks:[
+      {
+         name:'solutions',
+         link:'/digital-marketing-solutions'
+      },
+      {
+         name:'msp marketing',
+         link:'/msp-marketing'
+      },
+      {
+         name:'philosophy',
+         link:'/philosophy'
+      },
+      {
+        name:'about',
+        link:'/about-digett'
+      },
+      {
+        name:'insights',
+        link:'/insights'
       }
     ],
   },
@@ -26,6 +46,22 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: ["gatsby-remark-copy-linked-files"],
+      },
+    },
+    {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: [`title`, `category`],
+        // How to resolve each field`s value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields` values
+          MarkdownRemark: {
+            title: node => node.frontmatter.title,
+            tags: node => node.frontmatter.category,
+            path: node => node.fields.slug,
+          },
+        },
       },
     },
     {

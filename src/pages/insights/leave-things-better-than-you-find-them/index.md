@@ -1,12 +1,13 @@
 ---
-title: "Leave Things Better Than You Find Them"
-templateKey: "blog-post"
+title: 'Leave Things Better Than You Find Them'
+templateKey: blog-post
 date: 2019-01-28T19:05:43.000Z
-category: "Strategy"
-alias: "leave-things-better-than-you-find-them"
-summary: Marketing is a complex coordination of planning, production and operations. But applying the simple outdoor principle of "leaving things better than we find them" goes a long way toward improving short- and long-term impact. If we pay attention to caring for the "marketing asset"—in addition to achieving other desired outcomes—we can gain clarity on how to better allocate resources, improve outcomes, and maximize return on investment.
-author: "Mark Figart"
-image: "/assets/Main-Photo_0.jpg"
+category: Strategy
+alias: leave-things-better-than-you-find-them
+summary: > 
+ Marketing is a complex coordination of planning, production and operations. But applying the simple outdoor principle of "leaving things better than we find them" goes a long way toward improving short- and long-term impact. If we pay attention to caring for the "marketing asset"—in addition to achieving other desired outcomes—we can gain clarity on how to better allocate resources, improve outcomes, and maximize return on investment.
+author: Mark Figart
+image: /assets/Main-Photo_0.jpg
 ---
 
 My mom and dad weren't big campers. In fact, my mom never went along on a family camping adventure, preferring instead to let my older brother and me suffer the consequences of my dad's questionable planning. Fortunately, my dad braved the elements—and the persnickety personalities of his two young boys—on more than one occasion so that we didn’t entirely miss out on one of the great traditions of the outdoors. And despite my mother’s absences, she had quite an impact on my own experience with nature that's stuck with me ever since.

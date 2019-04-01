@@ -24,7 +24,6 @@ const Linkstyle = styled(Link)`
   &:hover {
     background-color: ${variable.brand1};
     color: white;
-    text-decoration: line-through;
   }
 `;
 

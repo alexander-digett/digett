@@ -13,10 +13,41 @@
   -webkit-font-smoothing: antialiased;
   color: #5b5e5e;
 }
+.button{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 20px;
+  color: #ffffff !important;
+  background-color: #ef4036;
+  -webkit-box-shadow: 0 0 0 4px #ef4036;
+  box-shadow: 0 0 0 4px #ef4036;
+  border: 1px solid #ffffff;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  width: auto;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  padding: 4px 35px 2px 35px;
+  margin: 4px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 0px;
+  font-weight: normal !important;
+}
+.button:hover{
+  background-color: #d73b32;
+    -webkit-box-shadow: 0 0 0 4px #d73b32;
+    box-shadow: 0 0 0 4px #d73b32;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    color: #ffffff !important;
+}
 a{
   transition: all 0.2s;
-  border-bottom: 1px solid #232525;
-  color: #232525;
   text-decoration: none;
 }
 a:focus, a:hover, li:focus, li:hover {

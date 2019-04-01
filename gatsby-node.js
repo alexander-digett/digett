@@ -7,7 +7,7 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      markdown: allMarkdownRemark {
         edges {
           node {
             id
@@ -20,6 +20,22 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      blog: allMarkdownRemark(
+        filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+        ) {
+        edges {
+          node {
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              templateKey
+              title
+            }
+          }
+        }
+      }
     }
   `).then(result => {
     if (result.errors) {
@@ -27,7 +43,7 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
+    const posts = result.data.markdown.edges
 
     posts.forEach(edge => {
       const id = edge.node.id
@@ -39,6 +55,23 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+        },
+      })
+    })
+
+    // Create blog-list pages
+    const poster = result.data.blog.edges
+    const postsPerPage = 6
+    const numPages = Math.ceil(poster.length / postsPerPage)
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/insights` : `/insights/${i + 1}`,
+        component: path.resolve("./src/templates/blog.js"),
+        context: {
+          skip: i * postsPerPage,
+          limit: postsPerPage,
+          numPages,
+          currentPage: i + 1
         },
       })
     })

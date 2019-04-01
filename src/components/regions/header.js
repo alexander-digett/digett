@@ -3,13 +3,12 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import Container from '../layout/container'
 import Menu from '../menu'
+import TopMenu from '../topmenu'
 import styled from "styled-components"
 import Image from "../image"
+import logo from "../../images/logo_white.png"
 
 const HeaderStyle = styled.header`
-  background-color:rgba(255, 255, 255, 0.9);
-  padding: 10px 20px;
-  position: fixed;
   top: 0px;
   width: 100%;
   z-index: 999;
@@ -36,8 +35,11 @@ const HeaderStyle = styled.header`
   }
 `;
 
-const Header = ({ logo }) => (
+const Header = ({variable}) => (
   <HeaderStyle>
+      <TopMenu
+      variable={variable}
+      ></TopMenu>
       <Container className="header-menu-logo">
       <Link className="logo"to="/"><img src={logo} alt="logo" /></Link>
       <Menu>

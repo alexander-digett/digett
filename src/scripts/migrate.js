@@ -32,7 +32,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 		var bodyreplace = row.body.replace(/sites\/default\/files\/inline-images/g, "assets")
 		const body = turndownService.turndown(bodyreplace);
 		const date = new Date(row.created * 1000);
-		const summary = row.body_1;
+	  var summary = row.body_1.replace(/\r?\n|\r/g, ' ').replace('“', '"').replace('”', '"');
 		const author = row.uid;
 		var image = row.field_teaser_image;
 		var n = image.lastIndexOf('/');
@@ -45,13 +45,13 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
   // This is here incase any errors occur
 		  file.on('open', function () {
 		    file.write('---\n');
-				file.write('title: "' + title + '"\n');
-				file.write('templateKey: "blog-post"\n');
+				file.write("title: '" + title + "'\n");
+				file.write('templateKey: blog-post\n');
 		    file.write('date: ' + date.toISOString() + '\n');
-				file.write('category: "' + category + '"\n');
-				file.write('alias: "' + alias + '"\n');
-				file.write('summary: ' + summary + '\n');
-				file.write('author: "' + author + '"\n');
+				file.write('category: ' + category + '\n');
+				file.write('alias: ' + alias + '\n');
+				file.write("summary: > \n " + summary + "\n");
+				file.write('author: ' + author + '\n');
 		    if (image) {
 					// taken from: https://stackoverflow.com/a/22907134/9055
 					options = {
@@ -66,7 +66,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 					.catch((err) => {
 						console.error(err)
 					})
-					file.write('image: "/assets/' + imagefilename + '"\n');	
+					file.write('image: /assets/' + imagefilename + '\n');	
 		      // file.write(`![${image.filename}](./${image.filename})\n\n`);
 				}
 				file.write('---\n\n');
