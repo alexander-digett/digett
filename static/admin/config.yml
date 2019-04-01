@@ -8,7 +8,7 @@ public_folder: assets
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/pages/blog"
+    folder: "src/pages/insights"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -19,18 +19,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/pages/index.md"
-        label: "Home Page"
-        name: "home"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
-          - {label: "Path", name: "path", widget: "hidden", default: "/"}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Intro Image, name: introimage, widget: image},{label: Heading, name: heading, widget: string},{label: Heading 2, name: heading2, widget: string}, {label: Sub Heading, name: subheading, widget: text}, {label: Link, name: link, widget: text}]}
-          - {label: Contact, name: contact, widget: object, fields: [{label: Contact Left, name: contactleft, widget: markdown}]}
+      - {label: "Summary", name: "summmary", widget: "markdown"}
+      - {label: "Category", name: "category", widget: "list"}
   - name: "pages2"
     label: "Pages2"
     folder: "src/pages"
