@@ -72,6 +72,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `assets`,
+        path: `${__dirname}/static/assets`
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: "GTM-K566PM2",
