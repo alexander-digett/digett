@@ -167,15 +167,14 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-styled-components`,
-
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        fonts: [
-          `roboto\:300,400,400i,700`,
-        ]
-      },
-    },
+        google: {
+          families: ['Roboto']
+        }
+      }
+    }
     `gatsby-v2-plugin-page-transitions`,
     `gatsby-plugin-lodash`,
     `gatsby-plugin-glamor`,
