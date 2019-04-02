@@ -165,9 +165,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `poppins\:300,400,400i,700`,
-          `sans serif\:300,400,400i,700`,
-          `lora\:300,400,400i,700`,
+          `roboto\:300,400,400i,700`,
         ]
       },
     },
@@ -177,6 +175,7 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`, // make sure to keep it last in the array
+    `gatsby-plugin-netlify-headers`,
     
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
