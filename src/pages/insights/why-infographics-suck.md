@@ -2,7 +2,8 @@
 title: 'Why Infographics Suck'
 templateKey: blog-post
 date: 2014-03-17T15:02:38.000Z
-category: Analytics, SEM and SEO, Strategy, Tools of the Trade
+category: 
+  -Analytics, SEM and SEO, Strategy, Tools of the Trade
 alias: why-infographics-suck
 summary: > 
  "Visualize your data!" is a phrase I see smeared around everything that has to do with infographics. It’s time to wake up, folks. Making the font bigger, changing the color, and sprinkling in great looking graphics along with numbers and trend lines isn’t visualizing data.

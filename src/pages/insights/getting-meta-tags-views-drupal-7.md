@@ -2,7 +2,8 @@
 title: 'Getting Meta Tags on Views in Drupal 7'
 templateKey: blog-post
 date: 2012-05-09T14:16:27.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: getting-meta-tags-views-drupal-7
 summary: > 
  Meta elements are an important part of any SEO and even Social Media strategy for a website. Drupal has a number of excellent modules for adding meta tags to nodes, but Views integration is lacking. To add meta tags to a view in Drupal 7 there are two meta tag modules and many hurdles to implementation.

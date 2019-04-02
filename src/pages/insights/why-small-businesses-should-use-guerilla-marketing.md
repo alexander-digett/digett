@@ -2,7 +2,8 @@
 title: 'Why Small Businesses Should Use Guerilla Marketing'
 templateKey: blog-post
 date: 2013-09-24T14:18:33.000Z
-category: Branding, Market Targeting, Strategy
+category: 
+  -Branding, Market Targeting, Strategy
 alias: why-small-businesses-should-use-guerilla-marketing
 summary: > 
  In my Senior Design class, we just finished a project on Guerilla Marketing. This is a type of advertisement that many companies are starting to use because the ideas can be so simple with little cost but very effective in gaining more consumers.

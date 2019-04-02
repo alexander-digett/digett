@@ -2,7 +2,8 @@
 title: 'Icons In Web Design: San Antonio'
 templateKey: blog-post
 date: 2011-03-24T15:57:25.000Z
-category: Design, San Antonio
+category: 
+  -Design, San Antonio
 alias: icons-web-design-san-antonio
 summary: > 
   	I'm a web designer by trade, and as part of my job I think it's important to keep up with what's trending in our industry. One of the hottest fads in web design today is creating and using icons.

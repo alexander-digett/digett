@@ -2,7 +2,8 @@
 title: 'The Shady World of Online Reviews: Do you Believe Everything you Read?'
 templateKey: blog-post
 date: 2014-01-29T15:36:25.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: shady-world-online-reviews-do-you-believe-everything-you-read
 summary: > 
  Consumer reviews have become an intricate part in the decision-making process for products and services. However, as the use of consumer reviews increases, the credibility of them comes into question. Don’t you ever wonder about those perfect 5-star ratings? Or the customer who seemed to just love her new blender? Some businesses have begun to write or pay for fake reviews, leaving consumers uncertain of who to trust.

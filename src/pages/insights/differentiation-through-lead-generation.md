@@ -2,7 +2,8 @@
 title: 'Differentiation Through Lead Generation'
 templateKey: blog-post
 date: 2010-03-31T15:21:52.000Z
-category: Digett
+category: 
+  -Digett
 alias: differentiation-through-lead-generation
 summary: > 
  Something a peer of mine said recently got me to thinking about Digett and about what our firm does for our clients—something I've had occasion to think about in the past, thanks to misconceptions about Digett's purpose. Because ongoing relevance in the marketplace requires changes in strategy and tactics, we have navigated our share of such adjustments. Now that Digett is getting ready to enter our tenth year of business, our objectives for creating value for our clients have become more clear than ever. 

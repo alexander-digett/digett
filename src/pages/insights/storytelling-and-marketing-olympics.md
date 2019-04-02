@@ -2,7 +2,8 @@
 title: 'Storytelling and Marketing the Olympics'
 templateKey: blog-post
 date: 2012-08-07T20:21:15.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: storytelling-and-marketing-olympics
 summary: > 
  If there’s one thing we as humans can’t deny, it’s the power of storytelling. It excites us, unites us, and gives us something to share with others. Whether what we share is positive or negative depends on what stories we hear, see, or read.

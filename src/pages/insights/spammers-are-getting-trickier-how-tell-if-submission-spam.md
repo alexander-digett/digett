@@ -2,7 +2,8 @@
 title: 'Spammers are getting trickier! How to tell if a submission is spam'
 templateKey: blog-post
 date: 2013-10-15T13:41:46.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: spammers-are-getting-trickier-how-tell-if-submission-spam
 summary: > 
  It used to be easy to tell if a blog comment or website submission was spam. Unfortunately, spammers keep getting trickier. Today the line between obvious spam and seemingly legitimate posts is a lot thinner. To keep your site spam-free, you need to know what to look for.

@@ -2,7 +2,8 @@
 title: 'Blogging is Your Marketing Foundation'
 templateKey: blog-post
 date: 2013-01-31T17:13:38.000Z
-category: Blogging, Branding, Strategy
+category: 
+  -Blogging, Branding, Strategy
 alias: blogging-your-marketing-foundation
 summary: > 
  The past couple of years have been dominated by businesses emphasizing their social media presence; but in a recent New York Times article, author Melinda Emerson reminds us that it's blogging that builds your business.

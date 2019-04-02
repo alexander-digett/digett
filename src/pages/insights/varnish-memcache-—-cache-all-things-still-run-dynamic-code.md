@@ -2,7 +2,8 @@
 title: 'Varnish, Memcache — Cache All the Things BUT Still Run Dynamic Code'
 templateKey: blog-post
 date: 2014-06-03T13:23:14.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: varnish-memcache-—-cache-all-things-still-run-dynamic-code
 summary: > 
  There are quite a few caching options out there, and we frequently combine several services to cache every little piece of a site. Think about it: standard Drupal cache, Varnish, Memcache, Redis, various files coming from CDNs, and more.

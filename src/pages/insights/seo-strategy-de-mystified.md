@@ -2,7 +2,8 @@
 title: 'SEO Strategy, De-Mystified'
 templateKey: blog-post
 date: 2011-04-14T21:21:26.000Z
-category: SEM and SEO, Strategy
+category: 
+  -SEM and SEO, Strategy
 alias: seo-strategy-de-mystified
 summary: > 
  Recently an acquaintance of mine told me in a (mostly) joking manner that "SEO is voodoo" — implying that search engine optimization is an unknown, and possibly hoakey, entity. And while some of the finer aspects of SEO may occasionally puzzle us, optimizing a page, or a blog article, or an entire website is anything but mystical.

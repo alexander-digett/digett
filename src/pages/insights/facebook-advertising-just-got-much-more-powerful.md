@@ -2,7 +2,8 @@
 title: 'Facebook Advertising Just Got Much More Powerful'
 templateKey: blog-post
 date: 2014-04-02T20:43:53.000Z
-category: Analytics, Market Targeting, Marketing, SEM and SEO, Social Media, Strategy, Tools of the Trade
+category: 
+  -Analytics, Market Targeting, Marketing, SEM and SEO, Social Media, Strategy, Tools of the Trade
 alias: facebook-advertising-just-got-much-more-powerful
 summary: > 
  Up until now, targeting your ads on Facebook to those who have visited your site had to be done through a third-party company, like AdRoll. Yes, remarketing — that’s what I’m talking about. As excited as I am that it’s finally available to advertisers, I can’t believe it’s taken this long. But it’s powerful and everything I could’ve hoped for.

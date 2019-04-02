@@ -2,7 +2,8 @@
 title: '9 Content Marketing Myths and Realities'
 templateKey: blog-post
 date: 2011-03-28T14:51:46.000Z
-category: Inbound Marketing
+category: 
+  -Inbound Marketing
 alias: 9-content-marketing-myths-and-realities
 summary: > 
  Although the basic tenets of content marketing are simple, the actual practice is complex — and despite its popularity and extensive coverage in industry blogs, there are still some pretty big misconceptions. Let’s take a look at just a few.

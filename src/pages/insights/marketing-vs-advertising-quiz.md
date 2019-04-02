@@ -2,7 +2,8 @@
 title: 'Marketing vs. Advertising: A Quiz'
 templateKey: blog-post
 date: 2011-04-04T14:54:33.000Z
-category: Marketing, Our Industry
+category: 
+  -Marketing, Our Industry
 alias: marketing-vs-advertising-quiz
 summary: > 
   	At first glance, the differences between marketing and advertising seem pretty insignificant: after all, they’re both about branding your company, getting your name out there, and (ultimately) landing the sale. But it’s there that the similarities end—beyond the basics, marketing and advertising take very different paths.

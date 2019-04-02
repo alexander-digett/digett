@@ -2,7 +2,8 @@
 title: 'Bad Marketing in Action: Mubarak and Egypt'
 templateKey: blog-post
 date: 2011-02-14T22:20:16.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: bad-marketing-action-mubarak-and-egypt
 summary: > 
   	As anti-government protests in Egypt stretched into the third week, President Hosni Mubarak took to Egyptian national television for the second time. Although the hundreds of thousands of Egyptians crowded in Tahrir Square were hopeful that the 82 year-old would announce that he was stepping down, those hopes were dashed when Mubarak stated that he will continue to "protect the constitution and the people and transfer power to whomever is elected next September in free and transparent elections."

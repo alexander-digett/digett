@@ -2,7 +2,8 @@
 title: 'Mobile Payments - Google Wallet Gets A Mixed Reaction'
 templateKey: blog-post
 date: 2011-09-21T13:16:26.000Z
-category: Market Targeting, Marketing, Mobile
+category: 
+  -Market Targeting, Marketing, Mobile
 alias: mobile-payments-google-wallet-gets-mixed-reaction
 summary: > 
  Yesterday, Google announced Google Wallet, a new mobile payment system using Near Field Communication (NFC) technology to allow a consumer to pay by simply swiping their phone over a sensor. This is technology that is poised to possibly replace wallets, but will consumers be chased away by cost and security concerns?  	Consumer Reaction The reactions to Google Wallet by consumers have ranged from elation to suspicion, but mostly gathering around uncertainty.

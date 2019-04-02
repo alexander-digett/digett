@@ -2,7 +2,8 @@
 title: 'Creating Content: Agency vs. Freelance'
 templateKey: blog-post
 date: 2012-04-16T14:18:21.000Z
-category: Blogging, Marketing, Strategy
+category: 
+  -Blogging, Marketing, Strategy
 alias: creating-content-agency-vs-freelance
 summary: > 
  I’ve said before that content is the foundation of a successful marketing strategy. And I’ve harped written extensively about ways to create that content. If you’re unable to do your own writing, I recommend hiring someone to do it for you. There are two ways to go outside your company for content, and we’ll take a look at both now.

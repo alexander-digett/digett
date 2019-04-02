@@ -2,7 +2,8 @@
 title: 'Integrating Digital Marketing into Your Traditional Marketing Plan'
 templateKey: blog-post
 date: 2012-07-30T17:04:51.000Z
-category: Inbound Marketing, Marketing, Strategy
+category: 
+  -Inbound Marketing, Marketing, Strategy
 alias: integrating-digital-marketing-your-traditional-marketing-plan
 summary: > 
  As a marketing professional, you know it is not always easy to explain or convince your CFO of the value of digital marketing. Their comfort level may be low, and it can be difficult to convince them that the return on investment will be in line with the upfront costs. If you find yourself in this position, there are five ways to help integrate your digital marketing efforts with your traditional offline efforts while demonstrating that the ROI is indeed worth the transition from traditional to a balanced approach.

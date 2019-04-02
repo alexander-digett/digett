@@ -2,7 +2,8 @@
 title: 'Why Building a Retail Mobile App is Probably a Waste of Time'
 templateKey: blog-post
 date: 2014-10-14T15:05:36.000Z
-category: Market Targeting, Strategy
+category: 
+  -Market Targeting, Strategy
 alias: why-building-retail-mobile-app-probably-waste-time
 summary: > 
  Mobile apps have taken the world by storm. In Apple’s App store alone there are more than a million, and according to some research we’re spending more of our time online using them than anything else. Despite what some say about the value of apps for businesses, though, I’m still not convinced it’s a good investment for everyone.

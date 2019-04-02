@@ -2,7 +2,8 @@
 title: 'Fresh Crap! What I&#039;ve Learned About Print'
 templateKey: blog-post
 date: 2009-08-26T20:02:07.000Z
-category: Design, Our Industry, Tools of the Trade
+category: 
+  -Design, Our Industry, Tools of the Trade
 alias: fresh-crap-what-i-ve-learned-about-print
 summary: > 
  This week's newsletter is about going "Back to School," so I'll start with a short bit about school. It wasn't long ago that I was in school. It's interesting to me that I've spent two-thirds of my life in school, the majority of my time up to this point. But a person twice my age has spent two-thirds of his life out of school, his time defined by what he's done since. It's a funny thing to think about—school becomes less relevant as you get older, to the point that school has almost no relevance to a person in their 90s. Crazy.

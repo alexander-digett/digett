@@ -2,7 +2,8 @@
 title: 'Standing Out, Moving Up'
 templateKey: blog-post
 date: 2012-07-16T22:47:43.000Z
-category: Inbound Marketing, Marketing
+category: 
+  -Inbound Marketing, Marketing
 alias: standing-out-moving
 summary: > 
  Last year 43% of consumers reported doing online research before making a purchase. At the same time, products and services like DVR, Netflix, and ad-free mobile applications have made it easier to avoid traditional "push" advertising. If you intend to succeed in this new world, it’s time to consider content marketing.

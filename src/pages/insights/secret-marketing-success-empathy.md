@@ -2,7 +2,8 @@
 title: 'Secret to Marketing Success: Empathy'
 templateKey: blog-post
 date: 2012-09-04T22:18:14.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: secret-marketing-success-empathy
 summary: > 
  No matter your business, connecting with your customers is critical. This doesn’t mean selling or upselling to everyone you meet; instead it requires mutual perspective, willingness to listen, and empathy.

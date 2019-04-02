@@ -3,6 +3,7 @@ title: 'Applying Hands-on Design Digitally'
 templateKey: blog-post
 date: 2013-11-21T15:43:40.000Z
 category: 
+  -
 alias: applying-hands-design-digitally
 summary: > 
  Coming to an end of my bachelor’s degree in Graphic Design, many of my classmates and I get ask the same question, "What are you going to do after you graduate?" Many of us respond “print” or “web.” Of course if we want to pay off our student loans a little faster, web design would be the way to go. With media technology rapidly growing there is a demand for going digital.

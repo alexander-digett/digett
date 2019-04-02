@@ -2,7 +2,8 @@
 title: 'Don&#039;t Get Caught With Your Plans Down'
 templateKey: blog-post
 date: 2009-06-01T15:20:18.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: dont-get-caught-your-plans-down
 summary: > 
  Like any other self-respecting marketing firm, we've been dishing out simple tips on how an organization can continue marketing during the economic downturn. Well, a funny thing happened on the way to the forum: Some high-minded economic folks decided the recession may very well end in 2009.

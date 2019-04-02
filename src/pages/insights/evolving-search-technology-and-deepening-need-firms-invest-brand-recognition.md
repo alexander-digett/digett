@@ -2,7 +2,8 @@
 title: 'Evolving Search Technology and the Deepening Need for Firms to Invest in Brand Recognition'
 templateKey: blog-post
 date: 2017-08-10T14:55:38.000Z
-category: Analytics
+category: 
+  -Analytics
 alias: evolving-search-technology-and-deepening-need-firms-invest-brand-recognition
 summary: > 
  I recently attended MozCon in Seattle, an intensive conference for search engine optimization (SEO) professionals and leaders in the industry. Topics ranged from developing problem-solving content, earning SEO-boosting links for your website, addressing Google updates, and more. One of the sticking topics for me was the future of search.

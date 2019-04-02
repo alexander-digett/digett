@@ -2,7 +2,8 @@
 title: 'What I’ve Learned Interning at Digett'
 templateKey: blog-post
 date: 2014-05-20T14:37:22.000Z
-category: Digett
+category: 
+  -Digett
 alias: what-ive-learned-interning-digett
 summary: > 
  As my Spring internship at Digett comes to an end, I have been thinking about my time here and what it has meant to me. These past few months at Digett have been amazing, allowing me to grow as an individual and expand my professional experience. Digett’s work culture has influenced me to get the most out of my internship, pushing me to keep improving every day.

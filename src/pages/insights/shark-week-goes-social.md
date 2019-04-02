@@ -2,7 +2,8 @@
 title: 'Shark Week Goes Social'
 templateKey: blog-post
 date: 2012-08-15T00:15:21.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: shark-week-goes-social
 summary: > 
  As the Discovery Channel's 25th year of Shark Week begins, it’s interesting to see how the longest running program event on cable has kept up with the times, especially when it comes to technology and social media.

@@ -2,7 +2,8 @@
 title: 'Putting Some Heart Back Into the Web'
 templateKey: blog-post
 date: 2009-08-26T20:06:29.000Z
-category: Design, Development
+category: 
+  -Design, Development
 alias: putting-some-heart-back-web
 summary: > 
  Boerne Wild West Day is hands-down my new favorite website. The thing that really set this project apart for all of us was the high amount of creative freedom we were granted and the strong level of enthusiasm that followed. For "creatives," hearing the words "do whatever you want" is like unwrapping that amazing gift you really wanted but didn't think you'd get on Christmas morning. I imagine it's how a hair stylist must feel when a client goes in and tells them they have no idea what kind of hair cut they want, but that they trust them, and to "go to town" on their hair. Sometimes you just need to trust your stylist.

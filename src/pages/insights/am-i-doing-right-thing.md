@@ -2,7 +2,8 @@
 title: 'Am I Doing the Right Thing?'
 templateKey: blog-post
 date: 2012-09-07T15:03:25.000Z
-category: Digett
+category: 
+  -Digett
 alias: am-i-doing-right-thing
 summary: > 
  Last year around this same time I left the security of a well-paying marketing job in the telecommunications industry to pursue my passion. At the time, I didn’t know if I was ready. But, with my right foot off the cliff and a gentle push from the organization, I found my courage.

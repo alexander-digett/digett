@@ -2,7 +2,8 @@
 title: 'Mobile Website Design Best Practices: The Bad'
 templateKey: blog-post
 date: 2011-03-25T14:25:20.000Z
-category: Branding, Design, Development, Digett, Mobile, Strategy
+category: 
+  -Branding, Design, Development, Digett, Mobile, Strategy
 alias: mobile-website-design-best-practices-bad
 summary: > 
  Last week we started our series on mobile website interface design with The Ugly. We’re working our way up to The Good, but we have to address The Bad first. Hopefully this will help to provide a basic roadmap for ensuring your mobile website falls into The Good category.

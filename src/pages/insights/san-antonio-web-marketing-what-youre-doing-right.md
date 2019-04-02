@@ -2,7 +2,8 @@
 title: 'San Antonio web marketing: What you&#039;re doing right'
 templateKey: blog-post
 date: 2011-06-30T14:32:10.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: san-antonio-web-marketing-what-youre-doing-right
 summary: > 
   	There’s a lot of web marketing advice and tips about what you’re doing wrong with your website strategy. We’re guilty of it, too. We’ve written posts about:

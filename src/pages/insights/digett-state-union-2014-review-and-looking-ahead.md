@@ -2,7 +2,8 @@
 title: 'Digett State of the Union: 2014 in Review, and Looking Ahead'
 templateKey: blog-post
 date: 2015-01-20T12:03:57.000Z
-category: Digett
+category: 
+  -Digett
 alias: digett-state-union-2014-review-and-looking-ahead
 summary: > 
  Tonight at 8pm Central, President Obama will deliver his sixth State of the Union Address. I’ve not made such a tradition my own, and think now might be a great time to start letting the world know what’s going on at Digett.

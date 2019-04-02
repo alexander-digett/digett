@@ -2,7 +2,8 @@
 title: 'San Antonio Web Design'
 templateKey: blog-post
 date: 2011-09-29T13:51:15.000Z
-category: Design, Development, Inbound Marketing, San Antonio
+category: 
+  -Design, Development, Inbound Marketing, San Antonio
 alias: san-antonio-web-design
 summary: > 
  A few months ago, I came up with an idea to design and build a Digett landing page that would break down the state of the San Antonio web design community and explain to the average consumer why the Digett way is the only way to go. Today, I'm proud to announce the launch of that page — San Antonio Web Design.

@@ -2,7 +2,8 @@
 title: 'Battle of the Drupal 7 Modules: CKEditor vs WYSIWYG'
 templateKey: blog-post
 date: 2012-02-01T15:03:32.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: battle-drupal-7-modules-ckeditor-vs-wysiwyg
 summary: > 
  CKEditor is the WYSIWYG (What You See Is What You Get) editor of choice around the Digett office. While some may bemoan the use of a WYSIWYG editor at all, even an experienced developer can usually save a lot of time during content entry by using one. Drupal does not come with a built-in editor but there are many excellent options; CKEditor is the cream of the crop.

@@ -2,7 +2,8 @@
 title: 'Objectivity or Obfuscation?'
 templateKey: blog-post
 date: 2009-09-30T19:33:23.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: objectivity-or-obfuscation
 summary: > 
  Never being one to shy away from public controversy, the Washington Post has found itself again the center of attention, this time in online circles. The brouhaha? Their new—or belatedly published, at least—guidelines for social network involvement by staffers. The online community hasn't been very accepting, considering they are intended to cover personal use as well.

@@ -2,7 +2,8 @@
 title: 'Why You Should Make Your Content Look Great on All Devices'
 templateKey: blog-post
 date: 2014-03-12T14:46:01.000Z
-category: Design, Development, UX Design
+category: 
+  -Design, Development, UX Design
 alias: why-you-should-make-your-content-look-great-all-devices
 summary: > 
  Today, responsive web design is a way for developers to create smooth transitions between various viewport sizes using media queries. The media queries tell the browser, if a person is viewing from 320px width device, look like this (a condensed version of the desktop version to fit a mobile phone).

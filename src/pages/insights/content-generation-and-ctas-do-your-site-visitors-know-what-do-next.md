@@ -2,7 +2,8 @@
 title: 'Content generation and CTAs: Do your site visitors know what to do next?'
 templateKey: blog-post
 date: 2011-03-10T22:32:28.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: content-generation-and-ctas-do-your-site-visitors-know-what-do-next
 summary: > 
   	A great content generation effort isn’t great unless readers are left with a clear call to action. When you’re optimizing content, are you giving readers a cue to help them understand what to do next?

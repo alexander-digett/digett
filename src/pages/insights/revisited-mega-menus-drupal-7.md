@@ -2,7 +2,8 @@
 title: ' Revisited: Mega Menus in Drupal 7'
 templateKey: blog-post
 date: 2012-01-25T15:53:41.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: revisited-mega-menus-drupal-7
 summary: > 
  Back in September, I wrote a blog post about making Mega Menus in Drupal. After publishing the post I found numerous issues with the proposed method and ended up using another method on the project that precipitated the article. After recently receiving a few comments on the original post I realized that it was time for a followup.

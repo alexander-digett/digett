@@ -2,7 +2,8 @@
 title: 'WordPress Plugins I Install on Every Project'
 templateKey: blog-post
 date: 2014-01-14T16:07:27.000Z
-category: Development, Tools of the Trade
+category: 
+  -Development, Tools of the Trade
 alias: wordpress-plugins-i-install-every-project
 summary: > 
  We are a Drupal shop. I am a Drupal enthusiast. Drupal is my preferred solution. I love Drupal. Ok, I’ve gotten that out so everyone knows where I’m coming from … now I can tell you my little secret — I love WordPress too.

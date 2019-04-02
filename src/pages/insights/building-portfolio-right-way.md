@@ -2,7 +2,8 @@
 title: 'Building A Portfolio The &quot;Right&quot; Way'
 templateKey: blog-post
 date: 2014-02-12T17:24:46.000Z
-category: Branding, Our Industry
+category: 
+  -Branding, Our Industry
 alias: building-portfolio-right-way
 summary: > 
  In my last blog, I mentioned the steps in creating a personal identity. Branding yourself is an important step in building a portfolio. Your portfolio will be branded with your personal identity and help leave a memorable impression on the employer who you may be showing your portfolio to. Here are some subtle points that are often mentioned when building a portfolio but are not right or wrong.

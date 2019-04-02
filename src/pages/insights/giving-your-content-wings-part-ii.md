@@ -2,7 +2,8 @@
 title: 'Giving Your Content Wings - Part II'
 templateKey: blog-post
 date: 2011-07-05T14:14:18.000Z
-category: Design, Marketing, Mobile, Strategy
+category: 
+  -Design, Marketing, Mobile, Strategy
 alias: giving-your-content-wings-part-ii
 summary: > 
   	In part one of Giving Your Content Wings we asked the question, "Is my content findable?" In today’s installment we’ll be discussing accessibility — a broad category that covers everything from your site’s design to your contents’ reading level.

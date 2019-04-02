@@ -2,7 +2,8 @@
 title: 'Become a Google Adwords Stalker with Remarketing'
 templateKey: blog-post
 date: 2011-07-21T15:09:07.000Z
-category: Market Targeting, Marketing, Strategy
+category: 
+  -Market Targeting, Marketing, Strategy
 alias: become-google-adwords-stalker-remarketing
 summary: > 
  Google has added another layer of complexity innovation to Adwords with a service called Remarketing, which allows you to automatically follow up with those who have previously visited your site.

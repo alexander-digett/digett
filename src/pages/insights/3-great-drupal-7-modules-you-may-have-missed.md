@@ -2,7 +2,8 @@
 title: '3 great Drupal 7 Modules you may have missed'
 templateKey: blog-post
 date: 2012-04-06T13:06:05.000Z
-category: Development, Drupal, UX Design
+category: 
+  -Development, Drupal, UX Design
 alias: 3-great-drupal-7-modules-you-may-have-missed
 summary: > 
  I am such a nerd about Drupal modules … I get really excited when I think I need something that does [blank] and then I find a module that does exactly that. I love even more when I find a module that makes some UX or usability problem go away. We have talked about the Drupal 7 contrib modules Digett considers foundational to every project. Today I'm sharing three of my personal favorites that make UX or usability problems go away.

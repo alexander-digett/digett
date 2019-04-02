@@ -2,7 +2,8 @@
 title: 'The Role of Social Media in the Bastrop, Texas Fires'
 templateKey: blog-post
 date: 2011-09-12T15:20:03.000Z
-category: Philanthropy, Social Media
+category: 
+  -Philanthropy, Social Media
 alias: role-social-media-bastrop-texas-fires
 summary: > 
  If you live in the southeastern part of Texas, you’re no doubt very aware of the fire that started in Bastrop and continues, almost totally uncontrolled, to burn its way across the rain-starved state. It’s a scary time for many, but the power of social media is helping us work together to preserve and recover.

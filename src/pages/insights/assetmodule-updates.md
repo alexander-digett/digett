@@ -2,7 +2,8 @@
 title: 'asset.module updates'
 templateKey: blog-post
 date: 2007-06-08T05:00:00.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: assetmodule-updates
 summary: > 
  So many changes have been made in the last week. The most obvious are the inclusion of a new youtube integration module and much improved views support. The youtube integration actually is a by-product of the most significant improvement, the cleaned-up and enhanced API.

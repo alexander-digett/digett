@@ -2,7 +2,8 @@
 title: 'Zen &amp; the Art of Motorcycle Marketing'
 templateKey: blog-post
 date: 2012-11-14T17:44:39.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: zen-art-motorcycle-marketing
 summary: > 
  In some parts of the county, motorcycles have been put into storage — here in South Texas, we benefit from an extra couple of months of riding before winter sets in. Our attire changes slightly, but the elements of riding never do: open road, well-maintained bike, and the rider.

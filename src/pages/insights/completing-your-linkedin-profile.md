@@ -2,7 +2,8 @@
 title: 'Completing Your Linkedin Profile'
 templateKey: blog-post
 date: 2012-04-02T15:39:38.000Z
-category: Branding, Social Media
+category: 
+  -Branding, Social Media
 alias: completing-your-linkedin-profile
 summary: > 
  How’s your LinkedIn profile looking these days? If you’re like most people, it’s a little sparse. But LinkedIn is becoming the place to make business connections, hire top talent, and brand your company as the best in your field. Here’s how to make sure your personal profile is working for, not against, you.

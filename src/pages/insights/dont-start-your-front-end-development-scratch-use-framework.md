@@ -2,7 +2,8 @@
 title: 'Don&#039;t start your front-end development from scratch, use a framework'
 templateKey: blog-post
 date: 2012-10-24T14:26:26.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: dont-start-your-front-end-development-scratch-use-framework
 summary: > 
  The next time you are ready to slice up a Photoshop design and begin implementing a custom design, don't reach for your favorite Drupal theme—try using a framework like Zurb Foundation. There is already a Drupal project underway, let's lend a hand!

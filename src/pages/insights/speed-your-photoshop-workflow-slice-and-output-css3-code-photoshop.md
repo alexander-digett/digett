@@ -2,7 +2,8 @@
 title: 'Speed up your Photoshop workflow, slice and output CSS3 code from Photoshop'
 templateKey: blog-post
 date: 2012-11-13T13:30:03.000Z
-category: Design, Development, Tools of the Trade
+category: 
+  -Design, Development, Tools of the Trade
 alias: speed-your-photoshop-workflow-slice-and-output-css3-code-photoshop
 summary: > 
  When I discover a new product or service that is amazing, I have to share…especially when something small has a big impact. I recently discovered two new tools that help you speed up the development process by auto-slicing a Photoshop file and generating CSS3 for your layer styles.

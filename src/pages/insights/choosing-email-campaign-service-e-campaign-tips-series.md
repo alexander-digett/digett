@@ -2,7 +2,8 @@
 title: 'Choosing an Email Campaign Service: E-Campaign Tips Series'
 templateKey: blog-post
 date: 2008-05-01T05:00:00.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: choosing-email-campaign-service-e-campaign-tips-series
 summary: > 
  We frequently field questions from clients related to email campaigns. What makes a good subject line? How do you get readers to click-through? There's a lot of factors that go into a successful email campaign so we're breaking our tips up into a series of posts to share some of our expertise.

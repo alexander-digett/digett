@@ -2,7 +2,8 @@
 title: 'Don&#039;t Build Things Differently. Build Different Things.'
 templateKey: blog-post
 date: 2015-10-26T17:08:40.000Z
-category: Inbound Marketing, Market Targeting, Marketing
+category: 
+  -Inbound Marketing, Market Targeting, Marketing
 alias: don-t-build-things-differently-build-different-things
 summary: > 
  You don’t need Millennials to tell you that mobile sites matter. Mobile usage is slowly taking over desktop, and there are no signs of slowing down. Just this year, we saw the scales significantly tip towards mobile, taking 51% of the digital media time pie, compared to a 42% share for desktop. Some best practices from desktop web design carry over to mobile principles, but it would be a mistake to treat them as the same animal. As Will Critchlow, founder and CEO of Distilled, said, "Don’t build things differently; build different things."

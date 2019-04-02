@@ -2,7 +2,8 @@
 title: 'Drupal 7 Almost Ready for San Antonio SEO Prime Time'
 templateKey: blog-post
 date: 2011-02-21T21:33:55.000Z
-category: Analytics, Drupal, Inbound Marketing, SEM and SEO
+category: 
+  -Analytics, Drupal, Inbound Marketing, SEM and SEO
 alias: drupal-7-almost-ready-san-antonio-seo-prime-time
 summary: > 
  The Drupal content management system (CMS) is an SEO powerhouse, a fact undisputed by our San Antonio and other US-based clients. Drupal 7, the latest major release, has even more appeal, from its improved user interface to new powerful features that further enhance Drupal’s regard as a capable web application framework.

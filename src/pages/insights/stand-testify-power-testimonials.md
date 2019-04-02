@@ -2,7 +2,8 @@
 title: 'Stand Up &amp; Testify: The Power of Testimonials'
 templateKey: blog-post
 date: 2012-11-07T16:54:04.000Z
-category: Branding, Clients, Strategy
+category: 
+  -Branding, Clients, Strategy
 alias: stand-testify-power-testimonials
 summary: > 
  When I think of testimonials, I am taken back to childhood memories of church services. Once in awhile someone in the congregation would stand up and "testify": they had experienced something profound and wanted to share it.

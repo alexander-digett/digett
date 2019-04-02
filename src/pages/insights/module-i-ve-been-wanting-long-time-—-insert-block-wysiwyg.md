@@ -2,7 +2,8 @@
 title: 'A module I&#039;ve been wanting for a long time — insert a block in WYSIWYG'
 templateKey: blog-post
 date: 2014-07-01T13:35:43.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: module-i-ve-been-wanting-long-time-—-insert-block-wysiwyg
 summary: > 
  Sometimes what you are looking for is right in front of you. I have been searching for a module to allow me to insert a block into a WYSIWYG field. I tried looking for a Drupal implementation like Wordpress Shortcodes, perhaps the SimpleAd module would do what I'm wanting, maybe there is a Ckeditor plugin written for this? I came up short.

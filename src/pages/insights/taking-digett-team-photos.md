@@ -3,6 +3,7 @@ title: 'Taking the Digett Team Photos'
 templateKey: blog-post
 date: 2009-04-24T18:14:34.000Z
 category: 
+  -
 alias: taking-digett-team-photos
 summary: > 
  For quite some time now I've been a photographer, we'll call it 10 years. Most of that time I've spent learning—learning by doing, a trial-and-error approach. I've never found it to be boring; it's usually a challenge to present the ordinary in a new, interesting way. 

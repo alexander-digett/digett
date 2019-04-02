@@ -2,7 +2,8 @@
 title: 'Drupal Views Module Caveat'
 templateKey: blog-post
 date: 2008-02-20T06:00:00.000Z
-category: Caveat Emptor, Development, Drupal
+category: 
+  -Caveat Emptor, Development, Drupal
 alias: drupal-views-module-caveat
 summary: > 
  Drupal's powerful Views module is something I use almost everyday. The Views module allows you to present content in many different ways by sorting and filtering content to suit your specific need.

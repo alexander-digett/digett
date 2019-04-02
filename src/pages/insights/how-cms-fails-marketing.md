@@ -2,7 +2,8 @@
 title: 'How the CMS Fails Marketing'
 templateKey: blog-post
 date: 2012-12-11T15:09:23.000Z
-category: Drupal, Inbound Marketing, Marketing, Tools of the Trade
+category: 
+  -Drupal, Inbound Marketing, Marketing, Tools of the Trade
 alias: how-cms-fails-marketing
 summary: > 
  The so-called modern web Content Management System (CMS) has outlasted its utility and is failing content marketers. And still, it is one of the most important tools that we at Digett leverage on behalf of our enterprise clients in the deployment of systems to store and display content to an audience in the form of a website.

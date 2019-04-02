@@ -2,7 +2,8 @@
 title: 'Benefits of Video Scripting &amp; Storyboarding'
 templateKey: blog-post
 date: 2013-02-05T16:02:34.000Z
-category: Strategy, Video
+category: 
+  -Strategy, Video
 alias: benefits-video-scripting-storyboarding
 summary: > 
  I’ve spent the last couple months coordinating video series for several of our clients, and it’s been a roller coaster ride to say the least. But we’re rockin’ and rollin’ now, and it’s all thanks to scripts and storyboards.

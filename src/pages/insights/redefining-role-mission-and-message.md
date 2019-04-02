@@ -2,7 +2,8 @@
 title: 'Redefining a Role, Mission, and Message'
 templateKey: blog-post
 date: 2010-02-17T18:01:23.000Z
-category: Digett
+category: 
+  -Digett
 alias: redefining-role-mission-and-message
 summary: > 
  As I write this, my normally sharp vision is blurry and my fingers aren't dancing nimbly around the keyboard. The reason is quite simple: Two weeks ago, my wife and I welcomed a baby boy into our lives. One of the more aggravating side effects of having a newborn in the house, it turns out, is possessing a cure for insomnia—sheer exhaustion—that cannot be used.

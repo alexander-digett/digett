@@ -2,7 +2,8 @@
 title: 'Reduce Your Airspeed to Avoid Crashing'
 templateKey: blog-post
 date: 2009-01-29T17:07:05.000Z
-category: Clients
+category: 
+  -Clients
 alias: reduce-your-airspeed-avoid-crashing
 summary: > 
  John Eakin knows aircraft. For four decades, he's been flying, fixing, and researching a variety of flying machines, so he understands what puts them in the air. Still, it's an unfortunate fact of life that they occasionally come down, and John often found himself charged with researching service and crash histories in order to shed light on a particular problem. Though the data was readily available, however, it was rarely user-friendly.

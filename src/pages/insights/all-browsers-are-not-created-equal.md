@@ -2,7 +2,8 @@
 title: 'All Browsers Are Not Created Equal'
 templateKey: blog-post
 date: 2010-03-11T21:54:21.000Z
-category: Development
+category: 
+  -Development
 alias: all-browsers-are-not-created-equal
 summary: > 
  I used to be among the the group of Internet users who didn't understand the importance of selecting a web browser. At the time, I was entirely dedicated to Microsoft Windows and Internet Explorer ... 6. My transition in 2007 to Mac and Safari came from necessity. I was enrolled in a Digital Art class, and every machine in the lab ran OS X. I wasn't particularly concerned I had to use Safari, but I noticed IE's absence.

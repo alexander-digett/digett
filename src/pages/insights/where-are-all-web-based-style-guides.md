@@ -2,7 +2,8 @@
 title: 'Where are all the Web-Based Style Guides?'
 templateKey: blog-post
 date: 2010-04-07T20:15:37.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: where-are-all-web-based-style-guides
 summary: > 
  The Digett team was discussing a recent project the other day, and the talk turned 'round to the style guide we were creating for the client. Now, if you've ever been in charge of maintaining or using a corporate style guide, you know they tend to inspire a mix of derision and fear. I should know. In a previous job, I was responsible for maintaining the company's style guide—a 67-page, brightly highlighted, barely organized beast of a Word document that boasted poorly implemented in-text links as its most-cutting-edge feature.

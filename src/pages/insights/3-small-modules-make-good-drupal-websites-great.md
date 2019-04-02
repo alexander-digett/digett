@@ -2,7 +2,8 @@
 title: '3 Small Modules That Make Good Drupal Websites Great'
 templateKey: blog-post
 date: 2012-05-02T16:57:53.000Z
-category: Development, Drupal, UX Design
+category: 
+  -Development, Drupal, UX Design
 alias: 3-small-modules-make-good-drupal-websites-great
 summary: > 
  Identifying the difference between a good website and a great website has everything to do with the care put into the details. Elements the site visitor never consciously notices combine in such a way as to affect them on a deeper level to convey stability, credibility and competency.

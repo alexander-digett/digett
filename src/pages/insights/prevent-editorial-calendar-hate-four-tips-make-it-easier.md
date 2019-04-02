@@ -2,7 +2,8 @@
 title: 'Prevent editorial calendar hate: four tips to make it easier'
 templateKey: blog-post
 date: 2011-04-07T15:45:29.000Z
-category: Blogging, Tools of the Trade
+category: 
+  -Blogging, Tools of the Trade
 alias: prevent-editorial-calendar-hate-four-tips-make-it-easier
 summary: > 
  A little over a month ago, Amy wrote a great post with advice on how to create an editorial calendar. She offers guidance about planning, executing and making an editorial calendar work. One question was left unanswered: how do I get my team publishing regularly without making them hate it?

@@ -2,7 +2,8 @@
 title: 'Case for Blogging'
 templateKey: blog-post
 date: 2006-07-31T05:00:00.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: case-blogging
 summary: > 
  Ran across a great New York Times article on why company principles may want to consider taking up blogging. For the credibility.

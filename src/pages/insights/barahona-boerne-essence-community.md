@@ -2,7 +2,8 @@
 title: 'From Barahona to Boerne: The Essence of Community'
 templateKey: blog-post
 date: 2008-11-26T17:24:12.000Z
-category: Tourism
+category: 
+  -Tourism
 alias: barahona-boerne-essence-community
 summary: > 
  This year has been a whirlwind. In 2008, I somehow managed to move across town (again), turn 23, hear Oprah deliver a commencement speech, endure the loss of a beloved dog, leave a big company in pursuit of a dream, travel to the Dominican Republic, become engaged, get robbed at knife point, learn to wake board, and find my new job here, at Digett. In that order.

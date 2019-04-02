@@ -2,7 +2,8 @@
 title: 'The Value of Video (Part I)'
 templateKey: blog-post
 date: 2012-10-17T14:58:42.000Z
-category: Marketing, Strategy, Video
+category: 
+  -Marketing, Strategy, Video
 alias: value-video-part-i
 summary: > 
  When done properly, video can be a powerful tool for your business; done wrong, or even "just okay," it can turn customers off faster than a lightswitch. In the first of this two-part series we’ll show you how to make video work for, not against, you.

@@ -2,7 +2,8 @@
 title: '5 Common SEO Mistakes and How to Fix Them'
 templateKey: blog-post
 date: 2011-11-28T15:31:33.000Z
-category: SEM and SEO, Strategy
+category: 
+  -SEM and SEO, Strategy
 alias: 5-common-seo-mistakes-and-how-fix-them
 summary: > 
  Although SEO is built on a simple foundation, it’s easy to get bogged down in meta descriptions and keywords for individual pages and posts and forget to make sure that your website as a whole is optimized. Here’s five easy-to-make SEO mistakes and how to fix them.

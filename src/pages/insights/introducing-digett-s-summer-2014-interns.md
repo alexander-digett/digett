@@ -3,6 +3,7 @@ title: 'Introducing Digett&#039;s Summer 2014 Interns'
 templateKey: blog-post
 date: 2014-05-28T13:19:52.000Z
 category: 
+  -
 alias: introducing-digett-s-summer-2014-interns
 summary: > 
  Summer 2014 makes it one full year since we started our internship program, and in that time we’ve been privileged to work with talented students. We’ve got a record four great interns with us this summer, and we can’t wait to get them in here and working on projects!

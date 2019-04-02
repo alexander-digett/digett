@@ -2,7 +2,8 @@
 title: 'Twelve Internship Lessons'
 templateKey: blog-post
 date: 2013-12-11T14:42:53.000Z
-category: Design, Development
+category: 
+  -Design, Development
 alias: twelve-internship-lessons
 summary: > 
  There are a lot of things that I learned from my internship. So much in fact, to list them all would cause the list to degenerate into a long, boring set of paragraphs few would want to read. Therefore, I believe the best course of action is to put my newfound knowledge into song. Sung to the tune of The Twelve Days of Christmas, here’s what I learned during my internship.

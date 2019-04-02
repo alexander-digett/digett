@@ -2,7 +2,8 @@
 title: 'Integrating Flash'
 templateKey: blog-post
 date: 2006-04-13T05:00:00.000Z
-category: Development
+category: 
+  -Development
 alias: integrating-flash
 summary: > 
  Every once in a while you might say to yourself, "Why haven't I thought of this before?" I said this to myself last night, driving home late after struggling with the very same type of flash integration issue that I have seen time and time again here in our own development team. A little well-designed flash can make a very nice visual impact on a web site. [Notice I said "a little" flash.

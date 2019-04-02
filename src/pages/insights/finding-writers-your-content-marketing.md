@@ -2,7 +2,8 @@
 title: 'Finding Writers for Your Content Marketing'
 templateKey: blog-post
 date: 2013-05-28T13:59:06.000Z
-category: Inbound Marketing, Marketing, Tools of the Trade
+category: 
+  -Inbound Marketing, Marketing, Tools of the Trade
 alias: finding-writers-your-content-marketing
 summary: > 
  If you decide that outsourcing content creation is your best option for keeping your content marketing rolling, the next step is to find writers. There are many ways to do this, but there are several high-level things to keep in mind while you search for and vet your writer network.

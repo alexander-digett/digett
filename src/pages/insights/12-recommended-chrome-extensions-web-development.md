@@ -2,7 +2,8 @@
 title: '12 Recommended Chrome Extensions for Web Development'
 templateKey: blog-post
 date: 2012-03-30T13:26:28.000Z
-category: Development, Tools of the Trade
+category: 
+  -Development, Tools of the Trade
 alias: 12-recommended-chrome-extensions-web-development
 summary: > 
  I started this blog post to sway Firefox users to give Chrome a try as their primary development browser. I discovered there are almost no differences now. The only reason I switched to Chrome a few years ago was speed compared to Firefox at the time. Today, that is not an issue. In fact, I just did an informal test on my machine and both browsers started in less than 2 seconds. Also, I can't tell a difference in page render times now.

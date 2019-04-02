@@ -2,7 +2,8 @@
 title: 'Writing for the Web—Don&#039;t listen to your English teacher!'
 templateKey: blog-post
 date: 2011-11-04T14:39:13.000Z
-category: Blogging, Our Industry
+category: 
+  -Blogging, Our Industry
 alias: writing-web—dont-listen-your-english-teacher
 summary: > 
  Most of us learned how to write in a system that encouraged us to fill the page. Remember when a teacher said to write two pages, single-space? We filled our papers with adjectives, extra details and asides. Nothing could be further from the goal in writing for the web.

@@ -2,7 +2,8 @@
 title: 'Custom Web Design: Webinar Promo'
 templateKey: blog-post
 date: 2011-07-26T19:59:59.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: custom-web-design-webinar-promo
 summary: > 
  At the top of the Digett home page we have a rotating promo area which allows us to promote important content elsewhere on our website. As creative director at Digett, it's my job to design these promotional graphics; and while doing so, it's important I keep a few things in mind.

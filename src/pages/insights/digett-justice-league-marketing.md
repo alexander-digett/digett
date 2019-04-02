@@ -2,7 +2,8 @@
 title: 'Digett: The Justice League of Marketing'
 templateKey: blog-post
 date: 2013-12-17T14:25:36.000Z
-category: Digett
+category: 
+  -Digett
 alias: digett-justice-league-marketing
 summary: > 
  I’m not being narcissistic — that's an actual compliment from a client. At first it made for a good laugh, but the more I think about it the more I realize our client was right: our team works to save the world from bad marketing and websites. And we do it together.

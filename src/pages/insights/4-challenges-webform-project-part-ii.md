@@ -2,7 +2,8 @@
 title: '4 Challenges with a Webform Project, Part II'
 templateKey: blog-post
 date: 2014-10-28T15:14:09.000Z
-category: Development
+category: 
+  -Development
 alias: 4-challenges-webform-project-part-ii
 summary: > 
  Welcome to the second part of my in-depth look at customizing some default behavior from Webforms. In the first, which you can find here, we hid the form and created a toggle button with which to open it.

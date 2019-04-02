@@ -2,7 +2,8 @@
 title: 'Weaving a Tale on the Web'
 templateKey: blog-post
 date: 2010-06-11T14:06:21.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: weaving-tale-web
 summary: > 
  I like to think that I was a librarian in another life. Although the strict organization of every single item (heaven!) would have been a perk, the best part of such a job would be all the instances in which I could match up a reader with the perfect book—all the times I could see people’s imaginations come to life because of stories that I found for them. Yet if you asked me what my dream job would be (and as a recent college grad, I’ve been getting that question a lot lately), I would tell you "storyteller."

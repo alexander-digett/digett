@@ -3,6 +3,7 @@ title: 'Kill Your News Section and Keep it Personal'
 templateKey: blog-post
 date: 2010-03-24T20:25:43.000Z
 category: 
+  -
 alias: kill-your-news-section-and-keep-it-personal
 summary: > 
  As a bit of an old-fashioned scribbler, it almost pains me to write this post. But recent newsworthy events here at Digett and the ongoing effort to improve our content strategy and publishing have led me to the inescapable conclusion that for most businesses, the News Section is boring and harms organizational goals. It's time to kill it.

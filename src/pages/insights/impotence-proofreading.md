@@ -2,7 +2,8 @@
 title: 'The Impotence of Proofreading'
 templateKey: blog-post
 date: 2014-10-21T16:54:35.000Z
-category: Blogging, Tools of the Trade
+category: 
+  -Blogging, Tools of the Trade
 alias: impotence-proofreading
 summary: > 
  I think I’ve spent more time editing than I have with my husband. Such is the lot of a person who dedicates her career to stamping out crappy content. In the rush to produce the content "they" say we have to, I worry that we’re skimping on making sure that content is correct.

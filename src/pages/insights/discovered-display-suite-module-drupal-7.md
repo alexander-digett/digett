@@ -2,7 +2,8 @@
 title: 'Discovered the Display Suite Module for Drupal 7'
 templateKey: blog-post
 date: 2011-10-12T15:41:54.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: discovered-display-suite-module-drupal-7
 summary: > 
  Yesterday I ran across a module called Display Suite that blew my mind. This module fills a gap in Drupal that I was only vaguely aware existed, but now that I know it is there I can’t see myself building many sites without this module installed.

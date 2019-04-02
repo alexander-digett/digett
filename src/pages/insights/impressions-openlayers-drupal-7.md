@@ -2,7 +2,8 @@
 title: 'Impressions of OpenLayers in Drupal 7'
 templateKey: blog-post
 date: 2011-09-30T13:53:29.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: impressions-openlayers-drupal-7
 summary: > 
  I'm a fan of the OpenLayers module in Drupal 7 (and 6 too, for that matter) and here's why you should be too. You can allow for both latitude/longitude mapping, KML property boundary mapping, geocoding entered addresses (with a helper module) and more. With this module, you can input the geo data and then display all your information on a map.

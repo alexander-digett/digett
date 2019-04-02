@@ -2,7 +2,8 @@
 title: 'Food, Photos, &amp; Going the Extra Marketing Mile'
 templateKey: blog-post
 date: 2013-03-26T14:02:35.000Z
-category: Branding, Marketing
+category: 
+  -Branding, Marketing
 alias: food-photos-going-extra-marketing-mile
 summary: > 
  Social media has forever changed the way we interact with businesses. Fortunately many companies are embracing these changes and giving customers great experiences.

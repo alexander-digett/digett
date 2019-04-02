@@ -2,7 +2,8 @@
 title: 'The Times They Are A-Changin&#039;'
 templateKey: blog-post
 date: 2006-12-18T06:00:00.000Z
-category: Design, Marketing
+category: 
+  -Design, Marketing
 alias: times-they-are-changin
 summary: > 
  In college I studied economics, so my textbooks never mentioned the "Four P's" that the marketing students were reading about. This didn't stop me, though, from plunging head-first into marketing in one of my first jobs after graduation.

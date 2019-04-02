@@ -2,7 +2,8 @@
 title: 'Hubspot gets major funding from Google and Salesforce'
 templateKey: blog-post
 date: 2011-03-08T23:21:14.000Z
-category: HubSpot, Inbound Marketing, Our Industry, Tools of the Trade
+category: 
+  -HubSpot, Inbound Marketing, Our Industry, Tools of the Trade
 alias: hubspot-gets-major-funding-google-and-salesforce
 summary: > 
   	Okay, so if you don't want to listen to Digett tell you how awesome Hubspot is, then maybe hearing Google and Salesforce.com sing their praises will get your attention. Today Hubspot announced a new $32 million round of financing by the two giants of SaaS (software as a service), along with Sequoia Capital.  	The takeaway? From our perspective it's a home run for us personally, because:

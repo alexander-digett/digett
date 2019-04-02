@@ -2,7 +2,8 @@
 title: 'Measure Twice, Cut Once When Rethinking a Business Model'
 templateKey: blog-post
 date: 2008-09-19T19:45:30.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: measure-twice-cut-once-when-rethinking-business-model
 summary: > 
  My grandfather was a contractor and, like many, was fond of the "Measure twice, cut once" mantra. This week, I found myself thinking of that phrase following the arrival of one of my favorite publications. I was dismayed when the gaudy dust jacket informed me that it would be my last issue.

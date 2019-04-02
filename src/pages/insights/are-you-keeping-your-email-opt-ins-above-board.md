@@ -2,7 +2,8 @@
 title: 'Are You Keeping Your Email Opt-Ins Above-Board?'
 templateKey: blog-post
 date: 2014-05-14T17:00:50.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: are-you-keeping-your-email-opt-ins-above-board
 summary: > 
  If you’re like many of our clients, you’ve got a list of people to whom you are sending content (routinely or not). You may have been emailing this list for years, adding email addresses of prospects, customers, and referral sources. It’s great that you’re making use of one of the most effective marketing tactics, but it’s important you’re doing so according to the law.

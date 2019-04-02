@@ -2,7 +2,8 @@
 title: 'We Sent Invitations, but Forgot the Party'
 templateKey: blog-post
 date: 2009-07-29T18:19:35.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: we-sent-invitations-forgot-party
 summary: > 
  It seems I made a bit of a boo-boo in Digett's July newsletter, titled "Join our Launch Party." You see, we try to center our monthly missives around one theme, a practice that helps focus the conversation. Since we completed a number of projects toward the end of June, I thought it appropriate to highlight them and call it a "launch party," a minor mockery of the irrational exuberance of the dot-com boom of the late 90s. Unfortunately, the title caused some confusion—there was no actual party. In my zeal to create a quirky and memorable theme, I committed a basic communications error by not being clear. I've even been told a couple of people were confused about how to R.S.V.P. for the party, which probably means I now owe some folks drinks and a cheese platter.

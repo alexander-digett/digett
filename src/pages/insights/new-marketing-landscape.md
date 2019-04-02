@@ -2,7 +2,8 @@
 title: 'The New Marketing Landscape'
 templateKey: blog-post
 date: 2005-07-09T05:00:00.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: new-marketing-landscape
 summary: > 
  Rules of thumb are not always a legitimate claim, and can really drive folks to make poor decisions. I ran across a couple in this article: The New Marketing Landscape

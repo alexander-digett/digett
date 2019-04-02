@@ -2,7 +2,8 @@
 title: 'Presentation to Commissioners Court Evokes Public Response'
 templateKey: blog-post
 date: 2007-04-12T05:00:00.000Z
-category: Boerne, Drupal
+category: 
+  -Boerne, Drupal
 alias: presentation-commissioners-court-evokes-public-response
 summary: > 
  "I bet there's a lot of margin on that deal," said an acquaintance, somewhat sarcastically, at a business mixer on Wednesday afternoon. He had read the piece in the Boerne Star that reported my proposed fee of $1,000 to supply the County with a new web site, along with a $75/month "maintenance" fee.

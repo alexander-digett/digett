@@ -2,7 +2,8 @@
 title: 'Avoid Olympic Marketing Perils, Embrace Olympic Community'
 templateKey: blog-post
 date: 2008-08-19T05:00:00.000Z
-category: Digett, Marketing, Tools of the Trade
+category: 
+  -Digett, Marketing, Tools of the Trade
 alias: avoid-olympic-marketing-perils-embrace-olympic-community
 summary: > 
  Like many folks, I've been spending some of my spare time over the last week watching the Olympics. Every four years, I say I'm not going to get caught up in it all; shortly after the opening ceremony, however, I find myself awake at 3 a.m., intently following the women's handball finals.

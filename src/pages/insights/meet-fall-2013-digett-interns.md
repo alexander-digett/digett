@@ -2,7 +2,8 @@
 title: 'Meet the Fall 2013 Digett Interns!'
 templateKey: blog-post
 date: 2013-09-03T18:48:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: meet-fall-2013-digett-interns
 summary: > 
  We’ve got four great students in our internship program this fall, and can’t wait to dive into projects with them. They've all got different backgrounds and passions, and having their energy, skills, and creativity in the office is going to be awesome.

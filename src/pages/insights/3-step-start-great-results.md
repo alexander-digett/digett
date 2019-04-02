@@ -2,7 +2,8 @@
 title: 'A 3-Step Start to Great Results'
 templateKey: blog-post
 date: 2013-03-05T16:05:25.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: 3-step-start-great-results
 summary: > 
  As I sit down to write this blog post it's painfully clear that my topic should have something to do with the challenges related to producing quality content. You see, according to our editorial calendar I'm late.

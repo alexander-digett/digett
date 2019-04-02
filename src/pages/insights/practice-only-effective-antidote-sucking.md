@@ -2,7 +2,8 @@
 title: 'Practice: The Only Effective Antidote to Sucking'
 templateKey: blog-post
 date: 2013-05-22T15:18:21.000Z
-category: Digett, Marketing, Our Industry
+category: 
+  -Digett, Marketing, Our Industry
 alias: practice-only-effective-antidote-sucking
 summary: > 
  Q: Why do most agencies suck at digital marketing? A: Because it’s freakin’ hard. I don’t mean the kind of hard that means we have to learn some new skills, while we certainly do. I don’t mean the kind of hard that means you have to suffer some unsightly bruises along the journey, though we certainly must.

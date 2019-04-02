@@ -2,7 +2,8 @@
 title: 'Email Marketing: What am I doing wrong?'
 templateKey: blog-post
 date: 2011-06-09T22:18:54.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: email-marketing-what-am-i-doing-wrong
 summary: > 
  Ever get unwanted text messages touting a prize or a get-out-of-debt deal? You didn’t opt-in to this! Don’t they know it’s unwanted, invasive and annoying?

@@ -2,7 +2,8 @@
 title: 'Microsoft Outlook Syndrome - You don’t have to suffer anymore'
 templateKey: blog-post
 date: 2011-11-16T15:25:46.000Z
-category: Digett, Our Industry
+category: 
+  -Digett, Our Industry
 alias: microsoft-outlook-syndrome-you-dont-have-suffer-anymore
 summary: > 
  Small businesses all over the country suffer from a painful, costly, and debilitating disease called Microsoft Outlook Syndrome. The cause is sometimes hard to pin down, but the symptoms are clear and the cure is simple.

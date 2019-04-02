@@ -2,7 +2,8 @@
 title: 'Google Drops Chrome Frame — What Do We Do Now?'
 templateKey: blog-post
 date: 2013-06-27T16:14:05.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: google-drops-chrome-frame-—-what-do-we-do-now
 summary: > 
  We have depended on Google Chrome Frame to help us direct website visitors on older browsers to modern alternatives. Specifically, we use the Drupal Chrome Frame module to quickly implement this functionality. Google has announced they are retiring Chrome Frame January 2014.  	Now what? I really don't want to do nothing—I don't want visitors on old browsers to just see a broken site. The Drupal community already has an answer (actually, this module has been around for over a year). After some research, we are trying out jReject.

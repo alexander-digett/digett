@@ -2,7 +2,8 @@
 title: 'Web Tip: A Quick RSS Primer'
 templateKey: blog-post
 date: 2008-01-24T06:00:00.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: web-tip-quick-rss-primer
 summary: > 
  We recognize that there are, among the web-surfing population, both experts and novices. And it is in the spirit of helping the novices as well as the experts that we tackle this month's Web Tip.

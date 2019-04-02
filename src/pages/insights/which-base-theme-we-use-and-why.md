@@ -2,7 +2,8 @@
 title: 'Which Base Theme We Use (and Why)'
 templateKey: blog-post
 date: 2014-12-16T14:34:45.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: which-base-theme-we-use-and-why
 summary: > 
  There are so many website themes, frameworks and opinions out there ... how do you decide which is the best foundation for your next project?

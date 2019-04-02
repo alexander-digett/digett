@@ -2,7 +2,8 @@
 title: 'Why I Love Pantheon for Drupal Hosting '
 templateKey: blog-post
 date: 2014-02-25T14:55:29.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: why-i-love-pantheon-drupal-hosting
 summary: > 
  We have been using Pantheon for several months now and I am ready to declare it a strong winner for us. If you haven't experienced it, Pantheon is a hosting platform that is optimized for Drupal.

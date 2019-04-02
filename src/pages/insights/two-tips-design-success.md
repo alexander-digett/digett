@@ -2,7 +2,8 @@
 title: 'Two Tips for Design Success'
 templateKey: blog-post
 date: 2010-03-19T18:48:55.000Z
-category: Design
+category: 
+  -Design
 alias: two-tips-design-success
 summary: > 
  We have a delivery process in place here at Digett that does a great job of keeping our projects on time and on budget. We do a pretty good job of staying on the right track, but every project has its bumps in the road, twists, turns, and unexpected detours.

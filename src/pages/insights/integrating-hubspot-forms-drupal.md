@@ -2,7 +2,8 @@
 title: 'Integrating HubSpot Forms with Drupal'
 templateKey: blog-post
 date: 2011-03-02T16:50:55.000Z
-category: Drupal, HubSpot
+category: 
+  -Drupal, HubSpot
 alias: integrating-hubspot-forms-drupal
 summary: > 
  This article is now obsolete: Digett has released a new Hubspot Module for Drupal that allows for easy integration of Hubspot forms into Drupal. HubSpot and Drupal together make a powerful solution for clients who are looking for lead generation and great content management on their website.

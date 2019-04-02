@@ -2,7 +2,8 @@
 title: 'Digett&#039;s Favorite Drupal 7 Contrib Modules'
 templateKey: blog-post
 date: 2012-01-04T16:10:05.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: digett-s-favorite-drupal-7-contrib-modules
 summary: > 
  We've been using Drupal 7 for all new sites for the past few months now, so we’ve put together a base site that we mirror to begin development on each new site. These are the contrib modules that we use on our base site.  The modules in the Foundational and Everysite lists are always enabled by default.

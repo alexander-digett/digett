@@ -2,7 +2,8 @@
 title: 'Review: Two amazing products to add to your design workflow'
 templateKey: blog-post
 date: 2013-08-14T13:38:08.000Z
-category: Design, Tools of the Trade, UX Design
+category: 
+  -Design, Tools of the Trade, UX Design
 alias: review-two-amazing-products-add-your-design-workflow
 summary: > 
  I want to tell you about two amazing products, Pixelapse and Invision. The two overlap a little bit, so you could choose just one of them — but I use both and I'll tell you why.

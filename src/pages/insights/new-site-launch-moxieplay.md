@@ -2,7 +2,8 @@
 title: 'New site launch: MoxiePlay'
 templateKey: blog-post
 date: 2012-05-07T13:53:57.000Z
-category: Clients, Design
+category: 
+  -Clients, Design
 alias: new-site-launch-moxieplay
 summary: > 
  MoxiePlay is the go-to website for women who love NFL football. Members are active on Facebook, but wanted an online hub where they could more easily talk teams, tailgating recipes, and maybe a little trash.

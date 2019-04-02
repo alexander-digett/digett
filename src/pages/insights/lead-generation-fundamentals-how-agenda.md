@@ -2,7 +2,8 @@
 title: 'Lead Generation Fundamentals on How-To Agenda'
 templateKey: blog-post
 date: 2011-08-22T18:43:12.000Z
-category: Digett, Our Industry, Strategy
+category: 
+  -Digett, Our Industry, Strategy
 alias: lead-generation-fundamentals-how-agenda
 summary: > 
  A week from tomorrow I and a couple other marketing professionals will be talking to San Antonio business owners and marketers at an event hosted by the North San Antonio Chamber as part of their Business How-To Series. I’m excited about this event because opportunities to proselytize for the cause of inbound marketing to a crowd with so much to gain are few and far between. To help convince the skeptics, I’ve come up with five reasons that San Antonio business owners and marketers should consider this a must-attend event.

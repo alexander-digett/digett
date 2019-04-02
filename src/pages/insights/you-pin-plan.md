@@ -2,7 +2,8 @@
 title: 'Before You Pin, Plan'
 templateKey: blog-post
 date: 2012-07-24T15:49:54.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: you-pin-plan
 summary: > 
  While participating in social media requires a certain amount of derring-do, jumping in without a plan is akin to jousting in paper mache armor. Before you send your first tweet or pin that first image on Pinterest, you need to strategize.

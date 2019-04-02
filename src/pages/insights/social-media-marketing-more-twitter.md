@@ -2,7 +2,8 @@
 title: 'Social Media Marketing: More on Twitter'
 templateKey: blog-post
 date: 2008-10-03T14:27:27.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: social-media-marketing-more-twitter
 summary: > 
  Our first look at Twitter was, admittedly, a little bit of a lightweight. That is, we talked about the service and gave a high-level description of what it is, but we didn't really get to talk much about how you should (and should not) use it.

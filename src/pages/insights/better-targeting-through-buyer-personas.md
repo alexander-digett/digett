@@ -2,7 +2,8 @@
 title: 'Better Targeting Through Buyer Personas'
 templateKey: blog-post
 date: 2010-09-07T20:04:44.000Z
-category: Market Targeting
+category: 
+  -Market Targeting
 alias: better-targeting-through-buyer-personas
 summary: > 
  The primary goal of a lead-generation-focused content strategy is to get the right content into the right prospect's hands at the right time. That's no small task, and the success of that effort typically rests on how well you've defined your targets; the deeper you dig into your prospects, the better chance you have of determining their needs, motivations, and hangouts.

@@ -2,7 +2,8 @@
 title: 'SEO and SEM, Decoded'
 templateKey: blog-post
 date: 2009-10-28T21:04:36.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: seo-and-sem-decoded
 summary: > 
  Just what are Search Engine Optimization (SEO) and Search Engine Marketing (SEM)? While they appear confusing—and, in the past, may have been considered a luxury—Search Engine Optimization and Marketing are becoming increasingly necessary for your business and your website to do well on the web. Economic and social conditions are influencing the use of the web for information, research, and shopping. Therefore, your website needs to be relevant to your business and goals—and easily located among the growing sea of competitors.  

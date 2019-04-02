@@ -2,7 +2,8 @@
 title: 'What Not to Do in Project Management'
 templateKey: blog-post
 date: 2013-03-14T15:42:33.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: what-not-do-project-management
 summary: > 
  This week JD shared some wisdom regarding process and how it can help guide your project to success. I wanted to follow up and share some points to help you get started in establishing some processes.

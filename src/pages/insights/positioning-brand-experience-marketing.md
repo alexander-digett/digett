@@ -2,7 +2,8 @@
 title: 'Positioning a Brand in Experience Marketing'
 templateKey: blog-post
 date: 2010-08-30T20:06:21.000Z
-category: Branding
+category: 
+  -Branding
 alias: positioning-brand-experience-marketing
 summary: > 
  When we conduct brand-positioning exercises, our goal is to help our client define their brand so that it may be communicated in a straightforward and believable way. One of the first steps in the process is developing their unique selling proposition (USP), which separates them from other businesses and lays the groundwork for a positioning statement that is designed to be the foundation on which their content strategies are built. But we've had at least one recent example where hours of working through buyer criteria and competitor analyses failed to result in the creation of a simple, complete USP. We ran straight into the biggest challenge of working with service providers: intangibility.

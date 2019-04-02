@@ -2,7 +2,8 @@
 title: 'Mobile Marketing with QR Codes'
 templateKey: blog-post
 date: 2011-05-04T15:20:55.000Z
-category: Marketing, Mobile, Tools of the Trade
+category: 
+  -Marketing, Mobile, Tools of the Trade
 alias: mobile-marketing-qr-codes
 summary: > 
   	Do you wish that you could track the success of your offline marketing engagements to the same degree as those online? Leveraging your mobile marketing using QR codes might be the solution to your problem.

@@ -2,7 +2,8 @@
 title: 'Confessions: Annoying habits of an overly-conscientious marketer'
 templateKey: blog-post
 date: 2011-10-27T17:23:23.000Z
-category: Marketing, Our Industry
+category: 
+  -Marketing, Our Industry
 alias: confessions-annoying-habits-overly-conscientious-marketer
 summary: > 
  With great internet knowledge, comes great internet responsibility. A hyper-awareness of how I use the internet for marketing makes me do some weird things. Psst! These are my secrets. (Marketing-related secrets, at least.) Can I hear some of yours?

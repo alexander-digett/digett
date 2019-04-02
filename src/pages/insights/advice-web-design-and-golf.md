@@ -2,7 +2,8 @@
 title: 'Advice on Web Design and Golf'
 templateKey: blog-post
 date: 2011-06-27T22:18:02.000Z
-category: Design
+category: 
+  -Design
 alias: advice-web-design-and-golf
 summary: > 
   	I'm a web designer by trade but when I'm not at my actual job, I like to work on my golf swing. Web design and golf are two of my passions, I think because they have a lot in common. For all you web designers and/or golfers out there, here's some advice that goes for both.

@@ -2,7 +2,8 @@
 title: 'Everybody Panic! Google Adds Unsubscribe Link to Emails'
 templateKey: blog-post
 date: 2014-04-16T13:57:04.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: everybody-panic-google-adds-unsubscribe-link-emails
 summary: > 
  As of February 2014, you might have noticed small "Unsubscribe" links appearing in the headers of some of the promotional emails you receive. This is an attempt by Google to fight spam, and it’s making some companies nervous. Fortunately there’s nothing to worry about — provided you’re following the rules.

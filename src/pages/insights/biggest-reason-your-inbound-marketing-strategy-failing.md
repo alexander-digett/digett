@@ -2,7 +2,8 @@
 title: 'The Biggest Reason Your Inbound Marketing Strategy is Failing'
 templateKey: blog-post
 date: 2011-10-11T14:30:00.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: biggest-reason-your-inbound-marketing-strategy-failing
 summary: > 
  Inbound marketing is a fantastic way to increase visitors to your website and generate leads for your business. But for better or worse, your strategy’s success hinges on your ability to continually publish valuable content. If you cannot do this, your inbound marketing attempts will fail.

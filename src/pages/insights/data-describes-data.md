@@ -2,7 +2,8 @@
 title: 'Data that Describes Data'
 templateKey: blog-post
 date: 2009-01-28T21:21:20.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: data-describes-data
 summary: > 
  I recently attended a workshop series called UX Intensive, hosted by Adaptive Path. For four days, I and about 100 other web enthusiasts examined four key elements that contribute to a successful website design: Design Strategy, Design Research, Information Architecture, and Interaction Design. I've put together a list of four insights to better web design, one for each day of the week.

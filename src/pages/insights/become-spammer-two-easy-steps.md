@@ -2,7 +2,8 @@
 title: 'Become a Spammer in Two Easy Steps!'
 templateKey: blog-post
 date: 2009-04-29T16:18:33.000Z
-category: Marketing, Our Industry, Tools of the Trade
+category: 
+  -Marketing, Our Industry, Tools of the Trade
 alias: become-spammer-two-easy-steps
 summary: > 
  I'm driving a rental car this week, since last week's drizzle got the roads just slick enough that my car hydroplaned into a street sign. I wasn't injured, but my car needed to visit Doctor Body Shop for the next few days.  The insurance claim and car rental went pretty smoothly; no complaints. Until now. 

@@ -2,7 +2,8 @@
 title: 'Digett&#039;s Custom Web Design, Recognized'
 templateKey: blog-post
 date: 2011-04-19T20:53:55.000Z
-category: Design
+category: 
+  -Design
 alias: digett-s-custom-web-design-recognized
 summary: > 
   	At Digett we pride ourselves on combining effective inbound marketing strategies with beautifully custom web design. Over the past couple of years, a handful of our designs have been recognized by the worldwide design community.

@@ -2,7 +2,8 @@
 title: 'Google Analytics: An Inbound Marketing Must-Have'
 templateKey: blog-post
 date: 2011-06-07T19:34:41.000Z
-category: Analytics, Inbound Marketing
+category: 
+  -Analytics, Inbound Marketing
 alias: google-analytics-inbound-marketing-must-have
 summary: > 
  I always find in interesting to hear people's reaction when I tell them we can track how many people visit pages on our website. I shouldn't say, "we can track," because it's Google that does the tracking. Google knows everything and learning from their analytics is key to a successful inbound marketing strategy.

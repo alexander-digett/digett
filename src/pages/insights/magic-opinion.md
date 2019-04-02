@@ -3,6 +3,7 @@ title: 'The Magic of Opinion'
 templateKey: blog-post
 date: 2017-06-14T22:00:00.000Z
 category: 
+  -
 alias: magic-opinion
 summary: > 
  differentiate (/ˌdifəˈren(t)SHēˌāt/): to make or become different in the process of growth or development

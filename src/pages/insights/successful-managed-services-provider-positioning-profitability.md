@@ -3,6 +3,7 @@ title: 'The Successful Managed Services Provider: Positioning for Profitability'
 templateKey: blog-post
 date: 2018-04-06T13:46:26.000Z
 category: 
+  -
 alias: successful-managed-services-provider-positioning-profitability
 summary: > 
  My seasoned business coach once explained that there are three levers a company can pull to positively impact the bottom line: Increase sales, lower costs, or raise prices. Too bad that pulling levers is not always as easy as it sounds. But did you know there’s one thing that IT services providers can (and should) do that will make pulling all three levers much easier? By developing and adopting a strong market position, managed services providers are more likely to successfully steady or grow revenue, to incur lower cost of sales, and to command higher prices for their services.

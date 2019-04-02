@@ -2,7 +2,8 @@
 title: 'New site launch: Padgett-Stratemann'
 templateKey: blog-post
 date: 2012-03-16T13:18:46.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-padgett-stratemann
 summary: > 
  Padgett-Stratemann (PS&amp;Co) is a CPA and business advisory firm in San Antonio and Austin. Over time, their marketing needs evolved and their existing website no longer fulfilled its role. The past several months, we’ve partnered closely with PS&amp;Co to bring their just-launched new site to life.

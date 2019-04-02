@@ -2,7 +2,8 @@
 title: 'Don&#039;t Overlook the Classics'
 templateKey: blog-post
 date: 2009-01-30T22:34:38.000Z
-category: Clients, Tools of the Trade
+category: 
+  -Clients, Tools of the Trade
 alias: dont-overlook-classics
 summary: > 
  It's an unfortunate, yet undeniable, fact that college tuition costs have been steadily increasing. Especially in today's economic landscape, colleges and universities, much like other businesses, are going to face even more obstacles with recruiting and retaining interest in their offerings due to those rising costs and the tightening of wallets.

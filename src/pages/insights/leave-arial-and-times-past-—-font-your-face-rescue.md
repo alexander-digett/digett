@@ -2,7 +2,8 @@
 title: 'Leave Arial and Times in the past — @font-your-face to the rescue'
 templateKey: blog-post
 date: 2012-01-27T15:02:28.000Z
-category: Design, Drupal, UX Design
+category: 
+  -Design, Drupal, UX Design
 alias: leave-arial-and-times-past-—-font-your-face-rescue
 summary: > 
  If you are a graphic designer or Drupal themer, you don't need to be stuck using Arial on your website; you can easily use a great typeface from one of several providers and implement them using a Drupal module called @font-your-face.

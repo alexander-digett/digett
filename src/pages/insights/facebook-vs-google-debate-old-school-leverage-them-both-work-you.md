@@ -2,7 +2,8 @@
 title: 'The Facebook vs. Google Debate Is Old School: Leverage Them Both to Work for You '
 templateKey: blog-post
 date: 2013-09-17T19:42:30.000Z
-category: Marketing, SEM and SEO, Strategy
+category: 
+  -Marketing, SEM and SEO, Strategy
 alias: facebook-vs-google-debate-old-school-leverage-them-both-work-you
 summary: > 
  During my first month in the "real world" of marketing one of the first questions that came to mind after reading numerous rivalry-esque comparisons between Facebook’s Ads and Google AdWords was, “Why not use both in different ways?”

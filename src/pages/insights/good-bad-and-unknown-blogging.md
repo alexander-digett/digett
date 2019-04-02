@@ -2,7 +2,8 @@
 title: 'The Good, the Bad, and the Unknown of Blogging'
 templateKey: blog-post
 date: 2010-04-12T19:50:01.000Z
-category: Analytics, SEM and SEO
+category: 
+  -Analytics, SEM and SEO
 alias: good-bad-and-unknown-blogging
 summary: > 
  About two months ago, Mark and I huddled together with a goal in mind: implement better publishing procedures here at Digett. What resulted was a challenge for ourselves and the entire Digett team to display our skills, put paper to pen, and provide honest-to-goodness thought leadership; I believe the team has responded admirably.

@@ -2,7 +2,8 @@
 title: '3 Marketing Lessons from the Titan of Tires'
 templateKey: blog-post
 date: 2014-09-03T14:35:37.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 3-marketing-lessons-titan-tires
 summary: > 
  Taking my car to the shop is never fun. I have to fight for an appointment time, wait around for hours, and spend money fixing things I’m never quite certain were actually broken.

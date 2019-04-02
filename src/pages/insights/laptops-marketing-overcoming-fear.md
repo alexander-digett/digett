@@ -2,7 +2,8 @@
 title: 'Laptops, Marketing, &amp; Overcoming Fear'
 templateKey: blog-post
 date: 2013-03-19T14:49:04.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: laptops-marketing-overcoming-fear
 summary: > 
  Marketers and business owners deal often with fear and the unknown. Content marketing is a brave new world for many, and often the hardest part is getting started. He or she who hesitates too long, especially these days, is hampering business growth.

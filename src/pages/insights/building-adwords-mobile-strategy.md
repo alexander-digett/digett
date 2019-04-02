@@ -2,7 +2,8 @@
 title: 'Building an AdWords Mobile Strategy'
 templateKey: blog-post
 date: 2014-01-07T14:30:40.000Z
-category: Analytics, Marketing, SEM and SEO
+category: 
+  -Analytics, Marketing, SEM and SEO
 alias: building-adwords-mobile-strategy
 summary: > 
  In search engine marketing, both desktop and mobile deserve their own strategy. Generally speaking, the desktop volume will always exceed mobile. But this doesn’t mean you should roll your mobile strategy under the desktop’s umbrella. If you want to maximize your ROI and optimize your spend, pay attention to and learn your mobile audience.

@@ -2,7 +2,8 @@
 title: 'Don&#039;t Get Stuck in the Tarpits'
 templateKey: blog-post
 date: 2012-07-06T05:00:00.000Z
-category: Inbound Marketing, Marketing, Tools of the Trade
+category: 
+  -Inbound Marketing, Marketing, Tools of the Trade
 alias: dont-get-stuck-tarpits
 summary: > 
  In this new digital world of marketing and sales there will be survivors and those who succumb. As since the age of the dinosaur, species that are quick to learn and willing to try new things will survive those who are slow and unwilling to adapt.

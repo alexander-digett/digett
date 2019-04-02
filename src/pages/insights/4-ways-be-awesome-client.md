@@ -2,7 +2,8 @@
 title: '4 ways to be an awesome client'
 templateKey: blog-post
 date: 2011-12-02T05:29:38.000Z
-category: Clients
+category: 
+  -Clients
 alias: 4-ways-be-awesome-client
 summary: > 
  No b.s., we work with some pretty awesome people and businesses. Ever wonder what we think makes a great client? I’ll give it to you straight, in no particular order.

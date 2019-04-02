@@ -2,7 +2,8 @@
 title: 'New site launch: Introducing VisitBoerne.org'
 templateKey: blog-post
 date: 2013-01-15T17:53:57.000Z
-category: Clients, Development
+category: 
+  -Clients, Development
 alias: new-site-launch-introducing-visitboerneorg
 summary: > 
  VisitBoerne.org paints a picture of Boerne, Texas that entices visitors to take the journey on I-10 to the hub of the Hill Country. The new website for the Boerne Convention and Visitors Bureau (CVB), VisitBoerne.org brings the vibrance of Boerne to life while remaining an easily navigable information resource for the details any tourist would need to know.

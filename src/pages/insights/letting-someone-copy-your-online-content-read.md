@@ -2,7 +2,8 @@
 title: 'Letting Someone Copy Your Online Content? Read This.'
 templateKey: blog-post
 date: 2014-07-02T14:56:53.000Z
-category: Blogging, Strategy
+category: 
+  -Blogging, Strategy
 alias: letting-someone-copy-your-online-content-read
 summary: > 
  Recently I stumbled across what I thought was a case of plagiarism: one of our client’s blog articles was posted verbatim on someone else’s site. While we quickly discovered that our client knows the other party and gave permission to repost, it was not done properly and brought up some potential duplicate content and SEO concerns.

@@ -2,7 +2,8 @@
 title: 'ExaConsulting.com: A Marriage of Great Content and Design'
 templateKey: blog-post
 date: 2014-09-10T14:55:48.000Z
-category: Clients
+category: 
+  -Clients
 alias: exaconsultingcom-marriage-great-content-and-design
 summary: > 
  Exa Consulting, Inc. develops and deploys oil and gas industry software solutions with Salesforce1. Their new website — ExaConsulting.com — lays out their services clearly and beautifully, making it easy for visitors to pick up the phone.

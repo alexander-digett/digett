@@ -2,7 +2,8 @@
 title: 'We Don&#039;t Do SEO'
 templateKey: blog-post
 date: 2012-09-11T21:22:21.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: we-don-t-do-seo
 summary: > 
  Potential clients often come to us requesting we "do SEO" for them. Search engine optimization is important to doing well online, but the process has changed radically in recent years. Search engines are focusing on content, and so should you.

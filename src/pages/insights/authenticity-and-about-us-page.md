@@ -2,7 +2,8 @@
 title: 'Authenticity and the &quot;About Us&quot; Page'
 templateKey: blog-post
 date: 2008-10-08T16:57:52.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: authenticity-and-about-us-page
 summary: > 
  Authenticity is something we believe in around here—notwithstanding recent activities to the contrary. We're not the only ones talking about this, of course; consumers have long craved personal and meaningful service from the corporate world. The way to foster this, we believe, is to restore conversation to the marketplace—something a static page on a website doesn't necessarily do.

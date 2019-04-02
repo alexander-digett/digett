@@ -2,7 +2,8 @@
 title: 'How To Convert Facebook Visitors to Likes the Easy Way'
 templateKey: blog-post
 date: 2011-07-07T15:38:52.000Z
-category: Social Media, Tools of the Trade
+category: 
+  -Social Media, Tools of the Trade
 alias: how-convert-facebook-visitors-likes-easy-way
 summary: > 
  A lot of businesses and organizations have taken the first step and created a Facebook Page. The next step is usually to invite all of your friends to "Like" the page. This usually results in all of 15 “Likes” total. Next you implement a plan to drive a ton of traffic to your Page and it seems to be working, but only a tiny percentage care enough to click that little “Like” button.

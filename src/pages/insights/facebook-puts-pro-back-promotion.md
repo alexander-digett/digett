@@ -2,7 +2,8 @@
 title: 'Facebook Puts the &quot;Pro&quot;  Back in &quot;Promotion&quot;'
 templateKey: blog-post
 date: 2009-11-23T22:26:16.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: facebook-puts-pro-back-promotion
 summary: > 
  One of the fairy tale selling points of social media marketing has been that it presents a level playing field. That is, small businesses and organizations could compete just as effectively as the big boys.

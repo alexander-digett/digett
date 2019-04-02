@@ -2,7 +2,8 @@
 title: 'Thinking Mobile: How to Write Killer Content for All Devices'
 templateKey: blog-post
 date: 2014-11-11T16:19:47.000Z
-category: Marketing, Mobile, Strategy, Tools of the Trade
+category: 
+  -Marketing, Mobile, Strategy, Tools of the Trade
 alias: thinking-mobile-how-write-killer-content-all-devices
 summary: > 
  At the 2014 Content Strategy Summit, Ginny Redish discussed the do’s and don’t of content writing. Her most important tip: think mobile. But what does this mean for our content? Let’s go over how to create killer content that is easy to read and adaptable across multiple devices.

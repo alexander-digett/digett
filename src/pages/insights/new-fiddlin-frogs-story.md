@@ -2,7 +2,8 @@
 title: 'In With the New : A Fiddlin&#039; Frogs Story'
 templateKey: blog-post
 date: 2008-07-30T05:00:00.000Z
-category: Boerne, Clients, Design
+category: 
+  -Boerne, Clients, Design
 alias: new-fiddlin-frogs-story
 summary: > 
  A few months ago, an eager business owner walked into Digett looking for a new identity. Not as a person, but as a company—Fiddlin' Frogs, to be exact. Fiddlin' Frogs was, at the time, a small boutique in Boerne specializing in trendy, wearable clothing, unique furniture, and some other merchandise you'd have to see to believe.

@@ -2,7 +2,8 @@
 title: '6 Tips for Getting More Blog Readers'
 templateKey: blog-post
 date: 2011-05-31T14:38:46.000Z
-category: Blogging, Social Media
+category: 
+  -Blogging, Social Media
 alias: 6-tips-getting-more-blog-readers
 summary: > 
   	One of the most frustrating aspects of blogging is writing content that no one reads; you might write about discovering the cure for halitosis, but what’s the point, you ask, if no one reads it?

@@ -2,7 +2,8 @@
 title: '4 Elements of a Dynamic Team Environment'
 templateKey: blog-post
 date: 2008-04-28T05:00:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: 4-elements-dynamic-team-environment
 summary: > 
  As with any business that requires a variety of skill sets to support their business model, Digett has its own group of gurus it depends on to produce remarkable results. I’m proud to be a part of what I consider an amazing team. It was a dynamic and powerful group when I came on board, and it grows more capable and fluid every day.

@@ -2,7 +2,8 @@
 title: 'Necessity is the Mother of (Web) Invention'
 templateKey: blog-post
 date: 2009-03-30T19:16:59.000Z
-category: Digett, Tools of the Trade
+category: 
+  -Digett, Tools of the Trade
 alias: necessity-mother-web-invention
 summary: > 
  A few weeks ago, one of Digett's developers and I ran across some buggy behavior on a site that was still in development. We knew it was a problem that we had encountered and solved at least once before, but it certainly wasn't recent enough for either one of us to remember in detail. So we checked STS.

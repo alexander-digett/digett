@@ -2,7 +2,8 @@
 title: 'What are &quot;Vanity Metrics&quot;? Why do you need to avoid them?'
 templateKey: blog-post
 date: 2011-09-02T13:49:44.000Z
-category: Analytics, Marketing
+category: 
+  -Analytics, Marketing
 alias: what-are-vanity-metrics-why-do-you-need-avoid-them
 summary: > 
  I've heard people over the years tell me how many "hits" their website gets. I always have to ask people to dig deeper and tell me how many people engaged with content, how many people took the next step, how many people stayed on the site and interacted?

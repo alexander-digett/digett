@@ -2,7 +2,8 @@
 title: 'The Secret to Happy Customers'
 templateKey: blog-post
 date: 2013-06-25T14:02:11.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: secret-happy-customers
 summary: > 
  I saw an article recently sharing a great summary of some of the presentations from the 2013 Corporate Social Media Summit, where many major brands presented their media and marketing insights. The article lists many helpful stories from a number of brands, but the one that most resonated with me was from Dunkin’ Donuts.

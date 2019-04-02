@@ -3,6 +3,7 @@ title: 'When People Ignore your Brand: A Guide to Killing Marketing Fatigue'
 templateKey: blog-post
 date: 2015-08-27T15:28:39.000Z
 category: 
+  -
 alias: when-people-ignore-your-brand-guide-killing-marketing-fatigue
 summary: > 
  We’ve all been there. Your team creates an amazing marketing piece or package, and users aren’t biting. They’re not opening it, posting, retweeting, or contacting you. The content is great, but the time investment just isn’t paying off. How did this happen? Even the most expert marketers can be subject to customers tuning out their messages. At a certain point, your content can filter out of their minds and become background noise. Let’s locate that point and how to avoid it. It’s easy to fall into the trap of sending too many marketing messages, especially emails. How many times have you signed up for a new email subscription, only to check your inbox hours later to find it flooded with a mountain of emails (read: brain work)? Unsubscribe.

@@ -2,7 +2,8 @@
 title: 'Real Marketing Ideas from a Fake Sport'
 templateKey: blog-post
 date: 2015-04-07T16:17:51.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: real-marketing-ideas-fake-sport
 summary: > 
  A few weeks ago I was snookered into watching WrestleMania, the WWE’s yearly wrestle-palooza. It’s ridiculous and clearly fake, but I couldn’t stop watching because it was packed with amazing stories. If only there was a way to bring this storytelling energy into the marketing world!

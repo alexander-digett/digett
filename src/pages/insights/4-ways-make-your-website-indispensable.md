@@ -2,7 +2,8 @@
 title: '4 Ways to Make Your Website Indispensable'
 templateKey: blog-post
 date: 2011-09-06T13:59:16.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: 4-ways-make-your-website-indispensable
 summary: > 
  I recently stumbled across a Time magazine article that lists the 25 websites we can’t live without. On this list are well-known giants like Amazon, Flickr, and Technorati. The real surprise came when I noticed the article’s date: August 3, 2006.

@@ -2,7 +2,8 @@
 title: 'Weed &#039;N&#039; Feed With Drupal&#039;s Organic Groups'
 templateKey: blog-post
 date: 2009-03-26T15:44:49.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: weed-n-feed-drupals-organic-groups
 summary: > 
  Jazz great Charles Mingus once noted that "Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity." The same thing could be said in business; as products and services get more complicated, moreover, making the complicated simple leapfrogs creativity in favor of genius.

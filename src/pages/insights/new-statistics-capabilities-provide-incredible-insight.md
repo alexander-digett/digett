@@ -2,7 +2,8 @@
 title: 'New Statistics Capabilities Provide Incredible Insight'
 templateKey: blog-post
 date: 2006-07-30T05:00:00.000Z
-category: Analytics
+category: 
+  -Analytics
 alias: new-statistics-capabilities-provide-incredible-insight
 summary: > 
  Google has done it again.  These guys seem to pump out a cool new tool every time we turn around.  Take, for example, their recent release of an online spreadsheet that, for most of us, could conceivably completely replace Microsoft Excel.

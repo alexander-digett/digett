@@ -2,7 +2,8 @@
 title: 'Email Best Practices Aren&#039;t Always Best'
 templateKey: blog-post
 date: 2010-03-10T17:24:02.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: email-best-practices-arent-always-best
 summary: > 
  Suscribers to our awe-inspiring, world-renowned email newsletter may have noticed that I've been making some changes lately. Indeed, I've been tinkering with and testing this tool since assuming control and production, though I'd venture to say most of the changes have been subtle. The most-recent alteration, however, was somewhat significant.

@@ -2,7 +2,8 @@
 title: 'Crowdsource: Drupal 7 Entities Unleashed'
 templateKey: blog-post
 date: 2011-08-24T14:17:14.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: crowdsource-drupal-7-entities-unleashed
 summary: > 
  Recently I’ve been working on a couple of websites in Drupal 7. One of them has some pretty complicated data structure and relationships. I’ve really been racking my brain as to how to build these data structures in Drupal, to the point of even completely starting over twice.

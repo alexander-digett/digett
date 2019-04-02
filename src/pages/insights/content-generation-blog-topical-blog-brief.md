@@ -2,7 +2,8 @@
 title: 'Content Generation: Blog Topical, Blog Brief'
 templateKey: blog-post
 date: 2011-05-03T20:13:59.000Z
-category: Blogging, Strategy
+category: 
+  -Blogging, Strategy
 alias: content-generation-blog-topical-blog-brief
 summary: > 
   	The key to success in any inbound marketing strategy is content generation. One of the goals of content generation is to create subject matter that will get you found by search engines. Here are a couple of ways to make sure your content doesn't fall on deaf ears.  	 

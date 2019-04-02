@@ -2,7 +2,8 @@
 title: 'Interning with Digett: Sarah’s Thoughts'
 templateKey: blog-post
 date: 2013-08-13T13:35:57.000Z
-category: Digett
+category: 
+  -Digett
 alias: interning-digett-sarah’s-thoughts
 summary: > 
  Well, the time has come. My internship at Digett has ended, and the new school year is fast approaching. As I reflect back on my time spent here, I know I have learned and achieved many valuable things during the past two and a half months.

@@ -2,7 +2,8 @@
 title: 'The New YokelNetwork.com Showcases Strategy, Brandbuilding'
 templateKey: blog-post
 date: 2013-08-06T15:11:39.000Z
-category: Clients, Digett
+category: 
+  -Clients, Digett
 alias: new-yokelnetworkcom-showcases-strategy-brandbuilding
 summary: > 
  Yokel is a hyperlocal indoor digital display content network that gives advertisers real-time control over highly-targeted advertising placed on digital displays mounted throughout San Antonio. These screens display local content—news, lifestyle, trivia, and ads—to receptive audiences in captive settings.

@@ -2,7 +2,8 @@
 title: 'Dig Your Own Grave with Paid Reviews'
 templateKey: blog-post
 date: 2012-10-09T13:32:34.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: dig-your-own-grave-paid-reviews
 summary: > 
  It’s an unfortunate truth that although many companies are starting to see the importance of social media, they’re not quite ready to take on the work it requires to do it correctly. Cutting corners is easy if you’ve got the funds, but using the web dishonestly is a recipe for disaster.

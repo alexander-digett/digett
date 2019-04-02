@@ -2,7 +2,8 @@
 title: 'Website Redesign &amp; Development from Digett'
 templateKey: blog-post
 date: 2013-01-22T17:14:24.000Z
-category: Design, Development, Digett, Strategy
+category: 
+  -Design, Development, Digett, Strategy
 alias: website-redesign-development-digett
 summary: > 
  As the need for a strong online presence crystallizes for businesses, there are sudden calls for new websites: "Make it flashy, make it profound, make it digital!" Design matters, but the reality is that your website needs to be valuable to the audience and customers you serve.

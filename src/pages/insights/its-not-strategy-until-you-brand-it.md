@@ -2,7 +2,8 @@
 title: 'It’s Not Strategy Until You Brand It'
 templateKey: blog-post
 date: 2012-10-11T16:28:08.000Z
-category: Branding, Strategy
+category: 
+  -Branding, Strategy
 alias: its-not-strategy-until-you-brand-it
 summary: > 
  Building your brand and preserving your reputation is crucial to you and your business. It takes hard work, but there are no shortcuts to success. Brand strategy is the cornerstone of who you are and what your company stands for. Components of your brand strategy are highly visible, highly recognizable, and can help your company speak to customers without saying a word.

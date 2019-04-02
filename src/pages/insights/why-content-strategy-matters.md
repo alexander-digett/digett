@@ -2,7 +2,8 @@
 title: 'Why Content Strategy Matters'
 templateKey: blog-post
 date: 2012-05-14T14:34:40.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: why-content-strategy-matters
 summary: > 
  If you’ve put so much as a toe into the blogging/social media world, you’ve got an idea of the time and effort it takes to continually produce valuable, targeted content. It’s easy to get stuck on the details: headlines, posting frequency, moderation. But it’s important to take a step back and think about your goals, and what your content should actually be conveying.

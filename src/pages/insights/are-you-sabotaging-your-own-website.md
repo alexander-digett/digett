@@ -2,7 +2,8 @@
 title: 'Are You Sabotaging Your Own Website?'
 templateKey: blog-post
 date: 2014-02-18T14:52:40.000Z
-category: Market Targeting, Strategy
+category: 
+  -Market Targeting, Strategy
 alias: are-you-sabotaging-your-own-website
 summary: > 
  Recently I attended "Don’t be a 5-Second Site," an AMA San Antonio-hosted meetup where presenter Brittany Tradup of Robot Creative spoke on the challenges of web writing. Tradup shared some great tips on writing for the web, and I want to add more context around the entire subject of website copywriting.

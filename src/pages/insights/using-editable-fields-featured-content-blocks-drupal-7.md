@@ -2,7 +2,8 @@
 title: 'Using Editable Fields for Featured Content Blocks in Drupal 7'
 templateKey: blog-post
 date: 2012-03-28T16:42:16.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: using-editable-fields-featured-content-blocks-drupal-7
 summary: > 
  It is a common requirement on a marketing website to have a "Featured Content" block on the homepage that displays some random node from a subset of content that has been flagged as featured. There are a number of modules that try to address this type of functionality, but I’m always a fan of using fewer modules — or at least using modules that can be used in many places.

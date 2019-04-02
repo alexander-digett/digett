@@ -2,7 +2,8 @@
 title: 'The Power of a Double Rainbow, All the Way'
 templateKey: blog-post
 date: 2010-07-09T17:40:55.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: power-double-rainbow-all-way
 summary: > 
  A couple of days ago, I came across this video of a man who was, shall we say, emotional about a double rainbow he finds in his front yard—a complete double rainbow, all the way. The first time I watched, I thought it was pretty funny, but upon watching a second and third time, I found myself wiping away tears of laughter. So naturally I shared the video with my peeps here at Digett, and soon we were all enjoying that same double rainbow. 

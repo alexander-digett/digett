@@ -2,7 +2,8 @@
 title: 'Show off Your Skills with a Screencast'
 templateKey: blog-post
 date: 2009-02-27T17:33:57.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: show-your-skills-screencast
 summary: > 
  In my family, I'm the unpaid, plainclothes version of the Geek Squad. If there's a problem with something electronic (which, these days, is everything), my phone rings with a vengeance.

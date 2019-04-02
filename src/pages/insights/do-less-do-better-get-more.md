@@ -2,7 +2,8 @@
 title: 'Do Less, Do Better, Get More'
 templateKey: blog-post
 date: 2014-05-13T21:51:31.000Z
-category: Digett, Our Industry
+category: 
+  -Digett, Our Industry
 alias: do-less-do-better-get-more
 summary: > 
  If, as Joel Gascoigne writes from Javea, Spain in a recent post, "The key to startup productivity is managing energy, not time," then a similar concept applies in marketing. The idea that “in content marketing it’s not quantity, but quality, that matters” is not a new one, and only mildly tangential to an arguably angry post I published recently on the Digett blog. Since that rant, however, I’ve climbed down from my high horse and am now engaging in a more productive internal dialogue aimed at improving the quality of Digett’s work product.

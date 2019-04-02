@@ -2,7 +2,8 @@
 title: 'Testing checklist for a Drupal website'
 templateKey: blog-post
 date: 2013-07-09T13:19:08.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: testing-checklist-drupal-website
 summary: > 
  When building a Drupal website, you need to ensure you have thoroughly tested the site before you turn it over to your client. If a client discovers a significant issue, it degrades their trust and can cost sales if the problem is enough to block a website visitor's ability to interact with the site.

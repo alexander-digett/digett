@@ -2,7 +2,8 @@
 title: 'Tools of the Collaborative Trade'
 templateKey: blog-post
 date: 2013-02-28T16:19:28.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: tools-collaborative-trade
 summary: > 
  There are tools I use everyday to conduct business and keep myself organized. Often I find I am inundated with new apps to simplify both my business and my personal life. I love to try new things, but in reality, I need tools that are reliable and accessible 24/7.

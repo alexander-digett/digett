@@ -2,7 +2,8 @@
 title: 'The Five Characteristics of Compelling Content'
 templateKey: blog-post
 date: 2011-07-21T20:09:14.000Z
-category: Blogging, Branding, Inbound Marketing, Marketing, Strategy
+category: 
+  -Blogging, Branding, Inbound Marketing, Marketing, Strategy
 alias: five-characteristics-compelling-content
 summary: > 
  Content marketers know that compelling content sells. It sells airplanes, professional services, mops, houses, and bank accounts. Show me great content deployed and promoted skillfully and I'll show you an organization that's mastered the art of lead generation.

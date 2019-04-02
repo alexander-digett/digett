@@ -2,7 +2,8 @@
 title: 'Website Grader: Looking Beyond the Grade'
 templateKey: blog-post
 date: 2011-05-25T16:43:57.000Z
-category: Digett, Social Media, Strategy
+category: 
+  -Digett, Social Media, Strategy
 alias: website-grader-looking-beyond-grade
 summary: > 
   	HubSpot’s Website Grader is a powerful weapon in Digett’s marketing arsenal; we use it to get a quick and detailed look at what a website is doing right, and where there might be room for improvement. It’s also a great benchmarking tool, and we frequently use it when creating reports for our clients — nothing promotes a sense of accomplishment like going from a 65 to an 80!

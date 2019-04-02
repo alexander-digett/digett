@@ -2,7 +2,8 @@
 title: 'The Best Foundation for Good SEO? A Plan.'
 templateKey: blog-post
 date: 2009-11-30T21:34:10.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: best-foundation-good-seo-plan
 summary: > 
  A family friend recently launched a new website for his company and asked me to take a look at the finished product. It's beautiful and professional; it sets the right tone for his customers and makes it easy to contact the company for more information. It's not going to perform well in search engines, though. One quick look at the source code—the "stuff" that Google sees—let me know.

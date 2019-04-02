@@ -3,6 +3,7 @@ title: 'Seize the Day'
 templateKey: blog-post
 date: 2008-01-21T06:00:00.000Z
 category: 
+  -
 alias: seize-day
 summary: > 
  We are all well aware of Carpe Diem. We can translate the Latin phrase without pause, but understanding and applying it in context is much different. Some interpret it as an excuse to let go of all our fears and live each day to its fullest potential. People then jump out of air planes with a board strapped to their feet, or scale 1,000 foot cliff faces without safety harnesses.

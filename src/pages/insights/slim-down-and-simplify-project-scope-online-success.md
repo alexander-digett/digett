@@ -2,7 +2,8 @@
 title: 'Slim Down and Simplify Project Scope for Online Success'
 templateKey: blog-post
 date: 2010-01-03T19:30:57.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: slim-down-and-simplify-project-scope-online-success
 summary: > 
  The New Year's Diet has become a staple resolution for many—not us, of course, but other people—and for good cause. In the course of a busy week, our thoughts of eating well and exercising quickly devolve into a maelstrom of fast food, microwave dinners, and "quality" time in front of our televisions. It's rarely intentional—it just ... happens.

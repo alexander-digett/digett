@@ -3,6 +3,7 @@ title: 'Meet Emma Ruehl'
 templateKey: blog-post
 date: 2015-08-17T19:05:08.000Z
 category: 
+  -
 alias: meet-emma-ruehl
 summary: > 
  At Digett, we pride ourselves on hiring people who embrace our vision and enhance our company’s culture. The newest member of our team is Marketing Coordinator, Emma Ruehl. This transplanted Texan comes to Digett by way of Colorado, and it’s safe to say she fits right in. Emma has already embraced the scorching summer heat and Mexican food as a food group.   We sat down with Emma to find out more about her passions, her experience and what she loves most about Digett. Here’s what she had to say:

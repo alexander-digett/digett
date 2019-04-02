@@ -2,7 +2,8 @@
 title: 'Optimizing Opt-in Forms'
 templateKey: blog-post
 date: 2011-01-26T17:27:11.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: optimizing-opt-forms
 summary: > 
   	Lead generation is the lifeblood of an inbound marketing campaign, and the best way to get leads is to place relevant, targeted content behind forms which are designed to gather information about the people who visit your site.  	While most companies gather basic information such as name, email address, and company name, demographics like age and gender, and contact information such as phone numbers are not collected.  	A balancing act  	Registration and sign-up forms are an integral part of the inbound marketing cycle, but creating them is similar to walking a tightrope: lean too much to one side or the other, and down you go.  	Because marketers want to collect as much information about their leads as possible, the temptation is to make forms longer. But as research shows, the more form fields a form has, the fewer people fill it out:  	

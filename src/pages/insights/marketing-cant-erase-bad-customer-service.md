@@ -2,7 +2,8 @@
 title: 'Marketing Can&#039;t Erase Bad Customer Service'
 templateKey: blog-post
 date: 2010-05-18T21:47:03.000Z
-category: Boerne, Marketing
+category: 
+  -Boerne, Marketing
 alias: marketing-cant-erase-bad-customer-service
 summary: > 
  Customer service is the process of taking care of a customer before, during, and after the sale. While the level of service may differ with the value or cost of the goods or service, the outcome should be the same: a pleasant customer experience that reinforces perceptions gathered through marketing materials, referrals, etc. That's the theory, at least.

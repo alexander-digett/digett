@@ -2,7 +2,8 @@
 title: 'New Site Launched: Innove'
 templateKey: blog-post
 date: 2008-02-28T06:00:00.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launched-innove
 summary: > 
  Confidence. Capability. Innové owes their success to these traits. We knew from our first meeting that part of our success would be judged on how well we incorporated these traits into a new web site. The new Innove.com needed to clearly identify the company's purpose, explain their capabilities and processes, and cater to multiple audiences.

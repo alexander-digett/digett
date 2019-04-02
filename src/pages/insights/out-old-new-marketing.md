@@ -2,7 +2,8 @@
 title: 'Out with the Old, in with the New Marketing'
 templateKey: blog-post
 date: 2012-08-06T15:15:22.000Z
-category: Inbound Marketing
+category: 
+  -Inbound Marketing
 alias: out-old-new-marketing
 summary: > 
  In inbound marketing, brain trumps wallet. Our boss or CFO may be reluctant to embrace non-traditional marketing approaches, but inbound marketing has proven to be more effective and efficient than traditional marketing.

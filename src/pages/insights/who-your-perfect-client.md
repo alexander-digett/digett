@@ -2,7 +2,8 @@
 title: 'Who is Your Perfect Client?'
 templateKey: blog-post
 date: 2012-10-01T18:10:22.000Z
-category: Digett
+category: 
+  -Digett
 alias: who-your-perfect-client
 summary: > 
  As the Marketing Strategist and Business Development guy for Digett, one part of my job is to bring on new clients — a task that requires answering as many questions as I ask. One I’m asked quite often is, "Who is your perfect client?" I love this question because I can immediately tell that the person sitting across from me gets it. They really want to understand my business so they can help.

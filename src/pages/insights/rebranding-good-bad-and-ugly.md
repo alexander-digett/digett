@@ -2,7 +2,8 @@
 title: 'Rebranding: The Good, The Bad and The Ugly'
 templateKey: blog-post
 date: 2013-10-22T14:19:47.000Z
-category: Branding, Design, Inbound Marketing
+category: 
+  -Branding, Design, Inbound Marketing
 alias: rebranding-good-bad-and-ugly
 summary: > 
  Today companies are making sure they keep their brands up-to-date and fresh. Many ask why they want to change their current brand, brand essence, logo, packaging, etc. There are several factors that are considerable when thinking about changing a brand identity.

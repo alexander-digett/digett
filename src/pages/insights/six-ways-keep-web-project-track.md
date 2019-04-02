@@ -2,7 +2,8 @@
 title: 'Six Ways to Keep A Web Project on Track'
 templateKey: blog-post
 date: 2010-01-05T20:33:04.000Z
-category: Our Industry, Tools of the Trade
+category: 
+  -Our Industry, Tools of the Trade
 alias: six-ways-keep-web-project-track
 summary: > 
  Website projects can be overwhelming for the uninitiated, but they don't have to be.  When engaging a development firm, the two parties are agreeing to work together to create a finished web product in a certain amount of time for a certain budget. There's a lot of interdependency to deliver all those things as expected, and it can be easy for things to go wrong.

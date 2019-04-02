@@ -2,7 +2,8 @@
 title: 'Inbound &amp; Outbound: The New Hybrid'
 templateKey: blog-post
 date: 2013-03-28T13:45:30.000Z
-category: Branding, Marketing
+category: 
+  -Branding, Marketing
 alias: inbound-outbound-new-hybrid
 summary: > 
  Inbound marketing can be tricky. It has the allure of being a revenue generation machine, but it has the reputation of being trendy and unproven. The secret is thinking of it as a complement to your traditional marketing — inbound and outbound programs are meant to work hand-in-hand and actually support one another.

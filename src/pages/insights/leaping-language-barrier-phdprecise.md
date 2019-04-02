@@ -2,7 +2,8 @@
 title: 'Leaping the Language Barrier with PHDPrecise'
 templateKey: blog-post
 date: 2008-10-30T20:31:27.000Z
-category: Clients
+category: 
+  -Clients
 alias: leaping-language-barrier-phdprecise
 summary: > 
  TRC Consultants has enjoyed favorable market share for a number of years with its powerful PHDWin suite of software for the petroleum industry. As part of a recent international expansion, TRC translated PHDWin into Russian and renamed the regional product offering PHD Precise. 

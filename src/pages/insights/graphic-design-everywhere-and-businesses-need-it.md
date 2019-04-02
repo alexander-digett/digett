@@ -2,7 +2,8 @@
 title: 'Graphic Design is Everywhere. And Businesses Need It.'
 templateKey: blog-post
 date: 2014-06-18T15:05:06.000Z
-category: Branding, Design, Marketing
+category: 
+  -Branding, Design, Marketing
 alias: graphic-design-everywhere-and-businesses-need-it
 summary: > 
  The other week I was browsing around Tumblr, a habit I often times find myself doing. I randomly stumbled upon a post with a screenshot from a segment of the Today Show featuring the "Top 5 Most Useless College Majors." Slated on that list at number four was "Communication Arts &amp; Graphic Design."

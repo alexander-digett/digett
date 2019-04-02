@@ -2,7 +2,8 @@
 title: 'Email Best Practices Aren&#039;t Always Best, Part 2'
 templateKey: blog-post
 date: 2010-03-16T17:33:19.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: email-best-practices-arent-always-best-part-2
 summary: > 
  Last week, I may have served up a little bait-and-switch with the first installment of this series. Some of you may have come looking for information on when to break email best practices and, instead, got a heaping handful of how we're changing our newsletter. That's all well and good, but how does that help you? This week, I'm making good on the title.

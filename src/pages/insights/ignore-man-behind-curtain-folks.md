@@ -2,7 +2,8 @@
 title: 'Ignore the Man Behind the Curtain, Folks'
 templateKey: blog-post
 date: 2009-04-28T20:43:40.000Z
-category: Digett
+category: 
+  -Digett
 alias: ignore-man-behind-curtain-folks
 summary: > 
  Imagine, for a moment, you're thumbing through the phone book (I said this was imaginary) for a plumber. There are hundreds, of course, but one entry catches your eye. It says "I'm a plumber" and lists an out-of-state phone number but lacks an address and any other details. It's as though this plumber has purposefully made it difficult to identify or contact him.

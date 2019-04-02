@@ -2,7 +2,8 @@
 title: 'Font sizing using rem on Drupal 7 themes'
 templateKey: blog-post
 date: 2012-03-07T18:39:16.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: font-sizing-using-rem-drupal-7-themes
 summary: > 
  When it comes to font sizing on a website, the debate between accessibility and control rages on. The control camp prefers px font-sizes to maintain the look of the site, and the accessibility crowd prefers em to allow font scaling in the browser. Most Drupal 7 base themes are built using ems but since the em unit is based on the parent elements font-size, dealing with the compounding of ems in nested elements can be a real pain for front-end developers. When building a list it’s likely that you’ll have an &lt;li&gt; nested in another &lt;li&gt;. If you’ve declared the &lt;li&gt; font-size of 1.2em then the inner &lt;li&gt; will be 1.2emX1.2em, and so on an so on. The math can get complicated and frustrating.

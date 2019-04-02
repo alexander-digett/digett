@@ -2,7 +2,8 @@
 title: 'The Value of Project Communication'
 templateKey: blog-post
 date: 2008-11-26T13:44:49.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: value-project-communication
 summary: > 
  There's no single thing more important in my day-to-day activities than communication. In fact, I've come to realize the majority of my day is often spent communicating in a variety of ways—with clients, with my team members, or with myself—to ensure the goals of a project are being met. 

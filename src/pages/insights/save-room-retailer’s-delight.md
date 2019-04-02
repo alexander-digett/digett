@@ -2,7 +2,8 @@
 title: 'Save Room for the Retailer’s Delight'
 templateKey: blog-post
 date: 2012-11-21T14:16:57.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: save-room-retailer’s-delight
 summary: > 
  Shopping this holiday season is already happening. Advertising began last month, and with some Black Friday sales actually starting on Thursday, it’s obvious that when it comes to retail, you just can’t start early enough. 

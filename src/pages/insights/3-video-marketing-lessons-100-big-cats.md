@@ -2,7 +2,8 @@
 title: '3 Video Marketing Lessons from 100 Big Cats'
 templateKey: blog-post
 date: 2014-07-29T13:05:44.000Z
-category: Marketing, Strategy, Video
+category: 
+  -Marketing, Strategy, Video
 alias: 3-video-marketing-lessons-100-big-cats
 summary: > 
  In 2006 Florida-based nonprofit Big Cat Rescue created a YouTube channel and uploaded their first video. Since then the staff has uploaded hundreds of videos dedicated to educating viewers about big cats. Here’s three lessons their videos can teach you about your video marketing strategy.

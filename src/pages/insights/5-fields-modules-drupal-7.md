@@ -2,7 +2,8 @@
 title: '5 Fields Modules for Drupal 7'
 templateKey: blog-post
 date: 2011-12-21T17:19:32.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: 5-fields-modules-drupal-7
 summary: > 
  The addition of Fields in Drupal 7 core has created quite a shakeup in the modules that interact with fields and create new kinds of fields. In Drupal 6 they were all CCK field modules, but now many of them have changed names or been replaced completely with new modules that better leverage the Drupal 7 entity concept. Over the last few month, these five modules have become some of my favorites for those sites that need more complexity in the fields that are created and how they relate to one another.  	References The References module contains the ‘node reference’ and ‘user reference’ modules that were separate in Drupal 6. There are two other approaches to this same idea in the Relation and Entity Reference modules, but I find this module just works the way I expect without any headache even though it’s only a beta.

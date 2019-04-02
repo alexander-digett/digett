@@ -3,6 +3,7 @@ title: 'Asset.module committed to Drupal cvs'
 templateKey: blog-post
 date: 2007-05-07T05:00:00.000Z
 category: 
+  -
 alias: assetmodule-committed-drupal-cvs
 summary: > 
  I have finally gotten around to committing my asset module.  In short it is my attempt to create a more cohesive user experience for handling file assets in Drupal.

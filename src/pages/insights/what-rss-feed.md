@@ -2,7 +2,8 @@
 title: 'What is an RSS Feed?'
 templateKey: blog-post
 date: 2011-05-23T14:31:42.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: what-rss-feed
 summary: > 
   	RSS, or Rich Site Summary, is a way of delivering regularly updated content (such as blog articles and news) to a single location that a reader can access. More commonly referred to as Really Simple Syndication, RSS allows a reader to pull all of the Internet content they like into a single location: an RSS feed.

@@ -2,7 +2,8 @@
 title: 'Growing Your Business: #Hashtag Power'
 templateKey: blog-post
 date: 2013-10-08T13:44:56.000Z
-category: Marketing, Social Media
+category: 
+  -Marketing, Social Media
 alias: growing-your-business-hashtag-power
 summary: > 
  Hashtags have grown increasingly popular over the past couple of years and many social media websites now support them. Visit Facebook, Twitter, Pinterest, Instagram or any other social media site and you’ll find people using them. Many people may think that hashtags are used just for fun. What you may not know is that hashtags can be a powerful tool that can help you extend your content’s reach.

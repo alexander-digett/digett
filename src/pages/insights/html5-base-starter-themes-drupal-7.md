@@ -2,7 +2,8 @@
 title: 'HTML5 Base Starter Themes in Drupal 7'
 templateKey: blog-post
 date: 2011-06-29T22:28:35.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: html5-base-starter-themes-drupal-7
 summary: > 
  With the emergence of the semantic web and the proliferation of mobile browsing devices, HTML5 is all the rage in front-end web development. We can better explain to search engines the context surrounding a piece of content by using HTML5. Along with CSS3, HTML5 allows us to make active exciting website designs without the overhead and compatibility issues of Adobe Flash — especially on mobile devices. In the Drupal community numerous HTML5 themes have begun to crop up. If you plan to leverage these advantages in your next website, the question is which HTML5 base theme should you use as a starter theme.

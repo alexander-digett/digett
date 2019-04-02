@@ -2,7 +2,8 @@
 title: 'Avoid the Marketing Monkey House'
 templateKey: blog-post
 date: 2010-05-05T21:49:38.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: avoid-marketing-monkey-house
 summary: > 
  A few weeks ago, Mike Wolfsohn of Ad Age wrote about what lessons agency directors could learn from Project Runway. Yes, the fashion design, reality TV show, Project Runway.  He argued that Tim Gunn, the wisdom-imparting godfather of the show, can be a role model for agency creative directors, as he encourages each designer to find solutions that reflect personal style, but are still appropriate for their target audience.  In our office, we frequently invoke another treasure of Tim Gunn advice from Project Runway: beware the monkey house. 

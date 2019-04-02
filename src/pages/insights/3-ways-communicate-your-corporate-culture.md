@@ -2,7 +2,8 @@
 title: '3 Ways to Communicate Your Corporate Culture '
 templateKey: blog-post
 date: 2011-09-27T14:32:29.000Z
-category: Blogging, Social Media
+category: 
+  -Blogging, Social Media
 alias: 3-ways-communicate-your-corporate-culture
 summary: > 
  In a meeting today with a new client, a conversation arose regarding their strong and positive feelings for their corporate culture, how important they thought it was, and that the challenge now was how to communicate that culture to their audience (which I'll just suppose for the sake of this post is two-fold: prospective clients and prospective job candidates).

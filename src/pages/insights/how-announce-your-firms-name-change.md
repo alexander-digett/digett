@@ -2,7 +2,8 @@
 title: 'How to Announce Your Firm&#039;s Name Change'
 templateKey: blog-post
 date: 2017-07-13T22:21:10.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: how-announce-your-firms-name-change
 summary: > 
  You have a new company name. Congratulations. You may be thinking about how much work was involved: The brainstorming, the research, the emotional ups and downs that are inevitable in such an endeavor—whether you had exclusive control of the process or, more likely, were just one of several with an influence in the name ultimately chosen.

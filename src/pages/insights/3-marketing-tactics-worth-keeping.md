@@ -3,6 +3,7 @@ title: '3 Marketing Tactics Worth Keeping'
 templateKey: blog-post
 date: 2013-04-30T13:47:59.000Z
 category: 
+  -
 alias: 3-marketing-tactics-worth-keeping
 summary: > 
  I was recently talking to a friend who finds what I do complicated. It’s true that content marketing has lots of moving parts, and that trends come and go faster than most people can learn about them, but I shared with him three tactics that will always be worthwhile.

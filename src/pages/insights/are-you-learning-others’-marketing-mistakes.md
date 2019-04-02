@@ -2,7 +2,8 @@
 title: 'Are You Learning from Others’ Marketing Mistakes?'
 templateKey: blog-post
 date: 2014-01-21T15:33:47.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: are-you-learning-others’-marketing-mistakes
 summary: > 
  I spent the second half of 2013 searching for and moving into a new apartment. I’m thrilled with my choice, but not with a lot of the websites with which I interacted during my search. Here’s a few of the worst issues I encountered, and some tips on doing better with your own website (no matter what business you’re in).

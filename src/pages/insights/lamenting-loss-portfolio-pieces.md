@@ -2,7 +2,8 @@
 title: 'Lamenting the Loss of Portfolio Pieces'
 templateKey: blog-post
 date: 2010-05-12T21:30:39.000Z
-category: Boerne, Clients
+category: 
+  -Boerne, Clients
 alias: lamenting-loss-portfolio-pieces
 summary: > 
  In case you haven't noticed—and judging by the attendance, you haven't*—we made a few changes the other day over at our portfolio. We're not talking major renovations; I simply added three items and removed two. However, the experience left me with a touch of melancholy.  The two items I cut from the list—the Boerne CVB and the Cibolo Nature Center—were jobs performed for local clients with whom we've had long-standing relationships. Those relationships aren't in jeopardy, incidentally. For one, we simply wanted to show off some of our recent work; additionally, one of those websites was built on a platform we no longer use or emphasize.

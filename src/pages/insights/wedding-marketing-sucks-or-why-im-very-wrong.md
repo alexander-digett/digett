@@ -2,7 +2,8 @@
 title: 'Wedding Marketing Sucks! Or, Why I&#039;m Very Wrong '
 templateKey: blog-post
 date: 2014-01-15T14:21:18.000Z
-category: Market Targeting, Marketing
+category: 
+  -Market Targeting, Marketing
 alias: wedding-marketing-sucks-or-why-im-very-wrong
 summary: > 
  The wedding industry banks billions every year and the marketing machine behind it is impressive and the envy of any good marketer. But I’m in the group of nine million American couples planning to get married in the next 12 months. And I hate wedding marketing.

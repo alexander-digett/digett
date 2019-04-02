@@ -2,7 +2,8 @@
 title: 'Yes, Virginia, There Is Online ROI'
 templateKey: blog-post
 date: 2009-02-28T17:52:36.000Z
-category: Clients, Tools of the Trade
+category: 
+  -Clients, Tools of the Trade
 alias: yes-virginia-there-online-roi
 summary: > 
  Every once in a while, we get pointed questions from prospective clients about the return on investment of major online marketing efforts. That's not a bad thing; indeed, we would encourage anyone looking to invest in any marketing effort to take efforts to objectively analyze and quantify ROI. Notice, however, that I said "objectively." Ah, there's the rub.

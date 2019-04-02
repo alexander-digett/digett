@@ -2,7 +2,8 @@
 title: 'Parsing XML in Flash'
 templateKey: blog-post
 date: 2005-06-07T05:00:00.000Z
-category: Development
+category: 
+  -Development
 alias: parsing-xml-flash
 summary: > 
  Parsing XML in Flash is no walk apart, as I've come to find out. When I first got here and saw Trevor's XML parsing actionscript, I knew there had to be a better way. Working with the DOM is tedious and complex. You're really just looping through collections of nodes, and dealing with objects that have no relation to the data you're trying to access.

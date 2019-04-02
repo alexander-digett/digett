@@ -2,7 +2,8 @@
 title: 'Making Websites Is Just Like Making Coffee'
 templateKey: blog-post
 date: 2008-11-19T15:42:00.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: making-websites-just-making-coffee
 summary: > 
  Here at Digett, I'm the guy who gleefully drains the coffee pot every morning. While the debate rages on regarding the wisdom of coffee consumption, I pour my third cup and say a silent thank-you to the Ethiopian goatherder legend tells us first discovered the power of Coffea arabica. When questioned about this practice, I always have a good response.

@@ -2,7 +2,8 @@
 title: 'Making Blister Packages Reusable'
 templateKey: blog-post
 date: 2014-04-09T15:27:05.000Z
-category: Design, Our Industry
+category: 
+  -Design, Our Industry
 alias: making-blister-packages-reusable
 summary: > 
  When creating packages we aim to sell the product, but did we think about how the package gets used after the product is opened? For manufacturers and designers this is something we consider when building a plastic package such as blister or clamshell. We have the opportunity to make sure the plastic we are using is recyclable and if possible reusable.

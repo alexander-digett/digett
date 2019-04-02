@@ -2,7 +2,8 @@
 title: 'Website Redesign: new liquidframeworks.com'
 templateKey: blog-post
 date: 2013-06-03T13:37:53.000Z
-category: Clients
+category: 
+  -Clients
 alias: website-redesign-new-liquidframeworkscom
 summary: > 
  Our client Liquid Frameworks came to Digett looking to refresh the look and feel of their website. We redesigned their site to better reflect who they are and to make the right information easily accessible to the right visitor personas.

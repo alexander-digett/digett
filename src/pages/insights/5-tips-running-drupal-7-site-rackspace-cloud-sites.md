@@ -2,7 +2,8 @@
 title: '5 Tips for Running a Drupal 7 site on Rackspace Cloud Sites'
 templateKey: blog-post
 date: 2011-12-07T15:14:58.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: 5-tips-running-drupal-7-site-rackspace-cloud-sites
 summary: > 
  Without going into the positives and negatives of Rackspace’s Cloud Sites platform, there are a few tips that we’ve learned that will help you Run, Deploy and Maintain a Drupal 7 site on this platform.

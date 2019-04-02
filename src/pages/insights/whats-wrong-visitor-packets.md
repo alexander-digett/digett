@@ -2,7 +2,8 @@
 title: 'What&#039;s Wrong With Visitor Packets'
 templateKey: blog-post
 date: 2006-08-12T05:00:00.000Z
-category: Tourism
+category: 
+  -Tourism
 alias: whats-wrong-visitor-packets
 summary: > 
  Yesterday I received yet another visitor packet from some local Texas Hill Country Chamber of Commerce from whom I made a request some six weeks ago. Hmmm ... six weeks. Need I elaborate further? 

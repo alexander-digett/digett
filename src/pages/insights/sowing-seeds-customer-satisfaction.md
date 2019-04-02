@@ -2,7 +2,8 @@
 title: 'Sowing the Seeds of Customer Satisfaction'
 templateKey: blog-post
 date: 2013-01-08T15:44:40.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: sowing-seeds-customer-satisfaction
 summary: > 
  My aunt is a gardener, so when I drew her name out of the "Secret Santa" hat for Christmas 2012 I thought getting her some seeds would be perfect. The search quickly became an Epic Christmas Quest, and reminded me that many businesses still don’t know how to use the web to do more and better business.

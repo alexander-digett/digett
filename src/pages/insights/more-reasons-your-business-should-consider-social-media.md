@@ -2,7 +2,8 @@
 title: 'More reasons your business should consider social media'
 templateKey: blog-post
 date: 2011-09-22T14:36:45.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: more-reasons-your-business-should-consider-social-media
 summary: > 
  How many people really use Facebook? What kind of social media are businesses using? The Search Engine Journal has created a great infographic that lays out tons of information in a fun-to-read format.

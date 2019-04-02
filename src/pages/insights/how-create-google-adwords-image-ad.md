@@ -2,7 +2,8 @@
 title: 'How to Create a Google AdWords Image Ad'
 templateKey: blog-post
 date: 2012-02-21T15:24:34.000Z
-category: Market Targeting, SEM and SEO
+category: 
+  -Market Targeting, SEM and SEO
 alias: how-create-google-adwords-image-ad
 summary: > 
  Pay-per-click (PPC) advertising is a great way to quickly drive more relevant traffic to your website. Text ads are most common, but image ads can help you tap into and attract more of your target audience. Here’s how to create image ads and make sure they perform their best.

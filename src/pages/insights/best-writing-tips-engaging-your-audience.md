@@ -2,7 +2,8 @@
 title: 'The Best Writing Tips for Engaging Your Audience'
 templateKey: blog-post
 date: 2014-12-23T15:23:37.000Z
-category: Blogging, Marketing
+category: 
+  -Blogging, Marketing
 alias: best-writing-tips-engaging-your-audience
 summary: > 
  I love writing, but it’s a tough gig. Relying on blogging "inspiration" is a terrible strategy, so you have to get used to knuckling down and just getting it done — and getting it done right.

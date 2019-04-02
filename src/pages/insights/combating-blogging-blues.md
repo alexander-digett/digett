@@ -2,7 +2,8 @@
 title: 'Combating the Blogging Blues'
 templateKey: blog-post
 date: 2010-11-10T17:38:41.000Z
-category: Blogging, Our Industry, Strategy
+category: 
+  -Blogging, Our Industry, Strategy
 alias: combating-blogging-blues
 summary: > 
  The Digett blog has been experiencing some turbulence recently. We got a good head of steam going after revamping our publishing procedures, but have since fallen into a bit of slump.

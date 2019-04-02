@@ -2,7 +2,8 @@
 title: 'Custom Web Design Trends: Parallax Scrolling'
 templateKey: blog-post
 date: 2011-04-26T20:36:08.000Z
-category: Design, Development
+category: 
+  -Design, Development
 alias: custom-web-design-trends-parallax-scrolling
 summary: > 
  One of the hottest new trends in web design is a technique called parallax scrolling, which is the latest addition to a growing list of effects used to create a sense of depth on a web page. Throw out your misconceptions that Flash and video are the only ways to achieve the third-dimension. Parallax techniques use well defined imagery, JQuery and CSS3 to create a truly unique browsing experience.

@@ -2,7 +2,8 @@
 title: 'Our Client&#039;s Domains are not Our Domains'
 templateKey: blog-post
 date: 2007-06-12T05:00:00.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: our-clients-domains-are-not-our-domains
 summary: > 
  If I had a dollar for every time we were handcuffed from helping a client or potential client because we had no access to their domain, I'd be well on my way to a venti double cappuccino at Starbuck's.

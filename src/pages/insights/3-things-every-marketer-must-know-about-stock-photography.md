@@ -2,7 +2,8 @@
 title: '3 things every marketer must know about stock photography'
 templateKey: blog-post
 date: 2013-06-20T13:19:30.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 3-things-every-marketer-must-know-about-stock-photography
 summary: > 
  Stock photography can be an incredibly useful and cost-effective resource in any marketer’s toolbox, but you must know these three things before you start relying on it.

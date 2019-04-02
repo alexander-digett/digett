@@ -2,7 +2,8 @@
 title: 'The Art of Marketing Art'
 templateKey: blog-post
 date: 2008-10-30T19:34:29.000Z
-category: Design, Digett, Tools of the Trade
+category: 
+  -Design, Digett, Tools of the Trade
 alias: art-marketing-art
 summary: > 
  Tuesday we were surprised to see that our package had arrived early. Everyone gathered around to see it as I began cutting into the large cardboard box. The result was better than any of us could have imagined. Let me start from the beginning, let me back up the truck. We had our offices renovated not too long ago with a new Digett sign, new light fixtures, and new paint throughout. Everything looked great, but the freshly painted walls were a little bland—they needed some help.

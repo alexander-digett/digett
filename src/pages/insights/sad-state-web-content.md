@@ -2,7 +2,8 @@
 title: 'The Sad State of Web Content'
 templateKey: blog-post
 date: 2013-11-26T14:42:11.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: sad-state-web-content
 summary: > 
  You don't have to have listeners to flap your gums on the web. You are in fact, encouraged by a whole pack of gum-flapping marketers, authors, and publishers to join the noisy pack. You might even expect to be rewarded for your efforts. But it's a shame. Unless you have something meaningful to say, your work will likely go entirely unappreciated. Think how productive our society might be if the segment of the population that focuses on spewing useless dribble onto the web would just shut up, take a moment to ponder where their passions lay or where they might actually add some value, and begin taking steps toward that end. It's no wonder that these marketers — so-called "content marketers", to be more specific — tarnish the industry's image.

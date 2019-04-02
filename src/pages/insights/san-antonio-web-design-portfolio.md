@@ -2,7 +2,8 @@
 title: 'San Antonio Web Design Portfolio'
 templateKey: blog-post
 date: 2011-06-14T16:25:05.000Z
-category: Design, Inbound Marketing, San Antonio
+category: 
+  -Design, Inbound Marketing, San Antonio
 alias: san-antonio-web-design-portfolio
 summary: > 
  Notice anything different about our main navigation? That's right, a new design section! We've recently added an abbreviated portfolio to our website, meant to show off our mad design skills, and link to our best work.

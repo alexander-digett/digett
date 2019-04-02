@@ -2,7 +2,8 @@
 title: 'Reflecting on Everything I Learned at My Internship'
 templateKey: blog-post
 date: 2013-12-12T16:49:53.000Z
-category: Digett
+category: 
+  -Digett
 alias: reflecting-everything-i-learned-my-internship
 summary: > 
  Interning with Digett has been one of the best opportunities I’ve had. My experience here has helped me grow not only as an individual, but as a professional. Working at a small company like Digett has given me the opportunity to learn many of the things that I would not had I been at a larger company.

@@ -2,7 +2,8 @@
 title: 'Motorcycle Marketing for Cagers'
 templateKey: blog-post
 date: 2009-09-29T19:55:27.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: motorcycle-marketing-cagers
 summary: > 
  If you're confused, a "cager" is someone who drives a car. Yes, there is some debate about the precise definition, but I'll leave that to others. One month ago, I began an experiment that made my mother cringe: I started commuting to work by motorcycle.

@@ -2,7 +2,8 @@
 title: 'The Purpose of Email Campaigns'
 templateKey: blog-post
 date: 2005-12-13T06:00:00.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: purpose-email-campaigns
 summary: > 
  We've seen a flurry of activity recently from customers who want to send out sophisticated email campaigns. We often find it tedious to educate our customers regarding the notion that the purpose of an email campaign is not to sell. That's right; email campaigns are not for selling. Used properly, the value of email campaigns lies in their use as a tool for building relationships.

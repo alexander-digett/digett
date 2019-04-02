@@ -2,7 +2,8 @@
 title: '4 Challenges with a Webform Project, Part I'
 templateKey: blog-post
 date: 2014-09-23T13:42:59.000Z
-category: Development, Drupal, UX Design
+category: 
+  -Development, Drupal, UX Design
 alias: 4-challenges-webform-project-part-i
 summary: > 
  I like Javascript. There, I said it. It’s all out there floating across the internet, and no doubt my kids will mock me for it twenty years from now when they’re busily developing code via direct brain-link. For now, though, I find it to be a remarkably versatile problem solver for things that just aren’t quite handled by the default behavior of your favorite framework or CMS.

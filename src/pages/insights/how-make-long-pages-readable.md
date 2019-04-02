@@ -2,7 +2,8 @@
 title: 'How to make long pages readable'
 templateKey: blog-post
 date: 2012-01-13T15:55:48.000Z
-category: UX Design
+category: 
+  -UX Design
 alias: how-make-long-pages-readable
 summary: > 
  I recently talked about tearing down the wall of words. In that post, we talked about ways to reduce your content; this week, I want to talk about ways to improve the readability of your web page when it needs to be long. Let's talk about things you can do to make the user experience a better one.

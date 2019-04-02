@@ -2,7 +2,8 @@
 title: 'Losing in the Court of Online Opinion'
 templateKey: blog-post
 date: 2009-07-31T15:36:57.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: losing-court-online-opinion
 summary: > 
  I spent a good portion of my formative years in a law firm, as a number of my family members were part of the bar. While I chose a different career path, my time in that environment gave me a few legal insights, including: When "Law &amp; Order" is getting it all wrong. Seriously, trials are rarely that entertaining and never end in 13 minutes. That some matters conclude with no clear winner, regardless of the verdict. 

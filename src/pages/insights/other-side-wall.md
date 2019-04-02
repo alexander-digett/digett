@@ -2,7 +2,8 @@
 title: 'The Other Side of the Wall'
 templateKey: blog-post
 date: 2008-11-26T21:35:45.000Z
-category: Digett
+category: 
+  -Digett
 alias: other-side-wall
 summary: > 
  On December 22, 1982, as a senior at Liberty High School, I affixed my signature to a contract that obligated me to spend the three years following my high school graduation dressed in a soldier's uniform. During the summer of '83, prior to shipping out to Fort Knox for Army basic training, I spent my remaining days as a civilian soaking up sunshine and the company of my closest friends. It was the end of an era.

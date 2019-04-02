@@ -2,7 +2,8 @@
 title: 'Top 5 Avoidable SEO Mistakes'
 templateKey: blog-post
 date: 2008-04-01T05:00:00.000Z
-category: Marketing, SEM and SEO
+category: 
+  -Marketing, SEM and SEO
 alias: top-5-avoidable-seo-mistakes
 summary: > 
  Many Digett clients have heard me talk about improving a web page's position on a search engine results page, the practice commonly referred to as Search Engine Optimization (SEO). It doesn't take a genius to understand that the higher a page appears during a Google search, the more likely it is that a user will visit the page. Next to a good web site, in fact, search engine positioning may be the most important factor determining the overall success of your company's online marketing efforts.

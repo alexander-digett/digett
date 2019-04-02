@@ -2,7 +2,8 @@
 title: '11 Marketing Myths of 2011'
 templateKey: blog-post
 date: 2011-12-12T15:26:10.000Z
-category: Marketing, Mobile, Social Media
+category: 
+  -Marketing, Mobile, Social Media
 alias: 11-marketing-myths-2011
 summary: > 
  As the year draws to a close, it’s time to take a look at the marketing myths that have reigned supreme—and annoyed me to no end—since January. This is by no means an exhaustive tally, so feel free to leave any of your additions to this list in the comments!

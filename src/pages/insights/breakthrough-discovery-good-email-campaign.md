@@ -2,7 +2,8 @@
 title: 'Breakthrough Discovery: A Good Email Campaign'
 templateKey: blog-post
 date: 2009-05-29T18:53:16.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: breakthrough-discovery-good-email-campaign
 summary: > 
  We're all accustomed to being victims of bad email practices. Just last month, Valarie indulged in a little self-therapy by ranting about one of her own experiences.

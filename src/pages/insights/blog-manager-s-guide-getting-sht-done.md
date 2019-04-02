@@ -2,7 +2,8 @@
 title: 'The Blog Manager&#039;s Guide to Getting Sh*t Done'
 templateKey: blog-post
 date: 2014-01-28T16:16:54.000Z
-category: Blogging, Tools of the Trade
+category: 
+  -Blogging, Tools of the Trade
 alias: blog-manager-s-guide-getting-sht-done
 summary: > 
  Managing an effective blog is a long-term effort, and a challenge. It requires the patience of Job, the ability to plan flexibly, and more dedication on day 1,000 than on day one. If you’re ever going to get your team on board and build a successful blog, there are five things you must do.

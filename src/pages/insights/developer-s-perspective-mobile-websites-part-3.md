@@ -2,7 +2,8 @@
 title: 'A Developer&#039;s Perspective on Mobile Websites, part 3'
 templateKey: blog-post
 date: 2011-09-23T15:11:07.000Z
-category: Development, Drupal, Mobile
+category: 
+  -Development, Drupal, Mobile
 alias: developer-s-perspective-mobile-websites-part-3
 summary: > 
  For the last two weeks, I've talked about A Developer's Perspective on Mobile Websites (part 1 | part 2). This week, I'd like to close out by going through a couple of the decisions I make for each mobile site I make:

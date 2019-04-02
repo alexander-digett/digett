@@ -2,7 +2,8 @@
 title: 'Drupal Workshop a Total Success Despite Small Turnout'
 templateKey: blog-post
 date: 2007-06-29T05:00:00.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: drupal-workshop-total-success-despite-small-turnout
 summary: > 
  It still freaks me out that only two people would sign up for any Drupal workshop held in Austin, and that the two people who came to ours last Friday drove in from 100 miles away. Regardless, what a great day we had!

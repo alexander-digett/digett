@@ -2,7 +2,8 @@
 title: 'Debate: Free Content vs. Requiring Registration'
 templateKey: blog-post
 date: 2011-06-22T14:32:42.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: debate-free-content-vs-requiring-registration
 summary: > 
   	Should the content you create for your website be free to anyone, or should users be required to register (ie. fill out a form) before they can read it? Let's take a look at the issue from both sides.

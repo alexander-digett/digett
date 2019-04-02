@@ -2,7 +2,8 @@
 title: 'Choosing the Right Tool for the Job'
 templateKey: blog-post
 date: 2010-03-29T16:11:17.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: choosing-right-tool-job
 summary: > 
  Choosing the right tool for a project can sometimes be easy. For example, when driving a nail, the obvious choice would be a hammer, or when splitting some wood, a saw would be the best tool in the box. Sometimes we know the tools we need but don't have them at our disposal, like the time my father-in-law asked me to help him paint a room. What he failed to mention was he only had two small four-inch brushes—not a great choice for such a big project.

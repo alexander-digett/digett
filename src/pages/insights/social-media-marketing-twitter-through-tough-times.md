@@ -2,7 +2,8 @@
 title: 'Social Media Marketing: Twitter Through the Tough Times'
 templateKey: blog-post
 date: 2008-11-19T23:10:09.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: social-media-marketing-twitter-through-tough-times
 summary: > 
  (For the faithful, this isn't solely about Twitter, which we've covered here and here. This is more of a focused continuation of our previous discussion about marketing during an economic downturn.) As marketers, we tend to stand on the outside, looking in. Specifically, we're at a distance from a group of customers or potential markets, and our primary objective is to help our clients learn how to reach that group. It's a perfectly legitimate form of stalking.

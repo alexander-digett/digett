@@ -2,7 +2,8 @@
 title: 'Tuning Up a Car Dealer&#039;s Message'
 templateKey: blog-post
 date: 2009-08-26T19:15:14.000Z
-category: Clients, Marketing
+category: 
+  -Clients, Marketing
 alias: tuning-car-dealer-s-message
 summary: > 
  Car dealerships have to deal with a number of popular misconceptions, many of them involving their service departments. Jeff Asher, the Parts and Service Director of Jennings Anderson Ford (a Digett client), noted this recently during a discussion about ways to improve the performance of email campaigns announcing service specials. As he said, "We are always faced with the 'stigma' that the dealership is too expensive or they take too long." You're preaching to the choir, buddy—we deal with misunderstandings more often than we care to admit.

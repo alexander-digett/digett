@@ -2,7 +2,8 @@
 title: 'The Year of the Logo'
 templateKey: blog-post
 date: 2008-11-26T07:58:03.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: year-logo
 summary: > 
  "Brand yourself and toot your own horn," says the Donald Trump doll. The Donald makes a good point, as usual. Every business should have a strong brand that stands out among the competition.   A good logo is the foundation of any brand. Any effort to brand or re-brand a business should start with a good logo—one that is unique, easy to identify, and representative of the company for which it stands.

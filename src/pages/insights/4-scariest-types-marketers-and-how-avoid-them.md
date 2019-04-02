@@ -2,7 +2,8 @@
 title: 'The 4 Scariest Types of Marketers (and How to Avoid Them)'
 templateKey: blog-post
 date: 2011-10-31T14:46:25.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 4-scariest-types-marketers-and-how-avoid-them
 summary: > 
  In honor of today’s spooky holiday, I’m going to talk a little about bad marketers. Here are the four scariest marketing monsters with whom you should avoid working, no matter the time of year.

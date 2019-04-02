@@ -2,7 +2,8 @@
 title: 'Social Media: The Customer’s New Voice '
 templateKey: blog-post
 date: 2014-06-10T13:18:06.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: social-media-customer’s-new-voice
 summary: > 
  As social media platforms continue merging with the marketing world, there has been a transformation in the way customers can interact with a company, both positively and negatively. These social media platforms provide businesses the ability to connect and communicate with their target audience, allowing the audience to learn about the company, and ask questions or provide feedback.

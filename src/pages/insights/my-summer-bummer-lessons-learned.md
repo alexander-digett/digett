@@ -2,7 +2,8 @@
 title: 'My Summer Bummer &amp; Lessons Learned'
 templateKey: blog-post
 date: 2014-05-21T13:40:04.000Z
-category: Digett
+category: 
+  -Digett
 alias: my-summer-bummer-lessons-learned
 summary: > 
  Now a graduate from University of the Incarnate Word, I have obtained a Bachelor of Fine Arts in Graphic Design with minors in Business Marketing and Art History. I didn’t think I would be bummed to get my degree but now that it’s summer my internship at Digett is coming to an end. I’m bummed to leave such an amazing company and employees who make Digett stand out. I’m trying to be optimistic and not focus on what I’ll be leaving, but instead on what I will offer my next employer from the things I have learned at Digett.

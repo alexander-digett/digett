@@ -2,7 +2,8 @@
 title: 'Scripts of a Drupal Newbie – A Love Letter to Views'
 templateKey: blog-post
 date: 2013-09-25T13:50:31.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: scripts-drupal-newbie-–-love-letter-views
 summary: > 
  Drupal is definitely not something you can master or even comprehend in a few weeks, or even a few months. All the little details start to take their toll after a while. But my personal savior and motivator as a Drupal newbie came in an immensely useful package that most Drupal developers might recognize.

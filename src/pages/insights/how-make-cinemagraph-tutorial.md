@@ -2,7 +2,8 @@
 title: 'How to Make a Cinemagraph: Tutorial'
 templateKey: blog-post
 date: 2011-07-12T13:45:27.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: how-make-cinemagraph-tutorial
 summary: > 
  This is a tutorial on how to make a cinemagraph. I've been intrigued by the growing popularity of these cinematic photographs and I spent some time making a few myself and documenting my approach. Let's start from the beginning, shall we?

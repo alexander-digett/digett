@@ -2,7 +2,8 @@
 title: 'Scope: A Little Goes a Long Way'
 templateKey: blog-post
 date: 2008-12-15T17:43:03.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: scope-little-goes-long-way
 summary: > 
  I wasn't at work last week, I'm sure you all noticed. Instead I spent the week in Austin, attending a four-day workshop series called UX Intensive, hosted by Adaptive Path. 

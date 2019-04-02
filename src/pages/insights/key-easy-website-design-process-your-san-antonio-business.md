@@ -2,7 +2,8 @@
 title: 'The key to an easy website design process for your San Antonio business'
 templateKey: blog-post
 date: 2011-03-18T04:15:38.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: key-easy-website-design-process-your-san-antonio-business
 summary: > 
   	If you’ve been a San Antonio resident for any length of time, you’ve seen the commercials for the local car dealership with the one simple price promise. You know you want a car, you walk on the lot, look at the prices and decide whether to buy. Why can’t getting a new website design in San Antonio be so easy?

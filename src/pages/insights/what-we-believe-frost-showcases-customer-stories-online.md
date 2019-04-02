@@ -2,7 +2,8 @@
 title: 'What We Believe: Frost Showcases Customer Stories Online'
 templateKey: blog-post
 date: 2011-03-14T21:19:43.000Z
-category: Branding, Marketing, Strategy
+category: 
+  -Branding, Marketing, Strategy
 alias: what-we-believe-frost-showcases-customer-stories-online
 summary: > 
   	In 2010, Frost Bank launched its "What We Believe" campaign. Small, plain booklets were distributed through various channels, including employees and through the cooperation of publications such as The Wall Street Journal and Texas Monthly.

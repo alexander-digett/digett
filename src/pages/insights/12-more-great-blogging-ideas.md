@@ -2,7 +2,8 @@
 title: '12 More Great Blogging Ideas'
 templateKey: blog-post
 date: 2011-05-02T14:42:18.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: 12-more-great-blogging-ideas
 summary: > 
   	Last week I shared some blogging ideas and inspiration designed to get you thinking out of the box when it comes to generating blog content. Those ideas are a great place to start, but they’re by no means the only sources of inspiration and information. Here are twelve more ideas for where to find blogging inspiration.

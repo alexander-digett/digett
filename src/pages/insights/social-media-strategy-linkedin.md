@@ -2,7 +2,8 @@
 title: 'Social Media Strategy: LinkedIn'
 templateKey: blog-post
 date: 2011-03-16T16:15:25.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: social-media-strategy-linkedin
 summary: > 
   	By this point most businesses realize that they need a Social Media Strategy. But where do you start? What media outlet is best? I’m sure many of you wish you could return to the days where the decision was how much of the marketing budget should be spent on radio, tv and print media. Now you have to decide what resources to dedicate to Facebook, Twitter, your blog, microsites, trade organization communities, and the insane number of smaller social networking sites.  	While Facebook, the current media darling, is the obvious choice for dedicating social media resources, some of you may find LinkedIn to be the goose that lays the golden eggs. It takes a specific type of business and sales person to properly leverage LinkedIn, but done correctly it can provide rich rewards.

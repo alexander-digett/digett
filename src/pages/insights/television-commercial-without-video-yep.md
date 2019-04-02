@@ -2,7 +2,8 @@
 title: 'A Television Commercial Without Video? Yep.'
 templateKey: blog-post
 date: 2009-06-19T15:36:49.000Z
-category: Clients, Tools of the Trade
+category: 
+  -Clients, Tools of the Trade
 alias: television-commercial-without-video-yep
 summary: > 
  We're big proponents of emerging technologies here, especially those that help shake up a medium—like television—that has been done largely the same way for decades. But as much as things change, the more they stay the same. After all, when was the last time you saw something truly different on TV?

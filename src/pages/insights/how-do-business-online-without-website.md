@@ -2,7 +2,8 @@
 title: 'How to Do Business Online Without a Website'
 templateKey: blog-post
 date: 2011-10-17T15:34:43.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: how-do-business-online-without-website
 summary: > 
  How would you feel about working with, buying from, or promoting a company about whom you can’t find any information online? Have you ever searched for a company and come up with nothing, not even a static "brochure" website? In the digital age, having a website is a sign that you are a legitimate organization. If your company is not online, you’re losing credibility — and business.

@@ -2,7 +2,8 @@
 title: 'Communicating vs. Marketing: Who will win the Tug of War?'
 templateKey: blog-post
 date: 2011-08-05T15:17:57.000Z
-category: Blogging, Marketing, Strategy
+category: 
+  -Blogging, Marketing, Strategy
 alias: communicating-vs-marketing-who-will-win-tug-war
 summary: > 
  When you listen to communications professionals and marketing professionals, you can sometimes find yourself listening to a Tug of War between the value of engaging customers and the importance of lead generation. Who will fall in the mud?

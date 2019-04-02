@@ -2,7 +2,8 @@
 title: 'Right-Sizing Your Marketing Infrastructure'
 templateKey: blog-post
 date: 2017-06-29T18:42:45.000Z
-category: Inbound Marketing, Tools of the Trade
+category: 
+  -Inbound Marketing, Tools of the Trade
 alias: right-sizing-your-marketing-infrastructure
 summary: > 
  Go big or go home. (- ubiquitous)  I first heard the quote above in 2001. It was a company mantra introduced by a new CEO who had been brought in to save our ailing company, one of the many beneficiaries, and subsequent victims, of the dot-com bubble. Four months later the firm shut its doors. We went home.

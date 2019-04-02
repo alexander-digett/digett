@@ -2,7 +2,8 @@
 title: 'New Digett Web Site in the Works'
 templateKey: blog-post
 date: 2008-01-18T06:00:00.000Z
-category: Digett, Marketing
+category: 
+  -Digett, Marketing
 alias: new-digett-web-site-works
 summary: > 
  Yesterday's weekly team lunch was significant for a few reasons: 

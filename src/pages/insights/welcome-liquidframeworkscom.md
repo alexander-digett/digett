@@ -2,7 +2,8 @@
 title: 'Welcome LiquidFrameworks.com'
 templateKey: blog-post
 date: 2010-03-02T21:02:12.000Z
-category: Clients
+category: 
+  -Clients
 alias: welcome-liquidframeworkscom
 summary: > 
  Liquid Frameworks, of the newly Digett-created liquidframeworks.com, came  to Digett to redesign their former website with two main goals in mind:  They wanted their new site to be as impressive visually as their work is technically.  Their new site also needed to provide prospective clients a more complete picture of all their products, approaches, and services to present Liquid Frameworks as a professional, highly evolved, multi-faceted solutions provider for businesses. 

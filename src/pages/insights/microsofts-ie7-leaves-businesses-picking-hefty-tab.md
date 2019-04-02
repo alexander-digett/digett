@@ -2,7 +2,8 @@
 title: 'Microsoft&#039;s IE7 Leaves Businesses Picking Up the Hefty Tab'
 templateKey: blog-post
 date: 2006-11-14T06:00:00.000Z
-category: Development
+category: 
+  -Development
 alias: microsofts-ie7-leaves-businesses-picking-hefty-tab
 summary: > 
  I cut my programmer's teeth on visual basic... 5.0, I think. Since those days I've been constantly amazed by how an Aggie economics major could figure out, using Microsoft's relatively user-friendly tool sets, how to solve business problems through developing custom software.

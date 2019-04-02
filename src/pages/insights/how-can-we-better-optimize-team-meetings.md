@@ -2,7 +2,8 @@
 title: 'How can we better optimize team meetings?'
 templateKey: blog-post
 date: 2014-05-19T13:29:36.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: how-can-we-better-optimize-team-meetings
 summary: > 
  What is the secret sauce that makes a good meeting? Generally speaking, I try to make sure every meeting I lead has these three components:

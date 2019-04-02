@@ -2,7 +2,8 @@
 title: 'Negative comments: What do you tell the troll under the bridge?'
 templateKey: blog-post
 date: 2012-03-02T16:55:19.000Z
-category: Blogging, Social Media
+category: 
+  -Blogging, Social Media
 alias: negative-comments-what-do-you-tell-troll-under-bridge
 summary: > 
  Do you know the story "Three Billy Goats Gruff"? There is a troll that lives under the bridge and he is preventing the three billy goats from crossing the bridge to get to greener pastures. What does this have to do with your business/website/life, you may ask?

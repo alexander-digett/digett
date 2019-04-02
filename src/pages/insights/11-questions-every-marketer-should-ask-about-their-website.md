@@ -2,7 +2,8 @@
 title: '11 Questions Every Marketer Should Ask About Their Website'
 templateKey: blog-post
 date: 2011-10-24T13:59:40.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 11-questions-every-marketer-should-ask-about-their-website
 summary: > 
  After looking at your website all day for a year or so, it can be difficult to be objective about how it looks and performs. If you’ve noticed a drop-off in leads, or if the number was never as high as you predicted, it’s time to take a step back and see how you can help your website live up to its potential. All you have to do is answer some questions.

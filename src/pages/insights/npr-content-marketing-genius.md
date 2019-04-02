@@ -2,7 +2,8 @@
 title: 'NPR &amp; Content Marketing Genius'
 templateKey: blog-post
 date: 2013-05-08T13:20:51.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: npr-content-marketing-genius
 summary: > 
  A longer commute to the new Digett offices means I spend much more time listening to the radio. I started listening to NPR a few months back, and recently it occurred to me that it’s the poster child for successful content marketing.

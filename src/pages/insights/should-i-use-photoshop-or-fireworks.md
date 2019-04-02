@@ -2,7 +2,8 @@
 title: 'Should I use Photoshop or Fireworks?'
 templateKey: blog-post
 date: 2012-02-10T16:33:22.000Z
-category: Design, UX Design
+category: 
+  -Design, UX Design
 alias: should-i-use-photoshop-or-fireworks
 summary: > 
  Every time I start a new project, I find myself struggling to choose between using Photoshop or Fireworks. They're both great, but I'm thinking of calling Fireworks my preferred choice for all web design, and here's why.

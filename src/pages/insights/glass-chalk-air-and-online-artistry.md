@@ -2,7 +2,8 @@
 title: 'Glass Chalk: On-Air and Online Artistry'
 templateKey: blog-post
 date: 2009-06-23T19:19:26.000Z
-category: Clients
+category: 
+  -Clients
 alias: glass-chalk-air-and-online-artistry
 summary: > 
  Our good friends over at Glass Chalk have a unique product. Their WHATUP™ banner kit and markers allow anyone to create their own banners and signs that don't (a) look like a grade school art project gone wrong or, conversely, (b) require the assistance of an expensive professional. They're great for schools, businesses, and families.

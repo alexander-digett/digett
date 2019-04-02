@@ -2,7 +2,8 @@
 title: 'Google +1 Reporting in Webmaster Tools and Analytics'
 templateKey: blog-post
 date: 2011-07-11T14:16:42.000Z
-category: Analytics
+category: 
+  -Analytics
 alias: google-1-reporting-webmaster-tools-and-analytics
 summary: > 
  Art discussed the Google +1 button and its SEO value back in April; now that the button has been released globally, users who are logged in to Google when searching will be able to "+1" a website they recommend. But how can you track the value and impact of the +1 button on your website?

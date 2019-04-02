@@ -2,7 +2,8 @@
 title: '5 Social Media Mistakes You Can’t Afford to Make [Webinar]'
 templateKey: blog-post
 date: 2011-08-04T14:51:22.000Z
-category: Digett, Social Media
+category: 
+  -Digett, Social Media
 alias: 5-social-media-mistakes-you-cant-afford-make-webinar
 summary: > 
  Your business uses social media, but are you doing more harm than good? In Digett’s free 5 Social Media Mistakes You Can’t Afford to Make webinar you’ll learn:

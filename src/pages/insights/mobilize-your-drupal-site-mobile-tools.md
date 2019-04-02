@@ -2,7 +2,8 @@
 title: 'Mobilize Your Drupal Site With Mobile Tools'
 templateKey: blog-post
 date: 2010-05-24T14:17:44.000Z
-category: Clients, Drupal
+category: 
+  -Clients, Drupal
 alias: mobilize-your-drupal-site-mobile-tools
 summary: > 
  Mobile is big and getting bigger. Unfortunately, there’s not a one-size-fits-all approach for mobilizing Drupal. Today, a plethora of modules and services exist to help developers create new iterations of traditional site interfaces. We chose Drupal’s Mobile Tools to help us mobilize McMillin Homes and create a custom user experience for their mobile visitors. Here's an overview of our process: 

@@ -2,7 +2,8 @@
 title: 'Adventures in the Drupal Community'
 templateKey: blog-post
 date: 2011-12-14T15:53:39.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: adventures-drupal-community
 summary: > 
  An early new year’s resolution for me is to become more involved in the Drupal community. It’s something that I’ve been thinking about for months, but Angie "webchick" Byron’s keynote at DrupalCamp Austin on November 19 gave me the tangible steps and motivation to jump in. It has been a lot easier to get involved than I anticipated.

@@ -2,7 +2,8 @@
 title: 'Mobile Website Design Best Practices: The Ugly, The Bad, and The Good'
 templateKey: blog-post
 date: 2011-03-18T15:48:11.000Z
-category: Branding, Design, Development, Digett, Mobile
+category: 
+  -Branding, Design, Development, Digett, Mobile
 alias: mobile-website-design-best-practices-ugly-bad-and-good
 summary: > 
  If your answer to the question, "Is your website ready for mobile?" is "No," you've joined us at the perfect time. Over the next several weeks we'll be digging deeper to expose some mobile website design best practices that will serve as a guide for your venture into the world of mobile website and Graphical User Interface (GUI) design. We'll get to the Good soon enough, but first we need to start with the Ugly.

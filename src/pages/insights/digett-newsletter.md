@@ -2,7 +2,8 @@
 title: 'The Digett Newsletter'
 templateKey: blog-post
 date: 2011-08-30T05:11:03.000Z
-category: Blogging, Marketing
+category: 
+  -Blogging, Marketing
 alias: digett-newsletter
 summary: > 
  In just a couple of weeks we will be sending out Digett's monthly newsletter. Are you on our mailing list? If not, you should sign up.

@@ -2,7 +2,8 @@
 title: 'Outsourcing Marketing: Pros &amp; Cons'
 templateKey: blog-post
 date: 2012-11-20T16:12:01.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: outsourcing-marketing-pros-cons
 summary: > 
  Content marketing requires frequent content creation, monitoring of social networks, and routine analysis and adjustment. This amount of work can be a deterrent, but as businesses come to see the benefits of content marketing it becomes more difficult to justify not jumping in — especially when it’s so easy to outsource everything.

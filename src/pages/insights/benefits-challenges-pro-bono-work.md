@@ -2,7 +2,8 @@
 title: 'Benefits &amp; Challenges of Pro Bono Work'
 templateKey: blog-post
 date: 2012-04-23T14:00:57.000Z
-category: Clients, Philanthropy
+category: 
+  -Clients, Philanthropy
 alias: benefits-challenges-pro-bono-work
 summary: > 
  Depending on your industry, you may at one time or another be asked to do some pro bono ("for the good") work. These can be opportunities to help both the customer and yourself, but present unique challenges that need to be understood before diving in.

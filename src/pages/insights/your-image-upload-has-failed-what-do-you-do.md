@@ -2,7 +2,8 @@
 title: 'Your image upload has failed. What do you do?'
 templateKey: blog-post
 date: 2011-09-01T15:08:50.000Z
-category: Clients, Tools of the Trade
+category: 
+  -Clients, Tools of the Trade
 alias: your-image-upload-has-failed-what-do-you-do
 summary: > 
  There are few things quite as frustrating as wanting to upload an image to your site and being unable to do so. While Digett is always here to help our clients, sometimes, you just want to fix things yourself.

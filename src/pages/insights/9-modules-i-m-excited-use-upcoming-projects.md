@@ -2,7 +2,8 @@
 title: '9 modules I&#039;m excited to use in upcoming projects'
 templateKey: blog-post
 date: 2012-12-04T15:24:22.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: 9-modules-i-m-excited-use-upcoming-projects
 summary: > 
  I love "shiny" new things, but I am also cautious and want to ensure I'm using things that are going to work well down the road. Here are a few Drupal projects I've been following and I'm excited about trying them out. Any input is very welcome!

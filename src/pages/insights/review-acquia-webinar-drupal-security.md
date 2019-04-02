@@ -2,7 +2,8 @@
 title: 'Review: Acquia Webinar on Drupal Security'
 templateKey: blog-post
 date: 2011-11-02T14:54:35.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: review-acquia-webinar-drupal-security
 summary: > 
  Last week I attended the Acquia webinar 'Protect Your Drupal Site Against Common Security Attacks'.  It was a nice primer on how the Drupal Security Team functions and some basic ideas about Drupal security. 

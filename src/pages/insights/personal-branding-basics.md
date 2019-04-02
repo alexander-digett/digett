@@ -2,7 +2,8 @@
 title: 'Personal Branding Basics'
 templateKey: blog-post
 date: 2012-03-19T13:29:39.000Z
-category: Blogging, Social Media, Strategy
+category: 
+  -Blogging, Social Media, Strategy
 alias: personal-branding-basics
 summary: > 
  As the world changes and its people become more social and connected, entire lives will be catalogued online. No matter your age, industry, or level of experience, having a personal brand can mean the difference between getting that job, gaining industry renown, and being just another somebody.

@@ -2,7 +2,8 @@
 title: 'Someone is Stealing My Blog Posts! What Now?'
 templateKey: blog-post
 date: 2011-04-20T14:39:00.000Z
-category: Blogging, SEM and SEO
+category: 
+  -Blogging, SEM and SEO
 alias: someone-stealing-my-blog-posts-what-now
 summary: > 
   	Someone is stealing your blog posts. All of that hard work brainstorming, researching, and thinking of something original to say. They just copy and paste the whole thing and pass it off as their own. I know it makes your blood boil, because it did mine when it happened to me a few weeks ago.

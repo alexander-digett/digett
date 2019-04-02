@@ -2,7 +2,8 @@
 title: 'New Site Launch: CLMedical Consulting'
 templateKey: blog-post
 date: 2013-07-03T15:49:08.000Z
-category: Clients, Digett
+category: 
+  -Clients, Digett
 alias: new-site-launch-clmedical-consulting
 summary: > 
  CL Medical Consulting (CLMC) implements Electronic Health Record solutions, provides consultative services, and does everything in their power to help their clients run successful, profitable practices. Their previous website, however, was not geared toward converting visitors into leads.

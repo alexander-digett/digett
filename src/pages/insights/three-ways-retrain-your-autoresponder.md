@@ -2,7 +2,8 @@
 title: 'Three Ways to Retrain Your Autoresponder'
 templateKey: blog-post
 date: 2010-07-28T18:03:45.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: three-ways-retrain-your-autoresponder
 summary: > 
  Automated marketing often is a misunderstood concept, particularly as many think it just takes the form of email autoresponders. These are the awkwardly distant "I'm out of the office and having more fun than you" kind of replies or robot-like missives that come with return addresses beginning with things like "DONOTREPLY." They rarely communicate something of value and often sound like they were written for a poorly translated Atari video game. But it doesn't have to be that way.

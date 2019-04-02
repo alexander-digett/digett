@@ -2,7 +2,8 @@
 title: 'How a Website is Like a House'
 templateKey: blog-post
 date: 2011-03-03T23:01:51.000Z
-category: Design, Development, Our Industry, Strategy
+category: 
+  -Design, Development, Our Industry, Strategy
 alias: how-website-house
 summary: > 
   	There are as many methods for website design and development as there are website designers and developers.

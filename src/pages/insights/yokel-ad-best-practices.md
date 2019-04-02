@@ -2,7 +2,8 @@
 title: 'Yokel: Ad Best Practices'
 templateKey: blog-post
 date: 2013-11-20T15:25:52.000Z
-category: Clients, Market Targeting, Strategy
+category: 
+  -Clients, Market Targeting, Strategy
 alias: yokel-ad-best-practices
 summary: > 
  As you consider your advertising strategy for next year, I suggest you do some research on hyperlocal advertising. It can be a great way to reach your San Antonio audience quickly, easily, and affordably. But what makes for a good hyperlocal ad?

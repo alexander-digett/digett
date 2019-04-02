@@ -2,7 +2,8 @@
 title: 'One Cowboy Commercial, Comin&#039; Right Up'
 templateKey: blog-post
 date: 2009-09-28T21:55:22.000Z
-category: Clients, Marketing
+category: 
+  -Clients, Marketing
 alias: one-cowboy-commercial-comin-right
 summary: > 
  Kathryn recently wrote a gushing piece about the creative freedom we've enjoyed in promoting Boerne Wild West Day, and I'm not one to necessarily argue with her assessment. Being given a blank slate can be liberating. Two weeks ago, the opportunities seemed to increase beyond belief, as GVTC, a local cable carrier, offered an in-kind donation of airtime to the festival.

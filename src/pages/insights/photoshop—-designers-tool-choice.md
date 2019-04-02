@@ -2,7 +2,8 @@
 title: 'Photoshop—the Designer&#039;s Tool of Choice'
 templateKey: blog-post
 date: 2009-02-27T19:32:02.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: photoshop—-designers-tool-choice
 summary: > 
  No online toolbox is complete without Photoshop, a power tool I use every day. Two weeks ago, I attended a Photoshop cram session taught by the Bob Vila of Photoshop, Bert Monroy. 

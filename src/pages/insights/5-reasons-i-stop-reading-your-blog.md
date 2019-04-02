@@ -2,7 +2,8 @@
 title: '5 Reasons I Stop Reading Your Blog'
 templateKey: blog-post
 date: 2011-03-05T00:27:09.000Z
-category: Market Targeting, Marketing
+category: 
+  -Market Targeting, Marketing
 alias: 5-reasons-i-stop-reading-your-blog
 summary: > 
   	Recently I went through my RSS feed and did some (early) spring cleaning. I’ve never been a huge fan of clutter, digital or otherwise, and it was time to do some organizing.

@@ -2,7 +2,8 @@
 title: 'Four Ways to Fix Sub-Par Publishing'
 templateKey: blog-post
 date: 2010-03-03T17:43:28.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: four-ways-fix-sub-par-publishing
 summary: > 
  I've been working on a quantitative content audit of the Digett site for a little while now, and I recently reached that golden spot in the sun where I realized I had cataloged all our blog content (until Valarie's latest post, that is). Something immediately hit me: We really haven't published all that much. That's not good. Over the last five years, we've posted 240 entries to the Digett blog—that breaks down to 48 per year or four per month. Those aren't necessarily impressive numbers for a digital marketing firm that urges its clients to focus on fresh content; we can't let our business get in the way of our business.

@@ -2,7 +2,8 @@
 title: 'Stop Looking for Blogging &quot;Inspiration&quot;'
 templateKey: blog-post
 date: 2014-08-26T14:45:01.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: stop-looking-blogging-inspiration
 summary: > 
  Consistently creating excellent content for your business is daunting no matter your skill level; this task falls on the shoulders of non-writers more often than not, and recently I’ve noticed an uptick in articles claiming to provide ideas for "inspiration."

@@ -2,7 +2,8 @@
 title: 'Great content is wasted if there is no focus!'
 templateKey: blog-post
 date: 2012-01-06T15:52:01.000Z
-category: Design, SEM and SEO, UX Design
+category: 
+  -Design, SEM and SEO, UX Design
 alias: great-content-wasted-if-there-no-focus
 summary: > 
  You have a message to share, a product to sell, a service to offer — but it may be all for nothing if your website doesn't have focus. When we design a website, we are always looking to focus our client's message so that the message can be heard over the "noise" of our culture.

@@ -2,7 +2,8 @@
 title: 'Digett Summer Internship: Lessons Learned'
 templateKey: blog-post
 date: 2013-08-21T14:03:16.000Z
-category: Digett
+category: 
+  -Digett
 alias: digett-summer-internship-lessons-learned
 summary: > 
  With our summer intern Sarah gone back to school and fall interns scheduled to start soon, it’s the perfect time to share some of the lessons the Digett team learned while searching for and working with interns. I hope you find them valuable as you consider working with interns at your own business.

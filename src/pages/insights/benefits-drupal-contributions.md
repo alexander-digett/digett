@@ -2,7 +2,8 @@
 title: 'The Benefits of Drupal Contributions'
 templateKey: blog-post
 date: 2013-01-23T15:48:08.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: benefits-drupal-contributions
 summary: > 
  When I explain to family and friends what I do for a living, the immediate image in their mind is of the lone kid sitting in front of a computer in the middle of the night. The reality is that the work I do goes far beyond that and tends to include meeting with clients, setting expectations, and developing design and implementation plans. As part of my role here at Digett, I also look for ways in which we can help contribute to the open source community, and specifically to Drupal.

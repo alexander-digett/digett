@@ -2,7 +2,8 @@
 title: 'Brands Get Creative with Social Media'
 templateKey: blog-post
 date: 2013-07-17T15:54:32.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: brands-get-creative-social-media
 summary: > 
  I’ve seen several real-life examples lately of how businesses of all sizes are using social media in creative and inspiring ways to boost their brand. Here's the three I think are most exciting, and could be used by almost any business.

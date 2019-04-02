@@ -2,7 +2,8 @@
 title: 'San Antonio Web Design: Generations Federal Credit Union'
 templateKey: blog-post
 date: 2011-05-24T19:52:44.000Z
-category: Clients, Design, San Antonio
+category: 
+  -Clients, Design, San Antonio
 alias: san-antonio-web-design-generations-federal-credit-union
 summary: > 
   	The brand new Generations website is just a few hours old, and isn't she lovely! Over the past five months, the Digett team has worked closely with Generations Federal Credit Union to completely re-vamp their online presence, and we think the result represents the best of San Antonio web design and banking.

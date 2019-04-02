@@ -2,7 +2,8 @@
 title: 'It&#039;s 2009. Do You Know Where Your Talent Is?'
 templateKey: blog-post
 date: 2009-04-01T14:35:00.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: its-2009-do-you-know-where-your-talent
 summary: > 
  The job I had just prior to coming to Digett almost didn't happen. After discovering the listing in the San Antonio paper (that's a wood-fiber display device, for some of you), I did what any other modern job seeker would: I went online to check out the company. I was horrified to find practically nothing.

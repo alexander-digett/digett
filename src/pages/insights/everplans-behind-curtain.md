@@ -2,7 +2,8 @@
 title: 'Everplans: Behind the Curtain'
 templateKey: blog-post
 date: 2013-05-07T14:00:00.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: everplans-behind-curtain
 summary: > 
  Everplans.com is a website meant to help people prepare for and deal with death. The previous iteration of their site presented numerous technical challenges, making it difficult for their team to achieve their goals. It became Digett's job to give Everplans a website that works for, not against, its users and administrators. 

@@ -2,7 +2,8 @@
 title: 'Confuse and Lose Prospects With Basic Copywriting Errors'
 templateKey: blog-post
 date: 2009-04-27T17:13:02.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: confuse-and-lose-prospects-basic-copywriting-errors
 summary: > 
  As one of Digett's resident wordsmiths, I occasionally comment on poor online copywriting practices such as incomprehensible business-babble and the use of overly casual language.

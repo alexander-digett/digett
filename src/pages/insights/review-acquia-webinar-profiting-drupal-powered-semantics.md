@@ -2,7 +2,8 @@
 title: 'Review: Acquia Webinar on Profiting from Drupal-Powered Semantics'
 templateKey: blog-post
 date: 2012-02-22T15:48:51.000Z
-category: Drupal, SEM and SEO, Strategy
+category: 
+  -Drupal, SEM and SEO, Strategy
 alias: review-acquia-webinar-profiting-drupal-powered-semantics
 summary: > 
  Back in June of last year when Google, Bing and Yahoo! introduced Schema.org I wrote about how it would be a game changer for the semantic web. The problem was that it was difficult at best to implement semantic vocabulary on a website, even in Drupal 7. But that has all changed now.

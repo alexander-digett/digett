@@ -2,7 +2,8 @@
 title: 'Back to Basics: Your Social Media Followers are People '
 templateKey: blog-post
 date: 2012-11-28T15:44:39.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: back-basics-your-social-media-followers-are-people
 summary: > 
  You already know there’s power in social media. You’ve heard it sung from the rafters at luncheons and Chamber breakfasts. Long-ago you claimed accounts on the most popular platforms. You get it. That doesn’t mean it’s easy or simple to get right.

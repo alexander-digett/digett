@@ -2,7 +2,8 @@
 title: 'Should Social Media Posting be Grounds for Firing?'
 templateKey: blog-post
 date: 2012-05-21T15:53:59.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: should-social-media-posting-be-grounds-firing
 summary: > 
  Earlier this year CFO Gene Morphis was fired for posting comments about board meetings, earnings calls, and other company-related activities on his public Twitter and Facebook accounts. The line between business and personal has blurred, sometimes with negative consequences.

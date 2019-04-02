@@ -2,7 +2,8 @@
 title: 'My site is broken! How to talk to developers to get help fast.'
 templateKey: blog-post
 date: 2012-01-05T18:26:00.000Z
-category: Clients, Our Industry, Tools of the Trade
+category: 
+  -Clients, Our Industry, Tools of the Trade
 alias: my-site-broken-how-talk-developers-get-help-fast
 summary: > 
  "My site is broken" is one of the worst phrases in the universe. Horrible for you, Ms. Client, because you’re faced with frazzled technology you’re unable to fix yourself. It stinks for web developers too because it’s normally not enough information to allow them to help you promptly.

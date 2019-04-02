@@ -2,7 +2,8 @@
 title: 'Custom Web Design Versus Budget'
 templateKey: blog-post
 date: 2011-08-23T06:57:09.000Z
-category: Design
+category: 
+  -Design
 alias: custom-web-design-versus-budget
 summary: > 
  Good things take time and a good, custom web design is no exception. I'm constantly torn between needing time to get it right and needing to wrap it up for the sake of budget.

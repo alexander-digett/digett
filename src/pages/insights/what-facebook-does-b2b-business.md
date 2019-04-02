@@ -2,7 +2,8 @@
 title: 'What Facebook Does for B2B Business'
 templateKey: blog-post
 date: 2013-02-12T16:42:36.000Z
-category: Branding, Strategy
+category: 
+  -Branding, Strategy
 alias: what-facebook-does-b2b-business
 summary: > 
  Both in business and at home, Facebook continues to be the talk of the town. With over a billion interactions, a devalued IPO, Facebook Insights, and what may prove to be the "new" way to search, Facebook continues to hold our attention.

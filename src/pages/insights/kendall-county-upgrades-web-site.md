@@ -2,7 +2,8 @@
 title: 'Kendall County Upgrades Web Site'
 templateKey: blog-post
 date: 2008-04-01T05:00:00.000Z
-category: Clients
+category: 
+  -Clients
 alias: kendall-county-upgrades-web-site
 summary: > 
  Kendall County, Texas launched their new web site last week. From the project's inception, we knew we had to deliver a site that was friendly to both the broad audience that would ultimately benefit from it as well as the county staff members who would be updating it. 

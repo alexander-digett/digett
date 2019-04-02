@@ -2,7 +2,8 @@
 title: 'Digett Reaches Milestone in Process Development'
 templateKey: blog-post
 date: 2007-09-13T05:00:00.000Z
-category: Digett, Tools of the Trade
+category: 
+  -Digett, Tools of the Trade
 alias: digett-reaches-milestone-process-development
 summary: > 
  Today marks a significant milestone in Digett's development as an up-and-coming heavy hitter in the web consulting world. We deployed our very first usable version of what is to become our home-grown process automation and project management tool, built on -- you guessed it -- the Drupal framework.

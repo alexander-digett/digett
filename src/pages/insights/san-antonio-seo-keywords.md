@@ -2,7 +2,8 @@
 title: 'San Antonio SEO: Keywords'
 templateKey: blog-post
 date: 2011-05-10T19:17:30.000Z
-category: Digett, San Antonio, SEM and SEO
+category: 
+  -Digett, San Antonio, SEM and SEO
 alias: san-antonio-seo-keywords
 summary: > 
   	A major component to search engine optimization (SEO) is choosing the right keywords around which to develop your content strategy. A keyword is a word or phrase that your customer might enter into a search engine (ex. Google) to find your company and others like it.

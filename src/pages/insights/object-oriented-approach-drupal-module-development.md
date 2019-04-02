@@ -2,7 +2,8 @@
 title: 'An Object-Oriented Approach for Drupal Module Development'
 templateKey: blog-post
 date: 2010-04-26T14:52:09.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: object-oriented-approach-drupal-module-development
 summary: > 
  Now that I have been here for more than a month, I have had a solid opportunity to really dive into the inner workings of Drupal. Coming from a background where I worked with object-oriented programming and the MVC design pattern (model, view, controller), it has been a little overwhelming to get a grasp on exactly how Drupal is organized. I am used to a very clear separation of concerns that the MVC design pattern affords when using popular frameworks such as CodeIgniter and CakePHP. While there is a tool named Movico, which is essentially an MVC approach for structuring a Drupal module, I have yet to fully wrap my brain around how it interacts with Drupal.

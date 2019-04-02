@@ -3,6 +3,7 @@ title: '4 Challenges With a Webforms Project, Part III'
 templateKey: blog-post
 date: 2014-11-18T17:33:19.000Z
 category: 
+  -
 alias: 4-challenges-webforms-project-part-iii
 summary: > 
  Welcome to the third part of my in-depth look at customizing some default behavior from Webforms. Part I can be found here and Part II here, and today we'll be talking about some challenges and solutions to client-side validation.

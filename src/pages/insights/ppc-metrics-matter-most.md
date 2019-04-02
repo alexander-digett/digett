@@ -2,7 +2,8 @@
 title: 'The PPC Metrics That Matter Most'
 templateKey: blog-post
 date: 2011-12-05T15:39:40.000Z
-category: Analytics, SEM and SEO
+category: 
+  -Analytics, SEM and SEO
 alias: ppc-metrics-matter-most
 summary: > 
  I spend a lot of time analyzing and explaining Pay-per-click metrics like impressions, clicks, and cost. These are important factors, but you need to dig deeper when determining a campaign’s success. Here’s the four metrics that really matter in PPC.

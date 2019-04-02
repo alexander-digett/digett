@@ -2,7 +2,8 @@
 title: 'The Case for Upgrading Your Drupal Website'
 templateKey: blog-post
 date: 2011-08-31T14:27:19.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: case-upgrading-your-drupal-website
 summary: > 
  Drupal is robust and heavily tested, so the sites we built a few years back—on Drupal 5 or even Drupal 4.7—are still running like champs. That makes it hard sometimes to explain why a client would want to spend the money to upgrade their site to Drupal 6 or 7.

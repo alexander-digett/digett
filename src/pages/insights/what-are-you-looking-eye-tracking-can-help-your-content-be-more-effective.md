@@ -2,7 +2,8 @@
 title: 'What are you looking at? Eye Tracking can help your content be more effective.'
 templateKey: blog-post
 date: 2011-12-30T16:20:03.000Z
-category: Design, UX Design
+category: 
+  -Design, UX Design
 alias: what-are-you-looking-eye-tracking-can-help-your-content-be-more-effective
 summary: > 
  My favorite type of data in the world of user interface design/user experience is Eye Tracking. An Eye Tracking study tells us where people look. It can tell us the order that information is scanned and it can display a heat map to show where a sample of web visitors looked on your web page. Eye Tracking can be used for web content, print media, product packaging and anything else where you want to measure what is being seen. The image to the right shows the difference in search behavior from 2005 to 2008. The data shows that people have learned to scan Google and not read every item.

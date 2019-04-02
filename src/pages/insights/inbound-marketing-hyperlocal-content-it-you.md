@@ -2,7 +2,8 @@
 title: 'Inbound Marketing with Hyperlocal Content, is it for you?'
 templateKey: blog-post
 date: 2011-06-03T18:14:45.000Z
-category: Inbound Marketing, Market Targeting, Strategy
+category: 
+  -Inbound Marketing, Market Targeting, Strategy
 alias: inbound-marketing-hyperlocal-content-it-you
 summary: > 
   	While talking to business owners and marketers lately, I have noticed the term "hyperlocal" coming up with greater frequency. Hyperlocal content is content which has a myopic focus on a specific locale, typically smaller than a metropolitan area; in San Antonio, a hyperlocal piece might focus on Alamo Heights, a small affluent municipality located completely within San Antonio city limits.

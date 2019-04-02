@@ -2,7 +2,8 @@
 title: 'Cooking up a Homemade Drupal Theme'
 templateKey: blog-post
 date: 2009-11-30T20:29:31.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: cooking-homemade-drupal-theme
 summary: > 
  Drupal themers are like cooks. We use common components (contributed modules) as a starting point for successful websites. Cooks also use common components—tried and true ingredients (salt, pepper, garlic, onions, etc.)—as the base for delicious recipes. The fruits of our labors are robust and flavorful. But somewhere in this busy world, saving time has taken priority.

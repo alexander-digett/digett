@@ -2,7 +2,8 @@
 title: 'Fresh Team Members, Fresh Paint at Digett'
 templateKey: blog-post
 date: 2007-12-20T06:00:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: fresh-team-members-fresh-paint-digett
 summary: > 
  Success is bringing exciting changes to Digett. Not only have we added four new professionals to our team in the last five months, we’re giving the office a facelift, too.

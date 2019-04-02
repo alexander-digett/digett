@@ -2,7 +2,8 @@
 title: 'Content Governance for the Common Concern'
 templateKey: blog-post
 date: 2010-04-01T19:24:14.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: content-governance-common-concern
 summary: > 
  Of all the principles of content strategy, governance seems to be the one treated most as an afterthought. Strategy firms/agencies don't perform it (typically), large businesses want the technology to do it (automatically), and small businesses don't want to spend any money on it (tragically). I'm part of the first and I don't often work with the second, so I'll address only the third: Whatever your resources, good content governance is possible.

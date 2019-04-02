@@ -2,7 +2,8 @@
 title: 'Marketing That Marketers Love to Hate'
 templateKey: blog-post
 date: 2009-05-14T18:39:07.000Z
-category: Marketing, Our Industry
+category: 
+  -Marketing, Our Industry
 alias: marketing-marketers-love-hate
 summary: > 
  While conducting research for our last newsletter about surefire ways to irritate customers and prospects, I decided to conduct a small experiment on my marketing brethren. We're generally good at telling our clients how to reach customers, but what happens when we're the customers?

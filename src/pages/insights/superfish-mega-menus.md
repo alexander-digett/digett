@@ -2,7 +2,8 @@
 title: 'Superfish Mega Menus'
 templateKey: blog-post
 date: 2013-02-19T17:42:24.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: superfish-mega-menus
 summary: > 
  Early last year, we discussed a few of the available solutions for building mega menus in Drupal 7. At that time, the method for building a Simple Mega Menu required doing some calculations and applying that logic using CSS. Now we have an even easier method available via the Superfish module.

@@ -2,7 +2,8 @@
 title: 'Say Hi to Digett’s Spring 2014 Interns!'
 templateKey: blog-post
 date: 2014-02-04T15:20:56.000Z
-category: Digett
+category: 
+  -Digett
 alias: say-hi-digetts-spring-2014-interns
 summary: > 
  Our internship program is in its third semester, and we’re happy to have a great group of ladies with us this spring. Their first day was in January, and we’ve already got them involved in numerous client projects.

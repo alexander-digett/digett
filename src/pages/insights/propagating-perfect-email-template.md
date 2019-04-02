@@ -2,7 +2,8 @@
 title: 'Propagating the Perfect Email Template'
 templateKey: blog-post
 date: 2010-06-30T16:16:06.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: propagating-perfect-email-template
 summary: > 
  If we had more room in our header areas, I'd tack "for you" onto the end—that's one of the crucial points of this post, after all. In the course of doing what I do, I come across all kinds of email templates, and one truth emerges: the perfect email template is what works best for your organization and your readers. There's no one-size-fits-all solution. Finding your own sweet spot, however, can be challenging. And while I was fully prepared to dive into the research and present some high-falutin' scientific evidence for your edification, I figured show-and-tell might be more meaningful. Let's take a look at some examples—two created by Digett, one not—that work.

@@ -2,7 +2,8 @@
 title: 'Internet Marketing in San Antonio'
 templateKey: blog-post
 date: 2011-03-23T18:31:31.000Z
-category: Marketing, San Antonio
+category: 
+  -Marketing, San Antonio
 alias: internet-marketing-san-antonio
 summary: > 
   	If you search for Internet marketing on google you will find everything from get rich quick schemes to established marketing agencies. But if you are a small to medium size business in San Antonio, TX with a brick and mortar location, what should Internet marketing mean to your business?

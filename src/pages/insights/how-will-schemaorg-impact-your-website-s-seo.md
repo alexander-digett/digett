@@ -2,7 +2,8 @@
 title: 'How will schema.org impact your website’s SEO?'
 templateKey: blog-post
 date: 2011-06-08T21:52:49.000Z
-category: Our Industry, SEM and SEO
+category: 
+  -Our Industry, SEM and SEO
 alias: how-will-schemaorg-impact-your-website-s-seo
 summary: > 
   	The big 3 search engines announced a new initiative on June 2, 2011 to support a common vocabulary for structured data on web pages. Schema.org is the site where the semantic web vocabulary is documented by Google, Bing, &amp; Yahoo.

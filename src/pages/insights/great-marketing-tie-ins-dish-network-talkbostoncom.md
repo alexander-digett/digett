@@ -2,7 +2,8 @@
 title: 'Great Marketing Tie-Ins: Dish Network &amp; TalkBoston.com'
 templateKey: blog-post
 date: 2013-08-27T16:04:00.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: great-marketing-tie-ins-dish-network-talkbostoncom
 summary: > 
  I’m a sucker for great marketing campaign tie-ins; it’s fun to see all the ingenious ways companies advertise, plus it’s a great way to get my own creative ideas flowing. The latest inspiration comes from Dish Network, who’s taken the campaign for its DVR system to ridiculous heights with TalkBoston.com.

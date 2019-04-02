@@ -2,7 +2,8 @@
 title: 'Trials and Tribulations in Blog Maintenance'
 templateKey: blog-post
 date: 2010-05-06T19:20:28.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: trials-and-tribulations-blog-maintenance
 summary: > 
  One of the more challenging aspects of content governance is maintaining a blog, particularly if it's well-established and contains years worth of posts. Trust me on this one; as part of my role as guardian of Digett's content, I've been auditing and maintaining a half-decade's worth of blog posts from more than 10 authors. Invariably, the emotional response to this activity tends to range from: Wow, that post was insightful, straightforward, and written in something approximating proper English. Sweet Caroline, what were we thinking?!? 

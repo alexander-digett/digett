@@ -2,7 +2,8 @@
 title: 'For Better or Worse? Social Media ROI Measurement is Changing'
 templateKey: blog-post
 date: 2013-11-06T14:54:39.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: better-or-worse-social-media-roi-measurement-changing
 summary: > 
  Once in a job interview I was asked, "How should companies measure return on investment of social media?" It’s the query of the decade, and the answer varies depending on who you ask. But recently companies have been moving away from traditional measurements and toward things like brand awareness and customer relations.

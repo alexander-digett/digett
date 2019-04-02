@@ -2,7 +2,8 @@
 title: 'How can my website bring me more business?'
 templateKey: blog-post
 date: 2011-07-14T14:20:03.000Z
-category: Inbound Marketing, Marketing, Strategy
+category: 
+  -Inbound Marketing, Marketing, Strategy
 alias: how-can-my-website-bring-me-more-business
 summary: > 
  How much business was generated from your website in the last month? Did your website, your number one marketing tool, your 24/7 salesperson to the world, bring you new customers?

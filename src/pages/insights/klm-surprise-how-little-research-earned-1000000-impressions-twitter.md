@@ -2,7 +2,8 @@
 title: 'KLM Surprise: How a Little Research Earned 1,000,000 Impressions on Twitter'
 templateKey: blog-post
 date: 2011-01-11T15:10:15.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: klm-surprise-how-little-research-earned-1000000-impressions-twitter
 summary: > 
  In November 2010 the international airline KLM surprised its customers: As passengers arrived at security checkpoints and gates, flight attendants were there to greet them by name and give them a personalized gift — something that the passenger could use on his or her trip, or enjoy when they returned home.

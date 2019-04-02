@@ -2,7 +2,8 @@
 title: 'Winning Customers: Content vs. Conversions?'
 templateKey: blog-post
 date: 2012-05-29T14:22:02.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: winning-customers-content-vs-conversions
 summary: > 
  No matter your business, the goal is the same: your customer has a problem, and you need to convince them that your solution is the best. Hence many marketers’ advocacy of creating helpful content that draws your prospects to your solution. But when it comes to content creation and actual conversions, are you robbing Peter to pay Paul?

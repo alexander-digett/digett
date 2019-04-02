@@ -2,7 +2,8 @@
 title: 'Dealing with the Ever-Changing Faces of Facebook'
 templateKey: blog-post
 date: 2009-12-31T15:13:29.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: dealing-ever-changing-faces-facebook
 summary: > 
  As I write, the clock has yet to chime midnight on December 31; however, all indications are that 2009 was the Year of Facebook, for both personal and business communication. The five-year-old social network has become a behemoth of users and capital, and marketers like myself have been forced to spend hours wading through silly farm games and virtual Yankee Candle giveaways to better understand how the service may be used by our clients.

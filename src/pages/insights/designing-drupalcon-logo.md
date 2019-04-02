@@ -2,7 +2,8 @@
 title: 'Designing a Drupalcon Logo'
 templateKey: blog-post
 date: 2008-01-18T06:00:00.000Z
-category: Design, Drupal
+category: 
+  -Design, Drupal
 alias: designing-drupalcon-logo
 summary: > 
  My name is Andrew and I confess, I have never blogged. I might be the only person in the office to have never blogged before now. You can understand that I feel a certain amount of pressure to do a good job, though I doubt there's a standard by which blog posts are measured.

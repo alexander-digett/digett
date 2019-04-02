@@ -2,7 +2,8 @@
 title: 'Giving Your Content Wings - Part III'
 templateKey: blog-post
 date: 2011-07-18T14:55:25.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: giving-your-content-wings-part-iii
 summary: > 
  If the answer to the questions, "Is my content findable?" and “Is my content accessible?” is yes, then you’re ready to proceed to the final step of giving your content wings: making your content easy to share.

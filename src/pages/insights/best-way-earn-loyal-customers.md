@@ -2,7 +2,8 @@
 title: 'The Best Way to Earn Loyal Customers'
 templateKey: blog-post
 date: 2014-07-08T14:28:11.000Z
-category: Branding, Marketing
+category: 
+  -Branding, Marketing
 alias: best-way-earn-loyal-customers
 summary: > 
  Loyal customers are hard to come by and harder to keep. Dropping a disliked product or service for a better one is easier than ever, and the onus is on companies to make their customers’ experiences as consistently positive as possible. What’s the best way to do this? The answer may be simpler than you think.

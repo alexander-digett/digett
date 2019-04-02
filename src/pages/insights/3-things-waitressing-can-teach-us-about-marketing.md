@@ -2,7 +2,8 @@
 title: '3 Things Waitressing Can Teach Us About Marketing'
 templateKey: blog-post
 date: 2014-09-19T19:53:26.000Z
-category: Branding, Marketing
+category: 
+  -Branding, Marketing
 alias: 3-things-waitressing-can-teach-us-about-marketing
 summary: > 
  Waitresses are the face of your restaurant experience from the moment you take a seat. Simple mistakes (like onions on your burger) can ruin the atmosphere of an entire meal, while great service can uplift an evening. 

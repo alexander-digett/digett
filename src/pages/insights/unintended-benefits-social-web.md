@@ -2,7 +2,8 @@
 title: 'The Unintended Benefits of the Social Web'
 templateKey: blog-post
 date: 2009-05-29T15:21:46.000Z
-category: Marketing, Our Industry
+category: 
+  -Marketing, Our Industry
 alias: unintended-benefits-social-web
 summary: > 
  By now, you've probably heard about Amazon's infamous wolf shirt and its hilarious customer reviews. After all, more than a few media outlets have picked up on the story; it's attained that mythical "viral" status folks talk about in awed tones. The kicker? The shirt's manufacturers are getting the last laugh—because sales have shot up 2,300 percent since the story broke.

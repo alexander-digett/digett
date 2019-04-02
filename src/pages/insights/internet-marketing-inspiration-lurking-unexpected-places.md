@@ -2,7 +2,8 @@
 title: 'Internet marketing inspiration lurking in unexpected places'
 templateKey: blog-post
 date: 2011-04-21T15:13:11.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: internet-marketing-inspiration-lurking-unexpected-places
 summary: > 
   	There’s a horribly ridiculous saying that there is no such thing as an original idea. Every thing that’s ever going to be thought has already been thought? Please.

@@ -2,7 +2,8 @@
 title: '5 fool-proof ways to get more people reading your web copy'
 templateKey: blog-post
 date: 2011-06-16T19:17:39.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: 5-fool-proof-ways-get-more-people-reading-your-web-copy
 summary: > 
   	Do you ever wonder if your customers actually read all the copy you worked so hard to write for your website?  	While you can’t force your website visitors to read what you’ve written, there are several tips and tricks you can follow that will increase the readability of your text and lure readers in.

@@ -2,7 +2,8 @@
 title: 'CiviCRM and Drupal, the dream team!'
 templateKey: blog-post
 date: 2012-04-26T16:14:57.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: civicrm-and-drupal-dream-team
 summary: > 
  I'm just going to get this out of the way: CiviCRM is complex. Of course, it is complex. We are not comparing CiviCRM to a simple blogging platform or little piece of software to perform a simple task. 

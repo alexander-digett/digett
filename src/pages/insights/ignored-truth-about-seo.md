@@ -2,7 +2,8 @@
 title: 'The Ignored Truth About SEO'
 templateKey: blog-post
 date: 2011-10-05T13:34:11.000Z
-category: SEM and SEO, Strategy
+category: 
+  -SEM and SEO, Strategy
 alias: ignored-truth-about-seo
 summary: > 
  Search Engine Optimization is an industry clouded in mystery and intrigue; ask 100 SEO professionals about PageRank, Link Juice, Link Bait, Panda, or keyword frequency and you’ll likely get 100 different answers. Google and the other search engines closely guard their formulas for getting search rank, yet every SEO shop claims to know the secret formula to get your business on the first page of results.

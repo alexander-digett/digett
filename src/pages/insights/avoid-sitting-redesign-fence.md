@@ -2,7 +2,8 @@
 title: 'Avoid Sitting on the Redesign Fence'
 templateKey: blog-post
 date: 2008-12-23T23:08:06.000Z
-category: Clients, Marketing
+category: 
+  -Clients, Marketing
 alias: avoid-sitting-redesign-fence
 summary: > 
  In one of our first meetings during which we discussed potential designs for their website, Flying Circle Bags (FCB) divulged that they've gone through at least three pretty radically different logos in their nearly 18 years. As FCB owner Jimmy Chittim likes to say, there's no bad time to change a logo. That's an attitude we love to see, because there truly isn't ever a bad time to re-evaluate the effectiveness of any of your marketing tools.

@@ -2,7 +2,8 @@
 title: 'The New McMillinHomes.com'
 templateKey: blog-post
 date: 2009-06-30T17:24:23.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-mcmillinhomescom
 summary: > 
  There's a lot of information to consider when choosing a new home and a home builder. With the new McMillinHomes.com, we wanted that information to be easily accessible and organized for the user and easily updatable, for accuracy, for the client. Then we wrapped it all in a look and feel that speaks both to the trustworthiness and modernity of the organization. McMillin Homes builds custom homes in several cities in central and southern California and in San Antonio, Texas. Digett created a website for the San Antonio division back in 2005, but this time around, McMillin wanted to unify their web presence and include all their cities and corporate information in a single website. The increased complexity of a site that encompasses 10 or more cities, combined with the amount of information to include, posed a few challenges that had to be addressed:

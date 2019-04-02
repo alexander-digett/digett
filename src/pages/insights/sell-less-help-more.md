@@ -2,7 +2,8 @@
 title: 'Sell Less, Help More'
 templateKey: blog-post
 date: 2012-08-28T15:36:21.000Z
-category: Inbound Marketing, Strategy
+category: 
+  -Inbound Marketing, Strategy
 alias: sell-less-help-more
 summary: > 
  As a sales and marketing professional, your job is to attract and retain customers using every tool available: television spots, direct mail, cold calling, etc. Buzz about blogging and social media is huge, but all you can think is, "I’m already marketing. Why do I need content marketing?"

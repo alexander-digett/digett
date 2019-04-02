@@ -2,7 +2,8 @@
 title: 'Custom Icon Set: Free Download'
 templateKey: blog-post
 date: 2011-07-06T15:13:29.000Z
-category: Design
+category: 
+  -Design
 alias: custom-icon-set-free-download
 summary: > 
  I've written recently about icons in web design, a trend that doesn't appear to be going out of style anytime soon. With sites like iStockPhoto.com and IconFinder.com offering thousands for download, it's clear there is no shortage of icons depicting any subject.

@@ -2,7 +2,8 @@
 title: 'Building a Case for a Content Audit'
 templateKey: blog-post
 date: 2010-02-23T18:19:41.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: building-case-content-audit
 summary: > 
  I'm a bit of a book addict, to my wife's chagrin; like wire hangers in an empty closet, books tend to multiply in my home. Moreover, I almost never get rid of any of them, and my ad-hoc organization schemes have failed to bring any semblance of order to my little library. Online content tends to suffer from the same morass of proliferation and fragmentation, and the situation is only getting worse. Ten years ago, your business had a static website and a stray directory profile; today, it's a dynamic, CMS-based site with multiple blogs, a YouTube channel, Twitter account, Facebook page, and [insert online-flavor-of-the-month] presence.

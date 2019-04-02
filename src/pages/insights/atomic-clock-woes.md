@@ -2,7 +2,8 @@
 title: 'Atomic Clock Woes'
 templateKey: blog-post
 date: 2007-03-13T05:00:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: atomic-clock-woes
 summary: > 
  On Monday we noticed that the atomic clock on the wall in our reception area was off one hour; a victim, no doubt, of the bizarre change in when we implement daylight savings time in this country. No sweat. I just pushed the "ET", or "eastern time", button, and fooled it into showing the correct time. Okay, so I'm reaching for something interesting here.

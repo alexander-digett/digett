@@ -2,7 +2,8 @@
 title: 'When Content is Mightier Than Placement'
 templateKey: blog-post
 date: 2008-12-15T21:12:57.000Z
-category: SEM and SEO, Tools of the Trade
+category: 
+  -SEM and SEO, Tools of the Trade
 alias: when-content-mightier-placement
 summary: > 
  I've always been a big fan of Berkeley Breathed's Bloom County, the comic strip that introduced Opus the Penguin and taught us that 12-year-olds could find humor in subtle political satire. One of my favorite quotes from the strip, uttered by Opus himself, was "You can lead a yak to water, but you can't teach an old dog how to make a silk purse out of a pig in a poke."

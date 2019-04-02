@@ -2,7 +2,8 @@
 title: 'Email Marketing: The Dos and Don&#039;ts of Email Subject Lines...'
 templateKey: blog-post
 date: 2010-12-30T15:43:42.000Z
-category: Branding, Strategy
+category: 
+  -Branding, Strategy
 alias: email-marketing-dos-and-donts-email-subject-lines
 summary: > 
  The subject line of your email marketing campaign is an opportunity to make an impression -- and since the average user decides in 2 - 5 seconds if your email is worth a click, that impression needs to be a good one.

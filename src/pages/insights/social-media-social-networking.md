@@ -2,7 +2,8 @@
 title: 'Social Media as Social Networking'
 templateKey: blog-post
 date: 2011-03-30T22:35:16.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: social-media-social-networking
 summary: > 
   	I recently started reading Gary Vaynerchuk’s newest book, The Thank You Economy. Only five pages into the book he has a section entitled "Social Media Is More Than Media..." that stopped me in my tracks.

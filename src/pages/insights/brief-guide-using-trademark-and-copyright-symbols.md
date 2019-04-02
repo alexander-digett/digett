@@ -2,7 +2,8 @@
 title: 'A Brief Guide to Using Trademark and Copyright Symbols'
 templateKey: blog-post
 date: 2010-05-27T15:33:45.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: brief-guide-using-trademark-and-copyright-symbols
 summary: > 
  As the resident Lionel Hutz here at Digett, I occasionally get asked about trademark and copyright issues — or, to be specific, the use of the symbols representing those concepts in design and copy elements. What I've found is that the questions remain the same from party to party, so I thought it might be helpful to cover some basic ground on the why, when, and how of using trademark and copyright symbols.

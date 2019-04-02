@@ -2,7 +2,8 @@
 title: '3 Easy Wins that Make Life with Drupal Easier'
 templateKey: blog-post
 date: 2013-04-02T16:14:54.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: 3-easy-wins-make-life-drupal-easier
 summary: > 
  Easy cheesy! Here are three quick wins you can add to your Drupal site to make your life easier today.

@@ -2,7 +2,8 @@
 title: 'Sidestep Two Simple Communication Follies'
 templateKey: blog-post
 date: 2010-07-06T21:28:40.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: sidestep-two-simple-communication-follies
 summary: > 
  Miscommunication, my friends, can lead to embarrassing results. While writing for my college newspaper, I found myself covering the landfall of hurricane Katrina (from afar). The story, the focus of the front page, quoted speculation from experts that Katrina could be the most costly hurricane in United States history. "Early estimates," I wrote, “place costs upwards of $25 dollars.” Go ahead, read that again. Indeed, it says that the natural disaster would cost no more than a Jackson and a Lincoln. 

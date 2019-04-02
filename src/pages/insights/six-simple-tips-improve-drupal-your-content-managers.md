@@ -2,7 +2,8 @@
 title: 'Six simple tips to improve Drupal for your content managers'
 templateKey: blog-post
 date: 2013-09-11T14:12:18.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: six-simple-tips-improve-drupal-your-content-managers
 summary: > 
  During a website project there are distinct phases that allow us to plan for the various audiences of a website. In this process, I have often seen an audience omitted: content managers. We need to ensure we are also weighing the needs and expectations of the content manager when we build a site. Remember content managers are an audience too.

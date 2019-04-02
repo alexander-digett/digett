@@ -2,7 +2,8 @@
 title: 'If Your Google Analytics Isn’t Customized, You’re Doing it Wrong'
 templateKey: blog-post
 date: 2014-06-11T13:36:41.000Z
-category: Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
+category: 
+  -Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
 alias: if-your-google-analytics-isnt-customized-youre-doing-it-wrong
 summary: > 
  Google Analytics is a wonderful tool that offers a plethora of data and undoubtedly the most ubiquitous web analytics tool out there. With all of that data, it makes it incredibly easy to lose the signal through the noise — the less important metrics can easily overshadow your actionable insights. If you aren’t using custom segments or reports, you’re losing the signal.

@@ -2,7 +2,8 @@
 title: 'Web Design: The Anatomy of a Footer'
 templateKey: blog-post
 date: 2011-09-20T14:18:11.000Z
-category: Design
+category: 
+  -Design
 alias: web-design-anatomy-footer
 summary: > 
  Last week I wrote about the anatomy of a header, an important piece to the website puzzle. This week, I want to scroll down to the bottom of the page and take a look at what makes up a footer.

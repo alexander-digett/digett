@@ -2,7 +2,8 @@
 title: 'An update is coming to Facebook, how are you impacted?'
 templateKey: blog-post
 date: 2011-08-26T19:29:58.000Z
-category: Inbound Marketing, SEM and SEO, Social Media
+category: 
+  -Inbound Marketing, SEM and SEO, Social Media
 alias: update-coming-facebook-how-are-you-impacted
 summary: > 
  Facebook is in the process of rolling out changes to its service.  These changes give you more control over privacy settings. Here is a quick list of changes and some thoughts on their impact:

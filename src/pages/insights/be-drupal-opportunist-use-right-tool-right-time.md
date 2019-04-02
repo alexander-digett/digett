@@ -2,7 +2,8 @@
 title: 'Be a Drupal opportunist. Use the right tool at the right time.'
 templateKey: blog-post
 date: 2011-10-14T14:59:19.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: be-drupal-opportunist-use-right-tool-right-time
 summary: > 
  Drupal is a powerful content management system. I sometimes joke with clients that I've used every CMS out there but I landed on Drupal because of its flexibility and power. The truth is, I'm an opportunist; I pull together a suite of solutions based on budget and requirements. Sometimes I may do everything in Drupal. Sometimes, however, I may pull in a different solution even though Drupal could do it too. I use Drupal as the foundation, but other products can be integrated. I think everyone should try working this way. Don't spend hours and hours to get Drupal to do something when there is a great product right next to you.

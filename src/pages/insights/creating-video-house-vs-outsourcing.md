@@ -2,7 +2,8 @@
 title: 'Creating Video: In-House vs. Outsourcing'
 templateKey: blog-post
 date: 2013-10-02T14:11:17.000Z
-category: Marketing, Video
+category: 
+  -Marketing, Video
 alias: creating-video-house-vs-outsourcing
 summary: > 
  At this point I believe the question of whether or not video is valuable to businesses has been answered (spoilers: it is). Now companies must decide how that content should be created: in-house by existing employees, or outsourced to a professional.

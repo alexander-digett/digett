@@ -2,7 +2,8 @@
 title: 'Sorry to Interrupt, But Let&#039;s Talk Strategy '
 templateKey: blog-post
 date: 2014-03-11T13:35:11.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: sorry-interrupt-lets-talk-strategy
 summary: > 
  As the Internet and business worlds continue integrating, many businesses are switching from outbound (or "interruption") marketing to inbound marketing, which provides businesses with an effective way to organically attract customers and build lasting relationships.

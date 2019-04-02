@@ -2,7 +2,8 @@
 title: 'Personas: Under the Hood'
 templateKey: blog-post
 date: 2013-01-16T17:42:43.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: personas-under-hood
 summary: > 
  The great and challenging thing about companies are their differences. Even companies with commonality in an overall industry differ in their products, their technology focus, and their target audience. And taking it one step further, each persona within each audience differs, and companies need to know what their prospects need and how to engage them.

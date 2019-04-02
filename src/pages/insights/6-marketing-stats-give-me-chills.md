@@ -2,7 +2,8 @@
 title: '6 Marketing Stats That Give Me Chills'
 templateKey: blog-post
 date: 2013-10-30T14:05:15.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 6-marketing-stats-give-me-chills
 summary: > 
  Although I’m frightened by the standard scary stuff as everyone else (haunted houses, demon possessions, small talk at networking events), as a marketer I’m also confronted daily by facts that make my hair stand on end.

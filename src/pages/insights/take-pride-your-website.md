@@ -2,7 +2,8 @@
 title: 'Take Pride in Your Website'
 templateKey: blog-post
 date: 2010-06-07T22:02:37.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: take-pride-your-website
 summary: > 
  I recently bought a house, and as the fleeting satisfaction of home ownership wears away, I realize that it's a lot of work. I've got to furnish it, keep it clean, and keep it functioning, or it becomes more of a burden than an American dream. The same can be said for your website.  I feel like the majority of clients are very excited about the idea of their new Drupal website until they realize that this robust content management system actually requires content management. It pains me to see sites out there that have been poorly managed or just outright neglected.

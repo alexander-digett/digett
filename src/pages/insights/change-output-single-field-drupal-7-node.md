@@ -2,7 +2,8 @@
 title: 'Change the Output of a Single Field on a Drupal 7 Node'
 templateKey: blog-post
 date: 2012-01-18T16:31:01.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: change-output-single-field-drupal-7-node
 summary: > 
  Overriding the output of an individual field on a node can be done by overriding the node template, but it sure does feel like overkill for just one field. Sometimes it would be great to just override the field itself without touching the field values in the database.

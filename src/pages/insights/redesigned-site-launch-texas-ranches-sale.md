@@ -2,7 +2,8 @@
 title: 'Redesigned Site Launch for Texas Ranches for Sale'
 templateKey: blog-post
 date: 2014-08-27T14:53:06.000Z
-category: Clients
+category: 
+  -Clients
 alias: redesigned-site-launch-texas-ranches-sale
 summary: > 
  Texas Ranches for Sale, a brokerage firm, markets and locates quality ranches throughout South Texas, the Texas Hill Country and beyond. The new website for Texas Ranches for Sale provides a mobile-friendly, streamlined experience aimed at increasing conversions.

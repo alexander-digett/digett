@@ -2,7 +2,8 @@
 title: 'Yelp Adds Warnings to Businesses Caught Buying Reviews'
 templateKey: blog-post
 date: 2012-10-23T13:50:10.000Z
-category: Branding, Social Media
+category: 
+  -Branding, Social Media
 alias: yelp-adds-warnings-businesses-caught-buying-reviews
 summary: > 
  With paid reviews on the rise, it was only a matter of time until investigations began. Earlier this month Yelp conducted a sting operation, and the result is nothing but bad news for eight businesses.

@@ -2,7 +2,8 @@
 title: 'Content Marketing Lessons from 1888'
 templateKey: blog-post
 date: 2013-12-10T14:40:07.000Z
-category: Market Targeting, Marketing, Strategy
+category: 
+  -Market Targeting, Marketing, Strategy
 alias: content-marketing-lessons-1888
 summary: > 
  With its signature yellow border and glossy pages, National Geographic is a staple of every classroom and magazine basket in America, but its beginnings are humble. In order to make the magazine a success, its founders and writers had to get creative — and their tactics sound familiar…

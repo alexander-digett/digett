@@ -2,7 +2,8 @@
 title: 'Why Dropping Your Blog for Facebook is a Bad Idea'
 templateKey: blog-post
 date: 2012-04-30T14:16:43.000Z
-category: Blogging, Social Media, Strategy
+category: 
+  -Blogging, Social Media, Strategy
 alias: why-dropping-your-blog-facebook-bad-idea
 summary: > 
  Last week I tweeted out a USA Today article with some statistics on why companies are quitting blogging in favor of social media. I’m glad to see companies embracing new technologies, but troubled by their reasons for abandoning blogging — and the possible ramifications of that abandonment.

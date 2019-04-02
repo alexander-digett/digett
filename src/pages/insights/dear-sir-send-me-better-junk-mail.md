@@ -2,7 +2,8 @@
 title: 'Dear Sir, Send Me Better Junk Mail'
 templateKey: blog-post
 date: 2009-01-28T17:14:23.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: dear-sir-send-me-better-junk-mail
 summary: > 
  Dear direct marketer: I recently became a homeowner, and I couldn't be happier with the purchase. Yes, after years of bunking down in apartments, duplexes, and rented houses—not to mention one brief stint in a converted garage (thanks, Ma!)—I get to come home to my own place. I've found, however, that owning a home presents unique frustrations, problems that go beyond the expected and have implications for what I do for a living.

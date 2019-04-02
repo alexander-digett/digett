@@ -3,6 +3,7 @@ title: 'Eliminating IT Services Competition through Differentiation'
 templateKey: blog-post
 date: 2018-05-28T13:52:18.000Z
 category: 
+  -
 alias: eliminating-it-services-competition-through-differentiation
 summary: > 
  How many times have you lost an opportunity to a competitor? It’s happened to me countless times over the years, and it never feels good. It’s even worse when I’ve invested hours—sometimes way too many—into crafting the perfect proposal, sometimes while ignoring the knot in my stomach arising from something my subconscious mind is telling me. My subconscious seems to know that my efforts are in vain, while my conscious brain powers on blindly. "What alternative is there?", I might have asked myself, to wasting countless hours on deals that never happen.

@@ -2,7 +2,8 @@
 title: 'A First Look at Drupal Commerce: More Than a Module'
 templateKey: blog-post
 date: 2012-04-25T15:45:46.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: first-look-drupal-commerce-more-module
 summary: > 
  Last week we were evaluating solutions for a client and I had the opportunity to install and test Drupal Commerce (DC) for the first time. Digett and I both have a long history of Ubercart use, but since we made the move to Drupal 7 in the middle of last year none of our new website builds have needed a full shopping cart system.

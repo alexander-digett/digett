@@ -2,7 +2,8 @@
 title: 'New Site Launched: SightMind'
 templateKey: blog-post
 date: 2008-04-30T05:00:00.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launched-sightmind
 summary: > 
  San Francisco-based Internet Protocol Video Surveillance (IPVS) and security experts, SightMind, delivers high-tech, custom solutions for local governments, schools and businesses nation-wide.

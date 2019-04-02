@@ -2,7 +2,8 @@
 title: 'Marketing With Social Media, Part One: They Call it Twitter'
 templateKey: blog-post
 date: 2008-09-02T05:00:00.000Z
-category: Marketing, Our Industry, Tools of the Trade
+category: 
+  -Marketing, Our Industry, Tools of the Trade
 alias: marketing-social-media-part-one-they-call-it-twitter
 summary: > 
  Perhaps the hardest thing about taking the plunge into social media is choosing the right avenues. There are hundreds of services out there, and it's hard to know where to start—especially since you don't want to invest time and resources in something that's ineffective. Thankfully, there is an easy way to test the waters, and it's called Twitter. 

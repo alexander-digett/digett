@@ -2,7 +2,8 @@
 title: 'Social Media Marketing: Are You LinkedIn?'
 templateKey: blog-post
 date: 2008-11-10T18:07:53.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: social-media-marketing-are-you-linkedin
 summary: > 
  If there's one constant lament—from both consumers and businesses—about the various social media tools out there, it's that many of them seem somewhat unprofessional or childish. There's room for argument there, certainly, but both groups have reason to fear that perception can equal reality. Enter LinkedIn.

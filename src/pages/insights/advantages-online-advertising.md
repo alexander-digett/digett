@@ -2,7 +2,8 @@
 title: 'The Advantages of Online Advertising'
 templateKey: blog-post
 date: 2010-12-13T22:35:43.000Z
-category: Analytics
+category: 
+  -Analytics
 alias: advantages-online-advertising
 summary: > 
  Research indicates that forcing advertising on uninterested people is a waste of time and money. Features like DVR and other on-demand programming are becoming more popular, enabling consumers to skip advertisers’ messages. This puts businesses in a bind: how can we advertise if no one is paying attention to commercials or print ads?

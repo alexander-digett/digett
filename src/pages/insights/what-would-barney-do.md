@@ -2,7 +2,8 @@
 title: 'What Would Barney Do?'
 templateKey: blog-post
 date: 2009-01-05T17:55:05.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: what-would-barney-do
 summary: > 
  I recently attended a workshop series called UX Intensive, hosted by Adaptive Path.

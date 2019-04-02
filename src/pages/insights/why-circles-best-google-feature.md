@@ -2,7 +2,8 @@
 title: 'Why Circles is the Best Google+ Feature'
 templateKey: blog-post
 date: 2011-08-29T14:28:31.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: why-circles-best-google-feature
 summary: > 
  When I first heard about Google+, I had the same thought as almost everyone else: "Great, another social media website I’ll never understand or have time to learn anything about." But now that I’ve had a chance to play with it, I’ve got to say that I’m liking it — especially the Circles feature.

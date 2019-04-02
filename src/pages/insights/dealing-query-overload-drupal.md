@@ -2,7 +2,8 @@
 title: 'Dealing With Query Overload in Drupal'
 templateKey: blog-post
 date: 2008-10-03T14:13:23.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: dealing-query-overload-drupal
 summary: > 
  So, you've got 10-20 Drupal sites under your belt and are feeling pretty good about how far you've come in your ability to leverage the Drupal content management system. You're even helping newbies out on the support forums on drupal.org, whistling to the tune of "It's a wonderful day in the neighborhood" and "Won't you be my neighbor" all the while. You're a viable, competent part of the community, and life is good.

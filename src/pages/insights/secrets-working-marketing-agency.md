@@ -2,7 +2,8 @@
 title: 'Secrets to Working with a Marketing Agency'
 templateKey: blog-post
 date: 2013-02-26T15:02:21.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: secrets-working-marketing-agency
 summary: > 
  Establishing a strong online presence is a challenging process, one that many businesses lack the resources to do without help. Whether you need a new website or content marketing services, there are steps you can take to ensure a successful engagement with a digital marketing agency.

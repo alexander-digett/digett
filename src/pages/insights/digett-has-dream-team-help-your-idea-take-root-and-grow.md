@@ -2,7 +2,8 @@
 title: 'Digett has a dream team to help your idea take root and grow'
 templateKey: blog-post
 date: 2013-06-05T13:12:55.000Z
-category: Digett, Our Industry
+category: 
+  -Digett, Our Industry
 alias: digett-has-dream-team-help-your-idea-take-root-and-grow
 summary: > 
  I recently attended a Web development conference in Portland, Oregon. One session stood out for me as encouraging and as a good reminder as we go forward — The Engineer, The Designer, The Dictator by Michael Lopp. You need all three for a successful project.

@@ -2,7 +2,8 @@
 title: 'Is Chrome Frame the best solution for IE6 compatibility moving forward?'
 templateKey: blog-post
 date: 2011-09-08T16:23:30.000Z
-category: Development, Drupal, Our Industry
+category: 
+  -Development, Drupal, Our Industry
 alias: chrome-frame-best-solution-ie6-compatibility-moving-forward
 summary: > 
  While every web browser (Firefox, Safari, Chrome, etc.) has it’s programming peculiarities that have to be accommodated when building a website, the bane of every web developer’s existence is Internet Explorer 6. Many web design companies have stopped developing for the ten year old IE6 now that IE 9 has been released. Even Microsoft is trying to kill off IE6.

@@ -2,7 +2,8 @@
 title: 'Beyond &quot;clean &amp; user-friendly&quot;: websites with a better purpose'
 templateKey: blog-post
 date: 2012-05-10T16:24:41.000Z
-category: Branding, Design, Market Targeting, Tools of the Trade
+category: 
+  -Branding, Design, Market Targeting, Tools of the Trade
 alias: beyond-clean-user-friendly-websites-better-purpose
 summary: > 
  When we talk to a client about their initial desires for a new website, 99% of the time the first comment is some variation of: I want a "clean" and “user-friendly” site.

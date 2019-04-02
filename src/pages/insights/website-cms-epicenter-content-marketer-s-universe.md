@@ -2,7 +2,8 @@
 title: 'Website CMS: Epicenter of a Content Marketer&#039;s Universe'
 templateKey: blog-post
 date: 2012-07-17T14:39:06.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: website-cms-epicenter-content-marketer-s-universe
 summary: > 
  Last week I outlined some thoughts pertaining to making sound investments in marketing infrastructure. I thought I might hone in on more "practice" and avoid so much theory for this post.

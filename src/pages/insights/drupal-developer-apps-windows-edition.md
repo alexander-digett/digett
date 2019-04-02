@@ -2,7 +2,8 @@
 title: 'Drupal Developer Apps: Windows Edition'
 templateKey: blog-post
 date: 2011-08-17T15:47:54.000Z
-category: Digett, Drupal, Tools of the Trade
+category: 
+  -Digett, Drupal, Tools of the Trade
 alias: drupal-developer-apps-windows-edition
 summary: > 
  JD’s post last week, Tools of the Trade, described the programs and tools he used when developing Drupal websites on Mac. Being the only Windows user in an office full of Mac users, it was left to me to share the tools I use when developing Drupal sites on Microsoft Windows 7.

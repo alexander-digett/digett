@@ -2,7 +2,8 @@
 title: 'Marketing Lessons from Pixar'
 templateKey: blog-post
 date: 2012-08-27T15:45:06.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: marketing-lessons-pixar
 summary: > 
  From its humble roots in 1979 to the filmmaking giant it is today, Pixar has always depended on excellent storytelling to attract and retain an audience. Many of the mantras they’ve shared over the years also happen to make great content marketing advice.

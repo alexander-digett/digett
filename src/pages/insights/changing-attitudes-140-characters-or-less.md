@@ -2,7 +2,8 @@
 title: 'Changing Attitudes in 140 Characters or Less'
 templateKey: blog-post
 date: 2009-03-30T19:49:46.000Z
-category: Our Industry, Tools of the Trade
+category: 
+  -Our Industry, Tools of the Trade
 alias: changing-attitudes-140-characters-or-less
 summary: > 
  Last month, I gushed about Tom Martin's Mardi Gras Twitter experiment as an innovative use of this ever-popular micro-blogging service. In that post, I focused primarily on the citizen journalism aspect of his efforts; after learning a little more about his goals and looking over the analysis of the event, I probably should have saved some kudos. Turns out Martin was ambitious enough to try and change perceptions about Mardi Gras—and it looks like he succeeded.

@@ -2,7 +2,8 @@
 title: 'Why Your Company Needs a Mobile Website'
 templateKey: blog-post
 date: 2012-03-26T14:25:11.000Z
-category: Marketing, Mobile, Strategy
+category: 
+  -Marketing, Mobile, Strategy
 alias: why-your-company-needs-mobile-website
 summary: > 
  Have you ever accessed your company’s website with a smartphone or tablet? I can almost guarantee your customers have. Millions of mobile searches happen daily, and research predicts that by 2015 more people will access the Internet through their phone than their computer.

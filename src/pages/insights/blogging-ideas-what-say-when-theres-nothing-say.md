@@ -2,7 +2,8 @@
 title: 'Blogging Ideas: What to Say When There&#039;s Nothing to Say'
 templateKey: blog-post
 date: 2011-04-25T13:57:40.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: blogging-ideas-what-say-when-theres-nothing-say
 summary: > 
   	As the Digett editorial calendar manager and whip-cracker, I spend a fair amount of time fielding questions about blogging, the most common of which is some variation of, "What am I supposed to blog about?"

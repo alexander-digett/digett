@@ -2,7 +2,8 @@
 title: 'How to Create an Editorial Calendar'
 templateKey: blog-post
 date: 2011-02-24T00:20:03.000Z
-category: Blogging, Strategy, Tools of the Trade
+category: 
+  -Blogging, Strategy, Tools of the Trade
 alias: how-create-editorial-calendar
 summary: > 
  Business blogging is a lot like exercise: you know you should do it because it’s good for you, and because you’ve seen friends succeed at it; but taking that first step feels a lot like doing a trapeze act without a safety net.

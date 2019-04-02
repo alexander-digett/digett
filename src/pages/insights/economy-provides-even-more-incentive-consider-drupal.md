@@ -2,7 +2,8 @@
 title: 'Economy Provides Even More Incentive to Consider Drupal'
 templateKey: blog-post
 date: 2009-05-19T18:24:25.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: economy-provides-even-more-incentive-consider-drupal
 summary: > 
  Economic conditions have provided additional incentive for IT decision makers to explore open source technologies.  Shrinking revenue streams have forced business to conserve cash.  Using open source represents one way to do so, since not only are licensing fees eliminated, open source technologies can often be leveraged and supported at lower cost and with more widely available resources than 

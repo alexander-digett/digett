@@ -2,7 +2,8 @@
 title: 'Own, Don&#039;t Rent, Your Facebook Page'
 templateKey: blog-post
 date: 2009-10-27T21:24:34.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: own-dont-rent-your-facebook-page
 summary: > 
  With 300 million active users and a massive amount of external funding, Facebook is really more like a goodly sized, upstart country with no borders and even fewer threats. As such, it's little surprise that the social network has become a marketer's playground, and Facebook's masters have been quick to embrace the corporate world's rush to establish a presence there.

@@ -2,7 +2,8 @@
 title: 'What You Need from a San Antonio Web Design Shop'
 templateKey: blog-post
 date: 2011-03-01T21:59:15.000Z
-category: Design, Inbound Marketing, Our Industry
+category: 
+  -Design, Inbound Marketing, Our Industry
 alias: what-you-need-san-antonio-web-design-shop
 summary: > 
  I’ll give you 5 guesses at what companies need most from San Antonio web design shops. Here’s a clue: It ain’t web design.

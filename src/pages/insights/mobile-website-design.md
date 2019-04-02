@@ -2,7 +2,8 @@
 title: 'Mobile Website Design'
 templateKey: blog-post
 date: 2011-09-07T05:49:15.000Z
-category: Design, Mobile
+category: 
+  -Design, Mobile
 alias: mobile-website-design
 summary: > 
  Over the past several months, I've had the opportunity to design a few mobile sites, and from a designer's perspective, they're a lot of fun. What I find engaging are the design challenges that come with optimizing a full-size website for a small screen.

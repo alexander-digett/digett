@@ -2,7 +2,8 @@
 title: 'Inspiration'
 templateKey: blog-post
 date: 2009-11-30T20:59:43.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: inspiration
 summary: > 
  I used to think "inspiration" was for people with no "imagination." I thought people who were inspired all the time were just too cool for school; you know the type—talking on a bluetooth headset while jogging to Jamba Juice at 5 a.m. So, I would say, let them have their inspiration, and I'll stick to going it alone, just me and my imagination.

@@ -2,7 +2,8 @@
 title: 'Keyword (not provided) 100% of Organic Search Referrals Will Make the Internet a Better Place'
 templateKey: blog-post
 date: 2013-10-01T19:03:59.000Z
-category: Marketing, SEM and SEO, Strategy
+category: 
+  -Marketing, SEM and SEO, Strategy
 alias: keyword-not-provided-100-organic-search-referrals-will-make-internet-better-place
 summary: > 
  Masked keywords will soon be 100% of all organic search referrals. If you’ve been reading the same blogs I have, you might be under the impression that Google is out to get more AdWords customers and SEO just became impossible. But in reality, you might find that the Internet just became a better place.

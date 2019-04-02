@@ -2,7 +2,8 @@
 title: '3 Reasons Why San Antonio Doesn’t Need More SEO'
 templateKey: blog-post
 date: 2011-02-23T22:57:54.000Z
-category: Inbound Marketing, SEM and SEO
+category: 
+  -Inbound Marketing, SEM and SEO
 alias: 3-reasons-why-san-antonio-doesnt-need-more-seo
 summary: > 
   	SEO (search engine optimization) has been a hot topic for a long time; not only in San Antonio, of course, but throughout the wired world. At Digett we’ve been delivering San Antonio SEO services for several years. But today I’m throwing up my hands in surrender, having heard one too many marketers talk about SEO as the silver bullet of internet marketing. Here’s the truth:

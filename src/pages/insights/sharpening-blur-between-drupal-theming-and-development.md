@@ -2,7 +2,8 @@
 title: 'Sharpening the Blur Between Drupal Theming and Development'
 templateKey: blog-post
 date: 2010-04-14T22:14:10.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: sharpening-blur-between-drupal-theming-and-development
 summary: > 
   	Six months ago I wrote a blog post called Cooking up a Homemade Drupal Theme. A visitor recently submitted a comment to my article that's left me contemplating the target audience for that particular post. "Wait," you think—"shouldn't every writer know for whom they are writing before they publish content to a website?" Technically, I agree with this sentiment, but considering the varied interpretations of the skill sets required of a Drupal themer, defining an appropriate Drupal audience can be a real challenge.

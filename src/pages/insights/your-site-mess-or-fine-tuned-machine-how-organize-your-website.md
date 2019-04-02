@@ -2,7 +2,8 @@
 title: 'Is your site a mess or a fine-tuned machine? How to organize your website'
 templateKey: blog-post
 date: 2012-03-09T17:06:22.000Z
-category: UX Design
+category: 
+  -UX Design
 alias: your-site-mess-or-fine-tuned-machine-how-organize-your-website
 summary: > 
  There are many factors to consider when you organize the content of your site. How do you make sense of it? Here are the steps I take to help me through the process.

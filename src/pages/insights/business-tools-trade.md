@@ -2,7 +2,8 @@
 title: 'Business tools of the trade'
 templateKey: blog-post
 date: 2011-10-21T14:10:44.000Z
-category: Our Industry, Tools of the Trade
+category: 
+  -Our Industry, Tools of the Trade
 alias: business-tools-trade
 summary: > 
  We all depend on tools to do our jobs. We recently talked about the tools we use on our Macs and PCs. Today, we wanted to talk about the tools we use as a business. They are not perfect, but I've used many competing products and I'm happy with the tools we use. In no particular order, here are a few of the tools we use as a business.

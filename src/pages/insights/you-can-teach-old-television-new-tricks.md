@@ -2,7 +2,8 @@
 title: 'You Can Teach an Old Television New Tricks'
 templateKey: blog-post
 date: 2009-01-05T21:02:36.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: you-can-teach-old-television-new-tricks
 summary: > 
  Radio was supposed to kill print. Television was supposed to kill radio. The Internet was supposed to kill television and all other media. Last I checked, none of that has happened. Instead, radio is hanging on, TV is going high-def, and print—well, print is killing itself.

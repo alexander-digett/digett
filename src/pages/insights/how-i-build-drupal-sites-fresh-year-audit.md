@@ -2,7 +2,8 @@
 title: 'How I Build Drupal Sites: A Fresh-Year Audit'
 templateKey: blog-post
 date: 2013-01-09T16:58:50.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: how-i-build-drupal-sites-fresh-year-audit
 summary: > 
  "How do you build a website?" I have been asked this question by friends and family over the years, but I never know how to answer the question — mainly because there are too many variables, too many paths to the same goal. The funny thing is that I can quickly spot bad development on a site, and can come up with constructive criticism on the code or the design within seconds of seeing it.

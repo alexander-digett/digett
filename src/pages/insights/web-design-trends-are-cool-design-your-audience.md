@@ -2,7 +2,8 @@
 title: 'Web Design Trends Are Cool, But Design for Your Audience'
 templateKey: blog-post
 date: 2014-07-23T14:52:18.000Z
-category: Design, Development, UX Design
+category: 
+  -Design, Development, UX Design
 alias: web-design-trends-are-cool-design-your-audience
 summary: > 
  It seems like the possibilities of web design are becoming endless. I began designing and teaching myself a little bit of coding as a kid during the times when decorating your web page with flashy graphics, scrolling text, and putting a border around everything was cool (or, more like the only thing you could really do with web design).

@@ -2,7 +2,8 @@
 title: 'Go ahead, add some flair to your site with CSS3!'
 templateKey: blog-post
 date: 2012-03-23T13:00:51.000Z
-category: Design, Development, UX Design
+category: 
+  -Design, Development, UX Design
 alias: go-ahead-add-some-flair-your-site-css3
 summary: > 
  The day has come to stop focusing on Internet Explorer's limitations and start focusing on the other browsers that allow CSS3. It takes very little extra time, and you can add some sizzle with just a few extras in your CSS.

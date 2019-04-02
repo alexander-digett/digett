@@ -2,7 +2,8 @@
 title: 'Tools of the trade'
 templateKey: blog-post
 date: 2011-08-12T15:53:19.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: tools-trade
 summary: > 
  I love my tools. I love having the right tool for the job! As a Drupal developer, I will sometimes use the command line for things like Drush or creating symlinks, but for the most part, most of my day is spent in one of the tools below.

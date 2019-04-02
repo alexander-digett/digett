@@ -2,7 +2,8 @@
 title: 'This Is Not Advertising That Works'
 templateKey: blog-post
 date: 2013-07-10T13:55:52.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: not-advertising-works
 summary: > 
  On a recent trip to Dallas I drove past one of those "Does advertising work? Just did!" billboards. As a marketer I hate them because they give people the idea that slapping an ad on a roadside billboard will mean marketing success. Everyone say it with me, please...

@@ -2,7 +2,8 @@
 title: 'AdWords Ad Extensions, Part II: Sitelinks Extensions &amp; Product Extensions'
 templateKey: blog-post
 date: 2011-09-26T14:35:19.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: adwords-ad-extensions-part-ii-sitelinks-extensions-product-extensions
 summary: > 
  As part of our discussion of Ad Extensions last week I showed you the basics of Location Extensions and Call Extensions. This week we’re going to step it up a bit as I give you a crash course in the two more complex Ad Extension features: Sitelinks and Product Extensions.

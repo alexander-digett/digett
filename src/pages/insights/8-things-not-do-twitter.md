@@ -2,7 +2,8 @@
 title: '8 Things Not to Do on Twitter'
 templateKey: blog-post
 date: 2011-05-16T18:55:15.000Z
-category: Social Media, Strategy, Tools of the Trade
+category: 
+  -Social Media, Strategy, Tools of the Trade
 alias: 8-things-not-do-twitter
 summary: > 
  Twitter is exciting because it gives businesses yet another opportunity to get their brand and products in front of prospective customers. Like with any new medium, however, there’s a right way to do things, and a wrong way. Here are eight things you should never do on Twitter.

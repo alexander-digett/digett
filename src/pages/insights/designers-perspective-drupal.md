@@ -2,7 +2,8 @@
 title: 'A Designer&#039;s Perspective on Drupal'
 templateKey: blog-post
 date: 2008-10-03T13:59:56.000Z
-category: Design, Drupal
+category: 
+  -Design, Drupal
 alias: designers-perspective-drupal
 summary: > 
  There's a shirt for sale on Veer that simply reads, "I draw pictures all day." I want that shirt. Drawing pictures all day is part of my job description as a website designer for Digett. I have to show the client a picture of what their site will look like upon completion. Once approved, I pass it off to our developers to bring the picture to life. Sounds easy, right? Not so fast, my friend.

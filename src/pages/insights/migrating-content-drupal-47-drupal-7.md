@@ -2,7 +2,8 @@
 title: 'Migrating content from Drupal 4.7 to Drupal 7'
 templateKey: blog-post
 date: 2012-03-14T15:53:37.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: migrating-content-drupal-47-drupal-7
 summary: > 
  Yesterday my job was to migrate content from an old Drupal 4.7 site into a fresh new installation of Drupal 7. In this post I will outline the basic process for completing that task. This will not be an exhaustive walk-through, but I hope it helps someone else and serves as a reminder a few months from now when I may need to do this again for another client.

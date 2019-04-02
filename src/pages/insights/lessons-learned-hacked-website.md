@@ -2,7 +2,8 @@
 title: 'Lessons Learned from a Hacked Website'
 templateKey: blog-post
 date: 2011-12-28T15:35:52.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: lessons-learned-hacked-website
 summary: > 
  Within the last couple of months one of our client’s websites was hacked. This is a rarity, and we responded swiftly to restore a previous version of the site; however, we still needed to get rid of the actual problem. Through the experience there were a number of lessons learned that anyone, whether client or developer could benefit from. 

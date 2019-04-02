@@ -3,6 +3,7 @@ title: 'Re-joining the San Antonio PHP Meetup'
 templateKey: blog-post
 date: 2007-10-25T05:00:00.000Z
 category: 
+  -
 alias: re-joining-san-antonio-php-meetup
 summary: > 
  This morning I signed up once again to become associated with the San Antonio PHP Meetup. A couple years ago it was through such a trivial effort that I ran into Roger Lopez, who was, at the time, the group's organizer. That effort paid off handsomely, as Roger has since become a key player and trusted member of our team.

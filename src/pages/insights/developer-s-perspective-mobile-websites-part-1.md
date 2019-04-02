@@ -2,7 +2,8 @@
 title: 'A Developer&#039;s Perspective on Mobile Websites, Part 1'
 templateKey: blog-post
 date: 2011-09-09T14:03:44.000Z
-category: Drupal, Mobile
+category: 
+  -Drupal, Mobile
 alias: developer-s-perspective-mobile-websites-part-1
 summary: > 
  Andrew posted an article on Mobile Website Design this week. In it, he talks about a designer's perspective on the mobile audience. From a development perspective, mobile website development is a breath of fresh air. As I began writing, I realized I touched on a topic of interest to me, and I hope you. I'm planning to break this up with a different piece of this mobile topic each week for several weeks.

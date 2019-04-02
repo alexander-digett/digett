@@ -2,7 +2,8 @@
 title: 'Digital Agency vs Ad Agency'
 templateKey: blog-post
 date: 2011-05-13T20:51:58.000Z
-category: Design, Development, Our Industry, Social Media
+category: 
+  -Design, Development, Our Industry, Social Media
 alias: digital-agency-vs-ad-agency
 summary: > 
   	The distinction between ad agencies and interactive agencies, or digital agencies, can be fuzzy and confusing. Part of the reason for this is that many traditional ad agencies refer to themselves as a digital agency even though many are struggling to get up to speed with digital design, marketing, and development concepts.

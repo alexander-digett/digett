@@ -2,7 +2,8 @@
 title: 'A Method for Mega Menus in Drupal'
 templateKey: blog-post
 date: 2011-09-14T15:09:02.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: method-mega-menus-drupal
 summary: > 
  Editor's note: This article is out-of-date. Please check out our post on Drupal Mega Menus Revisited.  Mega Menus have become all the rage in navigation user inteface. When you have a large list of items for a dropdown menu a mega menu makes an efficient way to display the list.  An excellent example of a mega menu is on the White House's website.

@@ -2,7 +2,8 @@
 title: 'Doing Right, Despite Social Media Consequences'
 templateKey: blog-post
 date: 2013-02-20T14:28:00.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: doing-right-despite-social-media-consequences
 summary: > 
  As much as we love social media and its power to connect businesses with their audiences, the truth is that it’s murky, complex, overwhelming, and occasionally used to the detriment of innocent parties. Smith and Wollensky, a high-end steakhouse in New York, learned this lesson the hard way early this year.

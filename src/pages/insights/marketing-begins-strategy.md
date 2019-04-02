@@ -2,7 +2,8 @@
 title: 'Marketing Begins with Strategy'
 templateKey: blog-post
 date: 2012-12-18T16:12:40.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: marketing-begins-strategy
 summary: > 
  We often receive emails from clients who want to send a newsletter to their list, post an interesting article on their website, or otherwise engage with their audience. This enthusiasm is critical to success with content marketing, but we have to remember that every action must connect back to a solid strategy.

@@ -2,7 +2,8 @@
 title: 'Exorcise your customers’ ghosts plus 3 more Halloween-inspired tips'
 templateKey: blog-post
 date: 2012-10-30T15:45:31.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: exorcise-your-customers’-ghosts-plus-3-more-halloween-inspired-tips
 summary: > 
  Ghosts are everywhere, especially in places where we don’t expect to find them... like the boardroom. As you gear up to pass out candy, consider these Hallow’s Eve marketing lessons to avoid haunted relationships and unfocused campaigns.

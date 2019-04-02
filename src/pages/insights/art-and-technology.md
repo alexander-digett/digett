@@ -2,7 +2,8 @@
 title: 'Art and Technology'
 templateKey: blog-post
 date: 2011-04-29T21:03:50.000Z
-category: Design, Digett, Mobile, Nature, Our Industry
+category: 
+  -Design, Digett, Mobile, Nature, Our Industry
 alias: art-and-technology
 summary: > 
   	Everyone has heard the old adage, "The world’s oldest profession. " But it usually isn’t associated with art or technology.

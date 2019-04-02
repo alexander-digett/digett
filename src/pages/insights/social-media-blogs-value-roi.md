@@ -2,7 +2,8 @@
 title: 'Social Media, Blogs, &amp; the Value of ROI'
 templateKey: blog-post
 date: 2013-04-09T06:00:00.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: social-media-blogs-value-roi
 summary: > 
  Data released earlier this year shows that consumers trust and are heavily influenced by blogs — yet the bulk of brand spend goes to paid advertising, video, and social media. Digital spend is expected to increase this year, but will brands be spending that money wisely?

@@ -2,7 +2,8 @@
 title: 'Social Media Marketing Takes Over in 2014'
 templateKey: blog-post
 date: 2014-04-23T13:32:24.000Z
-category: Market Targeting, Marketing, Social Media, Strategy
+category: 
+  -Market Targeting, Marketing, Social Media, Strategy
 alias: social-media-marketing-takes-over-2014
 summary: > 
  As we fly through another year (is it really almost May already?!), the emergence of social media platforms continues its upward growth. We are seeing a shift in the need for businesses to implement some sort of social media marketing from a suggestion to a necessity.

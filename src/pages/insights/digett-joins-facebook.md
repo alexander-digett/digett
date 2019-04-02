@@ -2,7 +2,8 @@
 title: 'Digett Joins Facebook'
 templateKey: blog-post
 date: 2011-05-27T16:34:10.000Z
-category: Digett, Social Media
+category: 
+  -Digett, Social Media
 alias: digett-joins-facebook
 summary: > 
   	You’ve seen our blog, you follow us on Twitter, now join Digett on Facebook! That’s right, the Digett Facebook Page is up and running, and now the only thing we need to make it complete is you!

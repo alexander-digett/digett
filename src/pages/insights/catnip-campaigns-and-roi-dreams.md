@@ -2,7 +2,8 @@
 title: 'Catnip Campaigns and ROI Dreams'
 templateKey: blog-post
 date: 2014-03-25T14:48:45.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: catnip-campaigns-and-roi-dreams
 summary: > 
  Consumers are suckers for a great marketing campaign, and apparently so are cats — provided said campaign is covered in catnip. So when Bulk Cat Litter Warehouse needed to send out some direct mail, Rethink Canada created a flyer that caught people’s cats’ attention first.

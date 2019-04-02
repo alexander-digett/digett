@@ -2,7 +2,8 @@
 title: '&quot;Is Anybody Reading This?&quot; Writing Content for the Web [Webinar Recording]'
 templateKey: blog-post
 date: 2011-12-15T20:07:44.000Z
-category: Marketing, Our Industry, Video
+category: 
+  -Marketing, Our Industry, Video
 alias: anybody-reading-writing-content-web-webinar-recording
 summary: > 
  Thank you again to everyone who joined us for the Writing Content for the Web webinar. If you want to see it again, or if you missed it the first time around, check out the slides and transcript available below. And let us know what you think in the comments!

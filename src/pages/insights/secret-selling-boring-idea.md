@@ -2,7 +2,8 @@
 title: 'The Secret to Selling a Boring Idea'
 templateKey: blog-post
 date: 2014-06-24T14:41:09.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: secret-selling-boring-idea
 summary: > 
  The History Channel airs some of the best guilty pleasure shows — none more guilty than Swamp People. The plot is nothing fancy and remains almost unchanged from episode to episode, season to season, so how is it still so popular? It relies on my favorite thing: storytelling.

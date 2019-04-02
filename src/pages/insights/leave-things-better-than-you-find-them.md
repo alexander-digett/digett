@@ -2,7 +2,8 @@
 title: 'Leave Things Better Than You Find Them'
 templateKey: blog-post
 date: 2019-01-28T19:05:43.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: leave-things-better-than-you-find-them
 summary: > 
  Marketing is a complex coordination of planning, production and operations. But applying the simple outdoor principle of "leaving things better than we find them" goes a long way toward improving short- and long-term impact. If we pay attention to caring for the "marketing asset"—in addition to achieving other desired outcomes—we can gain clarity on how to better allocate resources, improve outcomes, and maximize return on investment.

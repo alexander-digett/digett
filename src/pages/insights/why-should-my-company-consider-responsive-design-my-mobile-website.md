@@ -2,7 +2,8 @@
 title: 'Why should my company consider a responsive design for my mobile website?'
 templateKey: blog-post
 date: 2013-02-13T17:03:29.000Z
-category: Marketing, Mobile
+category: 
+  -Marketing, Mobile
 alias: why-should-my-company-consider-responsive-design-my-mobile-website
 summary: > 
  Drastic increases in web traffic from mobile devices prove that marketers need to take their mobile web presence seriously. If your business or department is making that investment, you want to make sure your web infrastructure will continue to work as years pass and technology advances. When it comes to mobile websites, invest in a responsive design.

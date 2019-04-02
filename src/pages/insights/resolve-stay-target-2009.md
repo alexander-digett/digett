@@ -3,6 +3,7 @@ title: 'Resolve to Stay on Target in 2009'
 templateKey: blog-post
 date: 2009-01-06T12:49:45.000Z
 category: 
+  -
 alias: resolve-stay-target-2009
 summary: > 
  Last week one of our local clients stopped in to pick up a prized bottle of Digett-crafted wine that our team made to celebrate the season. From my office, I heard them say to Valarie: "You make it so easy to do business with you." Of course, I was delighted to hear that. That simple compliment captures the essence of what we so diligently try to achieve as a business. My hat goes off to Valarie, as well as the rest of the team, for doing everything it takes to engender such praise.

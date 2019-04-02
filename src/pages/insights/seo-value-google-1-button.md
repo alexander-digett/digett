@@ -2,7 +2,8 @@
 title: 'The SEO Value of the Google +1 Button'
 templateKey: blog-post
 date: 2011-04-13T17:12:43.000Z
-category: Market Targeting, SEM and SEO, Social Media
+category: 
+  -Market Targeting, SEM and SEO, Social Media
 alias: seo-value-google-1-button
 summary: > 
   	Google recently announced something called the +1 Button. This feature will soon be available to all Google account users (including Gmail and Google Apps users) when logged into Google. Simply click the +1 Button when you find it on a website to promote that page, similar to how the Facebook Like button functions. But that is where the similarities end.

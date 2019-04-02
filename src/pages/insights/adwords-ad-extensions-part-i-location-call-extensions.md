@@ -2,7 +2,8 @@
 title: 'AdWords Ad Extensions, Part I: Location &amp; Call Extensions'
 templateKey: blog-post
 date: 2011-09-19T14:23:11.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: adwords-ad-extensions-part-i-location-call-extensions
 summary: > 
  One of the cool things about Google AdWords is that there are lots of little hidden features you can use to get ahead of the competition. The Ad Extensions feature gives you four cool ways to expand and increase your ads’ effectiveness, and I’ll be talking about two of those ways today.

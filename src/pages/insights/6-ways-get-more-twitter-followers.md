@@ -2,7 +2,8 @@
 title: '6 Ways to Get More Twitter Followers'
 templateKey: blog-post
 date: 2011-08-22T14:54:42.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: 6-ways-get-more-twitter-followers
 summary: > 
  So you’ve finally bitten the bullet and joined Twitter. Maybe you’ve sent out an experimental tweet or two, but before you can do anything serious, you need some followers. Here are six things you can do to grow your Twitter following.

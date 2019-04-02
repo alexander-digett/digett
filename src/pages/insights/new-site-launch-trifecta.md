@@ -2,7 +2,8 @@
 title: 'A New Site Launch Trifecta'
 templateKey: blog-post
 date: 2010-04-05T21:09:09.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-trifecta
 summary: > 
  Though we usually have our noses to the grindstone in the Digett team room, we can't help but take time to celebrate our recent accomplishments. Join us in welcoming three new Digett sites to the World Wide Web: Action Restoration, Silver Sage Corral Senior Activity Center, and the San Marcos, Texas, Convention and Visitor Bureau.  

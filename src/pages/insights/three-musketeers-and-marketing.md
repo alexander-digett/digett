@@ -2,7 +2,8 @@
 title: 'The Three Musketeers and Marketing'
 templateKey: blog-post
 date: 2012-02-13T15:52:36.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: three-musketeers-and-marketing
 summary: > 
  Last week I finally gave up on trying to read Alexandre Dumas’ classic novel The Three Musketeers. It was a valiant effort, but in the end it just wasn’t worth the confusion. Reading felt vaguely like torture, so I sent the tale packing. What does this have to do with marketing, you ask? Excellent question!

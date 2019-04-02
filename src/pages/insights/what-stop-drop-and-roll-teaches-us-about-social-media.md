@@ -2,7 +2,8 @@
 title: 'What Stop, Drop, and Roll Teaches Us About Social Media'
 templateKey: blog-post
 date: 2012-10-02T18:24:00.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: what-stop-drop-and-roll-teaches-us-about-social-media
 summary: > 
  Last week we shared insight into strategy versus tactics when it comes to social media. That post demonstrated how important it is to be prepared, and made me think of my childhood and an important elementary school lesson: STOP, DROP, and ROLL!

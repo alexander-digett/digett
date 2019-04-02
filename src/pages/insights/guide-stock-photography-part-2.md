@@ -2,7 +2,8 @@
 title: 'A Guide to Stock Photography, Part 2'
 templateKey: blog-post
 date: 2010-05-12T21:15:38.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: guide-stock-photography-part-2
 summary: > 
  In A Guide to Stock Photography, Part 1, which I'll rename The Easy Part, I talked about where to find good stock photography. It becomes a little more difficult when it comes time to choose that perfect photo for your website. So what makes a good stock photo? How do you know which photo to choose? Perhaps I can shed some light. If you wander into the camera store and ask the guy behind the counter which is the best camera, he's likely to say (well, he should say), "It depends what you're using for." And that's the same answer you'll likely get when asking about TVs, computers, cars—and now stock photography. Choosing the right photo depends on what you're using it for, which brings me to my first, and most important, point.

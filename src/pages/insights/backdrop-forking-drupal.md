@@ -2,7 +2,8 @@
 title: 'Backdrop, forking Drupal'
 templateKey: blog-post
 date: 2013-09-18T12:06:58.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: backdrop-forking-drupal
 summary: > 
  "In Open Source Software, forking is considered a feature. Nevertheless, the Drupal community has generally frowned upon forking. We’ve been a fairly cohesive community. We work together, share what we’re doing (even while we compete with each other), collaborate with each other, offer help, contribute patches, all in support of the commons we love: Drupal." --Laura Scott

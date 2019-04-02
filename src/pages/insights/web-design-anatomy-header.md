@@ -2,7 +2,8 @@
 title: 'Web Design: The Anatomy of a Header'
 templateKey: blog-post
 date: 2011-09-13T13:14:44.000Z
-category: Design
+category: 
+  -Design
 alias: web-design-anatomy-header
 summary: > 
  A website is like a puzzle, made up of pieces that fit together to make a bigger picture and achieve a goal. The goal of any one website may vary, but the pieces that make up the page are fairly standard from one to the next. One of the most important of these pieces is the header.

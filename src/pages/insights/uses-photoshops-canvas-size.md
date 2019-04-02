@@ -2,7 +2,8 @@
 title: 'Uses for Photoshop&#039;s &quot;Canvas Size&quot;'
 templateKey: blog-post
 date: 2009-10-27T19:52:56.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: uses-photoshops-canvas-size
 summary: > 
  I'm constantly finding better ways to do things, ways to create a smoother and more efficient work flow. Recently, I've had two epiphanies relating to Photoshop's Canvas Size.

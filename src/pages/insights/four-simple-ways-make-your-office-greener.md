@@ -2,7 +2,8 @@
 title: 'Four Simple Ways To Make Your Office Greener'
 templateKey: blog-post
 date: 2008-06-02T05:00:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: four-simple-ways-make-your-office-greener
 summary: > 
  It would be nice if we could all work in a Leadership in Energy and Environmental Design (LEED) certified building to show that our workplace complies with the highest environmentally friendly and energy saving standards approved by the U.S. Green Building Council.

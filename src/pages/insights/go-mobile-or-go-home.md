@@ -2,7 +2,8 @@
 title: 'Go Mobile or Go Home'
 templateKey: blog-post
 date: 2012-07-31T15:26:40.000Z
-category: Mobile, Strategy
+category: 
+  -Mobile, Strategy
 alias: go-mobile-or-go-home
 summary: > 
  As you read more about digital marketing, one topic you’ll see mentioned often is mobile. Building a company website takes time, and many organizations don’t want to repeat the process with a mobile website. There is, however, an excellent reason to do so.

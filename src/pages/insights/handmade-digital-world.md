@@ -2,7 +2,8 @@
 title: 'Handmade in a Digital World'
 templateKey: blog-post
 date: 2011-08-02T06:58:15.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: handmade-digital-world
 summary: > 
  I'm sure many of you can think back on a time when computers weren't a part of everyday life. Unfortunately, I don't have those memories. Often times I daydream about how my career might have shaped up had I been born in 1965, rather than 20 years later.

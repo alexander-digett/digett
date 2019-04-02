@@ -2,7 +2,8 @@
 title: 'Lessons in Inbound Marketing: Choral Performance'
 templateKey: blog-post
 date: 2011-04-01T18:34:44.000Z
-category: Inbound Marketing
+category: 
+  -Inbound Marketing
 alias: lessons-inbound-marketing-choral-performance
 summary: > 
   	On Tuesday night I took a seat in the chapel to listen to my Alma Mater choir’s Spring concert. I enjoyed it very much, but as a choral alum and a Digett employee, I couldn’t stop drawing comparisons between choral performance and inbound marketing.

@@ -2,7 +2,8 @@
 title: 'Proof that Inbound Marketing Works'
 templateKey: blog-post
 date: 2011-05-09T14:05:24.000Z
-category: Inbound Marketing
+category: 
+  -Inbound Marketing
 alias: proof-inbound-marketing-works
 summary: > 
   	When you make a commitment to inbound marketing, you spend a lot of time with your head down, plowing forward through strategy and content creation. Results are not immediate, leading some to believe that results never happen. This is simply not true, as one of our customers has discovered.

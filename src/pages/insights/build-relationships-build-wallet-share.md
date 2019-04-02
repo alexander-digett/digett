@@ -2,7 +2,8 @@
 title: 'Build Relationships, Build Wallet Share'
 templateKey: blog-post
 date: 2013-01-29T15:12:52.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: build-relationships-build-wallet-share
 summary: > 
  It’s no secret that loyal customers are key to a business’ success. The term "wallet share" has been around for decades, but I think some updating for the 21st century is in order. It’s time to take wallet share to the next level.

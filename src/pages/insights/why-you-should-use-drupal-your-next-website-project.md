@@ -2,7 +2,8 @@
 title: 'Why You Should Use Drupal for Your Next Website Project'
 templateKey: blog-post
 date: 2011-06-15T15:02:08.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: why-you-should-use-drupal-your-next-website-project
 summary: > 
  A couple of years ago Mark wrote about Drupal 6 Selling Points on the Digett blog. Since Drupal 7 is now mature enough to build sites upon, it seemed like a good time to look again at the reasons why someone would want to use Drupal to build a website.

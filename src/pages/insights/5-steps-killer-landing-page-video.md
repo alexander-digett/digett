@@ -2,7 +2,8 @@
 title: '5 Steps to a Killer Landing Page [Video]'
 templateKey: blog-post
 date: 2012-02-27T15:39:33.000Z
-category: Inbound Marketing, Strategy, Video
+category: 
+  -Inbound Marketing, Strategy, Video
 alias: 5-steps-killer-landing-page-video
 summary: > 
  Your website’s landing pages can be your first (and only) chance of making a good impression. This video covers the five elements your landing page needs to catch the visitor’s attention and convince him or her to convert.

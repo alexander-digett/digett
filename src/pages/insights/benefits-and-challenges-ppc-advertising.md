@@ -2,7 +2,8 @@
 title: 'The Benefits and Challenges of PPC Advertising'
 templateKey: blog-post
 date: 2014-03-05T19:40:45.000Z
-category: Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
+category: 
+  -Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
 alias: benefits-and-challenges-ppc-advertising
 summary: > 
  When it comes to PPC advertising, the benefits almost always outweigh the challenges. Digital advertising is a relatively new medium that offers marketers a plethora of data to optimize that has never existed before. It’s also a world that is ever-changing, which makes it tough to stay ahead of the curve.

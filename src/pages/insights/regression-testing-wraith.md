@@ -2,7 +2,8 @@
 title: 'Regression Testing with Wraith'
 templateKey: blog-post
 date: 2013-08-29T13:07:25.000Z
-category: Development, Tools of the Trade
+category: 
+  -Development, Tools of the Trade
 alias: regression-testing-wraith
 summary: > 
  Regression testing is used to detect the introduction of new software bugs, or regressions, in existing areas of a system after changes have been made to them. These changes may include enhancements, patches and configuration changes.

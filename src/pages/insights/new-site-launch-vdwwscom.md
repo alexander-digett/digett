@@ -2,7 +2,8 @@
 title: 'New site launch: vdwws.com'
 templateKey: blog-post
 date: 2013-03-13T16:13:20.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-vdwwscom
 summary: > 
  Van Delden Wastewater Systems (Van Delden) is a family-owned and operated company specializing in the design, installation, repair, maintenance, and inspection of all types of septic systems in the South Texas area since 1937. They came to Digett for a new website to update their look and to serve as a better vehicle for their ongoing marketing activities.

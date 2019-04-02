@@ -2,7 +2,8 @@
 title: 'Customer Referrals: The Ultimate Lead Generation'
 templateKey: blog-post
 date: 2011-08-03T17:24:14.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: customer-referrals-ultimate-lead-generation
 summary: > 
  All marketers know that a referral from a customer is the best kind of lead. Most of us will even admit it when pressed. But the strange thing is that few digital marketers talk about it very much. We'd rather talk about getting a higher search engine rank, or getting more likes on Facebook. And the traditional marketers usually aren't much better. They want to talk about billboards, press releases, and magazine ads.

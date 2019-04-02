@@ -2,7 +2,8 @@
 title: 'Improve SEO by Going Green'
 templateKey: blog-post
 date: 2008-06-30T05:00:00.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: improve-seo-going-green
 summary: > 
  Going green has been in the forefront of plenty of news stories this year. Just last month, we even shared a blog post about Digett's "green" efforts.

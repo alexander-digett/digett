@@ -2,7 +2,8 @@
 title: 'The Secret to Landing Your Dream Internship'
 templateKey: blog-post
 date: 2014-04-02T13:48:32.000Z
-category: Digett
+category: 
+  -Digett
 alias: secret-landing-your-dream-internship
 summary: > 
  I’ve looked at hundreds of resumes and spoken with dozens of applicants for Digett’s internship program, and have learned a lot about the interview process from an employer’s perspective. Ready to hear the single biggest secret to landing your dream internship?

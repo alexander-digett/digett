@@ -2,7 +2,8 @@
 title: 'Building forms with cck, actions and workflow'
 templateKey: blog-post
 date: 2007-07-03T05:00:00.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: building-forms-cck-actions-and-workflow
 summary: > 
  We just finished building a simple form application for a client. Previously we have been big fans of webform.module, but this time we decided to go another route. After seeing some posts around drupal.org about using a combination of cck, actions and workflow to accomplish some of this same functionality, I decided to give it a shot.

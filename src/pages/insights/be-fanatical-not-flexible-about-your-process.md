@@ -2,7 +2,8 @@
 title: 'Be fanatical, not flexible, about your process'
 templateKey: blog-post
 date: 2013-03-12T13:00:22.000Z
-category: Design, Development, Strategy
+category: 
+  -Design, Development, Strategy
 alias: be-fanatical-not-flexible-about-your-process
 summary: > 
  Doesn't everyone say to stay nimble, to be flexible? Yes, but you need to pick your battles and flex within some boundaries. When you go through a project with a client to build a new marketing plan and website … don't skimp on the process.

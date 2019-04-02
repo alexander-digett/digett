@@ -2,7 +2,8 @@
 title: 'Do you need a custom web design?'
 templateKey: blog-post
 date: 2011-03-31T21:20:46.000Z
-category: Design, Inbound Marketing, Strategy
+category: 
+  -Design, Inbound Marketing, Strategy
 alias: do-you-need-custom-web-design
 summary: > 
   	Let's start by clarifying what we mean by custom web design. A custom design is one that is made from scratch, completely unique to you and your business. The alternative is a site made from a theme, or a pre-designed template.

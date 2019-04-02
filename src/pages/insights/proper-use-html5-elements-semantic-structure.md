@@ -2,7 +2,8 @@
 title: 'Proper use of HTML5 elements - Semantic Structure'
 templateKey: blog-post
 date: 2011-10-26T13:24:33.000Z
-category: Development, Drupal, HTML5, SEM and SEO
+category: 
+  -Development, Drupal, HTML5, SEM and SEO
 alias: proper-use-html5-elements-semantic-structure
 summary: > 
  When web developers moved from table-based to non-table-based layouts, the syntax change was relatively simple: use a &lt;div&gt; element instead of &lt;table&gt;, &lt;tr&gt;, or &lt;td&gt;. The hard part was learning how to use position, float, and clear in your css to make it all look right.

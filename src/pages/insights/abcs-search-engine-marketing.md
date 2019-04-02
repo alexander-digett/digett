@@ -2,7 +2,8 @@
 title: 'The ABCs of Search Engine Marketing'
 templateKey: blog-post
 date: 2010-03-16T14:36:10.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: abcs-search-engine-marketing
 summary: > 
  Economic times, increased awareness, and online competition are making affordable top search rankings harder to come by. The day of simply placing an ad and assuming it will rank well are over. Considerable time and attention to detail are required to obtain front-page ranking while not overpaying for the coveted positions.  Ad, keyword, and landing page quality—along with competition and other factors—are part of the mysterious algorithms search engines use to rank your ads. While this is all quite complicated, a simple ABC approach will help you get started.

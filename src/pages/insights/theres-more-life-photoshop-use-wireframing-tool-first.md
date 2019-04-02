@@ -2,7 +2,8 @@
 title: 'There&#039;s more to life than Photoshop! Use a wireframing tool first.'
 templateKey: blog-post
 date: 2011-11-11T15:18:02.000Z
-category: Design, Development, Tools of the Trade
+category: 
+  -Design, Development, Tools of the Trade
 alias: theres-more-life-photoshop-use-wireframing-tool-first
 summary: > 
  When we get a new client, we're excited. The designer can't wait to jump into Photoshop and make something beautiful. The developer can't wait to see the Photoshop comps and start programming. But we're missing a step!

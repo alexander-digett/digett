@@ -2,7 +2,8 @@
 title: 'RIP Taxonomy Module in Drupal 7'
 templateKey: blog-post
 date: 2012-04-04T18:57:37.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: rip-taxonomy-module-drupal-7
 summary: > 
  I have come to the conclusion that the Taxonomy Module is not necessary in Drupal 7 for the vast majority of situations. While there is a lot of built-in functionality and a pre-built view for Taxonomy, the module makes too many assumptions about the way content categorization should function. And overriding the pre-built view for taxonomy terms is never as straightforward as I would like. The last few Drupal 7 sites we have built I have not used Taxonomy at all.

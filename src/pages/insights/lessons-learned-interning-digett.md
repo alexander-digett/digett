@@ -3,6 +3,7 @@ title: 'Lessons Learned Interning with Digett'
 templateKey: blog-post
 date: 2013-12-04T15:19:26.000Z
 category: 
+  -
 alias: lessons-learned-interning-digett
 summary: > 
  My four months at Digett have been awesome, I am so thankful for the opportunity for an internship as well as the people I got to work with. They are a truly amazing bunch and it helps me to understand why clients love to work with Digett. I am glad that I was able to taste what the real world will be like after college, how to transform from a student to a professional, and most importantly dealing with clients.

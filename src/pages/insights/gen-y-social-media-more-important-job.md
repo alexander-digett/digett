@@ -2,7 +2,8 @@
 title: 'Gen-Y: Social Media is More Important than a Job?'
 templateKey: blog-post
 date: 2011-11-14T15:18:22.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: gen-y-social-media-more-important-job
 summary: > 
  The 2011 World Technology Report (conducted by Cisco) contains some mind-boggling statistics on college students’ and recent graduates’ thoughts on social media and technology. Marketers will no doubt use this study as evidence in the corporate war against social media, but several statistics I’ve seen quoted around the web have got me worried.

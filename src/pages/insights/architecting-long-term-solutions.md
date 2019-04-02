@@ -2,7 +2,8 @@
 title: 'Architecting Long-Term Solutions'
 templateKey: blog-post
 date: 2013-04-16T13:00:00.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: architecting-long-term-solutions
 summary: > 
  It takes mere moments for a prospective customer to evaluate you and your business. Every interaction is important and critical to help establish a long term relationship.

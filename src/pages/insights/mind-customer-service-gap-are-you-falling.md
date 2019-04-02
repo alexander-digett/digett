@@ -2,7 +2,8 @@
 title: 'Mind the Customer Service Gap: Are You Falling In?'
 templateKey: blog-post
 date: 2014-09-30T15:24:08.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: mind-customer-service-gap-are-you-falling
 summary: > 
  There are potholes forming between consumers and businesses. These gaps arise when the customer’s expectation of the service doesn’t quite match up with their actual experience of the service. However, we as service providers are not at a complete disadvantage; understanding the five "gaps" that can lead to unsuccessful delivery of service — and what factors affect them — will help prevent you from leaving your customers disappointed.

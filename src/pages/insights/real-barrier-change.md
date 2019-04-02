@@ -2,7 +2,8 @@
 title: 'The Real Barrier to Change'
 templateKey: blog-post
 date: 2010-02-25T16:47:55.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: real-barrier-change
 summary: > 
   Our biggest barrier to change is not technology, but our entrenched way of thinking about a given circumstance.   This holds true even for me, as I am reminded of my early days as a programmer. We were cutting edge, my colleagues and I, building powerful applications that would—once installed on a user's personal computer—talk to centralized servers where a thoughtfully designed database waited to return requested data. 

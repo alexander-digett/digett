@@ -2,7 +2,8 @@
 title: 'SEO Keyword Research: Part 1 - Why Should I?'
 templateKey: blog-post
 date: 2011-03-15T23:25:59.000Z
-category: Inbound Marketing, SEM and SEO
+category: 
+  -Inbound Marketing, SEM and SEO
 alias: seo-keyword-research-part-1-why-should-i
 summary: > 
   	Performing keyword research for your San Antonio website is likely one of the most important strategic activities you can undertake for growing your business or increasing market share. Too often the reasons are overlooked, so let’s consider the big ones:

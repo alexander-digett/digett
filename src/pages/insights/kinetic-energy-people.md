@@ -2,7 +2,8 @@
 title: 'Kinetic Energy, People!'
 templateKey: blog-post
 date: 2009-03-24T20:07:59.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: kinetic-energy-people
 summary: > 
  I recently attended a workshop series called UX Intensive, hosted by Adaptive Path. For four days, I and about 100 other web enthusiasts examined four key elements that contribute to a successful website design: Design Strategy, Design Research, Information Architecture, and Interaction Design. I've put together a list of four insights to better web design, one for each day of the week.

@@ -2,7 +2,8 @@
 title: 'Background noise: Turn up the volume or whisper something significant?'
 templateKey: blog-post
 date: 2014-05-06T13:54:44.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: background-noise-turn-volume-or-whisper-something-significant
 summary: > 
  The time of internet firsts is over. I don't remember the first email, the first web page, the first email newsletter, the first tweet, the first Facebook post, the first, the first ... and the list goes on and on. I just don't remember any of them.

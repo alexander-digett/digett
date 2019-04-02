@@ -2,7 +2,8 @@
 title: 'Taking the Perfect Product Shot'
 templateKey: blog-post
 date: 2008-10-13T16:07:11.000Z
-category: Clients, Design, Tools of the Trade
+category: 
+  -Clients, Design, Tools of the Trade
 alias: taking-perfect-product-shot
 summary: > 
  We're lucky to have a cooler-than-cool, ice-cold client like Marlowe Candle Company. Marlowe specializes in hand-poured, perfectly scented candles of great variety. Their scents range from Honeysuckle to Whiskey Sour and include holiday favorites like Fall Harvest, Marlowe Christmas, and Candy Corn.

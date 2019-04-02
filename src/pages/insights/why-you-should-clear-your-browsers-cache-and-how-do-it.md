@@ -2,7 +2,8 @@
 title: 'Why you should clear your browser&#039;s cache and how to do it'
 templateKey: blog-post
 date: 2011-08-11T05:32:10.000Z
-category: Development, Tools of the Trade
+category: 
+  -Development, Tools of the Trade
 alias: why-you-should-clear-your-browsers-cache-and-how-do-it
 summary: > 
  If your web development team has ever made a change to the files that comprise your live website, they may have asked you to "clear your cache" afterwards. Well, what the heck does that mean?

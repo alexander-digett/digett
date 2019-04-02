@@ -2,7 +2,8 @@
 title: 'The Gibbs Guide to Marketing'
 templateKey: blog-post
 date: 2012-03-05T22:58:58.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: gibbs-guide-marketing
 summary: > 
  I’m a big fan of the CBS show "NCIS," and an even bigger fan of team leader Special Agent Leroy Jethro Gibbs. He’s prickly and prone to back-of-the-head slapping, but he’s also a potential source of great inspiration for marketers.

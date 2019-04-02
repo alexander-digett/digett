@@ -2,7 +2,8 @@
 title: 'How One COO Uses Social Media for Community Engagement [Interview]'
 templateKey: blog-post
 date: 2012-05-03T22:52:12.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: how-one-coo-uses-social-media-community-engagement-interview
 summary: > 
  Recently I was lucky enough to talk to Clinton Kabler, COO and co-founder of Book Riot, a website dedicated to books and reading. I love his no-holds-barred thoughts on social media and community engagement, and I think you will too.

@@ -2,7 +2,8 @@
 title: 'How to Theme the Comment Form in Drupal 6'
 templateKey: blog-post
 date: 2010-06-29T17:16:15.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: how-theme-comment-form-drupal-6
 summary: > 
  Ed. Note: Learn how to theme the comment form in Drupal 7. I’ve grown to have an affinity for Drupal’s hook_form_alter function. Truly, modifying a form doesn’t have to be as complicated as it may seem. One of the most generic Drupal forms (in my opinion) is the pesky comment form. Out of the box, it comes complete with name, email, homepage, subject, and comment fields.

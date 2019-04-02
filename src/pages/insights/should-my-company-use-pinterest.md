@@ -2,7 +2,8 @@
 title: 'Should My Company Use Pinterest?'
 templateKey: blog-post
 date: 2012-03-12T15:40:58.000Z
-category: Market Targeting, Social Media, Strategy
+category: 
+  -Market Targeting, Social Media, Strategy
 alias: should-my-company-use-pinterest
 summary: > 
  Launched in 2010 as a content curation platform, Pinterest has enjoyed a recent explosion of popularity. But what is the point of Pinterest, and how can companies use it to grow their business and improve their brand?

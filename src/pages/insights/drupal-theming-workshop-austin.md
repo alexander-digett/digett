@@ -2,7 +2,8 @@
 title: 'Drupal Theming Workshop - Austin'
 templateKey: blog-post
 date: 2007-06-12T05:00:00.000Z
-category: Development, Digett, Drupal, Tools of the Trade
+category: 
+  -Development, Digett, Drupal, Tools of the Trade
 alias: drupal-theming-workshop-austin
 summary: > 
  Join us for a day filled with Drupal Theming in Austin on Friday, June 22.  This is a one-day class aimed at helping you master the most fundamental activity involved with effectively leveraging Drupal's value as a CMS: Theming Drupal. From every angle.

@@ -2,7 +2,8 @@
 title: 'New site launch: Sonora Trophy Hunts'
 templateKey: blog-post
 date: 2012-09-26T15:40:53.000Z
-category: Clients, Design
+category: 
+  -Clients, Design
 alias: new-site-launch-sonora-trophy-hunts
 summary: > 
  Hunting is a statewide pastime in Texas, and there are plenty of hunting ranches from which to choose. Sonora Trophy Hunts wanted a website that showcased their game, amenities, and expertise in creating personalized one-on-one guided hunts for their guests.

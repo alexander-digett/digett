@@ -2,7 +2,8 @@
 title: 'New site launch: Everplans.com - a resource on the tough topic of death'
 templateKey: blog-post
 date: 2013-04-04T16:26:20.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-everplanscom-resource-tough-topic-death
 summary: > 
  Digett is very excited about the launch of Everplans.com. There are endless online resources for major life changes like buying a house, getting married or having a baby. Everplans' founders created this site to fill the void in resources available to help people with the tough topic of death and dying.

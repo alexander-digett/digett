@@ -2,7 +2,8 @@
 title: 'Protecting Your Photos &amp; Images Online'
 templateKey: blog-post
 date: 2014-10-08T14:42:20.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: protecting-your-photos-images-online
 summary: > 
  Recently a client discovered some of their photos on a competitor’s website. The situation prompted some great questions: Isn’t our entire website copyrighted? Isn’t stealing photos illegal? What can we do about this?

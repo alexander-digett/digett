@@ -2,7 +2,8 @@
 title: 'One Internship, Many Lessons Learned'
 templateKey: blog-post
 date: 2014-08-13T17:24:17.000Z
-category: Digett
+category: 
+  -Digett
 alias: one-internship-many-lessons-learned
 summary: > 
  As the summer is coming to an end, my time here at Digett is coming to an end, as well. The chance to intern at Digett has been a wonderful opportunity and reassured me (not that I needed it!) of how much I want to be a graphic designer, which is perfect, considering I am entering my final year of college.

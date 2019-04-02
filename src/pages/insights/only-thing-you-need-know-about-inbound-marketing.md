@@ -2,7 +2,8 @@
 title: 'The Only Thing You Need to Know About Inbound Marketing'
 templateKey: blog-post
 date: 2011-01-21T17:38:22.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: only-thing-you-need-know-about-inbound-marketing
 summary: > 
   	I’ve spent the past several weeks attending Inbound Marketing University (IMU), a program hosted by HubSpot. I came to Digett with little experience in inbound marketing, so it’s been nice to get an overview that covers all aspects of content creation and promotion.  	Although each of the courses provided great information, there are really only six things you need to know to succeed in inbound marketing.  	1. The basics are very basic  	We spend a lot of time fretting over the minutiae of inbound marketing, but in the end it boils down to creating helpful content, publishing and promoting it, and contributing to others’ conversations.

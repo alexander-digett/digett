@@ -2,7 +2,8 @@
 title: 'New Sites Launched for Tourism and Healthcare'
 templateKey: blog-post
 date: 2010-05-28T17:44:12.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-sites-launched-tourism-and-healthcare
 summary: > 
  Digett prides itself on helping companies establish brands and providing marketing solutions. Whether we’re there for the birth of a brand, as with The Inn at Bella Vista, MedMarketers, and BioSafe, or helping to redefine existing offerings, as with Instrument Specialists and X Bar Ranch, we flex our skills and technology muscles to empower companies with the websites they need.

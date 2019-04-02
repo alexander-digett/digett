@@ -2,7 +2,8 @@
 title: 'Psychology of Color'
 templateKey: blog-post
 date: 2010-02-01T08:38:17.000Z
-category: Design
+category: 
+  -Design
 alias: psychology-color
 summary: > 
  One of the more important decisions to be made when designing your website is choosing color. Color plays in integral role in the impact your site has on visitors. To be sure to make a positive impact, consider learning a bit about the psychology of color.

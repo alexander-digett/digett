@@ -2,7 +2,8 @@
 title: 'Measure Twice, Cut Once'
 templateKey: blog-post
 date: 2012-07-09T05:00:00.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: measure-twice-cut-once
 summary: > 
  Today’s content marketing exec is in the hot seat to understand and leverage more technology than her predecessors. The depth and breadth of tools alone can seem intimidating, especially when considered in the context of the unprecedented velocity of change in the industry.

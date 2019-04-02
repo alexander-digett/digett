@@ -3,6 +3,7 @@ title: 'Speak the Queen&#039;s English, Man'
 templateKey: blog-post
 date: 2009-02-10T16:07:56.000Z
 category: 
+  -
 alias: speak-queens-english-man
 summary: > 
  We spend a good deal of time preaching authenticity in online communications. Mark, who is always more precise succinct in his posts, previously summed it up thusly: Corporate blogs should be more blog than corporate. Never one to let one sentence explain what several dozen can, I tackled business-speak in an incomprehensible press release I once came across. However, the longer I spend in this business—and the more I read of similarly situated industry adherents—the more I realize how easily one can go too far with casual language.

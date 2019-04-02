@@ -2,7 +2,8 @@
 title: 'Time to Deck Your Marketing Strategy This Holiday Season'
 templateKey: blog-post
 date: 2014-12-10T18:23:14.000Z
-category: Marketing, Social Media, Strategy, Tools of the Trade
+category: 
+  -Marketing, Social Media, Strategy, Tools of the Trade
 alias: time-deck-your-marketing-strategy-holiday-season
 summary: > 
  Although Black Friday has come and gone, we are still just getting into the holiday shopping season. Don’t wait any longer to pump up your marketing strategy — now is the time to give your customers some holiday cheer. Here are three ways you can improve your marketing this holiday season.

@@ -2,7 +2,8 @@
 title: 'SEO Needs a New Name'
 templateKey: blog-post
 date: 2013-04-17T14:02:55.000Z
-category: SEM and SEO
+category: 
+  -SEM and SEO
 alias: seo-needs-new-name
 summary: > 
  Digett has made known our opinion on the subject of Search Engine Optimization (SEO) before. Until I ran across this presentation on Slideshare, I had been perpetually bothered by a lack of clarity around just about any way SEO gets explained. Turns out it’s not the explanations of SEO that fall short of truth, but rather the term SEO itself.

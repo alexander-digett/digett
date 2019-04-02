@@ -2,7 +2,8 @@
 title: 'Buyer Personas and Marketing Success'
 templateKey: blog-post
 date: 2012-11-06T19:09:08.000Z
-category: Market Targeting, Marketing, Strategy
+category: 
+  -Market Targeting, Marketing, Strategy
 alias: buyer-personas-and-marketing-success
 summary: > 
  It is a truth universally acknowledged that a company that wishes to be successful online needs to have visitors coming to their website. But it’s more than that; driving the right visitors to your site means the difference between doing business and going bust.

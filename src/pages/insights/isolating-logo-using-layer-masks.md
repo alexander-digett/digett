@@ -2,7 +2,8 @@
 title: 'Isolating a Logo Using Layer Masks'
 templateKey: blog-post
 date: 2010-01-04T05:56:51.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: isolating-logo-using-layer-masks
 summary: > 
  Not all site designs are easy; some, you have to work for. And by some, I mean all of them. Recently, I had to work out a problem with a site showcasing logos on a black background. The problem was the logo files I had were JPEGs of each on a white background. Laying out these white rectangle logos on the black background just wasn't working for me—not a good look. So I came up with a Photoshop method to cut the logos away from their white backgrounds, thus making them usable on any color background. I assure you this method works better and more often than other traditional isolation techniques, magic wand included.

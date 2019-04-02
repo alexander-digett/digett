@@ -2,7 +2,8 @@
 title: 'Reputation Monitoring: Your Customers are Talking About You'
 templateKey: blog-post
 date: 2011-03-09T22:43:28.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: reputation-monitoring-your-customers-are-talking-about-you
 summary: > 
   	Do you know that your customers are talking about you? That thought probably scares you and you may wonder, "What are they saying?" “What if it’s bad?” “What can I do about it?”  	Things have changed. The little guy has a voice that can be heard all around the world if the message is clear and rings true. This means that an upset customer can instantly communicate their dissatisfaction to tens, hundreds, or thousands of people via Twitter, Facebook, or a blog — and you can’t stop it!

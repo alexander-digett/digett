@@ -2,7 +2,8 @@
 title: 'Creative Marketing Ideas: Zombie Apocalypse'
 templateKey: blog-post
 date: 2011-06-06T14:22:47.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: creative-marketing-ideas-zombie-apocalypse
 summary: > 
   	It’s been a year of absolutely insane natural disasters — and with hurricane season beginning June 1, government health agencies are taking no chances when it comes to promoting disaster preparedness.

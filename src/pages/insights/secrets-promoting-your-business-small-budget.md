@@ -3,6 +3,7 @@ title: 'Secrets to Promoting Your Business on a Small Budget'
 templateKey: blog-post
 date: 2013-11-14T20:32:04.000Z
 category: 
+  -
 alias: secrets-promoting-your-business-small-budget
 summary: > 
  One of the big challenges of starting a business is promoting it. How do you get your name out there when advertising is expensive and you have a tight budget? With so much competition out there you must find a way to differentiate yourself and stand out in your customers’ minds.

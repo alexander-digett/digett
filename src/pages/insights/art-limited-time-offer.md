@@ -2,7 +2,8 @@
 title: 'The Art of the Limited Time Offer'
 templateKey: blog-post
 date: 2011-11-07T16:02:25.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: art-limited-time-offer
 summary: > 
  It’s coming to the end of the year — is your marketing feeling a little stale? Here’s some tips on how to create a limited time offer that can boost your leads and sales, and breathe some life into your marketing strategy.

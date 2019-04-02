@@ -2,7 +2,8 @@
 title: 'Web Tip: Getting Manic Over Meta Descriptions'
 templateKey: blog-post
 date: 2008-02-28T06:00:00.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: web-tip-getting-manic-over-meta-descriptions
 summary: > 
  Whether you are aware of this or not, many of us see meta descriptions at least a few times every day. We might see hundreds of them, in fact. Every time you Google a phrase (which I do at least ten to twenty times daily), the SERP displays a list of page titles, each followed by a a short description derived from its respective web page's meta description.

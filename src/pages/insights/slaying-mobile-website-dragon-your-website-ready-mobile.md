@@ -2,7 +2,8 @@
 title: 'Slaying The Mobile Website Dragon: Is Your Website Ready for Mobile?'
 templateKey: blog-post
 date: 2011-03-11T22:49:19.000Z
-category: Branding, Design, Development, Digett, Drupal, Mobile
+category: 
+  -Branding, Design, Development, Digett, Drupal, Mobile
 alias: slaying-mobile-website-dragon-your-website-ready-mobile
 summary: > 
  You are a veteran of the website design and development process. You’re a warrior. You’ve conquered web designer giants, slayed a den full of forked-tongue programmers, and outwitted the caffeine-fueled marketing dragons — you have risen victoriously to the challenge! You successfully launched your company’s website (only slightly over budget). Then you decided to look at it on your mobile phone. You can already hear the fanfare fading.

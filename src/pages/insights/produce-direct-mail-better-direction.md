@@ -2,7 +2,8 @@
 title: 'Produce Direct Mail with Better Direction'
 templateKey: blog-post
 date: 2008-06-29T05:00:00.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: produce-direct-mail-better-direction
 summary: > 
  Last week, I received a direct mail piece from a local car dealership informing me the Honda Element I currently drive is in high demand. Shockingly, they wanted to buy my trusty wagon and put me behind the wheel of a shiny, new car—at an unbelievable price, of course.

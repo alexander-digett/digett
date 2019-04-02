@@ -2,7 +2,8 @@
 title: 'Design Consistency for the Sake of Marketing'
 templateKey: blog-post
 date: 2011-08-09T15:03:40.000Z
-category: Branding, Design, Marketing
+category: 
+  -Branding, Design, Marketing
 alias: design-consistency-sake-marketing
 summary: > 
  If you aren't already aware of our upcoming webinar, you should be. It's called Five Social Media Mistakes You Can't Afford to Make and we've been trying to get you to sign up for the past couple of weeks.

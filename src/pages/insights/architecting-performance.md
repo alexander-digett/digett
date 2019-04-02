@@ -2,7 +2,8 @@
 title: 'Architecting Performance'
 templateKey: blog-post
 date: 2013-07-02T17:10:02.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: architecting-performance
 summary: > 
  One of the chief complaints from new Drupal users tends to relate to performance. Anyone attempting to run modern web applications will often find that they can only handle a small amount of traffic before the server and the site begin to collapse.

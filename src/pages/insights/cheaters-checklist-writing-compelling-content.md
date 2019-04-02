@@ -2,7 +2,8 @@
 title: 'Cheaters&#039; Checklist for Writing Compelling Content'
 templateKey: blog-post
 date: 2010-10-29T15:45:56.000Z
-category: Blogging, Branding, Market Targeting, Our Industry, Strategy
+category: 
+  -Blogging, Branding, Market Targeting, Our Industry, Strategy
 alias: cheaters-checklist-writing-compelling-content
 summary: > 
  It used to be that lead generation involved expensive advertising, door-to-door solicitation or blasting direct mail to a desired demographic. These techniques have largely been shelved by successful organizations, since lead generation by way of effective content marketing has taken the stage as the single most important way for businesses to attract and qualify leads.

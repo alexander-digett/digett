@@ -2,7 +2,8 @@
 title: 'Blogging Every Day Does Not Make You Successful'
 templateKey: blog-post
 date: 2014-04-22T14:29:20.000Z
-category: Blogging, Marketing
+category: 
+  -Blogging, Marketing
 alias: blogging-every-day-does-not-make-you-successful
 summary: > 
  The pressure on businesses to blog as frequently as possible has reached a new high. There are scads of statistics showing the value of daily blogging, but I’m not sure the cost makes it worthwhile. A heavy focus on quantity can often lead to ignoring quality, which makes everyone suffer.

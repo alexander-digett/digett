@@ -2,7 +2,8 @@
 title: 'Optimizing Landing Pages for Conversions'
 templateKey: blog-post
 date: 2011-04-11T22:37:27.000Z
-category: Inbound Marketing
+category: 
+  -Inbound Marketing
 alias: optimizing-landing-pages-conversions
 summary: > 
   	A landing page is often the first thing that a visitor to your website sees, and it can make or break your conversion rate. I’ve talked before about how you can test and optimize a landing page form, but if the content surrounding that form is confusing, misleading or unhelpful, your conversion rate will likely remain low.

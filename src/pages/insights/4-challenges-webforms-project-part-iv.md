@@ -2,7 +2,8 @@
 title: '4 Challenges With a Webforms Project, Part IV'
 templateKey: blog-post
 date: 2014-12-03T16:27:03.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: 4-challenges-webforms-project-part-iv
 summary: > 
  Welcome to the fourth and final part of my in-depth look at customizing some default behavior in Webforms, and in this installment, Drupal’s Bootstrap theme. Today we’ll look specifically at repurposing bootstrap alerts and some more general minor DOM manipulation.

@@ -3,6 +3,7 @@ title: 'What Every Intern Should Know About Business Communication'
 templateKey: blog-post
 date: 2014-06-04T14:44:55.000Z
 category: 
+  -
 alias: what-every-intern-should-know-about-business-communication
 summary: > 
  Congratulations, you’ve scored an internship! You’re probably getting excited about specific projects and tasks, but I want to take a step back together and talk about something that’s a big challenge for some young interns: business communication.

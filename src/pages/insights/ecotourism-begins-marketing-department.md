@@ -2,7 +2,8 @@
 title: 'Ecotourism Begins in the Marketing Department'
 templateKey: blog-post
 date: 2008-11-14T17:25:29.000Z
-category: Marketing, Nature, Tourism
+category: 
+  -Marketing, Nature, Tourism
 alias: ecotourism-begins-marketing-department
 summary: > 
  Ecotourism, green travel, limited-footprint vacationing—call it what you like, more and more travelers are taking into account the environmental effects of their vacation choices. Even the RV world is beginning to get a little green. Promoting your venue or destination to environmentally aware consumers can bring rewards.

@@ -2,7 +2,8 @@
 title: 'Timeline for Facebook Business Pages'
 templateKey: blog-post
 date: 2012-03-29T18:03:08.000Z
-category: Social Media
+category: 
+  -Social Media
 alias: timeline-facebook-business-pages
 summary: > 
  Have you updated your Facebook business page to use Timeline? If you haven’t, you’ve got 24-48 hours before your page updates automatically. Fortunately Marketo has created a great infographic that shows you what you need to do to get your Facebook page looking spiffy.

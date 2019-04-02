@@ -2,7 +2,8 @@
 title: 'Digett&#039;s Favorite Must-Haves'
 templateKey: blog-post
 date: 2007-12-20T06:00:00.000Z
-category: Digett
+category: 
+  -Digett
 alias: digetts-favorite-must-haves
 summary: > 
  At Digett, we don't see a ton of raindrops, roses or whiskers on kittens, but these are a few of our favorite things that we can't live without.

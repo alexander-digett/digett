@@ -2,7 +2,8 @@
 title: 'The Best Way to be a Better Business'
 templateKey: blog-post
 date: 2014-08-05T14:22:54.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: best-way-be-better-business
 summary: > 
  Digett’s weekly team lunch is a great opportunity for us to strengthen team bonds by talking about something other than work, as well as the best way we’ve found to keep everyone in the loop on all projects.

@@ -2,7 +2,8 @@
 title: 'What we can learn from restaurant websites.'
 templateKey: blog-post
 date: 2011-09-28T13:04:37.000Z
-category: Design, Development
+category: 
+  -Design, Development
 alias: what-we-can-learn-restaurant-websites
 summary: > 
  This comic about restaurant websites started me thinking about the way most websites are built. My experience over the past 5-6 years of building sites is that the motivation for a new site ranges from "our current site’s design is out date" to “it is difficult to use” or even “we need a website because we don’t have one.”

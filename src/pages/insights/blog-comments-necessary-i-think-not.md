@@ -2,7 +2,8 @@
 title: 'Blog Comments: Necessary? I Think Not'
 templateKey: blog-post
 date: 2011-08-16T04:21:54.000Z
-category: Blogging, Digett
+category: 
+  -Blogging, Digett
 alias: blog-comments-necessary-i-think-not
 summary: > 
  At Digett we often debate the need to enable comments on a blog, that is, if we should allow readers the opportunity to leave feedback via a form submission.

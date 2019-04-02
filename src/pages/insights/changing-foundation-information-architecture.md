@@ -2,7 +2,8 @@
 title: 'The Changing Foundation of Information Architecture'
 templateKey: blog-post
 date: 2010-06-18T15:59:31.000Z
-category: Our Industry, Tools of the Trade
+category: 
+  -Our Industry, Tools of the Trade
 alias: changing-foundation-information-architecture
 summary: > 
  Information Architecture has always been an important part of website design; if a website is too difficult to navigate, users are unlikely to stick around. It is the IA’s job to think like a user and structure the website accordingly. IAs sometimes operate as graphic designers and often are responsible for SEO (search engine optimization), thus contributing to a rather unwieldy job description. But until relatively recently, the job of Information Architect has remained relatively stable. As the saying goes, however, the only thing that remains constant is change.

@@ -2,7 +2,8 @@
 title: 'Lights, Camera ... Inaction'
 templateKey: blog-post
 date: 2009-08-13T18:46:40.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: lights-camera-inaction
 summary: > 
  In one of our recent e-newsletters, we decided to feature some recent video work by using a still shot of the commercial with the ubiquitous "Play" button slapped on top. The implication, I hope, was clear: Click here, and you'll see some moving pictures. But we didn't try to embed the actual video in the email. Why not? Because video playback in email just isn't ready for the spotlight, despite years of pining from desperate marketers, largely because a handful of cranks ruined the fun for everyone.

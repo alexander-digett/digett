@@ -2,7 +2,8 @@
 title: 'Broken Organizations'
 templateKey: blog-post
 date: 2007-07-17T05:00:00.000Z
-category: Caveat Emptor
+category: 
+  -Caveat Emptor
 alias: broken-organizations
 summary: > 
  So many organizations are broken. You know them, as you've probably tried to deal with one or two, at least, in the past week. I'm on my second phone call today with BlueTie, trying simply to change the credit card to which my account gets billed monthly.

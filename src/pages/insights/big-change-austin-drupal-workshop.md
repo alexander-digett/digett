@@ -2,7 +2,8 @@
 title: 'Big Change For Austin Drupal Workshop'
 templateKey: blog-post
 date: 2007-06-20T05:00:00.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: big-change-austin-drupal-workshop
 summary: > 
  We must have totally misjudged the level of interest that Austinites would have in our June 22 Drupal workshop on theming. I would have thought Austin, TX to be fertile ground, a bastion of thirst for greater knowledge of Drupal. Alas, only two people have signed up.

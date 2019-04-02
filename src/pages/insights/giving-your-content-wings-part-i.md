@@ -2,7 +2,8 @@
 title: 'Giving Your Content Wings - Part I'
 templateKey: blog-post
 date: 2011-06-27T14:48:05.000Z
-category: Marketing, SEM and SEO, Social Media, Strategy
+category: 
+  -Marketing, SEM and SEO, Social Media, Strategy
 alias: giving-your-content-wings-part-i
 summary: > 
  In Ann Handley and C.C. Chapman’s book Content Rules, the authors say that while your content has its roots on your website, it’s just as important to "give it wings to soar freely and be shared all across the Web as a social object" (p.102). In other words, the content you create is meant to be viewed and shared by others — it doesn’t do you much good as a business to write blog articles that no one ever sees.

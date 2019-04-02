@@ -2,7 +2,8 @@
 title: 'Our New Drupal Passion'
 templateKey: blog-post
 date: 2006-06-17T05:00:00.000Z
-category: Development, Marketing
+category: 
+  -Development, Marketing
 alias: our-new-drupal-passion
 summary: > 
  It was just a few months ago that something got me quite interested in learning more about Drupal. I don't remember why, honestly, although it may very well have been a site like drupalsites.net , where one can view scores of sites that have been built on this blossoming content managem

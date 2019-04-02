@@ -2,7 +2,8 @@
 title: 'IE compatibility craziness, retina graphics, what should I do?'
 templateKey: blog-post
 date: 2013-02-06T15:08:35.000Z
-category: Design, Development, Drupal
+category: 
+  -Design, Development, Drupal
 alias: ie-compatibility-craziness-retina-graphics-what-should-i-do
 summary: > 
  I'm excited about the future of web design/development.   		Screen-size agnostic approaches like responsive design using media queries.   		High resolution graphics. Apple has branded this high resolution display as a "Retina" display. Other manufacturers are beginning to come close to the same resolution level. No doubt, we'll only see increased resolution going forward.  		CSS3/HTML5 now in the mainstream.  		Hosted fonts (Google Fonts, Typekit, etc) are becoming more common and higher quality.  	Enter the scary part The process of including IE7 and now even IE8 in my workflow feels "post war" and not current, modern or exciting. I remember the beautiful day when I stopped supporting IE6 a few years ago — the world was full of CSS promise.

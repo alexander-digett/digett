@@ -2,7 +2,8 @@
 title: 'Content Marketing and the Death of the Campaign'
 templateKey: blog-post
 date: 2010-09-22T17:34:51.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: content-marketing-and-death-campaign
 summary: > 
  Last month, I took to my personal blog to write out some thoughts I had about defining inbound and outbound content strategies; my conclusion in that post was that ownership of the content, real or perceived, was the defining factor. I stand by that determination, though—like any self-conscious writer—I'm again wondering if I used the right terminology.

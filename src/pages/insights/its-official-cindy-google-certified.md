@@ -2,7 +2,8 @@
 title: 'It&#039;s Official: Cindy is Google Certified'
 templateKey: blog-post
 date: 2009-10-27T20:14:44.000Z
-category: Digett, SEM and SEO
+category: 
+  -Digett, SEM and SEO
 alias: its-official-cindy-google-certified
 summary: > 
  Digett is pleased to announce that Cindy Becker, whose lengthy list of accomplishments knows few bounds, is now a Google AdWords Qualified Individual. Here's the important stuff:

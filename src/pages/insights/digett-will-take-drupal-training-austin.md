@@ -2,7 +2,8 @@
 title: 'Digett will take Drupal Training to Austin'
 templateKey: blog-post
 date: 2007-05-02T05:00:00.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: digett-will-take-drupal-training-austin
 summary: > 
  We'll rely largely on Roger's in-depth understanding and mastery of Drupal's architecture, his passion to explore the limits of Drupal theming, and his ability to clearly explain complex subjects clearly and succinctly.

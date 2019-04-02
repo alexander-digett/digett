@@ -2,7 +2,8 @@
 title: 'Continuous Innovation with Drupal 8'
 templateKey: blog-post
 date: 2013-03-20T14:41:04.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: continuous-innovation-drupal-8
 summary: > 
  When I began using Drupal five years ago, Drupal 6 had just been released and closely resembled a custom-built solution I was using at the time. At the same time, I had also evaluated Symfony 1.1 and determined that it didn't quite meet my needs. Little did I know that five years later I would be using both.

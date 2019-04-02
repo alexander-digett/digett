@@ -2,7 +2,8 @@
 title: 'Side Effects of Corporate Philanthropy'
 templateKey: blog-post
 date: 2006-10-14T05:00:00.000Z
-category: Philanthropy
+category: 
+  -Philanthropy
 alias: side-effects-corporate-philanthropy
 summary: > 
  It's a rainy Saturday ... a rare occurrence here in the Hill Country, in recent history. As I sit in my office at home and take care of random obligations, I reflect on the various things that Trevor, Roger, Joann, Lori, and I have undertaken taken over the past two or three years that have made an impact on Boerne.

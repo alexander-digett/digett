@@ -2,7 +2,8 @@
 title: '3 Features a Non-Profit Website Can’t Live Without'
 templateKey: blog-post
 date: 2011-08-15T15:47:17.000Z
-category: Philanthropy, Strategy
+category: 
+  -Philanthropy, Strategy
 alias: 3-features-non-profit-website-cant-live-without
 summary: > 
  As Internet usage continues to increase, more potential donors are going to be searching online for donation opportunities. Not only do you want to attract new people to your cause — you also want those who have already donated to stay engaged with you, and continue to donate, volunteer, and spread the word.

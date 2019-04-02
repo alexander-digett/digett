@@ -2,7 +2,8 @@
 title: 'Product Review: New Relic APM for Drupal Performance Tuning'
 templateKey: blog-post
 date: 2014-10-07T15:36:12.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: product-review-new-relic-apm-drupal-performance-tuning
 summary: > 
  New Relic APM (Application Monitoring) is an amazing tool to help you tune the performance of your Drupal website.

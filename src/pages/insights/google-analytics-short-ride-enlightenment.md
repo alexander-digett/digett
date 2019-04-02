@@ -2,7 +2,8 @@
 title: 'Google Analytics is a Short Ride to Enlightenment'
 templateKey: blog-post
 date: 2006-12-06T06:00:00.000Z
-category: Analytics
+category: 
+  -Analytics
 alias: google-analytics-short-ride-enlightenment
 summary: > 
  I first wrote about Google Analytics a number of months back.  Since then we've added numerous web sites to the list of those we monitor using this cool tool, and we continue to be amazed. If you have a Google Analytics account, then it's a quick task to set your web site up to use it. From within Analytics, you create what's called a "profile". Google provides a code snippet that your webmaster pastes into your web page(s), and "voila!".

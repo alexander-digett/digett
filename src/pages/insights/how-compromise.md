@@ -2,7 +2,8 @@
 title: 'How to Compromise'
 templateKey: blog-post
 date: 2006-09-03T05:00:00.000Z
-category: Design, Development, Marketing
+category: 
+  -Design, Development, Marketing
 alias: how-compromise
 summary: > 
  I love it when someone as typically elegant and gracious as Seth takes such a cynically facetious slant.

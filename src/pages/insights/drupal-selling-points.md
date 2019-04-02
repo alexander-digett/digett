@@ -2,7 +2,8 @@
 title: 'Drupal Selling Points'
 templateKey: blog-post
 date: 2009-01-22T22:17:01.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: drupal-selling-points
 summary: > 
  I recently was asked by a client to provide some ammunition for selling Drupal to his management team. I found plenty info using my friend Google, but ultimately had to spend an hour or so organizing it into a concise list of bullet points that I thought addressed the broad spectrum of benefits that Drupal can provide.  I thought I'd share with others who may need something similar at some point.

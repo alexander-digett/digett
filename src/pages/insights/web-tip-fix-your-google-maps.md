@@ -2,7 +2,8 @@
 title: 'Web Tip: Fix Your Google Maps'
 templateKey: blog-post
 date: 2007-12-20T06:00:00.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: web-tip-fix-your-google-maps
 summary: > 
  Google Maps can be a savior of a resource. Aren't sure where that party is? Look it up. Don't know exactly where on I-10 that new store opened? Print out a map.

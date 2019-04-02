@@ -2,7 +2,8 @@
 title: 'BillBoards Progress'
 templateKey: blog-post
 date: 2005-07-20T05:00:00.000Z
-category: Development
+category: 
+  -Development
 alias: billboards-progress
 summary: > 
  We have been bootstrapping our new BillBoards product for the Boerne Chamber of Commerce website for about the last week and a half. BillBoards is a hosted text ad solution that I've written using the Ruby on Rails framework. But, why does the internet need another ad service? It differs in two main aspects.

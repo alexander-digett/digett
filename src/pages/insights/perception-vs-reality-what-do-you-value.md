@@ -2,7 +2,8 @@
 title: 'Perception vs Reality: What Do You Value? '
 templateKey: blog-post
 date: 2014-10-15T17:40:23.000Z
-category: Branding, Marketing, Strategy, Tools of the Trade
+category: 
+  -Branding, Marketing, Strategy, Tools of the Trade
 alias: perception-vs-reality-what-do-you-value
 summary: > 
  The advertising world is full of tricks and ploys for adjusting consumers’ views on products and services, but what do these tricks actually do? In a TED Talk from 2009 Rory Sutherland presented the idea of how changing perceived value can be just as satisfying as changing the real value. His findings reveal some interesting things for both advertisers and consumers.

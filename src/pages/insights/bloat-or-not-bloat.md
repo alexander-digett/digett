@@ -2,7 +2,8 @@
 title: 'To Bloat or Not to Bloat'
 templateKey: blog-post
 date: 2008-05-06T05:00:00.000Z
-category: Design
+category: 
+  -Design
 alias: bloat-or-not-bloat
 summary: > 
  It's clear that web pages, on average, are growing in size.  So says a recent report on websiteoptimization.com.  Larger web pages take longer to load, and the slower the connection, the longer the load time.

@@ -2,7 +2,8 @@
 title: 'Checklist: Am I ready to click the &quot;publish&quot; button?'
 templateKey: blog-post
 date: 2012-01-19T15:15:36.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: checklist-am-i-ready-click-publish-button
 summary: > 
  It stinks when you realize the new blog post or page you posted three days ago is a mess. How did you miss that mistake? Don’t kick yourself. Before you publish any new piece of content, go down this checklist to determine if your content is ready.

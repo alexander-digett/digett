@@ -2,7 +2,8 @@
 title: 'How to Create a Repeating Background Image'
 templateKey: blog-post
 date: 2011-07-19T15:07:30.000Z
-category: Design, Development, Tools of the Trade
+category: 
+  -Design, Development, Tools of the Trade
 alias: how-create-repeating-background-image
 summary: > 
  Often times in web design we have the need to create a repeating background image. This can be simple or fairly complex depending on the type of background that needs repeating. I've developed a method for creating such images with ease.

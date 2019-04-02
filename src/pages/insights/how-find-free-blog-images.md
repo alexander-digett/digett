@@ -2,7 +2,8 @@
 title: 'How to Find Free Blog Images'
 templateKey: blog-post
 date: 2011-04-18T21:48:28.000Z
-category: Blogging
+category: 
+  -Blogging
 alias: how-find-free-blog-images
 summary: > 
   	Andrew has written extensively on the value of finding the right stock photography, and how the right imagery will integrate with your website’s content, reinforcing your message and brand. Purchasing stock imagery for every blog article can be expensive, however, especially if your goal is to post multiple times per week. So how can you find good imagery without breaking the bank?

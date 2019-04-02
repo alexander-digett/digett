@@ -2,7 +2,8 @@
 title: 'Content Marketing for Those Who Don&#039;t Have Time for Marketing'
 templateKey: blog-post
 date: 2013-10-09T13:47:20.000Z
-category: Branding, Inbound Marketing, Strategy
+category: 
+  -Branding, Inbound Marketing, Strategy
 alias: content-marketing-those-who-dont-have-time-marketing
 summary: > 
  Content marketing requires enormous effort, and the pressure to do everything and be everywhere can lead to a paralysis in which nothing gets done. But have no fear — you don’t have to do everything! All you have to do is these four things.

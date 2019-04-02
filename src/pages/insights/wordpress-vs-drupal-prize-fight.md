@@ -2,7 +2,8 @@
 title: 'Wordpress vs. Drupal: The Prize Fight!'
 templateKey: blog-post
 date: 2012-04-20T13:32:13.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: wordpress-vs-drupal-prize-fight
 summary: > 
  I have developed very large, very small and every size website between. I have rolled my own CMS, used (and even developed extensions for) Typo3, Wordpress, Expression Engine, Mambo &amp; Joomla, WebGUI, SharePoint, MonkCMS/Ekklesia360, DotNetNuke and Drupal. By far, I have been most loyal to Wordpress and Drupal.

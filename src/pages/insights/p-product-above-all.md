@@ -2,7 +2,8 @@
 title: '&quot;P&quot; is for Product, Above All'
 templateKey: blog-post
 date: 2014-11-19T15:13:18.000Z
-category: Branding, Marketing, Our Industry
+category: 
+  -Branding, Marketing, Our Industry
 alias: p-product-above-all
 summary: > 
  In classic marketing academia, the so-called "Four P's" comprising the "marketing mix" are product, price, place, and promotion. Since the dawn of the age of mass media, the marketer's job may have centered most around "promotion".

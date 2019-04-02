@@ -2,7 +2,8 @@
 title: 'DrupalCon Portland: It&#039;s About the Community'
 templateKey: blog-post
 date: 2013-06-11T13:00:00.000Z
-category: Drupal, Our Industry
+category: 
+  -Drupal, Our Industry
 alias: drupalcon-portland-its-about-community
 summary: > 
  While DrupalCon Portland ended nearly three weeks ago, some of us are just now decompressing from the experience. Spending a week with 3,300 attendees learning about and contributing to Drupal was both inspiring and instructive.

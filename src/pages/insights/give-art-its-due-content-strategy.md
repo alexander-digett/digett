@@ -2,7 +2,8 @@
 title: 'Give Art its Due in Content Strategy'
 templateKey: blog-post
 date: 2010-04-21T21:02:19.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: give-art-its-due-content-strategy
 summary: > 
  Normally, I leave all the artsy talk about graphics to Andrew, and for good reason. However, my background includes editorial work, and art selection is an important part of that role. Properly sourced and prepared artwork can set the tone for any content item, but the process is often done outside the glare of critical eyes (except in egregious missteps) or given second billing to other creative pursuits. No more, I say.

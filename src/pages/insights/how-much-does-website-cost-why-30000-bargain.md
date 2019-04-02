@@ -2,7 +2,8 @@
 title: 'How much does a website cost? Why $30,000 is a bargain.'
 templateKey: blog-post
 date: 2011-06-21T21:22:49.000Z
-category: Clients, Our Industry
+category: 
+  -Clients, Our Industry
 alias: how-much-does-website-cost-why-30000-bargain
 summary: > 
  One of the most common questions we're asked as web developers is, "How much does a website cost?" Oddly enough, it's never this initial question that's hard to answer, it's question number two: "Why so much?"

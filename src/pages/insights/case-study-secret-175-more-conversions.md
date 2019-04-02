@@ -2,7 +2,8 @@
 title: 'Case Study: The Secret to 175% More Conversions'
 templateKey: blog-post
 date: 2015-03-13T17:08:41.000Z
-category: Clients, Inbound Marketing, Strategy
+category: 
+  -Clients, Inbound Marketing, Strategy
 alias: case-study-secret-175-more-conversions
 summary: > 
  Content marketing is not easy. It’s not fast, either. But as Van Delden Wastewater Systems learned, it can be one of the most effective ways to increase your company’s online presence and lead generation — provided you begin with a solid strategy and a willingness to adapt it as you go.

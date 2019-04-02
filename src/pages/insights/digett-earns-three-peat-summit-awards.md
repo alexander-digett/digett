@@ -2,7 +2,8 @@
 title: 'Digett Earns a Three-Peat at the Summit Awards'
 templateKey: blog-post
 date: 2010-07-23T20:16:56.000Z
-category: Clients, Digett
+category: 
+  -Clients, Digett
 alias: digett-earns-three-peat-summit-awards
 summary: > 
  Normally, we're a humble bunch of folks; we put on our pants one leg at a time and get to work (cough) early to get a leg up, all without fanfare, ticker-tape parades, or floats. That said, we don't turn up our noses when an award comes our way, especially if it's for the third year in a row. That being the case, we're pleased to announce the Greater San Antonio Builders Association has awarded the Digett-designed and -developed McMillin Homes website the 2010 Summit Award for Best Website for a Builder. I might mention we also won in 2009 and 2008—and telling the truth never constitutes bragging, in our playbook.

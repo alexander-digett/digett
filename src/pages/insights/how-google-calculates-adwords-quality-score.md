@@ -2,7 +2,8 @@
 title: 'How Google Calculates AdWords Quality Score'
 templateKey: blog-post
 date: 2013-11-22T15:05:55.000Z
-category: Analytics, SEM and SEO
+category: 
+  -Analytics, SEM and SEO
 alias: how-google-calculates-adwords-quality-score
 summary: > 
  The almighty Quality Score. The number that means nothing and everything all at the same time. It balances the interests of advertisers, Google, and the user. On the surface, it seems far too complicated. But armed with the basics, you’ll have enough to perform well.

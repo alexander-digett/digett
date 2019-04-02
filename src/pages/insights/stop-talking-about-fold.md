@@ -2,7 +2,8 @@
 title: 'Stop talking about the fold.'
 templateKey: blog-post
 date: 2012-02-03T15:01:55.000Z
-category: Design, UX Design
+category: 
+  -Design, UX Design
 alias: stop-talking-about-fold
 summary: > 
  I have been as guilty as anyone in talking about the fold — the invisible (shall I push and say "imaginary"?) line where scrolling begins. I even think about the fold when I design a web site. Why am I thinking of a concept that came from the newspaper industry? Perhaps I spent too much time on my school's newspaper staff! 

@@ -2,7 +2,8 @@
 title: 'Do This, Not That: Marketing Edition'
 templateKey: blog-post
 date: 2012-09-18T15:56:50.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: do-not-marketing-edition
 summary: > 
  Marketing is a moving target: "best practices" change frequently, tactics that worked yesterday don’t work today, and coordinating content marketing is a massive undertaking. But no matter your strategy, remember these four dos and don’ts.

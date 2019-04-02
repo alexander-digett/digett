@@ -2,7 +2,8 @@
 title: 'Tear down that wall of words!'
 templateKey: blog-post
 date: 2011-12-16T16:08:57.000Z
-category: Blogging, Design
+category: 
+  -Blogging, Design
 alias: tear-down-wall-words
 summary: > 
  Often I have a client who needs a lot of words on the page. At first glance, I feel like I can condense the message — but just as often, the nature of my client's industry requires specific language. Good design and marketing practices tell me to have a short page to read, but when I try to edit the page, there isn't much content I can trim (especially when there are product features or legally-required points to cover).

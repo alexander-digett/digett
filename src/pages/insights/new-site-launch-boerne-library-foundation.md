@@ -2,7 +2,8 @@
 title: 'New Site Launch: Boerne Library Foundation'
 templateKey: blog-post
 date: 2009-03-12T16:25:13.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-boerne-library-foundation
 summary: > 
  Digett recently launched a new website for the Boerne Public Library Foundation. The mission of the Boerne Public Library Foundation is "to provide the library with funding for major capital expenditure projects and to promote and advocate for literature, culture and the arts through ongoing programming."

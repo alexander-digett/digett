@@ -2,7 +2,8 @@
 title: 'Drupal Enters the Murky World of D.C. Politics'
 templateKey: blog-post
 date: 2009-10-29T21:01:08.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: drupal-enters-murky-world-dc-politics
 summary: > 
  "Methought I heard him think, 'Ay! I am fairly out and you are fairly in! See which of us will be the happiest!'" — John Adams, describing what he believed George Washington was thinking upon retirement The Drupal world has been abuzz, of late, mostly owing to the news that Whitehouse.gov, one of the many online mouthpieces of President Obama's administration, has been moved to Drupal. Indeed, this has been hailed as a victory for all open-source technologies, and one outlet after another has offered mostly pleasing remarks about the switch.

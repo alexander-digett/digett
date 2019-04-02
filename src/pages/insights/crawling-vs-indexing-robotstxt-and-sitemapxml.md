@@ -2,7 +2,8 @@
 title: 'Crawling vs. Indexing: Robots.txt and sitemap.xml'
 templateKey: blog-post
 date: 2014-04-15T14:55:05.000Z
-category: Development, Drupal, SEM and SEO
+category: 
+  -Development, Drupal, SEM and SEO
 alias: crawling-vs-indexing-robotstxt-and-sitemapxml
 summary: > 
  Sometimes you need to prevent a site, page or everything at a particular path from showing up in Google search. I've heard people say to just disallow the page in robots.txt file. This is actually incorrect.

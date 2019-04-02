@@ -2,7 +2,8 @@
 title: 'Outsourcing: The Lazy Marketer’s Secret to Success?'
 templateKey: blog-post
 date: 2013-05-14T13:37:09.000Z
-category: Inbound Marketing, Strategy
+category: 
+  -Inbound Marketing, Strategy
 alias: outsourcing-lazy-marketers-secret-success
 summary: > 
  While content marketers agree that content is critical to success, the debate around outsourcing its creation continues raging. Some say it’s laziness or a lack of commitment, while others argue that sometimes it’s the only way. So who’s right?

@@ -2,7 +2,8 @@
 title: 'Tweet Me Back to New Orleans'
 templateKey: blog-post
 date: 2009-02-24T16:08:54.000Z
-category: Tools of the Trade
+category: 
+  -Tools of the Trade
 alias: tweet-me-back-new-orleans
 summary: > 
  One of the better-known facts about me is that I lived in pre-Katrina New Orleans for a while, attending Tulane University for my undergraduate education. Ten years later, I still have very fond memories of the city, despite clearly remembering how eager I was to pack up and move away.

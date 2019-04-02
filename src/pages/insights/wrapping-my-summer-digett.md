@@ -2,7 +2,8 @@
 title: 'Wrapping Up My Summer at Digett'
 templateKey: blog-post
 date: 2014-08-12T15:12:33.000Z
-category: Digett
+category: 
+  -Digett
 alias: wrapping-my-summer-digett
 summary: > 
  Although San Antonio’s hot, steamy weather may say otherwise, summer is coming to an end and so is my internship here at Digett. These past few months have been a whirlwind of new projects and lessons for me, helping me grow both professionally and as an individual. Even though this is my second internship here at Digett, there still hasn’t been one dull moment for this digital marketing intern.

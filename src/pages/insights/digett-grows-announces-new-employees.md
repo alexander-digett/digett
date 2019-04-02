@@ -2,7 +2,8 @@
 title: 'Digett Grows, Announces New Employees'
 templateKey: blog-post
 date: 2012-12-06T15:24:52.000Z
-category: Digett
+category: 
+  -Digett
 alias: digett-grows-announces-new-employees
 summary: > 
  Fresh on the heels of our recent move to San Antonio, we are excited to announce that our staff is growing as well! Joining the Digett family is Jeff Lamboy as its Strategic Marketing &amp; Communication Director and Jonathan Dale as its Senior Web Developer / Architect.

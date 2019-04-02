@@ -2,7 +2,8 @@
 title: 'Great Collaboration Makes Great Sites'
 templateKey: blog-post
 date: 2009-06-30T21:38:11.000Z
-category: Clients
+category: 
+  -Clients
 alias: great-collaboration-makes-great-sites
 summary: > 
  WeatherfordLabs.com came to Digett via The Phillips Agency (TPA), an advertising and marketing firm out of Houston, TX, that has been working with Weatherford Laboratories on branding efforts for some time. TPA requested our involvement for our experience building content-managed websites. They provided our team with a beautiful design layout, and that's where our great collaborative effort began.

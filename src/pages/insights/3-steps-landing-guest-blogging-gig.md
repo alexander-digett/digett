@@ -2,7 +2,8 @@
 title: '3 Steps to Landing a Guest Blogging Gig'
 templateKey: blog-post
 date: 2011-07-13T15:44:22.000Z
-category: Blogging, Marketing, Strategy
+category: 
+  -Blogging, Marketing, Strategy
 alias: 3-steps-landing-guest-blogging-gig
 summary: > 
  Guest blogging is one of the few remaining surefire ways to generate high quality inbound links to your site. Generating these inbound links will increase your content authority and ultimately lead to higher search engine rankings. The process of becoming a guest blogger on someone else’s site will take patience and determination.

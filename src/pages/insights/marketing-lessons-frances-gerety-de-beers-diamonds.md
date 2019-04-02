@@ -2,7 +2,8 @@
 title: 'Marketing Lessons from Frances Gerety &amp; De Beers Diamonds'
 templateKey: blog-post
 date: 2013-10-23T14:11:15.000Z
-category: Market Targeting, Marketing, Strategy
+category: 
+  -Market Targeting, Marketing, Strategy
 alias: marketing-lessons-frances-gerety-de-beers-diamonds
 summary: > 
  I’m sure you’ve heard the phrase "A Diamond is Forever," the famous tagline for diamond provider De Beers. The tagline and campaigns built around it revolutionized the jewelry industry — and bring up some important lessons for marketers.

@@ -2,7 +2,8 @@
 title: 'Managing your brand’s online presence: turning negatives into positives'
 templateKey: blog-post
 date: 2013-06-19T21:20:11.000Z
-category: Branding, Marketing, Strategy
+category: 
+  -Branding, Marketing, Strategy
 alias: managing-your-brand’s-online-presence-turning-negatives-positives
 summary: > 
  I saw an article the other day that gives a great example of how a company took a negative review and turned it into positive publicity by exceeding expectations with their customer service.

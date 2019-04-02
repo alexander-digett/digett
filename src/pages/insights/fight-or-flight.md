@@ -2,7 +2,8 @@
 title: 'Fight or Flight'
 templateKey: blog-post
 date: 2008-02-21T06:00:00.000Z
-category: Nature, Tools of the Trade
+category: 
+  -Nature, Tools of the Trade
 alias: fight-or-flight
 summary: > 
  In 1915, Walter Cannon theorized that animals react to threatening situations with a general discharge of the sympathetic nervous system, priming the animal for fighting or fleeing. He coined the term "fight or flight." I know what that guy was talking about.

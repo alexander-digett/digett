@@ -2,7 +2,8 @@
 title: 'Drupal Video Tutorials: The Basics'
 templateKey: blog-post
 date: 2011-07-25T14:50:53.000Z
-category: Clients, Drupal, Video
+category: 
+  -Clients, Drupal, Video
 alias: drupal-video-tutorials-basics
 summary: > 
  We love using Drupal at Digett because it’s open source, flexible, and has a great community built around it. But as someone who came into web marketing with no knowledge of Drupal, I can understand our clients’ occasional frustration at not being able to immediately take charge of their website and make the updates and changes they want.

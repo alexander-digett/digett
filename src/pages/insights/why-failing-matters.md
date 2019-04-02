@@ -2,7 +2,8 @@
 title: 'Why Failing Matters'
 templateKey: blog-post
 date: 2015-03-31T14:35:41.000Z
-category: Our Industry, Strategy
+category: 
+  -Our Industry, Strategy
 alias: why-failing-matters
 summary: > 
  Failure terrifies me, especially when it means disappointing a client. These failures are brutal, and damaging to client relationships. But they are also absolutely critical to our success.

@@ -2,7 +2,8 @@
 title: '9 Email Marketing Terms You Should Know'
 templateKey: blog-post
 date: 2011-07-20T17:05:01.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: 9-email-marketing-terms-you-should-know
 summary: > 
  As email marketing becomes a more integral part of doing business online, it’s important to know the basic information that can help you succeed at it. Here are nine email marketing terms you should have memorized.

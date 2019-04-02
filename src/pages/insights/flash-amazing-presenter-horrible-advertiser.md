@@ -2,7 +2,8 @@
 title: 'Flash: Amazing Presenter, Horrible Advertiser'
 templateKey: blog-post
 date: 2013-11-19T19:12:26.000Z
-category: Design, Development
+category: 
+  -Design, Development
 alias: flash-amazing-presenter-horrible-advertiser
 summary: > 
  Taking a side between HTML(5)/Javascript/CSS and Flash for creating dynamic content is akin to taking a side between devoting one’s self to using only a fork or a spoon during meal time.

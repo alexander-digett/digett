@@ -2,7 +2,8 @@
 title: 'Anatomy of a Hoax: How (and Why) We Tried to Fool Everyone'
 templateKey: blog-post
 date: 2008-09-29T19:53:35.000Z
-category: Clients, Digett, Marketing
+category: 
+  -Clients, Digett, Marketing
 alias: anatomy-hoax-how-and-why-we-tried-fool-everyone
 summary: > 
  Recently, we decided to play a bit of a trick on a bunch of folks.  Clients, friends, and acquaintances were all victims to our scheme.  No, we weren't trying to channel Orson Welles and cause a panic—but we were trying to prove a point.

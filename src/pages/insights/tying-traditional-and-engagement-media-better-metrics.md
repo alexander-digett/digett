@@ -2,7 +2,8 @@
 title: 'Tying Traditional and Engagement Media for Better Metrics'
 templateKey: blog-post
 date: 2010-01-27T17:17:32.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: tying-traditional-and-engagement-media-better-metrics
 summary: > 
  In this industry, we hear a lot of snarky talk about traditional media and how practitioners "just don't get it." From my vantage point, the same could be said for engagement practitioners; if anything, their condescension comes with a great deal of irony. Still, there are good points to be made about the viability of pouring resources into traditional, "interruption" marketing techniques, particularly as consumers tune out and the still-rough economy promotes the online shift. But where to start?

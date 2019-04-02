@@ -2,7 +2,8 @@
 title: 'Review: Xobni for Gmail in Private Beta'
 templateKey: blog-post
 date: 2011-05-18T21:01:03.000Z
-category: Social Media, Tools of the Trade
+category: 
+  -Social Media, Tools of the Trade
 alias: review-xobni-gmail-private-beta
 summary: > 
   	A few years ago I used Xobni on Outlook, but after making the change to Gmail/Google Apps for all of my email accounts I had to say goodbye to Xobni. Now there is hope again for me and other Gmail users, as it was just announced that Xobni is in private beta with a new gadget for Gmail. I received my invitation about a week ago and have been testing it.

@@ -2,7 +2,8 @@
 title: 'It&#039;s a Web, not a Trap'
 templateKey: blog-post
 date: 2009-07-30T19:12:21.000Z
-category: Our Industry
+category: 
+  -Our Industry
 alias: its-web-not-trap
 summary: > 
  It's not often that I have to justify or explain what I do for a living, thank goodness. The advancing prominence of digital marketing has meant this industry is no longer relegated to the ropes, taking rib shots for multiple rounds just to wear down opponents. The downside is that I'm particularly baffled when I come across a business that still views the web in parochial, even dangerous, terms. This happened last week during a discussion about a company that relies on the decidedly aged technique of in-home sales. They pointedly refuse to allow any type of online marketing, thinking it cold and impersonal—not to mention a threat to their business model. 

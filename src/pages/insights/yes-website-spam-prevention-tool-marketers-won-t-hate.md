@@ -2,7 +2,8 @@
 title: 'Yes! A Website Spam Prevention Tool Marketers Won&#039;t Hate'
 templateKey: blog-post
 date: 2013-09-04T16:39:18.000Z
-category: Marketing, Tools of the Trade, UX Design
+category: 
+  -Marketing, Tools of the Trade, UX Design
 alias: yes-website-spam-prevention-tool-marketers-won-t-hate
 summary: > 
  As a marketer, captchas are a necessary evil. Can’t live with ‘em: you want to avoid adding obstacles to conversion or a form submission. Can’t live without ‘em: too many spam submissions could knock your website offline or result in a deluge of unwanted email notifications and meaningless content on your site.

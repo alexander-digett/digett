@@ -2,7 +2,8 @@
 title: 'The Digett Delivery Process'
 templateKey: blog-post
 date: 2010-02-01T13:40:12.000Z
-category: Digett, Tools of the Trade
+category: 
+  -Digett, Tools of the Trade
 alias: digett-delivery-process
 summary: > 
  While no two websites are exactly alike, the process of creating those unique websites is actually fairly routine. Every website Digett delivers goes through a a series of phases to ensure consistency and quality of the end product. Not every step is appropriate for every project or client. We frequently abbreviate certain steps, since not every item is appropriate for every case. At the onset of a project, we'll do our best to determine what's needed and will define a project timeline to adhere to throughout the site-creation process. Assuming time and budget allows, though, a typical full-fledged project goes through each of the following steps: Discovery, Design, Production, Training.

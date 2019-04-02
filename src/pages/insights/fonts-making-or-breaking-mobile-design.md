@@ -2,7 +2,8 @@
 title: 'Fonts: Making or Breaking Mobile Design'
 templateKey: blog-post
 date: 2013-10-16T14:24:18.000Z
-category: Design, Development, Mobile
+category: 
+  -Design, Development, Mobile
 alias: fonts-making-or-breaking-mobile-design
 summary: > 
  Take a few steps into a crowded room, a park, or a street. At least someone will have a mobile phone or some equivalent that they are using to surf the web in some form or fashion. So the next time you sit to plan a website, you may just want to consider what kind of impact those fonts can have on that carefully crafted webpage.

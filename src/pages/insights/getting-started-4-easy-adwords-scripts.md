@@ -2,7 +2,8 @@
 title: 'Getting Started With 4 Easy AdWords Scripts'
 templateKey: blog-post
 date: 2013-12-05T15:54:03.000Z
-category: Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
+category: 
+  -Analytics, Marketing, SEM and SEO, Strategy, Tools of the Trade
 alias: getting-started-4-easy-adwords-scripts
 summary: > 
  If you aren’t already using scripts in your AdWords account, you’re missing out. The possibilities of what you can do with them are only limited by your creativity (and coding skills, obviously). Even for JavaScript rookies like myself, there are still easy scripts that can make your life easier.

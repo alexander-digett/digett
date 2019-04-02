@@ -2,7 +2,8 @@
 title: 'Marketing in the Midst of Instability'
 templateKey: blog-post
 date: 2008-10-29T20:51:44.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: marketing-midst-instability
 summary: > 
  We all know times have been tough, of late. Fear not—I'm not going to launch into a lengthy analysis of potential causes of the economic meltdown. After all, I'm in marketing, so I'm a little more concerned about potential effects. In any economic downturn, a plethora of experts in micro-/macro-financial issues and experts in worldwide market analysis will share with you their years of strategic wisdom—though little of it may apply to you and even less of it will make sense.

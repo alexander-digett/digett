@@ -2,7 +2,8 @@
 title: 'Wes Mills is AdWords Certified!'
 templateKey: blog-post
 date: 2013-10-29T14:14:58.000Z
-category: Digett, SEM and SEO
+category: 
+  -Digett, SEM and SEO
 alias: wes-mills-adwords-certified
 summary: > 
  Wes joined us in August as our Marketing Analyst intern, and has spent a good deal of the semester up to his eyeballs in Google AdWords and Analytics. But it paid off in October when he became a Google AdWords Qualified Individual!

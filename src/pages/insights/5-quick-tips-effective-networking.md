@@ -2,7 +2,8 @@
 title: '5 Quick Tips for Effective Networking'
 templateKey: blog-post
 date: 2011-08-10T17:58:52.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: 5-quick-tips-effective-networking
 summary: > 
  Being in charge of driving new business around here, I go to a lot of networking events. Here are five networking tips that come from a couple of books I’m reading, other experienced networkers that I know, and speeches I’ve heard recently. While none of these ideas are original to me, or my sources for that matter, these five are the most important based on my own experiences.

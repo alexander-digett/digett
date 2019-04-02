@@ -3,6 +3,7 @@ title: 'Metrics are good. Insight is better.'
 templateKey: blog-post
 date: 2010-02-01T15:41:40.000Z
 category: 
+  -
 alias: metrics-are-good-insight-better
 summary: > 
  Based on what I've seen and heard in any number of articles and podcasts recently, 2010 is shaping up to be the year of metrics. Metrics are a lens through which we gauge how we're doing. Perhaps the most fundamental metric is known as profit, or what's left after we subtract the cost of delivering our products and services from the revenue we collected.

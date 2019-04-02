@@ -2,7 +2,8 @@
 title: 'Diagnosing (and Treating) Bad Design'
 templateKey: blog-post
 date: 2009-04-27T14:47:49.000Z
-category: Design
+category: 
+  -Design
 alias: diagnosing-and-treating-bad-design
 summary: > 
  There is something very obvious about an ugly website. It doesn't take a web professional to spot a site that took a dive off the ugly tree and hit every branch on the way down. 

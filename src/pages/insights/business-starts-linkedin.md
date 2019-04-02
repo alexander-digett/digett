@@ -2,7 +2,8 @@
 title: 'Business Starts with LinkedIn'
 templateKey: blog-post
 date: 2012-12-12T16:46:56.000Z
-category: Marketing, Social Media, Strategy
+category: 
+  -Marketing, Social Media, Strategy
 alias: business-starts-linkedin
 summary: > 
  Being in business means sharing a little about yourself on a daily basis. You share information with colleagues, clients, and the public at large. You are in the engagement business; there is a public that you want to engage — think about how to target them through LinkedIn. LinkedIn is a powerful social network for professionals, by professionals. With over 187 million users, there are segments for all businesses and groups that interact regularly. And that’s the key — interaction.

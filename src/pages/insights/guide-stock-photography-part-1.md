@@ -2,7 +2,8 @@
 title: 'A Guide to Stock Photography, Part 1'
 templateKey: blog-post
 date: 2010-04-07T19:10:17.000Z
-category: Design, Tools of the Trade
+category: 
+  -Design, Tools of the Trade
 alias: guide-stock-photography-part-1
 summary: > 
  Photography plays an important role in any website. It's a powerful and dynamic tool that can be used to communicate your brand personality or simply sell a product. Choosing the right imagery for your website can be a tedious task, but getting it right makes all the difference.  Before we get into specifics about what to look for in a stock photo, let's talk a little bit about where to look.

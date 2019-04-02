@@ -2,7 +2,8 @@
 title: 'How AMC Made Me Care About The Walking Dead'
 templateKey: blog-post
 date: 2014-03-04T15:43:14.000Z
-category: Branding, Marketing, Strategy
+category: 
+  -Branding, Marketing, Strategy
 alias: how-amc-made-me-care-about-walking-dead
 summary: > 
  I have zero interest in following the plot of AMC’s The Walking Dead, but got more than a little obsessed with following their season four marketing. It’s Guerrilla marketing at its grossest and finest, and I can’t stop talking about it — which is, of course, the point.

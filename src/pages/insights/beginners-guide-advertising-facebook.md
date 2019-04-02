@@ -2,7 +2,8 @@
 title: 'Beginner’s Guide to Advertising on Facebook'
 templateKey: blog-post
 date: 2012-01-16T15:18:29.000Z
-category: SEM and SEO, Social Media, Strategy
+category: 
+  -SEM and SEO, Social Media, Strategy
 alias: beginners-guide-advertising-facebook
 summary: > 
  Companies and brands use Facebook to interact with customers and boost sales — and many attract new fans with ads. Here’s a guide to what Facebook ads are, how to create them, and why they should be part of your marketing strategy.

@@ -2,7 +2,8 @@
 title: '9 Inbound Marketing Terms You Should Know'
 templateKey: blog-post
 date: 2011-07-27T17:13:57.000Z
-category: Inbound Marketing, Our Industry
+category: 
+  -Inbound Marketing, Our Industry
 alias: 9-inbound-marketing-terms-you-should-know
 summary: > 
  As an inbound marketing specialist, I sometimes forget that not everyone spends all day buried in marketing jargon. The concepts seem simple to me now, but I remember how overwhelmed I was when I was getting started. Here are nine of the most often used inbound marketing terms and what they mean.

@@ -2,7 +2,8 @@
 title: 'On Social Media Tactics and Strategy'
 templateKey: blog-post
 date: 2012-09-25T16:29:39.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: social-media-tactics-and-strategy
 summary: > 
  Last week I ran across an article titled "Secrets to a Social Media Strategy." It’s well-written and helpful, but unfortunately confuses strategy with tactics — and you need both to properly engage with an online community.

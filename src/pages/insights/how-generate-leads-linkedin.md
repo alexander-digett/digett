@@ -2,7 +2,8 @@
 title: 'How to Generate Leads with LinkedIn'
 templateKey: blog-post
 date: 2012-01-30T15:39:28.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: how-generate-leads-linkedin
 summary: > 
  LinkedIn is a great way to connect with colleagues and former business partners, but it also has the power to bring you more business — if you do it right. Here’s three ways to use LinkedIn to generate leads for your company.

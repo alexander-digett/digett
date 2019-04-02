@@ -2,7 +2,8 @@
 title: 'How To Add Presentational Javascript to Your Drupal 7 Site'
 templateKey: blog-post
 date: 2012-02-15T16:14:00.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: how-add-presentational-javascript-your-drupal-7-site
 summary: > 
  If you want your Drupal 7 site to have a easy user interface with unique effects, you will likely need to add presentational javascript/jQuery to your theme at some point. There are two situations where we might need to add some presentational javascript that each require a different approach:

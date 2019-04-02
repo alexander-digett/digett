@@ -2,7 +2,8 @@
 title: 'Drupal Mobile: How to create a Drupal mobile site without using Mobile Tools'
 templateKey: blog-post
 date: 2011-08-18T21:09:55.000Z
-category: Development, Drupal, Mobile
+category: 
+  -Development, Drupal, Mobile
 alias: drupal-mobile-how-create-drupal-mobile-site-without-using-mobile-tools
 summary: > 
  Last year, we talked about using the Mobile Tools module to create mobile sites in Drupal.  We use and appreciate Mobile Tools, but we recently had a requirement that made us look into other options. We needed one domain to serve two different mobile sites. Mobile Tools works well with one mobile site, but we didn't see a way to serve two mobile themes.

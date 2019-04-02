@@ -2,7 +2,8 @@
 title: '10 Easily Avoidable AdWords Mistakes'
 templateKey: blog-post
 date: 2011-01-05T16:15:44.000Z
-category: Analytics, SEM and SEO
+category: 
+  -Analytics, SEM and SEO
 alias: 10-easily-avoidable-adwords-mistakes
 summary: > 
  In the highly competitive world of pay per click (PPC) advertising, it’s becoming more important than ever for businesses to ensure that their PPC campaigns are highly optimized. The goal is to maximize your return on investment (ROI) by using keywords which are most relevant to your business, and are more likely to result in traffic, conversions, and sales.

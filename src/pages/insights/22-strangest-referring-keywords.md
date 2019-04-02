@@ -2,7 +2,8 @@
 title: '22 Strangest Referring Keywords'
 templateKey: blog-post
 date: 2011-07-28T22:11:59.000Z
-category: Analytics, SEM and SEO
+category: 
+  -Analytics, SEM and SEO
 alias: 22-strangest-referring-keywords
 summary: > 
  Digett.com sees a lot of traffic from visitors who find us via any set of common keywords and phrases, things like "san antonio web design" or “san antonio internet marketing.” Sometimes, though, Google Analytics reveals that visitors have arrived at our site using some pretty obscure search terms. Inspired by a similar post where Ian Laurie did the same, I dug into the dark depths of Analytics and selected Digett’s 22 strangest referring keywords.

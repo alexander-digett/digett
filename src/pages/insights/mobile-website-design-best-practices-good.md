@@ -2,7 +2,8 @@
 title: 'Mobile Website Design Best Practices: The Good'
 templateKey: blog-post
 date: 2011-04-08T16:58:49.000Z
-category: Branding, Design, Development, Drupal, Mobile
+category: 
+  -Branding, Design, Development, Drupal, Mobile
 alias: mobile-website-design-best-practices-good
 summary: > 
   	We have at last arrived at the final installment of The Ugly, The Bad, and The Good of mobile website design. We left off last time reviewing some technical hurdles and background of basic Mobile UI concepts. In this article we’ll be discussing all the good things that make a mobile website perform well while providing a professional presence for your business to mobile users.

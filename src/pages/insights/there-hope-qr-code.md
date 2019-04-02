@@ -2,7 +2,8 @@
 title: 'Is There Hope for the QR Code?'
 templateKey: blog-post
 date: 2012-02-06T15:16:00.000Z
-category: Mobile, UX Design
+category: 
+  -Mobile, UX Design
 alias: there-hope-qr-code
 summary: > 
  A QR code is a two-dimensional representation of a specific piece of information like a web URL, phone number, or email address. An individual with the appropriate device and software (like a smartphone and app) can scan a QR code and view special offers, join a mailing list, learn more about a company or product, watch a video, or just about anything else you can imagine.

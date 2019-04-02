@@ -2,7 +2,8 @@
 title: 'Use Page Post Targeting to increase Facebook engagement'
 templateKey: blog-post
 date: 2012-12-19T17:34:09.000Z
-category: Market Targeting, Social Media
+category: 
+  -Market Targeting, Social Media
 alias: use-page-post-targeting-increase-facebook-engagement
 summary: > 
  This fall, Facebook rolled out Page Post Targeting, a tool aimed at easing the daunting task of engaging specific segments of a Page’s Facebook followers.

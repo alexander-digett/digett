@@ -3,6 +3,7 @@ title: 'Your Digital Ad Investments Should Love Ad Blockers'
 templateKey: blog-post
 date: 2015-08-11T21:46:32.000Z
 category: 
+  -
 alias: your-digital-ad-investments-should-love-ad-blockers
 summary: > 
  I’ll get this out of the way to preface: I use an ad blocker. For awhile, I felt like a hypocrite and was doing my fellow marketers a disservice by supporting the very companies that worked to kill our industry. Then one day it hit me: I think they’re actually helping us.    	Nigerian scams and broken english I’d like to reference one of my favorite books Think Like a Freak. In one chapter, they discuss Nigerian scammers and how ridiculous their scams are. The poorly worded emails, the shady requests, etc. We’ve seen them all. And every time you read one of these ridiculous scam emails, you think to yourself "who the hell would fall for this?"

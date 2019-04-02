@@ -2,7 +2,8 @@
 title: 'Elements of a successful newsletter'
 templateKey: blog-post
 date: 2012-05-11T14:49:52.000Z
-category: Marketing, UX Design
+category: 
+  -Marketing, UX Design
 alias: elements-successful-newsletter
 summary: > 
  All of us get newsletters. I'm signed up for everything from my neighborhood news to web programming. The majority of these get less than a 10 second glance before I delete or trash them; but there are one or two I look forward to receiving and read everything they write. What makes these different?

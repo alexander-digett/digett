@@ -2,7 +2,8 @@
 title: 'Why Lame Email Subject Lines Damage Your Marketing'
 templateKey: blog-post
 date: 2014-09-16T14:37:47.000Z
-category: Branding, Market Targeting, Marketing
+category: 
+  -Branding, Market Targeting, Marketing
 alias: why-lame-email-subject-lines-damage-your-marketing
 summary: > 
  We hear a lot about how email open rates are a vanity metric that shouldn’t be trusted, but the truth is if you can’t get prospects to open your emails, your email marketing will fail. Here’s just a few reasons why not doing enough to create awesome email subject lines can spell email marketing doom.

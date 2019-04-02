@@ -2,7 +2,8 @@
 title: 'New Site Launched: Brazos County Expo'
 templateKey: blog-post
 date: 2008-07-30T05:00:00.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launched-brazos-county-expo
 summary: > 
  When the folks at the Brazos County Exposition Complex approached Digett in search of new website, we had a number of ideas about how to best showcase their state-of-the-art facilities.

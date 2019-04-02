@@ -2,7 +2,8 @@
 title: 'Sandbox Module: BarTables'
 templateKey: blog-post
 date: 2013-07-30T17:00:00.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: sandbox-module-bartables
 summary: > 
  Nearly 20 years ago Dave Raggett produced a document outlining proposed features for HTML+ which included one of the first ever references to tables. Since that time, tables have been used for both the display of data and controlling the layout of pages.

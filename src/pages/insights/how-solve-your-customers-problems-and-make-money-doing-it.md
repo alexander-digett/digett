@@ -2,7 +2,8 @@
 title: 'How to Solve Your Customer&#039;s Problems and Make Money Doing It'
 templateKey: blog-post
 date: 2017-07-31T19:51:54.000Z
-category: Analytics, Blogging, Branding, Design, Development, Inbound Marketing, Marketing, SEM and SEO, Strategy, UX Design
+category: 
+  -Analytics, Blogging, Branding, Design, Development, Inbound Marketing, Marketing, SEM and SEO, Strategy, UX Design
 alias: how-solve-your-customers-problems-and-make-money-doing-it
 summary: > 
  You’ve invested the time and effort to craft a solid sales message and marketing campaign. The offer is great, the price is right, and people should be flocking in your doors and email inboxes to purchase. You’ve even paid a company to help get your website to rank in the top five of Google’s search results page, and your site’s traffic has soared as a result. But somehow, the sales aren’t rolling in.  Turns out, ranking #1 in Google doesn’t directly get you sales. Helping people does.

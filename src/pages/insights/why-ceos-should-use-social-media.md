@@ -2,7 +2,8 @@
 title: 'Why CEOs Should Use Social Media'
 templateKey: blog-post
 date: 2012-04-09T14:13:09.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: why-ceos-should-use-social-media
 summary: > 
  Many CEOs are hesitant to use social media, citing fears of negative feedback, bad handling of crises, and lack of measurable and healthy return on investment. But as social media becomes ubiquitous and younger CEOs who grew up using it bring that expertise to their own businesses, knowing and leveraging social media’s value has become crucial.

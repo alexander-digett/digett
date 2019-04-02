@@ -2,7 +2,8 @@
 title: 'Coyle Site Launch: Revisit and Re-Engineer'
 templateKey: blog-post
 date: 2009-06-23T15:53:10.000Z
-category: Clients
+category: 
+  -Clients
 alias: coyle-site-launch-revisit-and-re-engineer
 summary: > 
  In 2004, we built a site for Coyle Engineering, one of Texas' premier civil engineering firms. At the time, the site was cutting-edge. A sleek, well-architected design, coupled with the client's ability to manage their own content, made the site a powerful marketing tool for the thriving company.

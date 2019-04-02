@@ -2,7 +2,8 @@
 title: 'New site launch: Little Black Dress Society'
 templateKey: blog-post
 date: 2010-04-30T05:00:00.000Z
-category: Clients
+category: 
+  -Clients
 alias: new-site-launch-little-black-dress-society
 summary: > 
  For the past several months we have had the privilege of working with the Little Black Dress Society, an organization dedicated to ending violence against women. Founder Amanda Graybill has made it her life’s mission to provide resources, support, and assistance to abused women and their families.

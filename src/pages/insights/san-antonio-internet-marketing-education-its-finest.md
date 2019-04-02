@@ -2,7 +2,8 @@
 title: 'San Antonio Internet Marketing Education at its Finest'
 templateKey: blog-post
 date: 2011-08-31T14:26:19.000Z
-category: Inbound Marketing, San Antonio
+category: 
+  -Inbound Marketing, San Antonio
 alias: san-antonio-internet-marketing-education-its-finest
 summary: > 
  San Antonio business owners and marketing execs got a good dose of Internet marketing education Tuesday, thanks to the North San Antonio Chamber’s How2 Series event entitled "How to Market Your Business" at the Hilton San Antonio Airport. I want to extend my personal thanks to all who attended, and especially to those who approached me after my presentations on lead generation and email nurturing to offer a compliment or word of appreciation. That made my week! Unfortunately, in my excitement I forgot to put up my last slide offering a few freebies that might help inspire some further action on your part. So without further ado, here are the links:

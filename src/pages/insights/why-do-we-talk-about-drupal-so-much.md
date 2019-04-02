@@ -2,7 +2,8 @@
 title: 'Why do we talk about Drupal so much?'
 templateKey: blog-post
 date: 2012-04-11T17:53:05.000Z
-category: Blogging, Drupal, Marketing
+category: 
+  -Blogging, Drupal, Marketing
 alias: why-do-we-talk-about-drupal-so-much
 summary: > 
  As a client or potential client of Digett you probably have taken a look through our blog posts and wondered why we bother posting technical articles about Drupal. Some people think, "That’s not what a client wants to read." or “Prospects aren’t interested in all that technobabble.”  But as a client—ours or anyone else’s—the technical materials should be important to you too. Here’s why and what you can learn from our example.

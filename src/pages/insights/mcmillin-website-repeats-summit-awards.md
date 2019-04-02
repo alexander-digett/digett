@@ -2,7 +2,8 @@
 title: 'McMillin Website Repeats at Summit Awards'
 templateKey: blog-post
 date: 2009-07-17T20:15:01.000Z
-category: Clients, Digett
+category: 
+  -Clients, Digett
 alias: mcmillin-website-repeats-summit-awards
 summary: > 
  Almost one year ago, I sat down to write my second-ever blog post for Digett. The topic? The fact that a website we designed for McMillin Homes won a 2008 Summit Award from the Greater San Antonio Builders Association. Well, you'll never guess what happened: It won again in 2009. Two wins in two years brings pretty sweet satisfaction, we'll warrant, and we'd love to think of ourselves as the Phil Jackson of web marketing (just with respect to his record, folks). Still, I have to reaffirm what I stated last year: It's more satisfying to please our clients.

@@ -2,7 +2,8 @@
 title: 'Apple: World’s Worst Content Marketer?'
 templateKey: blog-post
 date: 2013-09-12T14:07:54.000Z
-category: Inbound Marketing, Marketing
+category: 
+  -Inbound Marketing, Marketing
 alias: apple-world’s-worst-content-marketer
 summary: > 
  One of the main things I’ve learned at my internship so far is the importance of content marketing. Apple is one of my favorite companies, and I expected them to be amazing at content marketing. But guess what? They’re not. Does Apple deserve the title of "world’s worst content marketer"?

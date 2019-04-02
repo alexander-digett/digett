@@ -2,7 +2,8 @@
 title: 'Consumer Privacy from the Perspective of a Digital Marketer'
 templateKey: blog-post
 date: 2014-05-07T15:31:53.000Z
-category: Analytics, Market Targeting, Marketing, SEM and SEO, Strategy
+category: 
+  -Analytics, Market Targeting, Marketing, SEM and SEO, Strategy
 alias: consumer-privacy-perspective-digital-marketer
 summary: > 
  Privacy, especially on the Internet, is something that’s prevalent in the minds of just about everyone. And when the finger isn’t being pointed towards certain government organizations, people are quick to get out their pitchforks and head for marketers and the organizations that "sell your data."

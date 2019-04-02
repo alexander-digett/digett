@@ -2,7 +2,8 @@
 title: 'Create Eye-Catching &amp; Clickable Subject Lines'
 templateKey: blog-post
 date: 2008-06-01T05:00:00.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: create-eye-catching-clickable-subject-lines
 summary: > 
  When it comes to subject lines for email campaigns or newsletters, word choice can make or break a subscriber's decision to open a message or not. There's no magic bullet for compelling a subscriber to open and read your newsletter, but ponder these ideas about subject lines before your next mail blast.

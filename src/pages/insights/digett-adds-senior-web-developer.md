@@ -2,7 +2,8 @@
 title: 'Digett Adds A Senior Web Developer'
 templateKey: blog-post
 date: 2010-03-23T21:23:52.000Z
-category: Digett
+category: 
+  -Digett
 alias: digett-adds-senior-web-developer
 summary: > 
  Award-winning artist. Web design and development guru. Snazzy dresser. All these things describe Alex Garcia, Digett's new Senior Web Developer. That last one is for internal consideration only. Alex brings 10 years of experience in graphic design and Web application development to the Digett team, so we're pleased as punch to have him here. Just give us a little bit of time to add him to the famous Digett staff section.

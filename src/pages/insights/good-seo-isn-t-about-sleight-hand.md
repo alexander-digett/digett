@@ -2,7 +2,8 @@
 title: 'Good SEO Isn&#039;t About Sleight of Hand'
 templateKey: blog-post
 date: 2009-10-01T15:14:16.000Z
-category: SEM and SEO, Tools of the Trade
+category: 
+  -SEM and SEO, Tools of the Trade
 alias: good-seo-isn-t-about-sleight-hand
 summary: > 
  "We'll make you number one on Google in 48 hours!!!" "Our techniques will drive 100X more traffic to your site!!" We see the wild claims all the time. Chances are, they're bogus; if they're not, then the techniques are suspect. Legitimate search engine optimization practitioners refrain from making such wild claims, leaving them to those who are less reputable. Besides, you should never trust someone who wantonly uses multiple exclamation points.

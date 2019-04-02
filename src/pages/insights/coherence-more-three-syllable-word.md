@@ -2,7 +2,8 @@
 title: 'Coherence Is More Than a Three-Syllable Word'
 templateKey: blog-post
 date: 2008-10-31T18:44:05.000Z
-category: Marketing, Tools of the Trade
+category: 
+  -Marketing, Tools of the Trade
 alias: coherence-more-three-syllable-word
 summary: > 
  One of the things I studied in college was business, and there's something I learned quickly: You have to know how to talk the talk. True, business jargon has existed for years, but it seemed to reach new heights during the last 20 years—such ridiculous heights, in fact, that there has been a well-deserved backlash by some of the very companies who may have had a hand in the problem.

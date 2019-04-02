@@ -2,7 +2,8 @@
 title: 'Facebook Advertising: A Love-Hate Relationship'
 templateKey: blog-post
 date: 2014-02-11T14:11:47.000Z
-category: Analytics, Market Targeting, Marketing, SEM and SEO, Social Media, Tools of the Trade
+category: 
+  -Analytics, Market Targeting, Marketing, SEM and SEO, Social Media, Tools of the Trade
 alias: facebook-advertising-love-hate-relationship
 summary: > 
  After using Facebook Ads regularly for the last five months, there’s a lot I’ve found to love. There’s also a few things that make me want to pull my hair out. Hair-pulling aside, the ubiquity of Facebook makes it an incredibly powerful advertising medium with enough targeting options to keep anyone busy with A/B testing.

@@ -2,7 +2,8 @@
 title: 'Relationships that Last: Transforming the Relationship with Your Agency into a Lasting, Rewarding Partnership'
 templateKey: blog-post
 date: 2015-02-10T15:05:51.000Z
-category: Clients, Marketing, Our Industry
+category: 
+  -Clients, Marketing, Our Industry
 alias: relationships-last-transforming-relationship-your-agency-lasting-rewarding-partnership
 summary: > 
  In the spirit of the month of February and Valentine's Day... Can we be sappy? Will you be our Valentine?

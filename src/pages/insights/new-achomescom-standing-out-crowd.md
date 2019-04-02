@@ -2,7 +2,8 @@
 title: 'The New ACHomes.com: Standing Out from the Crowd'
 templateKey: blog-post
 date: 2014-01-08T15:52:06.000Z
-category: Clients, Digett
+category: 
+  -Clients, Digett
 alias: new-achomescom-standing-out-crowd
 summary: > 
  Authentic Custom Homes is one of the Hill Country’s best-known custom home builders. Whether you need a comfy bungalow or a sprawling mansion, Authentic Custom Homes can take you from original brainstorming to your fully-furnished custom dream home — on time and on budget.

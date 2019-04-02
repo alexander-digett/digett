@@ -3,6 +3,7 @@ title: 'Tutorial: The Complete Guide to Integrating Zoom Webinar with Hubspot'
 templateKey: blog-post
 date: 2018-09-06T17:44:33.000Z
 category: 
+  -
 alias: tutorial-complete-guide-integrating-zoom-webinar-hubspot
 summary: > 
  There are numerous tutorials on the web with instructions on how to integrate a Zoom with Hubspot, but I couldn't find one that was completely exhaustive. After hours of research, gathering sources, and talking to Zoom directly, I've gathered all of the missing pieces and required details for a successful integration. 

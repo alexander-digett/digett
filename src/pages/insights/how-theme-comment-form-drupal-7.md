@@ -2,7 +2,8 @@
 title: 'How to Theme the Comment Form in Drupal 7'
 templateKey: blog-post
 date: 2011-05-26T13:31:47.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: how-theme-comment-form-drupal-7
 summary: > 
   	Theming the comment form is something that most Drupal themers want to do at some point. Based on the popularity of our previous post, How to Theme the Comment Form in Drupal 6, I have decided to revisit this subject for Drupal 7.

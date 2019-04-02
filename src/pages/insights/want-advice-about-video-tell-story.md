@@ -2,7 +2,8 @@
 title: 'Want advice about video? Tell a story.'
 templateKey: blog-post
 date: 2012-01-24T15:48:36.000Z
-category: Clients, Tools of the Trade, Video
+category: 
+  -Clients, Tools of the Trade, Video
 alias: want-advice-about-video-tell-story
 summary: > 
  After a recent insightful conversation with Stephen Mick of Proof Creative in Austin, I felt like I had to capture his advice in a post. I'm positioning it as advice to digital agencies, but anyone should be able to extract value from it. My apologies to Stephen in advance if I've misrepresented anything he intended to say.

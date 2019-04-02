@@ -2,7 +2,8 @@
 title: 'Placebo Science &amp; Marketing: What’s Happening Behind the Scenes'
 templateKey: blog-post
 date: 2014-07-16T15:00:34.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: placebo-science-marketing-what’s-happening-behind-scenes
 summary: > 
  We’ve witnessed the powerful effects placebos can have in the medical world, but what about marketing? Believe it or not, the placebo effect can be found in marketing situations and, unfortunately, we can’t control how it affects our customers.

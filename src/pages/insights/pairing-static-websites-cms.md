@@ -2,7 +2,8 @@
 title: 'Pairing Static Websites with CMS'
 templateKey: blog-post
 date: 2014-01-16T13:00:00.000Z
-category: Development, Drupal, Tools of the Trade
+category: 
+  -Development, Drupal, Tools of the Trade
 alias: pairing-static-websites-cms
 summary: > 
  I’m going out on a limb by saying we may be on the cusp of a revolution as it relates to how we build, deploy and manage websites. That’s a strong claim, but witness the new Reese’s candy of web technologies: Static files combined with the content management system.

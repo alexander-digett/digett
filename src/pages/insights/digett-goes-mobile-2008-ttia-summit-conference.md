@@ -2,7 +2,8 @@
 title: 'Digett Goes Mobile at the 2008 TTIA Summit Conference'
 templateKey: blog-post
 date: 2008-09-02T05:00:00.000Z
-category: Digett, Marketing, Tools of the Trade, Tourism
+category: 
+  -Digett, Marketing, Tools of the Trade, Tourism
 alias: digett-goes-mobile-2008-ttia-summit-conference
 summary: > 
  I couldn't be happier about representing Digett at this year's Texas Travel Summit (September 21-24), hosted by the Texas Travel Industry Association. For starters, I haven't been to Galveston since I was a kid, and I'm itching to erase the memory of a brutal sunburn. Better yet, I'll be bringing many of you with me.

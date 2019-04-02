@@ -2,7 +2,8 @@
 title: 'Need a Great Web Developer? Hire Through Codeup.'
 templateKey: blog-post
 date: 2014-06-19T14:51:19.000Z
-category: Development, Digett, Our Industry, San Antonio
+category: 
+  -Development, Digett, Our Industry, San Antonio
 alias: need-great-web-developer-hire-through-codeup
 summary: > 
  Whether you’re a startup or well-established San Antonio business, finding developers can be difficult; it can take months — even a year or two — to find a skilled developer. But this year we found and hired a great candidate in less than two months. And we did it through Codeup.

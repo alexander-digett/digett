@@ -2,7 +2,8 @@
 title: 'Steps to Designing a Personal Logo &amp; Portfolio'
 templateKey: blog-post
 date: 2014-01-22T15:18:42.000Z
-category: Branding, Design
+category: 
+  -Branding, Design
 alias: steps-designing-personal-logo-portfolio
 summary: > 
  In my last semester at University of the Incarnate Word I will be creating a personal identity for my Senior Seminar class. I am excited to create an identity but I know it will not be easy to create something that will be memorable to designers who view my portfolio.

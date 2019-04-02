@@ -2,7 +2,8 @@
 title: 'San Antonio internet marketing jargon: Web Design vs. Web Development'
 templateKey: blog-post
 date: 2011-05-05T18:39:06.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: san-antonio-internet-marketing-jargon-web-design-vs-web-development
 summary: > 
   	We have our own jargon, San Antonio, that doesn’t make much sense to outsiders. "09ers" are Alamo Heights residents. “The Pearl” is the renovated Pearl Brewery.

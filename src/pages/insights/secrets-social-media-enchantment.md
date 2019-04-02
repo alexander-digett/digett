@@ -2,7 +2,8 @@
 title: 'Secrets to Social Media Enchantment'
 templateKey: blog-post
 date: 2011-06-13T14:09:15.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: secrets-social-media-enchantment
 summary: > 
  In a recent HubSpot webinar, social media fanatic Guy Kawasaki talked with attendees about the value of social media enchantment, "a process of creating a relationship with people that is deep and delightful, mutually beneficial, and also voluntary."

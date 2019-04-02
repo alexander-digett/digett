@@ -2,7 +2,8 @@
 title: 'Drupal Image Upload Solution'
 templateKey: blog-post
 date: 2008-01-24T06:00:00.000Z
-category: Drupal
+category: 
+  -Drupal
 alias: drupal-image-upload-solution
 summary: > 
  You’re uploading an image to an IMCE field in Drupal. The upload fails over and over again. Having already ensured the image is within the size and type constraints set in IMCE, you set out to double check your access control when you think, "Wait a minute, I know I already have the right permissions because this was working yesterday....wasn’t it?"

@@ -3,6 +3,7 @@ title: 'Disruption Roadmap: A Path Toward Creating More Value, Achieving Monopol
 templateKey: blog-post
 date: 2017-05-12T22:15:54.000Z
 category: 
+  -
 alias: disruption-roadmap-path-toward-creating-more-value-achieving-monopolistic-advantage-and
 summary: > 
  Over the years I have worked with companies all over the spectrum of digital competency, and through that experience have identified four Tiers of Disruption that serve as a roadmap, or as a framework for setting goals and for providing context around discussions whose aim is to usher in marketing innovation. At Digett, we are generally focused on digital as it applies to marketing.

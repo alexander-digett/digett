@@ -2,7 +2,8 @@
 title: 'Bock Lighting: Product Placement Gone Right'
 templateKey: blog-post
 date: 2009-06-24T21:30:43.000Z
-category: Clients, Design, Development
+category: 
+  -Clients, Design, Development
 alias: bock-lighting-product-placement-gone-right
 summary: > 
  When you work in the internet business, it's critical to stay on top of current design trends and development best practices.  In the same way writers improve their writing abilities by reading other great authors, graphic designers and programmers can seriously expand their repertoire by surfing the web for inspiration, reading design blogs, and keeping a watchful eye out for methods that might help get the job done better and faster. With so many tools available online, you might think "those internet people have it easy." Sure, there's plenty of resources online to help us get better and keep our sites looking fresh and hip, but there's really nothing more vital to a web professional than people skills (a.k.a., the ability to relate to a client in such a way that their needs are fully understood and fulfilled).

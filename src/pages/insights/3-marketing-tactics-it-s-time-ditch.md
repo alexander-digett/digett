@@ -2,7 +2,8 @@
 title: '3 Marketing Tactics It&#039;s Time to Ditch'
 templateKey: blog-post
 date: 2013-04-23T14:35:27.000Z
-category: Strategy, Tools of the Trade
+category: 
+  -Strategy, Tools of the Trade
 alias: 3-marketing-tactics-it-s-time-ditch
 summary: > 
  As I’m sure you’ve noticed, the world of marketing rarely stands still. The "Mad Men" days are long since gone, and now is not the time to get stuck in tarpits. Here’s three tactics that are swiftly going the way of the dodo.

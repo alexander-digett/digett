@@ -2,7 +2,8 @@
 title: 'Digett Partners with HubSpot'
 templateKey: blog-post
 date: 2011-02-15T22:47:42.000Z
-category: Digett, Our Industry, Tools of the Trade
+category: 
+  -Digett, Our Industry, Tools of the Trade
 alias: digett-partners-hubspot
 summary: > 
   	Pizza and ranch dressing. Chocolate and peanut butter. Batman and Robin. Sonny and Cher.  	Life is about great pairings, and we’re excited to announce one more.  	Digett has officially partnered with HubSpot, and we’re celebrating by not only revamping our website, but also by rededicating ourselves to our goals: to provide our clients with the resources they need to grow their businesses.  	What is HubSpot?  	HubSpot’s goal is to provide software, resources, and great advice to businesses, enabling them to "get found" by more prospects, and convert a higher percentage of those prospects into customers.  	Their methodology is simple. HubSpot:

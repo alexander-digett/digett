@@ -2,7 +2,8 @@
 title: 'Marketing and Sales: Two Teams, One Goal'
 templateKey: blog-post
 date: 2014-06-25T17:31:36.000Z
-category: Marketing, Strategy
+category: 
+  -Marketing, Strategy
 alias: marketing-and-sales-two-teams-one-goal
 summary: > 
  Since the beginning of time, marketing has been easily confused with "selling something." Traditionally, marketing was unexpected and in your face. It was persuading anybody who wanted to listen — and more often those who didn’t want to listen — that the product was something worth buying.

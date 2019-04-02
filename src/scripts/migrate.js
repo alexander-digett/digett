@@ -48,7 +48,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 				file.write("title: '" + title + "'\n");
 				file.write('templateKey: blog-post\n');
 		    file.write('date: ' + date.toISOString() + '\n');
-				file.write('category: ' + category + '\n');
+				file.write('category: \n  -' + category + '\n');
 				file.write('alias: ' + alias + '\n');
 				file.write("summary: > \n " + summary + "\n");
 				file.write('author: ' + author + '\n');

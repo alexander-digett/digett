@@ -2,7 +2,8 @@
 title: 'Impressions on rejoining the Drupalverse'
 templateKey: blog-post
 date: 2011-07-29T14:14:52.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: impressions-rejoining-drupalverse
 summary: > 
  "Hi, my name is JD and I'm a noob." That's how I feel I should start every conversation as I dive back into a world where every question I ask takes me deeper and deeper into the guts of Drupal.

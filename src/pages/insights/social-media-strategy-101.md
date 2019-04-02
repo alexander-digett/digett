@@ -2,7 +2,8 @@
 title: 'Social Media Strategy 101'
 templateKey: blog-post
 date: 2012-01-09T15:36:55.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: social-media-strategy-101
 summary: > 
  Marketing Grader is the newest tool in HubSpot’s marketing arsenal; just enter your website URL and get a report containing dozens of tips on improving your marketing strategy. Much of what the tool recommends is what we recommend, especially regarding social media. Here are five tips for getting started.

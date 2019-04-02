@@ -2,7 +2,8 @@
 title: 'The 10 Commandments of Marketing'
 templateKey: blog-post
 date: 2011-06-20T14:39:01.000Z
-category: Marketing
+category: 
+  -Marketing
 alias: 10-commandments-marketing
 summary: > 
   	Marketing is an ever-changing business. Industry best practices come and go, but here are ten marketing commandments you should never break.

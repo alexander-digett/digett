@@ -2,7 +2,8 @@
 title: '5 Departures, 4 Arrivals, 1 Year'
 templateKey: blog-post
 date: 2008-12-30T19:53:04.000Z
-category: Digett
+category: 
+  -Digett
 alias: 5-departures-4-arrivals-1-year
 summary: > 
  One of the greatest joys we have is being able to share a piece of our lives with others. Indeed, one of our missions is to put a personal face on what is often considered an impersonal business.

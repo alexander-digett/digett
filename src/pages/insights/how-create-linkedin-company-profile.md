@@ -2,7 +2,8 @@
 title: 'How to Create a LinkedIn Company Profile'
 templateKey: blog-post
 date: 2012-01-23T15:09:49.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: how-create-linkedin-company-profile
 summary: > 
  A Linkedin company profile is the ideal one-stop location for prospects who want to learn about your company, products, and services; having this content up to date is the first step to making LinkedIn a source of leads for your business. Here’s how to create your LinkedIn company profile.

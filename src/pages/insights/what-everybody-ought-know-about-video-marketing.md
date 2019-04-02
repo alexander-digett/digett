@@ -2,7 +2,8 @@
 title: 'What Everybody Ought to Know About Video Marketing '
 templateKey: blog-post
 date: 2014-02-19T15:36:09.000Z
-category: Marketing, Social Media, Strategy, Video
+category: 
+  -Marketing, Social Media, Strategy, Video
 alias: what-everybody-ought-know-about-video-marketing
 summary: > 
  Businesses are no longer restricted by traditional marketing techniques. The world wide web has opened multiple possibilities in marketing, and video marketing is proving to be one of the most effective ones yet. Contrary to popular belief, video marketing is not just simply throwing a few videos on YouTube. It requires work. Thankfully, there are ways you can optimize your video marketing to ensure its full potential.

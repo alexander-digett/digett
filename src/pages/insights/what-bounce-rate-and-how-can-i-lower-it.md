@@ -2,7 +2,8 @@
 title: 'What is Bounce Rate, and How Can I Lower It?'
 templateKey: blog-post
 date: 2011-11-21T15:17:12.000Z
-category: Analytics, Strategy
+category: 
+  -Analytics, Strategy
 alias: what-bounce-rate-and-how-can-i-lower-it
 summary: > 
  Bounce rate is the percentage of single-page visits to your website; if a visitor comes to your "About Us" page and leaves without visiting any of your website’s other pages, that registers as a bounce. The higher the bounce rate, the less effective your website is at keeping people interested, and the more potential business you’re losing.

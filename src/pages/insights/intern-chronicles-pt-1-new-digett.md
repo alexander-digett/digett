@@ -2,7 +2,8 @@
 title: 'The Intern Chronicles, Pt. 1 - New to Digett'
 templateKey: blog-post
 date: 2010-05-19T18:31:51.000Z
-category: Digett
+category: 
+  -Digett
 alias: intern-chronicles-pt-1-new-digett
 summary: > 
  It has been said that the best ideas come when you’ve run out of them. While this has generally been true for me, I would like to add one more truism that has proved correct in my life: the best opportunities appear just when you’ve stopped looking. I came to Digett through a very circuitous route; a friend of a friend knew someone who, if unable to give me a job, would at least be a great contact in the Boerne area. Mark Figart was kind enough to help me with a practice interview and give of his time, even when there was likely nothing to be gained from it. Before I got the chance to meet the Digett team, however, I decided to do a little research.

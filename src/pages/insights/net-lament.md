@@ -2,7 +2,8 @@
 title: '.NET Lament'
 templateKey: blog-post
 date: 2007-05-19T05:00:00.000Z
-category: Drupal, Tools of the Trade
+category: 
+  -Drupal, Tools of the Trade
 alias: net-lament
 summary: > 
  Today I'm searching for a migration path for a customer that is using Digett's original chosen content management solution, the old .NET Community Starter Kit (CSK). The CSK played a huge role in Digett's genesis, as it provided the inspiration for and the engine behind our original and ongoing mission to provide turnkey, high-end web marketing solutions.

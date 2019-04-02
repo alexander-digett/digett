@@ -2,7 +2,8 @@
 title: 'The Importance of Online Marketing Metrics and Analytics'
 templateKey: blog-post
 date: 2011-04-27T16:21:57.000Z
-category: Analytics, Strategy
+category: 
+  -Analytics, Strategy
 alias: importance-online-marketing-metrics-and-analytics
 summary: > 
   	While many sites marketing online are flying by the seat of their pants and going wherever the wind blows, engagements that achieve the highest level of success are grounded in detailed metrics.

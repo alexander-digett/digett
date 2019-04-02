@@ -3,6 +3,7 @@ title: 'Digett is moving. Again. Or, &quot;Thoughts on a Saturday&quot;'
 templateKey: blog-post
 date: 2013-02-02T21:07:24.000Z
 category: 
+  -
 alias: digett-moving-again-or-thoughts-saturday
 summary: > 
  Our close friends and some of our more rabid fans will remember that Digett recently relocated. Since the day of the move, we've been elbow-to-elbow-to-nose with each other. My colleagues may or may not share my supposition that we may now empathize more fully with sardines. Our single workspace is tight, suffering from a lack of privacy and ill-managed air quality, and stocked with strange passers-by who, like us, are just transients, short-term tenants in a corporate, almost sterile setting. Together we and our suitemates span the swath of business size and industry. 

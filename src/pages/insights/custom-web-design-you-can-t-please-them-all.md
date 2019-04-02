@@ -2,7 +2,8 @@
 title: 'Custom Web Design: You Can&#039;t Please Them All'
 templateKey: blog-post
 date: 2011-05-18T22:16:55.000Z
-category: Clients, Design, Development, Marketing
+category: 
+  -Clients, Design, Development, Marketing
 alias: custom-web-design-you-can-t-please-them-all
 summary: > 
   	Any good marketer will tell you that the most effective way to communicate a brand is at a targeted audience. But ask a client who their audience is, and nine times out of ten they'll respond with an emphatic, "Everyone," followed by, "Seriously, everyone, I mean, everybody is going to just love our cookie tins. I think our website should appeal to everyone."

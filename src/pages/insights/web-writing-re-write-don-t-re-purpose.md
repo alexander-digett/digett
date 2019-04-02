@@ -2,7 +2,8 @@
 title: 'Web Writing: Re-Write, Don&#039;t Re-Purpose'
 templateKey: blog-post
 date: 2012-01-02T15:43:42.000Z
-category: Strategy
+category: 
+  -Strategy
 alias: web-writing-re-write-don-t-re-purpose
 summary: > 
  One of the biggest tips discussed in our Writing for the Web webinar was the importance of re-writing content for the web. Uploading a PDF of your book or copy-pasting a press release is tempting; but web writing has different rules, and breaking them can be bad news for your website.

@@ -2,7 +2,8 @@
 title: 'Announcing the HubSpot Module for Drupal'
 templateKey: blog-post
 date: 2011-06-20T19:38:06.000Z
-category: Drupal, HubSpot
+category: 
+  -Drupal, HubSpot
 alias: announcing-hubspot-module-drupal
 summary: > 
   	HubSpot provides great lead generation systems for sites using any content management system, but integrating HubSpot forms with Drupal can be a challenge. With our new HubSpot module for Drupal, we’re making it faster and easier than ever to gather leads from your Drupal sites.

@@ -2,7 +2,8 @@
 title: 'It&#039;s Not Strategy Until You Brand It (Part 2)'
 templateKey: blog-post
 date: 2012-10-18T18:08:30.000Z
-category: Branding, Marketing, Strategy
+category: 
+  -Branding, Marketing, Strategy
 alias: it-s-not-strategy-until-you-brand-it-part-2
 summary: > 
  Last week we shared the value of building your brand and focused on three key deliverables: logo, brand message, and brand tagline. This week we continue that conversation to bring your brand home to you and your customers.

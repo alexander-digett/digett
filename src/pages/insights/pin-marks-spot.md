@@ -2,7 +2,8 @@
 title: 'The Pin Marks the Spot'
 templateKey: blog-post
 date: 2010-04-14T16:47:33.000Z
-category: Clients, Tools of the Trade
+category: 
+  -Clients, Tools of the Trade
 alias: pin-marks-spot
 summary: > 
  This week, we had the privilege of taking a tour of Rancho Cortez, a real Texas dude ranch.  Our tour guide and owner, Mary Cortez, started the afternoon with a tasty Tex-Mex lunch, and we had time to visit, meander around, and have a look for ourselves before the "official" tour started. There is something special about being outdoors and away from the city sights and sounds—oh, and did I mention ... no cell service. The ranch is a great place to get away, and I will be returning with my family for an evening under the stars real soon. Thankfully, getting there will much easier than it was earlier this week.

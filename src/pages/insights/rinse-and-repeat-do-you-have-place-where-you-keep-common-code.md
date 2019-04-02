@@ -2,7 +2,8 @@
 title: 'Rinse and repeat: Do you have a place where you keep common code?'
 templateKey: blog-post
 date: 2012-02-24T16:25:24.000Z
-category: Tools of the Trade, UX Design
+category: 
+  -Tools of the Trade, UX Design
 alias: rinse-and-repeat-do-you-have-place-where-you-keep-common-code
 summary: > 
  When you make websites for a living, there are many times when you repeat something from a previous project. You need to add code to increase PHP memory limit in the htaccess file, set up the initial framework for your CSS file, or add your Made-By logo code to the footer of a website. The list goes on and on. Sometimes you find yourself whispering the shampoo bottle mantra, "rinse and repeat."

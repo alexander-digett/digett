@@ -2,7 +2,8 @@
 title: 'How To Do a Social Media Audit'
 templateKey: blog-post
 date: 2011-10-03T14:19:40.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: how-do-social-media-audit
 summary: > 
  If you’re new to social media, it’s easy to get completely overwhelmed — diving right in with no idea of what to do will most likely result in frustration and failure. So before you get too carried away, I recommend that you conduct a social media audit.

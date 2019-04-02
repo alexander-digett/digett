@@ -2,7 +2,8 @@
 title: 'We&#039;re Accepting Applications for Spring 2015 Internships!'
 templateKey: blog-post
 date: 2014-11-05T15:50:31.000Z
-category: Digett
+category: 
+  -Digett
 alias: we-re-accepting-applications-spring-2015-internships
 summary: > 
  The holiday season is almost here, which means it’s time to start our search for our spring 2015 Digital Marketing, Digital Design, and Web Development interns. We’ve got exciting projects in the works, and we would love to have an intern team tackle them with us!

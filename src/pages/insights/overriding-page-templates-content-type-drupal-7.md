@@ -2,7 +2,8 @@
 title: 'Overriding Page Templates per Content Type in Drupal 7 '
 templateKey: blog-post
 date: 2012-01-11T15:50:00.000Z
-category: Development, Drupal
+category: 
+  -Development, Drupal
 alias: overriding-page-templates-content-type-drupal-7
 summary: > 
  Overriding a template file is relatively common task for a front-end developer, but depending on the base theme used it’s not always clear how to go about doing it.

@@ -2,7 +2,8 @@
 title: 'How much is your Facebook fan page worth?'
 templateKey: blog-post
 date: 2011-04-06T20:56:41.000Z
-category: Social Media, Strategy
+category: 
+  -Social Media, Strategy
 alias: how-much-your-facebook-fan-page-worth
 summary: > 
  Last week Steve Kerho wrote an interesting article for Fast Company asking the question: "How much is a Facebook fan worth?" Kerho approaches the article from the accounting angle for the purpose of placing your Facebook fan page on your financial books. But what intrigued me more was the insight he inadvertently gives into better leveraging your Facebook fans. By telling us which fans are more valuable than others he shows us what types of fans we should strive to attain.
