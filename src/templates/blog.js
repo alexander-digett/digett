@@ -22,6 +22,11 @@ export default class BlogPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const { currentPage, numPages } = this.props.pageContext
+    const isFirst = currentPage === 1
+    const isLast = currentPage === numPages
+    const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
+    const nextPage = (currentPage + 1).toString()
 
     return (
       <Layout>
@@ -68,6 +73,16 @@ export default class BlogPage extends React.Component {
                 </BlogTeaser>
                 
               ))}
+                    {!isFirst && (
+        <Link to={"insights/" + prevPage} rel="prev">
+          ← Previous Page
+        </Link>
+      )}
+      {!isLast && (
+        <Link to={"insights/" + nextPage} rel="next">
+          Next Page →
+        </Link>
+      )}
           </Container>
         </section>
       </Layout>
@@ -83,27 +98,33 @@ BlogPage.propTypes = {
   }),
 }
 
-export const pageQuery = graphql`
-  query BlogQuery {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      edges {
-        node {
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            image
-            author
-          }
+
+export const blogListQuery = graphql`
+query blogListQuery($skip: Int!, $limit: Int!) {
+  allMarkdownRemark(
+    skip: $skip,
+    limit: $limit,
+    filter: { frontmatter: { templateKey: { eq: "blog-post" } }},
+    sort: {
+    fields: [frontmatter___date]
+    order: DESC
+    }
+  ){
+    edges {
+      node {
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          templateKey
+          date(formatString: "MMMM DD, YYYY")
+          image
+          author
         }
       }
     }
+  }
   }
 `
