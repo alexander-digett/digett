@@ -20,7 +20,6 @@ const Leftcontactstyle = styled.div`
   }
   li {
     list-style: none;
-    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0.5px;

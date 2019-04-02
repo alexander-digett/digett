@@ -23,7 +23,6 @@ const Nav = styled.nav`
     color: ${variable.darkGray};
     font-weight: 600;
     transition: all 0.2s;
-    font-family:Poppins, sans-serif;
     text-transform:uppercase;
     font-size:12px;
     letter-spacing: 0.5px;
