@@ -174,7 +174,7 @@ module.exports = {
           families: ['Roboto']
         }
       }
-    }
+    },
     `gatsby-v2-plugin-page-transitions`,
     `gatsby-plugin-lodash`,
     `gatsby-plugin-glamor`,
