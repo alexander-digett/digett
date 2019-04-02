@@ -6,7 +6,6 @@ const Linkstyle = styled(Link)`
   border: none;
   color: ${variable.brand1};
   cursor: pointer;
-  font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 0.5px;
