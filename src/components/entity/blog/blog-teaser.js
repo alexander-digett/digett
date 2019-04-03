@@ -60,9 +60,9 @@ return(
   </BlogTeaserLeft>
   <BlogTeaserRight>
   <div className="blog-teaser-image">
-        {post.node.frontmatter.image != null &&   <Img
+        {/* {post.node.frontmatter.image != null &&   <Img
       sizes={post.node.frontmatter.image.childImageSharp.sizes}
-    />}
+    />} */}
     </div>
   </BlogTeaserRight>
 </BlogTeaserContainer>
