@@ -120,7 +120,13 @@ query blogListQuery($skip: Int!, $limit: Int!) {
           title
           templateKey
           date(formatString: "MMMM DD, YYYY")
-          image
+          image{
+            childImageSharp {
+              sizes(maxWidth: 900) {
+                ...GatsbyImageSharpSizes
+              }
+            }
+          }
           author
         }
       }

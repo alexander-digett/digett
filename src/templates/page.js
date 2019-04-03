@@ -54,7 +54,13 @@ export const PageQuery = graphql`
         content {
           sectiontitle
           sectionid
-          backgroundimage
+          backgroundimage{
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           backgroundcolor
           textcolor
           sectionvalue{

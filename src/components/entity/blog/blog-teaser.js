@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import * as variable from '../../variables'
 import styled from 'styled-components'
+import Img from "gatsby-image";
 
 const BlogTeaserContainer = styled.div`
 display:flex;
@@ -36,6 +37,8 @@ flex-basis:calc(50% - 20px);
 `
 
 const BlogTeaser = ({post}) => {
+
+  console.log(post)
 return(
 <BlogTeaserContainer>
   <BlogTeaserLeft>
@@ -57,7 +60,9 @@ return(
   </BlogTeaserLeft>
   <BlogTeaserRight>
   <div className="blog-teaser-image">
-    <img src={post.node.frontmatter.image} />
+  <Img
+      sizes={post.node.frontmatter.image.childImageSharp.sizes}
+    />
     </div>
   </BlogTeaserRight>
 </BlogTeaserContainer>
