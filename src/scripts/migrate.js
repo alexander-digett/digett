@@ -30,6 +30,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 		const alias = row.alias.split('/insights/')[1];;
 		const category = row.term_node_tid;
 		var bodyreplace = row.body.replace(/sites\/default\/files\/inline-images/g, "assets")
+		var bodyreplace = row.body.replace(/sites\/default\/files/g, "assets")
 		const body = turndownService.turndown(bodyreplace);
 		const date = new Date(row.created * 1000);
 	  var summary = row.body_1.replace(/\r?\n|\r/g, ' ').replace('“', '"').replace('”', '"');
