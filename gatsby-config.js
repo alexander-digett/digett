@@ -112,6 +112,9 @@ module.exports = {
           netlifyCmsPaths,
           {
             resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'assets',
+            },
           },
           {
             resolve: 'gatsby-remark-images',
