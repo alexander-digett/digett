@@ -8,7 +8,7 @@ import * as variable from '../components/variables'
 import styled from 'styled-components'
 import { HTMLContent } from '../components/Content'
 import Form from '../components/form'
-import Styledbutton from "../components/atoms/link"
+import Img from "gatsby-image";
 
 
 
@@ -68,8 +68,13 @@ export const BlogPostTemplate = ({
         <span className="blog-date">{date} / </span> 
         <span className="blog-teaser-author">{author}</span>
       </div>
-      <div><img src={image} /></div>
+      <div className="blog-full-image">
+        {image != null &&   <Img
+      fluid={image.childImageSharp.fluid}
+    />}
+    </div>
       <PostContent content={content} />
+      <div dangerouslySetInnerHTML={{ __html: content }} />
       </Blogleft>
       <Blogright>
       <Form style={{position:'sticky', top:'145px'}}>
