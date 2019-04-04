@@ -122,8 +122,8 @@ query blogListQuery($skip: Int!, $limit: Int!) {
           date(formatString: "MMMM DD, YYYY")
           image{
             childImageSharp {
-              sizes(maxWidth: 900) {
-                ...GatsbyImageSharpSizes
+              fluid(maxWidth: 560) {
+                ...GatsbyImageSharpFluid
               }
             }
           }

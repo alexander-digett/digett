@@ -42,8 +42,8 @@ export default class ContactPage extends React.Component {
       <Layout>
               <Helmet>
       <meta charSet="utf-8" />
-      <title>1986.io | Contact</title>
-      <link rel="canonical" href="https://1986.io/contact"></link>
+      <title>Digett | Contact</title>
+      <link rel="canonical" href="https://digett.com/contact"></link>
       </Helmet>
         <section className="hero" style=
         {{ backgroundImage: `url(${contactphoto})`,
