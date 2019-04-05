@@ -13,6 +13,7 @@ const HeaderStyle = styled.header`
   width: 100%;
   z-index: 999;
   box-shadow: 0px 1px 2px #ccc;
+  position:relative;
   .header-menu-logo{
     display:flex;
     justify-content: space-between;
