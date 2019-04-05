@@ -74,7 +74,6 @@ export const BlogPostTemplate = ({
     />}
     </div>
       <PostContent content={content} />
-      <div dangerouslySetInnerHTML={{ __html: content }} />
       </Blogleft>
       <Blogright>
       <Form style={{position:'sticky', top:'145px'}}>

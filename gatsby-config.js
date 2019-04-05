@@ -95,32 +95,22 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-relative-images`,
           {
-            resolve: 'gatsby-remark-relative-images',
-            options: {
-              name: 'assets',
-            },
-          },
-          {
-            resolve: 'gatsby-remark-images',
+            resolve: `gatsby-remark-images`,
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 400,
-            },
-          },
-          {
-            resolve: 'gatsby-remark-copy-linked-files',
-            options: {
-              destinationDir: 'static',
+              maxWidth: 800,
             },
           },
         ],
       },
     },
     {
-			resolve: "gatsby-plugin-netlify-cms",
+			resolve: `gatsby-plugin-netlify-cms`,
 			options: {
 				modulePath: `${__dirname}/src/cms/cms.js`
 			}
