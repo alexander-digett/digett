@@ -18,13 +18,13 @@ Word of mouth social media
 
 In times like these, when people and property are in danger, getting news out quickly is critical; information spreads much faster through real-time social media channels than it ever could through news programs or online newspapers, and so many are taking to social media networks to disseminate information:
 
-![bastrop-fire-volunteer3.jpg](/sites/default/files/bastrop-fire-volunteer3.jpg)
+![bastrop-fire-volunteer3.jpg](/assets/bastrop-fire-volunteer3.jpg)
 
-![bastrop-fire-volunteer2.jpg](/sites/default/files/bastrop-fire-volunteer2.jpg)
+![bastrop-fire-volunteer2.jpg](/assets/bastrop-fire-volunteer2.jpg)
 
-![bastrop-fire-volunteer1.jpg](/sites/default/files/bastrop-fire-volunteer1.jpg)
+![bastrop-fire-volunteer1.jpg](/assets/bastrop-fire-volunteer1.jpg)
 
-![bastrop-fire-volunteer.jpg](/sites/default/files/bastrop-fire-volunteer.jpg)
+![bastrop-fire-volunteer.jpg](/assets/bastrop-fire-volunteer.jpg)
 
 The news that used to take days or weeks to spread can now be sent instantly — more lives and property can be saved, and coordinating donations and volunteers goes more smoothly.
 

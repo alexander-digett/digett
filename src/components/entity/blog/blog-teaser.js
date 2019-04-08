@@ -4,6 +4,10 @@ import * as variable from '../../variables'
 import styled from 'styled-components'
 import Img from "gatsby-image";
 
+const Entities = require('html-entities').AllHtmlEntities;
+ 
+const entities = new Entities();
+
 const BlogTeaserContainer = styled.div`
 display:flex;
 flex-wrap:wrap;
@@ -48,7 +52,7 @@ return(
   </div>
   <h2>
   <Link className="has-text-primary" to={post.node.fields.slug}>
-    {post.node.frontmatter.title}
+    {entities.decode(post.node.frontmatter.title)}
   </Link>
   </h2>
   <div className="teaser-body">

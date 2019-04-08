@@ -22,20 +22,20 @@ Design Goals
 *   Combine the latest trends in web design with the timeless tradition of banking to create a unique online experience
 *   Most importantly, exude usability by way of catering to the needs of the Generations members and potential customers
 
-![generations-screenshot.png](/sites/default/files/generations-screenshot.png)
+![generations-screenshot.png](/assets/generations-screenshot.png)
 
 Design Elements
 ---------------
 
-### ![depth_0.png](/sites/default/files/depth_0.png)Color & Shade
+### ![depth_0.png](/assets/depth_0.png)Color & Shade
 
 Shades of gray set the cool, modern tone for the site. Orange is our primary call-to-action color, while green accents highlight environmentally friendly efforts, such as online banking. Smooth, subtle gradients help create depth throughout the design, which modernizes the look nicely.
 
-### ![icons_1.png](/sites/default/files/icons_1.png)Icons
+### ![icons_1.png](/assets/icons_1.png)Icons
 
 Heidi tells us that In fashion, one day you're in and the next day, you're out. The same can be said for web design, and right now, [icons are in](../../blog/03/24/2011/icons-web-design-san-antonio). Icons are great communicators, telling users what they need to know in a heartbeat. Using icons throughout the site aids usability and modern design.
 
-### ![boots_0.png](/sites/default/files/boots_0.png)Custom San Antonio Photography
+### ![boots_0.png](/assets/boots_0.png)Custom San Antonio Photography
 
 To enforce Generations' _really local_ platform, we produced some photography unique to San Antonio, near each of their branches. For example, this particular photograph is of the famous North Star Mall Boots, from a vantage point that locals can appreciate.
 
@@ -44,7 +44,7 @@ The Tip of The Iceberg
 
 Design is just the beginning of what makes this site great. From stellar information architecture and dynamic content, to administrative simplicity and seamless third-party software integration, mygenfcu.org is the full package.
 
-![hats-off_0.png](/sites/default/files/hats-off_0.png)My big hat goes off to Generations for working tirelessly with us to launch this new website and for continuing to be a great client.
+![hats-off_0.png](/assets/hats-off_0.png)My big hat goes off to Generations for working tirelessly with us to launch this new website and for continuing to be a great client.
 
 My even bigger hat goes off to [the team](http://www.digett.com/who-we-are/key-players) here at Digett, who has really pulled together and busted their collective hump to produce another outstanding product — in truth, the best in San Antonio web design.
 

@@ -32,7 +32,7 @@ Despite Xobni for Gmail not knocking me over, I’m going to keep it. As I wrote
 Favorite Features
 -----------------
 
-*   ![xobni-relationship-history-graph.png](/sites/default/files/xobni-relationship-history-graph.png)**Relationship History Graph** - This graph shows a snapshot of all the email communications between you and a particular contact. I use this to make sure that my communication with key prospects and customers remains consistent.
+*   ![xobni-relationship-history-graph.png](/assets/xobni-relationship-history-graph.png)**Relationship History Graph** - This graph shows a snapshot of all the email communications between you and a particular contact. I use this to make sure that my communication with key prospects and customers remains consistent.
 *   **‘Social Updates’ tab** - Each contact has a tab that shows vital information (like company info from LinkedIn, personal info from Facebook, and their Twitter feed) from their social media profiles. You also get a link to view each social media profile.
 *   **‘Recent Emails’ tab** - This can be done easily enough in Gmail by searching the name of the contact, but Xobni eliminates that step by displaying the list of emails in descending date order automatically in the sidebar.
 *   **‘Frequently Emailed With’ tab** - Xobni will show a list of every contact that has been included on an email between you and the person you are viewing. For instance, if I view the profile for one of my clients and I know that he expects me to CC his marketing director on every email but I can’t remember her name, then this tab will quickly show me everyone he or I have CC’d on our previous emails together.

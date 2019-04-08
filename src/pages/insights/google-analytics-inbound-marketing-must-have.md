@@ -15,7 +15,7 @@ I always find in interesting to hear people's reaction when I tell them we can t
 
 Google Analytics is a feature we can add to any website to track just about everything you'd want to know about site visitors — how many, where they come from, where they go, how long they stay, what they click on, and on, and on. It truly is remarkable what we can learn from these statistics and how important they are to [optimizing inbound marketing](/how-it-works/optimize) efforts.
 
-![stats_0.png](/sites/default/files/stats_0.png)I thought it'd be fun to take a quick look at the analytics for my [video blog from last week](/insights/photoshop-tutorial-3d-text-web-design-video) and explain a little about it's performance over the past seven days.
+![stats_0.png](/assets/stats_0.png)I thought it'd be fun to take a quick look at the analytics for my [video blog from last week](/insights/photoshop-tutorial-3d-text-web-design-video) and explain a little about it's performance over the past seven days.
 
 Pageviews
 ---------

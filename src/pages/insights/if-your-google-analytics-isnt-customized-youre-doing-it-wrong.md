@@ -54,13 +54,13 @@ The name “Custom reports” makes it sound more complicated than it is. In ess
 
 One of my favorite and most useful reports is one by [Avinash Kaushik](http://www.kaushik.net/avinash/).
 
-![](/sites/default/files/screen_shot_2014-06-10_at_9.18.34_am.png)
+![](/assets/screen_shot_2014-06-10_at_9.18.34_am.png)
 
 Right here you can see how well each source of traffic performs. It lays out which traffic source and how many goal completions, among other user engagement metrics.
 
 Another favorite report of mine, also by Avinash, is a mobile performance analysis.
 
-![](/sites/default/files/screen_shot_2014-06-10_at_9.31.54_am.png)
+![](/assets/screen_shot_2014-06-10_at_9.31.54_am.png)
 
 Looking at this report can give you valuable insight, such as whether or not your website renders correctly on certain devices.
 

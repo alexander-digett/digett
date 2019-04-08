@@ -35,11 +35,11 @@ Web design will dictate what size a photo should be on the page to look good, bu
 
 This is the screenshot of a contact form that has been developed, but doesn’t have any design. Doesn’t look great, but you could send an email through it.
 
-![form-web-development.png](/sites/default/files/form-web-development.png)
+![form-web-development.png](/assets/form-web-development.png)
 
 Here’s that same form, functional, that has interpreted the web design into its development.
 
-![form-web-design-development.png](/sites/default/files/form-web-design-development.png)
+![form-web-design-development.png](/assets/form-web-design-development.png)
 
 **You need a new website? What you want is a someone that can give you both quality web design and web development.** A good website can’t have one without the other.  
  

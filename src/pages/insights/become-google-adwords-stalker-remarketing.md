@@ -35,4 +35,4 @@ This technique should be part of a complete digital marketing strategy.
 *   If you already know how it will fit into your marketing strategy, [start your first Remarketing campaign](https://support.google.com/adwords/answer/2453998) in a few easy steps.
 *   If Remarketing sounds like a great idea, but you’re not sure how to implement it, **consider starting with our [free website analysis](/website-consultation)**. We can help you decide how to most effectively integrate Remarketing into your marketing strategy.
 
-[![google-remarketing.jpg](/sites/default/files/google-remarketing.jpg)](/website-consultation)
+[![google-remarketing.jpg](/assets/google-remarketing.jpg)](/website-consultation)

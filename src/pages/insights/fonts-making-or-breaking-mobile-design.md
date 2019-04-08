@@ -38,7 +38,7 @@ What makes a good font?
 
 Like tools, all fonts have different moods and uses, so a font should be representative of what it is trying to represent.
 
-![](/sites/default/files/comic-sans-example_0.png)
+![](/assets/comic-sans-example_0.png)
 
 The difference between serif and sans-serif is not as large due to the increased resolution on newer devices, but sans-serif is slightly more readable on older devices.
 

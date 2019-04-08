@@ -20,7 +20,7 @@ Confession #1: I never click on AdWords or pay-per-click ad links
 
 **Scenario**: I google “San Antonio web design” and the following results are returned.
 
-![san-antonio-web-design-results.png](/sites/default/files/san-antonio-web-design-results.png)
+![san-antonio-web-design-results.png](/assets/san-antonio-web-design-results.png)
 
 There’s a paid search result (in yellow at the top) for another shop in San Antonio. But look below! The first organic, non-paid result (in white) is for the same company.
 

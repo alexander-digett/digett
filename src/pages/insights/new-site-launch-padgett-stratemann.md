@@ -19,13 +19,13 @@ The [Padgett-CPA.com](http://www.padgett-cpa.com/?utm_source=digettblog&utm_medi
 *   Reinforce the brand and brand loyalty with existing customers and expand brand awareness to continue to attract new customers and recruit top talent.
 *   Lay a foundation for better lead generation.
 
-[![](/sites/default/files/legacy-padgett-website-thumbnail.jpg)](/sites/default/files/padgett-old-site-home.png)
+[![](/assets/legacy-padgett-website-thumbnail.jpg)](/assets/padgett-old-site-home.png)
 
-**Previous home page**: [view full screenshot](/sites/default/files/padgett-old-site-home.png)
+**Previous home page**: [view full screenshot](/assets/padgett-old-site-home.png)
 
-[![](/sites/default/files/new-padgett-website-thumbnail2.jpg)](/sites/default/files/padgett-new-site-home.jpg)
+[![](/assets/new-padgett-website-thumbnail2.jpg)](/assets/padgett-new-site-home.jpg)
 
-**New home page**: [view full screenshot](/sites/default/files/padgett-new-site-home.jpg)
+**New home page**: [view full screenshot](/assets/padgett-new-site-home.jpg)
 
 Provide a user-friendly administrative interface
 ------------------------------------------------

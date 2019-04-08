@@ -20,7 +20,7 @@ Time-savers
 
 ### Dev -> Test -> Live
 
-![](/sites/default/files/dev-test-live-environments.png)Every site on Pantheon gets a Dev, Test and Live environment.
+![](/assets/dev-test-live-environments.png)Every site on Pantheon gets a Dev, Test and Live environment.
 
 You edit your files and database and then migrate with a click into the Test environment. Then you can migrate to the Live environment.
 
@@ -34,7 +34,7 @@ The biggest benefit comes from zero time setting up a server. I just fill out a 
 
 Git is baked in...with flexibility to use SFTP as well.
 
-![](/sites/default/files/git-sftp-combined_0.png)
+![](/assets/git-sftp-combined_0.png)
 
 I can add theme files and modules through Git workflow and quickly add them via SFTP; Pantheon inserts the files into the Git workflow for me. I love this!
 
@@ -46,7 +46,7 @@ Pantheon automatically runs a number of status checks on your site. This is much
 
 The great part about this is the fact that they aren't just warnings. Each warning lists instructions and recommendations on fixes to your site.
 
-![](/sites/default/files/status-checks.png)
+![](/assets/status-checks.png)
 
 ### Backups
 

@@ -18,14 +18,14 @@ The goal of the page is two-fold.
 1) Simply state what we believe to be true
 ------------------------------------------
 
-![big-gulp.png](/sites/default/files/big-gulp.png)The message of the site is simple and true. While freelancers and web shops have the technical ability to build websites, their lack of marketing expertise leaves customers with a website that does nothing to grow their business. On the flip side, advertising agencies are marketers by nature, but are constantly playing catch-up when it comes to anything to do with the Internet.
+![big-gulp.png](/assets/big-gulp.png)The message of the site is simple and true. While freelancers and web shops have the technical ability to build websites, their lack of marketing expertise leaves customers with a website that does nothing to grow their business. On the flip side, advertising agencies are marketers by nature, but are constantly playing catch-up when it comes to anything to do with the Internet.
 
 If you're serious about wanting to market your business online, there is no better approach than inbound marketing, an online strategy guaranteed to generate qualified sales leads. In the San Antonio market, only Digett has embraced this approach and effectively used it to help our clients grow their business.
 
 2) Deliver our message as only we can
 -------------------------------------
 
-![html5.png](/sites/default/files/html5.png)Clean, user-friendly, innovative web design is hard to find in San Antonio. While the rest of the world consistently pushes the design envelope, our community seems to be lagging behind. Digett aims to change this reality.
+![html5.png](/assets/html5.png)Clean, user-friendly, innovative web design is hard to find in San Antonio. While the rest of the world consistently pushes the design envelope, our community seems to be lagging behind. Digett aims to change this reality.
 
 Our new page showcases some of the hottest trends in web design today, including [parallax scrolling](/insights/custom-web-design-trends-parallax-scrolling), Google web fonts, HTML5, CSS3, custom graphics, and a creative approach to navigation that hasn't been done before, to my knowledge. Consider this just a taste of what we can do, design that will outshine the competition and can't be found anywhere else in San Antonio.
 

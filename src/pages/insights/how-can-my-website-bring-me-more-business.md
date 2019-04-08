@@ -31,6 +31,6 @@ We packaged our tips on how to turn your site into a lead generation machine int
 If your 2008-designed, non-user-friendly, out-of-date product offering site is still bringing in consistent leads — great, then your website is working for you as it should. But the reverse is true, too. If your new, state-of-the-art site doesn’t bring in business, you’re not getting the ROI you deserve.  
  
 
-[![generate-leads-with-your-website.jpg](/sites/default/files/generate-leads_0.jpg)](http://www.digett.com/marketing-plan-growth?utm_source=digett&utm_medium=blog-2011-07-14&utm_campaign=plan-for-growth-one)
+[![generate-leads-with-your-website.jpg](/assets/generate-leads_0.jpg)](http://www.digett.com/marketing-plan-growth?utm_source=digett&utm_medium=blog-2011-07-14&utm_campaign=plan-for-growth-one)
 
 Icon by by [Eugen Buzuk](http://icondrawer.com/)

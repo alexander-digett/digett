@@ -20,11 +20,11 @@ I love keeping all page designs and client iterations in ONE file. Fireworks has
 
 Here's an example of the Pages Palette showing a Home page and Content page comp. I also like to keep a Page for design assets that I'm going to need — icons, logos, photos:
 
-![](/sites/default/files/pages_palette.png)
+![](/assets/pages_palette.png)
 
 Here's an example of the States palette showing two iterations of the Home Page design:
 
-![](/sites/default/files/states_palette.png)
+![](/assets/states_palette.png)
 
 Grouping simplicity
 -------------------

@@ -41,7 +41,7 @@ Citing imagery correctly
 
 Images licensed under Creative Commons is free for anyone to use, provided that the user follow the rules through which that image is licensed. As you search for imagery (a list of good websites is listed at the end of this article), keep an eye out for licensing information:
 
-![find-free-blog-images.jpg](/sites/default/files/find-free-blog-images.jpg)
+![find-free-blog-images.jpg](/assets/find-free-blog-images.jpg)
 
 Most often the images I find require only creator attribution in exchange for image use; this means a simple addition of a link to the original image at the end of my article.
 

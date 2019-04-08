@@ -18,7 +18,7 @@ Caught red-handed
 
 Posing as “reviewers for hire,” Yelp employees responded to Craigslist ads offering payment in return for positive reviews. What they posted instead was a warning to site visitors that the business had tried to buy reviews:
 
-![](/sites/default/files/screen_shot_2012-10-19_at_11.58.33_am.png)
+![](/assets/screen_shot_2012-10-19_at_11.58.33_am.png)
 
 Included in the warning is a link to the evidence: screenshots of craigslist ads and email communications between the business and “reviewer.”
 

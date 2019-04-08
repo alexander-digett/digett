@@ -8,7 +8,6 @@ var Request = require("request");
 
 var download = require('image-downloader')
 
-
 var result = '';
 
 Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, response, body) => {
@@ -26,8 +25,8 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 	// }
 
 	result.forEach(row => {
-		const title = row.title;
-		const alias = row.alias.split('/insights/')[1];;
+		const title = row.title
+		const alias = row.alias.split('/insights/')[1]
 		const category = row.term_node_tid;
 		var bodyreplace = row.body.replace(/sites\/default\/files\/inline-images/g, "assets")
 		var bodyreplace = row.body.replace(/sites\/default\/files/g, "assets")

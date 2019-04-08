@@ -13,8 +13,8 @@ image: /assets/build-different.jpg
 
 You don’t need Millennials to tell you that mobile sites matter. Mobile usage is slowly taking over desktop, and there are no signs of slowing down. Just this year, we saw the scales significantly tip towards mobile, [taking 51% of the digital media time pie, compared to a 42% share for desktop](http://www.smartinsights.com/internet-marketing-statistics/insights-from-kpcb-us-and-global-internet-trends-2015-report/attachment/mobile-internet-trends-mary-meeker-2015-1/). Some best practices from desktop web design carry over to mobile principles, but it would be a mistake to treat them as the same animal. As Will Critchlow, founder and CEO of Distilled, said, “Don’t build things differently; build different things.”
 
-![Mobile Screenshot](/assets/mobile_screenshot.jpg)Stop Trying to Fit Mobile into a Desktop Box
------------------------------------------------------------------------------------------------
+![Mobile Screenshot](/assets/inline-images/mobile_screenshot.jpg)Stop Trying to Fit Mobile into a Desktop Box
+-------------------------------------------------------------------------------------------------------------
 
 Mobile site design shouldn’t be an afterthought anymore, and many developers even argue that you should start designing for mobile first. It’s a different experience than desktop, and people use each platform for different things. When you’re trying to find the hours of operation for a local restaurant on your phone, you may give up and go somewhere else if you can’t easily find them. Perhaps the hours are embedded in a paragraph on a less-obvious page, easier spotted on the desktop version of the site. This matters more than annoying a user; you might just be missing out on a potential sale. 
 

@@ -26,7 +26,7 @@ Install and turn on the module, then add this simple code in the "Pattern Matchi
 
 .\*\\.pdf 
 
-![](/sites/default/files/crop_0.png)
+![](/assets/crop_0.png)
 
 Now, any time you link to a PDF, the link will always open a new window or tab in the browser.
 
@@ -37,7 +37,7 @@ Use the [Imagefield crop module](https://www.drupal.org/project/imagefield_crop
 
 Install and enable the module, then access the content type with an image field that needs cropping ability. Change the widget type for the image field from "Image" to "Image with cropping." Edit the field and set the desired width/height attributes and you're done.
 
-![](/sites/default/files/imagefield_crop.jpeg)
+![](/assets/imagefield_crop.jpeg)
 
 This module is just for fields and does not help you with image uploads inside the WYSIWYG. I use this mostly for header images or post images. It just makes it a little easier when entering content to skip Photoshop on occasion.
 
@@ -48,7 +48,7 @@ Use the [Linkit module](https://www.drupal.org/project/linkit) to search for c
 
 With this module, I can click the Linkit button in the CKEditor toolbar, type the node title of the desired destination and it searches my site for the content. Click the content and it inserts the link to that node.
 
-![](/sites/default/files/linkit_4_0.png)
+![](/assets/linkit_4_0.png)
 
 In this example, I typed "customer" and it searched my site and displayed a list of all node titles with that word. Perfect!
 

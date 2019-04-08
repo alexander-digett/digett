@@ -23,11 +23,11 @@ Creating an image ad
 
 Log into your Google AdWords account and select “Image ad” from the New ad dropdown on the Ads tab.
 
-![](/sites/default/files/create-google-adwords-image-ad.jpg)
+![](/assets/create-google-adwords-image-ad.jpg)
 
 Select the ad group to which your new ad should belong, upload the image you’re using as the ad. Then fill out the remaining few fields.
 
-![](/sites/default/files/google-image-ad.jpg)
+![](/assets/google-image-ad.jpg)
 
 *   **Name image -** This is for internal labeling purposes only, but you should give the ad a logical name you can use in your reporting, or when you’d like to edit or remove the ad. Good ideas for names include the size of the image, or what day or month it was created.
 *   **Display URL -** Some websites on the Display Network allow the display of a URL for the ads they show. Make this URL descriptive and easy to read. If your ad is encouraging users to click for a discount on a product, your display URL could read www.YourWebsite.com/discount

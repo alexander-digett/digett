@@ -26,7 +26,7 @@ Your website is your employee
 
 Imagine that you have just hired a new salesman named Bill. Here's everything you need to know about Bill:
 
-*   ![how-much-does-a-website-cost.png](/sites/default/files/how-much-does-a-website-cost.png)Bill works 24/7, 365 days a year. He never sleeps, never eats. His only purpose in life is to talk to your customers and promote your business.
+*   ![how-much-does-a-website-cost.png](/assets/how-much-does-a-website-cost.png)Bill works 24/7, 365 days a year. He never sleeps, never eats. His only purpose in life is to talk to your customers and promote your business.
 *   Bill is the perfect salesman. He knows everything about the company like the back of his hand, and can pitch it perfectly every time.
 *   Bill talks to hundreds of people every day. He can talk to them all at once and still give everybody one-on-one attention.
 *   Bill travels well. He can be anywhere in the world at any time, and multiple places at once if he needs to be. Best of all, he files no expense reports.

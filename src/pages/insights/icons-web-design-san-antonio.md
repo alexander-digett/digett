@@ -24,4 +24,4 @@ I've designed five icons that represent San Antonio and I'm offering them up as 
 San Antonio, Texas Icon Set Download
 ------------------------------------
 
-[![san-antonio-icons-download.png](/sites/default/files/san-antonio-icons-download.png)](/sites/default/files/san-antonio-citicons.zip)
+[![san-antonio-icons-download.png](/assets/san-antonio-icons-download.png)](/assets/san-antonio-citicons.zip)

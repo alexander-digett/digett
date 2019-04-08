@@ -58,7 +58,7 @@ Another plus is being able to see a product from all angles. A consumer can inte
 The downsides
 -------------
 
-![](/sites/default/files/recycle.png)Plastic is recyclable, but most blister packages are not. I only mentioned two types of plastic used to create the mold. There are actually more types of plastics used depending on which country you live in.
+![](/assets/recycle.png)Plastic is recyclable, but most blister packages are not. I only mentioned two types of plastic used to create the mold. There are actually more types of plastics used depending on which country you live in.
 
 In this [article on recycling blister packages](http://www.recygal.com/2010/11/07/can-recycling-blister-packs-become-a-reality/), they show different labels that are required on Blister and Clamshell packages. There are seven different labels that show what type of plastic it is.
 

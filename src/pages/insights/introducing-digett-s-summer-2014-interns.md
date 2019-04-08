@@ -16,22 +16,22 @@ Summer 2014 makes it one full year since we started our [internship program](/in
 Michelle Burk - Design
 ----------------------
 
-![](/sites/default/files/michelle-burk.png)Michelle is a soon-to-be senior Graphic Design major at Indiana University of Pennsylvania. She’s got one foot in the print world and one foot in digital, and her poise and professionalism during the interview process was a breath of fresh air.
+![](/assets/michelle-burk.png)Michelle is a soon-to-be senior Graphic Design major at Indiana University of Pennsylvania. She’s got one foot in the print world and one foot in digital, and her poise and professionalism during the interview process was a breath of fresh air.
 
 Jennifer Edwards - Marketing
 ----------------------------
 
-![](/sites/default/files/jennifer-edwards.png)Jen joined us for the [spring 2014 semester](/blog/02/04/2014/say-hi-digett-s-spring-2014-interns), and has been such fun and so helpful to have in the office that we’ve invited her back for summer. She’s already written and overseen the creation of a video for one of our clients, and has tackled with enthusiasm whatever we toss her way — we’re excited to have her for another semester!
+![](/assets/jennifer-edwards.png)Jen joined us for the [spring 2014 semester](/blog/02/04/2014/say-hi-digett-s-spring-2014-interns), and has been such fun and so helpful to have in the office that we’ve invited her back for summer. She’s already written and overseen the creation of a video for one of our clients, and has tackled with enthusiasm whatever we toss her way — we’re excited to have her for another semester!
 
 Ruben Martinez, Jr. - Development
 ---------------------------------
 
-![](/sites/default/files/ruben-martinez-jr.jpeg)Ruben joins us all the way from Bowdoin College in Brunswick, Maine. His development skills are sharp, but we were also impressed with his entrepreneurial spirit and let’s-do-this attitude. Ruben will work closely with Mark to get a particular client’s start-up to market.
+![](/assets/ruben-martinez-jr.jpeg)Ruben joins us all the way from Bowdoin College in Brunswick, Maine. His development skills are sharp, but we were also impressed with his entrepreneurial spirit and let’s-do-this attitude. Ruben will work closely with Mark to get a particular client’s start-up to market.
 
 Kelsey Ransom - Marketing
 -------------------------
 
-![](/sites/default/files/kelsey-ransom.png)Kelsey just completed her junior year at UTSA, where she is pursuing a Bachelors in Business Marketing. She’s got a lot of practical experience under her belt growing and managing social media accounts and putting together marketing campaigns, and we’re happy to have her on board.
+![](/assets/kelsey-ransom.png)Kelsey just completed her junior year at UTSA, where she is pursuing a Bachelors in Business Marketing. She’s got a lot of practical experience under her belt growing and managing social media accounts and putting together marketing campaigns, and we’re happy to have her on board.
 
 Summer 2014 is going to be fun
 ------------------------------

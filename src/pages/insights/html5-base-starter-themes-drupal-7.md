@@ -47,65 +47,65 @@ HTML5 Drupal 7 Base Themes Comparison
 
 HTML5
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
 Tableless Modular CSS
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
 [960 Grid System](http://960.gs/)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
-
- 
-
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
+![checkmark.png](/assets/checkmark.png)
+
+ 
+
  
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
 [Color module support](https://www.drupal.org/documentation/modules/color)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -119,11 +119,11 @@ Tableless Modular CSS
 
 [Skinr](https://www.drupal.org/project/skinr)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -137,11 +137,11 @@ Tableless Modular CSS
 
 [Responsive](http://www.webmonkey.com/2011/06/tips-tricks-and-best-practices-for-responsive-design/)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -157,7 +157,7 @@ Tableless Modular CSS
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -167,7 +167,7 @@ Tableless Modular CSS
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -175,11 +175,9 @@ Tableless Modular CSS
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
-
- 
+![checkmark.png](/assets/checkmark.png)
 
  
 
@@ -187,21 +185,23 @@ Tableless Modular CSS
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+ 
+
+![checkmark.png](/assets/checkmark.png)
 
 Content First HTML
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
-![checkmark.png](/sites/default/files/checkmark.png)
+![checkmark.png](/assets/checkmark.png)
 
  
 

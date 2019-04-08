@@ -22,7 +22,7 @@ What happened
 
 Although Morphis had a history of posting company-related statuses, these are supposedly the two tweets that landed him in hot water:
 
-![](/sites/default/files/gene-morphis-cfo.jpg)
+![](/assets/gene-morphis-cfo.jpg)
 
 This isn’t anything earth-shattering. Anyone who’s spent more than five minutes in business (or seen an episode of “Shark Tank”) knows that board members like good numbers. So why was Morphis fired?
 

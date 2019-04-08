@@ -57,6 +57,6 @@ How to get started
 
 Is your website performing at is peak, or are you letting donors slip away? What can you do to keep donors and volunteers engaged in and fighting for your cause? [Sign up for Digett’s free website analysis](/free-website-analysis) and let us help you develop a strategy that includes donation forms, blog creation, email capabilities, and more.
 
-[![free-website-analysis.jpg](/sites/default/files/free-website-analysis.jpg)](/free-website-analysis)
+[![free-website-analysis.jpg](/assets/free-website-analysis.jpg)](/free-website-analysis)
 
 _\[Image: [Mindful One](http://www.flickr.com/photos/mindfulone/268022096/)\]_

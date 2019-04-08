@@ -10,7 +10,9 @@ import { HTMLContent } from '../components/Content'
 import Form from '../components/form'
 import Img from "gatsby-image";
 
-
+const Entities = require('html-entities').AllHtmlEntities;
+ 
+const entities = new Entities();
 
 const Blogfullcontainer = styled.div`
 display:flex;
@@ -126,7 +128,7 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         frontmatter={post.frontmatter}
-        title={post.frontmatter.title}
+        title={entities.decode(post.frontmatter.title)}
         image={post.frontmatter.image}
         date={post.frontmatter.date}
         author={post.frontmatter.author}

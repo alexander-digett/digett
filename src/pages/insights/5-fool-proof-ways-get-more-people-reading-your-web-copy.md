@@ -20,7 +20,7 @@ While you can’t force your website visitors to read what you’ve written, the
 
 Graphics add color and visual interest to a page and can tell a story in a way text never can. The page below is made exponentially more engaging by including a photograph.
 
-![imagery-improves-website-readability.jpg](/sites/default/files/imagery-improves-website-readability.jpg)
+![imagery-improves-website-readability.jpg](/assets/imagery-improves-website-readability.jpg)
 
 2\. Make more paragraphs and break them up with headings
 --------------------------------------------------------
@@ -31,7 +31,7 @@ It’s hard to read long, uninterrupted text.
 *   Add headings to clearly categorize your content and create another visual break. Your headings should provide the user with a high-level outline of the content on your page.
 *   There’s an SEO benefit to using logical headings as well. From Google’s [Webmaster Central Blog](http://googlewebmastercentral.blogspot.com/2011/04/sharing-advice-from-our-london-site.html):
 
-![use-headings-to-improve-website-readability.jpg](/sites/default/files/use-headings-to-improve-website-readability.jpg)
+![use-headings-to-improve-website-readability.jpg](/assets/use-headings-to-improve-website-readability.jpg)
 
 3\. Create Lists
 ----------------
@@ -58,7 +58,7 @@ While I agree it’s important to keep your copy crisp and concise (with good gr
 
 Consider the screenshot below that compares a page of text with no enhancements and that same text with imagery, headings and bold text. Though the page with the extra elements is actually longer, it’s the superior sample. You don’t need to worry about readers drowning in a sea of too much text if you make that copy readable.
 
-![imagery-headings-lists-improve-website-readability.png](/sites/default/files/imagery-headings-lists-improve-website-readability.png)
+![imagery-headings-lists-improve-website-readability.png](/assets/imagery-headings-lists-improve-website-readability.png)
 
 By adding additional elements to a page, your copy, even lengthy copy, can still be readable, attractive and highly informative.
 

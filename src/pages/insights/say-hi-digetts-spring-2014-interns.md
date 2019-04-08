@@ -16,17 +16,17 @@ Our internship program is in its third semester, and we’re happy to have a gre
 Divya Chinchinada - Developer
 -----------------------------
 
-![](/sites/default/files/divya-chinchinada_0.jpg)Divya recently graduated with a Master of Science in Computer Science from St. Mary’s University. She’s got strong programming skills, and we’re dropping her into as many Drupal build projects as we can.
+![](/assets/divya-chinchinada_0.jpg)Divya recently graduated with a Master of Science in Computer Science from St. Mary’s University. She’s got strong programming skills, and we’re dropping her into as many Drupal build projects as we can.
 
 Jennifer Edwards - Marketer
 ---------------------------
 
-![](/sites/default/files/jennifer-edwards.png)Jen is a junior at Trinity University, interested in Business Administration, Communication, and Marketing. Her previous internship experience and sharp eye for copyediting make her a great addition to the team.
+![](/assets/jennifer-edwards.png)Jen is a junior at Trinity University, interested in Business Administration, Communication, and Marketing. Her previous internship experience and sharp eye for copyediting make her a great addition to the team.
 
 Gabrielle Kinderknecht - Designer
 ---------------------------------
 
-![](/sites/default/files/gabrielle-kinderknecht_0.png)If Gabie seems familiar, it’s because she was one of our Fall 2013 interns. We like her so much and her skills are so top-notch that we asked her to stick around for one more semester!
+![](/assets/gabrielle-kinderknecht_0.png)If Gabie seems familiar, it’s because she was one of our Fall 2013 interns. We like her so much and her skills are so top-notch that we asked her to stick around for one more semester!
 
 What’s next?
 ------------

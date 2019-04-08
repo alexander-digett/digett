@@ -22,7 +22,7 @@ This design represented a couple of challenges, as [Rancho Cortez](http://www.ra
 
 The final design hits the right style notes (it's a dude ranch, not "Hee Haw") while remaining versatile enough for both aspects of the business. At the same time, Andrew provided ample space for artwork without crowding out the copy. Indeed, he did such a good job, it got a mention on [Campaign Monitor's design gallery](http://www.campaignmonitor.com/gallery/entry/3174/rancho-cortez/).
 
-[![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.")](/sites/default/files/rancho_new.jpg)
+[![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.")](/assets/rancho_new.jpg)
 
 Digett
 ------

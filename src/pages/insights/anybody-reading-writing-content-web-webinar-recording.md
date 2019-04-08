@@ -21,7 +21,7 @@ Slides
 Transcript
 ----------
 
-Due to an issue with an audio card, we were unable to obtain a high-quality recording of this webinar. However, please feel free to [download the transcript \[PDF\]](/sites/default/files/writingforthewebtranscript.pdf).
+Due to an issue with an audio card, we were unable to obtain a high-quality recording of this webinar. However, please feel free to [download the transcript \[PDF\]](/assets/writingforthewebtranscript.pdf).
 
 ### Stay in touch with Digett
 

@@ -34,7 +34,7 @@ The end result is nothing short of amazing — interactive maps with your Drupal
 
 Below is an example of what you can do. We have a content type with names and addresses of doctors in a geographic region. We created a view that selects all the offices and then used OpenLayers to create a map with all the geographic data from the view plotted on a map. You can click on individual pins and it will display a pop-up window with the fields that we selected in the Drupal view.
 
-![screen_shot_2011-09-30_at_9.33.34_am.png](/sites/default/files/screen_shot_2011-09-30_at_9.33.34_am.png)
+![screen_shot_2011-09-30_at_9.33.34_am.png](/assets/screen_shot_2011-09-30_at_9.33.34_am.png)
 
 The best part is that you aren't limited to using Google's great satellite, street or hybrid maps. You can also pull in maps from many other sources.
 

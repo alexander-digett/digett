@@ -29,7 +29,7 @@ A good idea does not need to be expensive. As designers we have to find ways to 
 
 In this Hunger Awareness advertisement, Feed South Africa uses emotions and guilt to speak to the audience. Although most Guerilla Advertisements we will see are witty and humorous, some can really touch the audience on a more serious subject.
 
-![](/sites/default/files/feed-south-africa-guerilla-marketing.jpeg)
+![](/assets/feed-south-africa-guerilla-marketing.jpeg)
 
 Keep more money in your pocket
 ------------------------------
@@ -38,7 +38,7 @@ A lot of companies spend large amounts of money on promotional marketing, direct
 
 For example, Colgate is targeting young children and their parents. They are telling kids to brush their teeth with their products because it prevents cavities. The parents also become aware of the effects of sugary foods to their children’s teeth.
 
-![](/sites/default/files/colgate-toothbrush-in-ice-cream-guerilla-marketing.jpg)
+![](/assets/colgate-toothbrush-in-ice-cream-guerilla-marketing.jpg)
 
 Making your advertisement memorable
 -----------------------------------
@@ -47,7 +47,7 @@ Guerilla Marketing can help your brand become memorable. Guerilla advertisements
 
 Understanding the culture of the target market can help you narrow ideas for a guerilla advertisement. For example, Bounty places their guerilla advertising in the middle of New York streets that are full of locals and tourists. This is a perfect photo op and for people to interact with the brand.
 
-![](/sites/default/files/bounty-big-spills-guerilla-marketing.jpg)
+![](/assets/bounty-big-spills-guerilla-marketing.jpg)
 
 This can be good for both small and large business to really grab the audience’s full attention to their specific brand. It is a way to bring the product out of its normal context. Bringing it outside of a store shelf can help consumers focus on just one brand and not its competitors, building brand loyalty.
 
@@ -58,7 +58,7 @@ Guerilla Marketing does not necessarily mean that your company has to sell a pro
 
 Here a dentist used Guerilla Marketing in a very inexpensive way by displaying gums and teeth made out of cut paper. As people walk by they tear off a “tooth” with the phone number and address of the dentistry.
 
-![](/sites/default/files/local-dentist-teeth-guerilla-marketing.jpg)
+![](/assets/local-dentist-teeth-guerilla-marketing.jpg)
 
 More examples of Guerilla Marketing
 -----------------------------------

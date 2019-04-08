@@ -15,7 +15,7 @@ How many people really use Facebook? What kind of social media are businesses us
 
 The [Search Engine Journal](http://www.searchenginejournal.com/the-growth-of-social-media-an-infographic/32788/) has created a great infographic that lays out tons of information in a fun-to-read format.
 
-![social-media-statistics.jpg](/sites/default/files/social-media-statistics.jpg)
+![social-media-statistics.jpg](/assets/social-media-statistics.jpg)
 
 You can see the rest of the infographic (there's lots more) and download a full PDF version at [their original post](http://www.searchenginejournal.com/the-growth-of-social-media-an-infographic/32788/).
 

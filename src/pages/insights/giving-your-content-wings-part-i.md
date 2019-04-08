@@ -30,9 +30,9 @@ Tags (sometimes called “Categories”) do pretty much what they sound like: th
 
 Video sites like Youtube and Vimeo allow you to tag the content you upload with phrases that are appropriate to that content. When a user searches for content using one of your tags, your content is more likely to appear before content that does not have that tag — because the website considers your content more relevant to the search. Classic examples of using tags for search appear on videos that have been uploaded to Youtube or Vimeo:
 
-![youtube-tags.png](/sites/default/files/youtube-tags.png)
+![youtube-tags.png](/assets/youtube-tags.png)
 
-![vimeo-categories.png](/sites/default/files/vimeo-categories.png)
+![vimeo-categories.png](/assets/vimeo-categories.png)
 
 Tags can also be used as filtering devices, for when a user only wants to see a specific type of content while on a site. For example, if a reader at the Digett blog wanted to read all of the blog entries that discuss Inbound Marketing, all they would have to do is click the “Inbound Marketing” link in the list of tags (categories) on the left side of the screen. This pulls out all the content related to that subject, and filters out everything else — allowing the user to read exactly what he/she wants.
 

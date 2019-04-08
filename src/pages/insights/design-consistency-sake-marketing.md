@@ -22,7 +22,7 @@ A Working Example
 
 For this webinar, I've designed a [home page rotating promo](/insights/custom-web-design-webinar-promo), a landing page, a business card, and a couple of slides for the presentation itself. It's easy to see how each of them is consistently designed, as they should be.
 
-![webinar-promotional-design.png](/sites/default/files/webinar-promotional-design.png)
+![webinar-promotional-design.png](/assets/webinar-promotional-design.png)
 
 Why It's Important
 ------------------

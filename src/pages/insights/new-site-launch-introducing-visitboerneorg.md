@@ -22,9 +22,9 @@ The CVB had wonderful photography of the city and its people. We’ve featured t
 
 The new site’s color palette with blue, orange, pink and turquoise, is lively and inviting. Boerne is a vibrant town with many attractions. These bright colors help set the right tone.
 
-![](/sites/default/files/boerne-before.jpg)
+![](/assets/boerne-before.jpg)
 
-![](/sites/default/files/boerne-after.jpg)
+![](/assets/boerne-after.jpg)
 
 Mobile-Friendly
 ---------------
@@ -32,7 +32,7 @@ Mobile-Friendly
 With mobile web traffic continuing to increase, the Boerne CVB wanted to make sure their site not only accommodates traditional visitors, but also the folks relaxing on their couch, searching for vacation ideas on an iPad and the folks strolling down Main Street trying to decide which restaurant to try for lunch.
 
 VisitBoerne.org is a “responsive” website, meaining the same website code base is smart enough to deliver a different mobile-friendly layout depending on the size of the screen used to visit the site. As one's screen gets smaller, the site adjusts its layout to make it easier to view on smaller devices. It should ensure a pleasant browsing experience for all Boerne website visitors, regardless of what type of device they visit on.  
-![](/sites/default/files/new-boerne-cvb-website_0.jpg)
+![](/assets/new-boerne-cvb-website_0.jpg)
 
 Enhancements to the Directory
 -----------------------------

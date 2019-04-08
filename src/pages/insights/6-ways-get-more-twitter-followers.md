@@ -80,6 +80,6 @@ This article covers the bare bones of setting up and monitoring a Twitter accoun
 
 To learn the answers to all your social media questions, sign up for Digett's [5 Social Media Mistakes You Can't Afford to Make webinar](https://global.gotowebinar.com/register/126944398). We can give you the tools you need to succeed at socila media.
 
-[![social-media-webinar_0.jpg](/sites/default/files/social-media-webinar_0.jpg)](https://global.gotowebinar.com/register/126944398)
+[![social-media-webinar_0.jpg](/assets/social-media-webinar_0.jpg)](https://global.gotowebinar.com/register/126944398)
 
 _\[Image: [xotoko](http://www.flickr.com/photos/xotoko/2382680812/)\]_

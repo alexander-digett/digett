@@ -15,14 +15,14 @@ In the late 90s and early 2000s, web design was cluttered and suffocated by too 
 
 Compelling, fullscreen images currently dominate the web design world. It’s about filling the page with stunning photography, digital art, animated gifs, or cinematic video. Top that off with a single word or line of text that conveys a brand’s message. It’s an epic, cinematic look that’s all about aesthetic. Even the page navigation is often hidden or reduced to a small sidebar or icon. Essentially, this is your elevator pitch simplified into one punch. 
 
-![](/sites/default/files/born.gif)
+![](/assets/born.gif)
 
 And they’re practical, too
 --------------------------
 
 An added bonus is that from a development standpoint, these simplified homepages can be quicker to code, potentially saving you some development dollars. There’s no complicated reworking when configuring a site for desktop, mobile, or tablet since sizing large scale down to smaller is virtually a no-brainer. Design trends come and go over the years, but this one has stuck in webland for the majority of 2015 and likely won’t be going anywhere in 2016. Even [PayPal](https://www.paypal.com/home) is joining in on the fun.
 
-![](/sites/default/files/yourlocalstudio.gif)
+![](/assets/yourlocalstudio.gif)
 
 Identity
 --------

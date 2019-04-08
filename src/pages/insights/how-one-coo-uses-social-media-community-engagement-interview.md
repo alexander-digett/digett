@@ -59,7 +59,7 @@ Don’t do it. If you are going to be half-assed about it, don’t waste your mo
 
 //
 
-**![](/sites/default/files/clinton-kabler.jpg)Clinton Kabler, COO & Co-founder of Book Riot**, is a reader and a magnificently average writer. He manages Book Riot’s business operations. Should you be curious to know how magnificently average writing reads, he suggests reading didactic placards at your local museum.
+**![](/assets/clinton-kabler.jpg)Clinton Kabler, COO & Co-founder of Book Riot**, is a reader and a magnificently average writer. He manages Book Riot’s business operations. Should you be curious to know how magnificently average writing reads, he suggests reading didactic placards at your local museum.
 
 He holds an MBA from an East Coast university. Upon completing his MBA, he jumped into the West Coast startup world and quickly learned that he had wasted a lot of money on said MBA. When not being a husband and father, he runs marathons and cycles mountains. He splits his time between Vancouver (the one in Canada) and Brooklyn.
 

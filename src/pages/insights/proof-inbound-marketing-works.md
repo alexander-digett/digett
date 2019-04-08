@@ -26,9 +26,9 @@ The first thing we did post-launch was [develop an editorial calendar](http://ww
 
 Their blogging efforts have paid off, resulting in more inbound links and steadily increasing organic traffic numbers:
 
-![inboundlinks.jpg](/sites/default/files/inboundlinks.jpg)
+![inboundlinks.jpg](/assets/inboundlinks.jpg)
 
-![organic-search.jpg](/sites/default/files/organic-search.jpg)
+![organic-search.jpg](/assets/organic-search.jpg)
 
 Client X’s _direct_ traffic also increased by over 61% from February to March, and crept up a bit higher throughout April.
 
@@ -38,7 +38,7 @@ Client X’s _direct_ traffic also increased by over 61% from February to March,
 
 Like many others’, Client X’s Twitter account was sadly neglected. We developed a social media promotion strategy that allowed them to leverage Twitter — not only as a way to promote their content, but also a way to join and start conversations online. Client X also shares their content on LinkedIn and Twitter, with amazing results:
 
-![social-media.jpg](/sites/default/files/social-media.jpg)
+![social-media.jpg](/assets/social-media.jpg)
 
 Within a month, Client X was driving 792% more visitors from social media networks, and in April they received another 346% increase in visitors from social media websites.
 
@@ -53,7 +53,7 @@ Client X’s new website has multiple lead generation capabilities. It’s prett
 
 Creating that content and implementing nurture campaigns took time, but Client X’s leads have increased dramatically, which you can see in the orange portions of this graph:
 
-![leads-generated.jpg](/sites/default/files/leads-generated.jpg)
+![leads-generated.jpg](/assets/leads-generated.jpg)
 
 **Takeaway: If your offer has value, people will give you their name and email. Don’t let those people forget you.**
 

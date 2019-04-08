@@ -62,10 +62,10 @@ Use [Administration Views](https://www.drupal.org/project/admin_views) to make
 Doesn't it make you crazy when you are trying to find content to edit and you have to page and page through the content screen to find it? With this module, the Content Admin screen gets the power of Views. You get filters, changeable default content lists, and searchable content. This is one of my must-have modules for any Drupal site.
 
 **Turn this**  
-![](/sites/default/files/before.png)
+![](/assets/before.png)
 
 **Into this**  
-![](/sites/default/files/after_0.png)
+![](/assets/after_0.png)
 
 **Bonus tips**
 --------------

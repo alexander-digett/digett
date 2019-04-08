@@ -38,7 +38,7 @@ You can use Location Extensions to include your local business address and phone
 
 It may take a few hours for your ads to reflect your extensions, but soon they should look something like this:
 
-![google-adwords-location-extensions.jpg](/sites/default/files/google-adwords-location-extensions.jpg)
+![google-adwords-location-extensions.jpg](/assets/google-adwords-location-extensions.jpg)
 
 As you can see from the circled area, users will be able to expand and collapse the list of your locations.
 
@@ -59,7 +59,7 @@ At first glance, Call Extensions don’t seem all that exciting: enable it and y
 
 As soon as your changes become effective within your AdWords account, your ads will look something like this (on mobile devices):
 
-![google-adwords-call-extensions.jpg](/sites/default/files/google-adwords-call-extensions.jpg)
+![google-adwords-call-extensions.jpg](/assets/google-adwords-call-extensions.jpg)
 
 Coming up next time...
 ----------------------
@@ -70,6 +70,6 @@ Tune in next week when I show you how to increase your ads’ real estate in sea
 
 Consider downloading our free whitepaper, [_9 Smart Steps to Success with PPC_](/9-smart-steps-success-ppc). It’s a great overview of the basics of Google AdWords and paid advertising, and includes tips and tricks on creating and managing your Google AdWords account.
 
-[![smart-ppc-promo_0.jpg](/sites/default/files/smart-ppc-promo_0.jpg)](/9-smart-steps-success-ppc)
+[![smart-ppc-promo_0.jpg](/assets/smart-ppc-promo_0.jpg)](/9-smart-steps-success-ppc)
 
 _\[Image: [Google AdWords](https://www.google.com/accounts/ServiceLogin?service=adwords&hl=en_US&ltmpl=adwords&passive=false&ifr=false&alwf=true&continue=https://adwords.google.com/um/gaiaauth?apt%3DNone&error=newacct)\]_

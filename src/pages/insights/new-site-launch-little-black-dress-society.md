@@ -20,15 +20,15 @@ Design
 
 The first thing visitors see when coming to the website is the black and red image that boldly states LBD Society’s mission and why it’s important:
 
-![](/sites/default/files/lbd-society-homepage-rotator_0.jpg)
+![](/assets/lbd-society-homepage-rotator_0.jpg)
 
 This section rotates routinely, each time displaying a new message or call to action:
 
-![](/sites/default/files/lbd-society-homepage-rotators.jpg)
+![](/assets/lbd-society-homepage-rotators.jpg)
 
 Everything on this website conveys femininity and grace, from the swirling background to the minute stitching detail on the header and footer. Colors, textures, and placement of elements and imagery combine to give visitors a beautiful experience.
 
-![](/sites/default/files/lbd-society-footer.jpg)
+![](/assets/lbd-society-footer.jpg)
 
 CTAs and audience targeting
 ---------------------------
@@ -37,7 +37,7 @@ But LBD Society needs to be more than a pretty face. The organization relies on 
 
 We want people to become members, lead a group of others, invite their friends, and/or donate, so the homepage makes it easy to do any of these:
 
-![](/sites/default/files/lbd-society-calls-to-action.jpg)
+![](/assets/lbd-society-calls-to-action.jpg)
 
 Clicking on a particular “bucket” takes the user to a personalized experience that educates them on LBD Society’s mission and encourages them to join.
 
@@ -48,11 +48,11 @@ One great aspect of building LBD Society’s website on Drupal is that we can al
 
 Drupal also allows us to have a Member Center that shows different information to logged-in users than to anonymous ones — each with their own targeted content and calls to action:
 
-![](/sites/default/files/logged-in.jpg)
+![](/assets/logged-in.jpg)
 
 _Logged in_
 
-![](/sites/default/files/logged-out.jpg)
+![](/assets/logged-out.jpg)
 
 _Logged out_
 
@@ -65,9 +65,9 @@ LBD Society’s offline presence is just as important as their online one, and i
 
 We used the website as inspiration for Amanda Graybill’s business cards, stationary, and the handbook and membership cards sent to every new LBD Society member.
 
-![](/sites/default/files/lbd-society-handbook.jpg)
+![](/assets/lbd-society-handbook.jpg)
 
-![](/sites/default/files/lbd-society-business-card.jpg)
+![](/assets/lbd-society-business-card.jpg)
 
 Read more
 ---------

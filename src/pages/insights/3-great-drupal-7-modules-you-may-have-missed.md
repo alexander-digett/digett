@@ -24,7 +24,7 @@ Another benefit I have found with this module is the ability to create a class l
 
 I also appreciate the elegance in my CSS … I can read what the style is for rather than depending on a comment around the #block-block-5 style declaration to tell me which block that is talking about.
 
-![](/sites/default/files/block-class_2.png)
+![](/assets/block-class_2.png)
 
 External Links 
 ---------------
@@ -37,7 +37,7 @@ No more!
 
 Use this module and any external links automatically open in a new window.
 
-![](/sites/default/files/external-links.png)
+![](/assets/external-links.png)
 
 Linkit
 ------
@@ -46,7 +46,7 @@ Linkit
 
 Linkit adds a new button to the CKEditor (or through WYSIWYG) to allow you to easily add internal and external links. With this module, you can simply type the title of the content for the destination link. When you select the correct page using the Autocomplete field, it adds the correct link.
 
-![](/sites/default/files/linkit_1.png)
+![](/assets/linkit_1.png)
 
 Do you have any goodies to add that are your favorites? I'd love to check them out!
 

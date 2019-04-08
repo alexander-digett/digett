@@ -72,7 +72,7 @@ So which one is for you?
 
 In order to truly succeed with and optimize your marketing efforts, find a healthy balance of both marketing strategies. Inbound marketing is quickly becoming the leading marketing strategy — but some traditional marketing methods could still be a beneficial addition. 
 
-![](/sites/default/files/inbound-vs-interruption-marketing.png)
+![](/assets/inbound-vs-interruption-marketing.png)
 
 Strategy is key
 ---------------

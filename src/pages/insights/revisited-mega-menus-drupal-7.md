@@ -20,11 +20,11 @@ In my opinion there are two different types of Mega Menus—Simple and Composite
 
 You are creating a **Simple Mega Menu** when you have a long list of menu items that you want to place in multiple columns ordered top to bottom then left column to right column. For example, the City of Houston has some long menus that could be easily turned into multi-row mega menus.
 
-![](/sites/default/files/long-menu_0.png)![](/sites/default/files/long-menu-fixed_0.png)
+![](/assets/long-menu_0.png)![](/assets/long-menu-fixed_0.png)
 
 A **Composite Mega Menu** is different because instead of being one long list of like menu items, it is made up of many different elements. For instance, a Composite Mega Menu may have secondary and tertiary menu items listed together along with an image or other content in the same dropdown. A great example of this type of menu is Whitehouse.gov:
 
-![](/sites/default/files/mega-menu-whitehouse-gov_0.png)
+![](/assets/mega-menu-whitehouse-gov_0.png)
 
 Simple Mega Menu
 ----------------

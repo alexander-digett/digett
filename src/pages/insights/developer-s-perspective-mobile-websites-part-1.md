@@ -31,13 +31,13 @@ When designing a mobile site, it is vital that you consider if you are creating 
 
 If my audience will most likely use the mobile site to perform a few tasks, then a task-based approach works well. In this scenario, we provide a simple interface to quickly get the visitor to the task they desire: look up a location nearby, complete a form, scan your latest headlines, etc.
 
-![simple-navigation_1.png](/sites/default/files/simple-navigation_1.png)
+![simple-navigation_1.png](/assets/simple-navigation_1.png)
 
 ### Mobilized site
 
 If the mobile site I want provides information about my product or service, but users don't need to perform a task, a mobilized site might be the answer. In this scenario I have two choices: I can simply ensure the site is mobile-friendly, or I can provide a scaled-back design that provides access to most of my site content.
 
-![mobile-design_0.png](/sites/default/files/mobile-design_0.png)
+![mobile-design_0.png](/assets/mobile-design_0.png)
 
 ### Mobile-friendly site
 

@@ -20,11 +20,11 @@ A homepage that converts
 
 The original homepage contained good information, but left much to be desired when it came to readability. Physicians are notoriously busy people: they want the information they need quickly, and reading a page like this simply isn’t something they’re willing to do. 
 
-![](/sites/default/files/clmedical-legacy-homepage.jpg)
+![](/assets/clmedical-legacy-homepage.jpg)
 
 The new homepage presents information in a brief, bulleted format, addressing physicians’ pain points (increased patient loads and practice overhead, decreased reimbursements, the headaches of attaining Meaningful Use) and quickly educating site visitors on the benefits of partnering with CLMC.
 
-![](/sites/default/files/cl-medical-new-homepage.jpg)
+![](/assets/cl-medical-new-homepage.jpg)
 
 The page leads visitors through the problems and solutions and finally to a large call-to-action to contact CL Medical. More information is available deeper in the website, but the new homepage has everything a physician needs to decide whether to get in touch — and makes it as easy as possible to do so.
 

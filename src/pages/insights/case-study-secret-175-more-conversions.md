@@ -16,7 +16,7 @@ Content marketing is not easy. It’s not fast, either. But as Van Delden Wastew
 Meet Van Delden
 ---------------
 
-![](/sites/default/files/van-delden-marketing-case-study.png)[Van Delden Wastewater Systems](http://www.vdwws.com/) is a family-owned and operated company specializing in the design, installation, maintenance, and inspection of all types of septic systems in South Texas. The company is currently owned and run by the third and fourth generations of Van Deldens.
+![](/assets/van-delden-marketing-case-study.png)[Van Delden Wastewater Systems](http://www.vdwws.com/) is a family-owned and operated company specializing in the design, installation, maintenance, and inspection of all types of septic systems in South Texas. The company is currently owned and run by the third and fourth generations of Van Deldens.
 
 Background
 ----------
@@ -32,14 +32,14 @@ Our strategy
 
 Through conversations with Van Delden we knew what we had to pull off to deliver a positive return on investment. We began by developing a holistic content marketing strategy incorporating email, paid advertising, blogging, and social media outreach, as well as an editorial calendar to guide our execution and [a new website](/blog/03/13/2013/new-site-launch-vdwwscom) that operates as the hub of Van Delden’s marketing efforts.
 
-![](/sites/default/files/van-delden-content-marketing-case-study.png)
+![](/assets/van-delden-content-marketing-case-study.png)
 
 Challenges and readjustments
 ----------------------------
 
 While we experienced some great results quickly — the new website received more than 50% more visitors the month after launch than the month before, and the number of conversions doubled — it has demanded an ever-watchful eye for opportunities to drive consistent growth over time. Here are some of the efforts we’ve executed and lessons we’ve learned in the last two years.
 
-![](/sites/default/files/content-marketing-case-study-traffic-increase.png)
+![](/assets/content-marketing-case-study-traffic-increase.png)
 
 Challenge 1: Few conversion opportunities
 -----------------------------------------
@@ -60,11 +60,11 @@ Van Delden’s legacy website offered no opportunity for prospects to convert on
 
 **Between its launch in December 2012 and December 2013, the Van Delden website saw a 175% increase in conversions** — from phone calls alone. By 2014, Van Delden was receiving an average of 80 conversions per month from forms and phone calls.
 
-![](/sites/default/files/content-marketing-case-study-phone-conversion-increase.png)
+![](/assets/content-marketing-case-study-phone-conversion-increase.png)
 
 Their next-biggest converter is the audience-specific whitepapers, which are downloaded dozens of times per month and are responsible for most of the newsletter subscriptions. Van Delden’s quarterly newsletter goes out to thousands of people and has an average 35.5% open rate and 24% click-through-rate — in an industry where the [averages are 20.16% and 7.36%](http://support2.constantcontact.com/articles/FAQ/2499), respectively.
 
-![](/sites/default/files/content-marketing-case-study-email-performance.png)
+![](/assets/content-marketing-case-study-email-performance.png)
 
 One area we still see room for improvement is in our promotion of Van Delden’s free phone consultations. The landing page hasn’t generated as many leads as we’d like, and we are re-evaluating our promotional efforts.
 

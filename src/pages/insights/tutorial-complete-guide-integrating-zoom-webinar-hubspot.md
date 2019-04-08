@@ -19,8 +19,8 @@ There are numerous tutorials on the web with instructions on how to integrate a 
 
 Let's get started!
 
-![zoom and hubspot logos](/assets/zoom%2Bhubspot.png)
------------------------------------------------------
+![zoom and hubspot logos](/assets/inline-images/zoom%2Bhubspot.png)
+-------------------------------------------------------------------
 
 1\. Make Sure Your Zoom & Hubspot Accounts Are Active
 -----------------------------------------------------
@@ -34,11 +34,11 @@ In this step, you’ll set up the “link” between Hubspot and Zoom so they ca
 
 In HubSpot, click on your profile name in the top right corner and select “Integrations.” On the left, click on “HubSpot API key.” Then click “Show key” and copy the key.
 
-![hubspot api key](/assets/hubspot-api-key.png)
+![hubspot api key](/assets/inline-images/hubspot-api-key.png)
 
 Log into Zoom. In the left-hand menu, scroll down to the “Advanced” section near the bottom of the menu and select “Integration.” Locate Hubspot in the list of integration vendors and click “Configure” to the right of its name. Paste your Hubspot API key and save changes.
 
-![screenshot of zoom integration page](/assets/zoom-integration_0.png)
+![screenshot of zoom integration page](/assets/inline-images/zoom-integration_0.png)
 
 3\. Create a Webinar in Zoom & Adjust Settings
 ----------------------------------------------
@@ -49,15 +49,15 @@ After you have completed all of your webinar settings, click “Schedule” at t
 
 On the webinar settings page, scroll down to the bottom of the page and the Invitations tab. Next to Approval Options, click Edit. Make sure “Automatically Approve” is selected.
 
-![zoom automatically approve registration](/assets/registration-automatically-approve.png)
+![zoom automatically approve registration](/assets/inline-images/registration-automatically-approve.png)
 
 **IMPORTANT:** If you plan on using a Hubspot form/page to register attendees for the webinar, you’ll need to mark Zoom’s registration form fields as not required. Edit Approval Options again, and click on the Questions tab, and deselect all of the Required boxes to prevent any of the Zoom registration form fields from being required. Save.
 
-![zoom questions required](/assets/questions-required.png)
+![zoom questions required](/assets/inline-images/questions-required.png)
 
 If you are using Hubspot for notification emails, turn off Zoom’s emails on the Email Settings tab at the bottom of the page by clicking Edit next to each email and unchecking the boxes to send that email.
 
-![zoom email settings](/assets/email-settings.png)
+![zoom email settings](/assets/inline-images/email-settings.png)
 
 4\. Create Hubspot Forms, Landing Pages, and Emails
 ---------------------------------------------------
@@ -91,7 +91,7 @@ As the next item in your workflow, add a delay of 5 minutes. According to Zoom, 
 
 Add the final item in your workflow: send your registration confirmation email.
 
-![hubspot zoom webinar workflow](/assets/hubspot-workflow.png)
+![hubspot zoom webinar workflow](/assets/inline-images/hubspot-workflow.png)
 
 You’ll need to run through a test of the workflow in order for the Webhook to trigger and enable you to create the custom join link for the next step. In Hubspot, click on Test in the top right corner and select a Hubspot user to run your test with (likely yourself) and click “Enroll test contact.”
 
@@ -108,7 +108,7 @@ Click in the main body of the email where you would like the unique to be. On th
 
 Select “Webinar Join Link” and click “Insert.” You should see your new token in the email body.
 
-![hubspot webinar join link](/assets/hubspot-personalization-token.png)
+![hubspot webinar join link](/assets/inline-images/hubspot-personalization-token.png)
 
 You’ll need to edit the token code for it to work properly. In the email body settings box, click the “</>” symbol to view the code for the email. Locate your webinar join link code, which should look like:
 

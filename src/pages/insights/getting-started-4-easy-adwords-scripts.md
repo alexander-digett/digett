@@ -25,19 +25,19 @@ Inputting the scripts
 
 This is where we’ll start. You’ll find the “Create and Manage Scripts” menu option concealed under “Automate” on the campaigns tab.
 
-![](/sites/default/files/scripts_step_1_0.png)
+![](/assets/scripts_step_1_0.png)
 
 After navigating here, you’ll end up on a page where you can create, schedule, and manage all of your scripts. From here, select the “+ Script” button shown below.
 
-![](/sites/default/files/scripts_step_2_0.png)
+![](/assets/scripts_step_2_0.png)
 
 Now you’ll be shown the box where you can easily copy and paste any AdWords scripts you have. Remember to delete what shows up in the box by default when pasting a script.
 
-![](/sites/default/files/scripts_step_3_0.png)
+![](/assets/scripts_step_3_0.png)
 
 And finally, when you’re done adding your script and making the necessary changes, go ahead and save it. After you save, you can navigate back to the scripts menu and schedule your script.
 
-![](/sites/default/files/scripts_step_4_0.png)
+![](/assets/scripts_step_4_0.png)
 
 Four easy-to-use AdWords scripts
 --------------------------------
@@ -48,7 +48,7 @@ My NBA example is complicated; the simpler scripts below are just four of my fav
 
 The origins of this script can be found [directly from Google](https://developers.google.com/adwords/scripts/docs/solutions/account-summary). This one is my favorite because I can check it every morning, wherever I am. Since it updates to a Google Spreadsheet, even checking it on your smartphone is nice. It gives a nice snapshot of performance from an account level.
 
-![](/sites/default/files/account_summary_screenshot_0.png)
+![](/assets/account_summary_screenshot_0.png)
 
 #### Setup
 

@@ -8,7 +8,7 @@ alias: 12-recommended-chrome-extensions-web-development
 summary: > 
  I started this blog post to sway Firefox users to give Chrome a try as their primary development browser. I discovered there are almost no differences now. The only reason I switched to Chrome a few years ago was speed compared to Firefox at the time. Today, that is not an issue. In fact, I just did an informal test on my machine and both browsers started in less than 2 seconds. Also, I can't tell a difference in page render times now.
 author: JD Collier
-image: /assets/chrome.png
+image: /assets/chrome.gif
 ---
 
 I started this blog post to sway Firefox users to give Chrome a try as their primary development browser. I discovered there are almost no differences now. The only reason I switched to Chrome a few years ago was speed compared to Firefox at the time. Today, that is not an issue. In fact, I just did an informal test on my machine and both browsers started in less than 2 seconds. Also, I can't tell a difference in page render times now.
@@ -26,7 +26,7 @@ When building out a new website I often need a little filler text, so Lorem Ipsu
 
 (If you ever want a really fun Lorem Ipsum generator, try [Fillerama](http://fillerama.io/) — I love using "Dr Who Ipsum.")
 
-![](/sites/default/files/loremipsum.png)
+![](/assets/loremipsum.png)
 
 [**Session Manager**](https://chrome.google.com/webstore/detail/session-manager/bbcnbpafconjjigibnhbfmmgdbbkcjfi/related)
 
@@ -35,25 +35,25 @@ Session Manager lets me do a couple awesome things:
 1.  Save groupings of common tabs for tasks like social media, checking news, image searching. 
 2.  Remember all the tabs for a topic that I'm researching so I can go back to that research.
 
-![](/sites/default/files/session_manager.jpeg)
+![](/assets/session_manager.jpeg)
 
 [**SEO for Chrome**](https://chrome.google.com/webstore/detail/seo-for-chrome/oangcciaeihlfmhppegpdceadpfaoclj)
 
 I use this tool to quickly identify if my site is being indexed and how well.  I also use this to double-check staging addresses to ensure they are not being indexed. There is a LOT more data available as you see in this screenshot of the extension.
 
-![](/sites/default/files/seo_for_chrome.png)
+![](/assets/seo_for_chrome.png)
 
 [**Chrome Sniffer**](https://chrome.google.com/webstore/detail/appspector/homgcnaoacgigpkkljjjekpignblkeae)
 
 This is a great tool to quickly identify what technology a website is using. it puts a little icon in the top right of the address bar that tells you which CMS is being used, and MUCH more.  Here's a screenshot of Chrome Sniffer on the Digett website. You can click an icon to go to a web page for that technology. 
 
-![](/sites/default/files/chrome_sniffer.png)
+![](/assets/chrome_sniffer.png)
 
 [**What Font**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 As a designer, I often want to know what font is being used on a website.  This extension lets you hover over any text on the page (except images) and it will identify the font used.  If you click on an element, it will display a drop-down with the CSS/Font attributes of that text.
 
-![](/sites/default/files/what_font.png)
+![](/assets/what_font.png)
 
 [**1Password**](https://agilebits.com/onepassword/mac)and [**LastPass**](https://lastpass.com/)
 
@@ -63,19 +63,19 @@ Password utilities are a must in our industry. I have what feels like [one mill
 
 There are lots of way to spoof your User Agent string for testing, this is very simple and quick. One click and I can trick the website into serving a mobile version of a site. This is great for quick testing.
 
-![](/sites/default/files/user_agent_selector.png)
+![](/assets/user_agent_selector.png)
 
 [**Pendule**](https://chrome.google.com/webstore/detail/pendule/gbkffbkamcejhkcaocmkdeiiccpmjfdi)
 
 This is the little swiss army knife extension. It has similarities to Firebug. I use for so much, you just have to read about it to see all it can do.
 
-![](/sites/default/files/pendule.jpeg)
+![](/assets/pendule.jpeg)
 
 [**Evernote**](https://chrome.google.com/webstore/detail/evernote-web/lbfehkoinhhcknnbdgnnmjhiladcgbol)(adds a web app and a "Clip to Evernote" extension)
 
 I use Evernote for note-taking, for lists, for screenshots, for articles to remember. With the Evernote extension, I get access to the web app, I get "clip this page to Evernote" function and most importantly, I get the ability for any Google Search to also search my Evernote repository. In the screenshot below, you can see that when I performed a Google search for the word "Digett", it also searched by Evernote account for the word or phrase. I can click that link and it will open the Evernote web app with my notes selected.  Brilliant!
 
-![](/sites/default/files/evernote_search.png)
+![](/assets/evernote_search.png)
 
 [**Clearly**](https://chrome.google.com/webstore/detail/clearly/iooicodkiihhpojmmeghjclgihfjdjhj)(view article in a format that is like an e-reader … much easier, also adds clip to Evernote)
 

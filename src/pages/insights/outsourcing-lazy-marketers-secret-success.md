@@ -18,7 +18,7 @@ Content = Customers
 
 You’re probably sick of hearing HubSpot’s statistic that companies that blog get 55% more website visitors. But what about this gem?
 
-![](/sites/default/files/content-creation-outsourcing.png)
+![](/assets/content-creation-outsourcing.png)
 
 56% of companies that blog once per month have acquired a customer through their blog; but for companies that blog daily, the statistic jumps to 78%.
 

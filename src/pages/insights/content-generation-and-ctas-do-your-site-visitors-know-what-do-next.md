@@ -33,15 +33,15 @@ What to ask yourself during a content generation effort
 
 A call to action can be textual or graphical. If you’re writing a blog post and want to engage readers in a dialog, you may ask a question to prompt discussion in the comments. Ask a question that your audience will be drawn to respond to.
 
-![A call to action on a blog post may consist of a question](/sites/default/files/call-to-action-example-for-blogs.png)
+![A call to action on a blog post may consist of a question](/assets/call-to-action-example-for-blogs.png)
 
 If you’re optimizing an About page, you may provide a link to a relevant page on your site where a reader can get more detail.
 
-![Call to action on an About page may consist of a link elsewhere](/sites/default/files/call-to-action-example-for-about-page.png)
+![Call to action on an About page may consist of a link elsewhere](/assets/call-to-action-example-for-about-page.png)
 
 Although it will likely require the services of a designer, the most eye-catching calls to action are graphical. The visual cue on the Mint.com home page leads me right to their sign up call to action.
 
-![Graphic calls to action are the best way to attract attention](/sites/default/files/call-to-action-example-sign-up-graphic.png)
+![Graphic calls to action are the best way to attract attention](/assets/call-to-action-example-sign-up-graphic.png)
 
 Graphic calls to action should be distinct, clear and encourage a desired action. Here are a few great articles that tell more about call to action graphic design:
 
@@ -55,6 +55,6 @@ Finally, if you don’t get the results you want, make a change. Testing will he
 
 **Browse to your own website now and take inventory.** Are you encouraging your site visitors to read and do what you would like? Do you have clear calls to action? Do your calls to action translate into a way to capture leads?
 
-[![Request a free website analysis](/sites/default/files/web-analysis_2_0.jpg)](/free-website-analysis)
+[![Request a free website analysis](/assets/web-analysis_2_0.jpg)](/free-website-analysis)
 
 Image "Push for Service": [Godsmoon](http://www.flickr.com/photos/godsmoon/3507884/)

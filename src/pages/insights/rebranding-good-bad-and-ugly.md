@@ -31,9 +31,9 @@ Starbucks rebranding
 
 In 2011, Starbucks decided to rebrand their identity by updating the logo to fit their company’s needs. As a consumer, I think redesigning Starbucks logo by taking out the type “Starbucks Coffee” helped improve the overall image. They kept the same branded colors, as well as their circular shape to contain the logo.
 
-![](/sites/default/files/starbucks-logos-over-time.png)
+![](/assets/starbucks-logos-over-time.png)
 
-![](/sites/default/files/starbucks-rebrand.png)
+![](/assets/starbucks-rebrand.png)
 
 Today, since Starbucks is so well known the design seemed old, with its bold heavy text making the composition compact. The black color did not help add to the design, instead only giving the image contrast since the female is intricate. Consumers did not see black as a branded color for Starbucks. Discarding the black helped simplify and clearly communicate their brand.
 
@@ -46,7 +46,7 @@ Although many companies have been successful in rebranding, there are several co
 
 Let’s look at Tropicana, a large company who has struggled to maintain their image.
 
-![](/sites/default/files/tropicana-rebrand-failure.png)
+![](/assets/tropicana-rebrand-failure.png)
 
 _(The carton on the left is the old Tropicana packaging and to the right is the redesign by the Arnell Group.)_
 

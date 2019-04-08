@@ -33,7 +33,7 @@ Here are a few thoughts when using ThemeKey:
 *   We noticed a need to add the code to remove the address bar in the mobile browser.
 *   You will need to test for desktop and mobile separately. In my screenprint of the rules, you will see that I've used !(not) desktop, this is only for development. I'll switch to test for mobile.
 
-![themekey.gif](/sites/default/files/themekey.gif)
+![themekey.gif](/assets/themekey.gif)
 
 You can see from [one of my older posts](/insights/impressions-rejoining-drupalverse), that I have recently returned to Drupal after several years away ... I am not an expert. What do you think about my approach? Would you do anything differently? I'd love your input.
 

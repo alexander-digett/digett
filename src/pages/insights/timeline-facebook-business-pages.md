@@ -15,7 +15,7 @@ Have you updated your Facebook business page to use Timeline? If you haven’t, 
 
 _Click the image to see the full infographic. Scroll down for the highlights._
 
-[![](/sites/default/files/facebook-timeline.jpg)](http://blog.marketo.com/2012/03/the-guide-to-facebook-timeline-for-businesses-infographic.html?fullsize=http://blog.marketo.com/wp-content/uploads/2012/03/New-Fbook-Timeline-Guide2.png)
+[![](/assets/facebook-timeline.jpg)](http://blog.marketo.com/2012/03/the-guide-to-facebook-timeline-for-businesses-infographic.html?fullsize=http://blog.marketo.com/wp-content/uploads/2012/03/New-Fbook-Timeline-Guide2.png)
 
 Cover photo
 -----------

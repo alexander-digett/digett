@@ -22,11 +22,11 @@ Once you’ve selected a feed reader you like, adding a blog or news site to you
 
 If there’s not an RSS symbol on a website whose content you’d like to aggregate, your feed reader will allow you add subscriptions manually. Simply fill out the URL field provided by your reader\*:
 
-![add-rss-feed.jpg](/sites/default/files/add-rss-feed.jpg)
+![add-rss-feed.jpg](/assets/add-rss-feed.jpg)
 
 ...and the content will be pulled in directly:
 
-![how-add-rss.jpg](/sites/default/files/how-add-rss.jpg)
+![how-add-rss.jpg](/assets/how-add-rss.jpg)
 
 As you can see from the circled area, you can add stars to content you really like, share content with your contacts, email a piece of content, or keep it unread until a later date.
 
@@ -45,7 +45,7 @@ There are numerous advantages to having an RSS feed, including:
 
 **Track mentions of your business or product —** Wouldn’t you love to know when a blog article or news item mentions your company or product? Instead of scouring the Internet, why not let your RSS reader and [Google Alerts](http://www.google.com/alerts) do that for you? When you create your alert, just set the “Deliver to” option to “Feed,” and all of the content indexed by search engines that mentions you or your product will automatically pop into your RSS feed.
 
-![rss-feed-how-to.jpg](/sites/default/files/rss-feed-how-to.jpg)
+![rss-feed-how-to.jpg](/assets/rss-feed-how-to.jpg)
 
 What are you waiting for?
 -------------------------

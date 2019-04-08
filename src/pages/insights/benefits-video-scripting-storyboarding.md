@@ -57,7 +57,7 @@ Once you’ve got a solid script, it’s time to sketch out what video shots mat
 
 For example, a section of the script that says, “The green button is located on the top right of your alarm pad. Press that button and hold for three seconds” might be accompanied by a storyboard that looks like this:
 
-![](/sites/default/files/video-scripting-storyboard.jpg)
+![](/assets/video-scripting-storyboard.jpg)
 
 Your storyboards don’t need to be perfect (as you can see, the stuff I draw is less Renoir and more elementary school art class) — it just needs to convey things like what the script says, where people are standing, what the camera is looking at, what’s in the background, etc.
 

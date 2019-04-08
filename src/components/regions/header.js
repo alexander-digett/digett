@@ -7,6 +7,8 @@ import TopMenu from '../topmenu'
 import styled from "styled-components"
 import Image from "../image"
 import logo from "../../images/logo_white.png"
+import Search from "../organisms/search"
+import { StaticQuery } from "gatsby"
 
 const HeaderStyle = styled.header`
   top: 0px;
@@ -37,16 +39,28 @@ const HeaderStyle = styled.header`
 `;
 
 const Header = ({variable}) => (
+  <StaticQuery
+    query={graphql`
+      query SearchIndexQuery {
+        siteSearchIndex {
+          index
+        }
+      }
+    `}
+    render={data => (
   <HeaderStyle>
       <TopMenu
       variable={variable}
       ></TopMenu>
+      <Search searchIndex={data.siteSearchIndex.index} />
       <Container className="header-menu-logo">
       <Link className="logo"to="/"><img src={logo} alt="logo" /></Link>
       <Menu>
       </Menu>
       </Container>
   </HeaderStyle>
+)}
+/>
 )
 
 Header.propTypes = {

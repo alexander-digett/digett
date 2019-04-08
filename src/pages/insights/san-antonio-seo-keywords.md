@@ -20,4 +20,4 @@ Choosing the right keywords takes time and research, much like planting a garden
 
 Digett can help you determine the key factors that play into choosing the best keywords to grow your business. We can identify the most popular keywords, how relevant they are to your business, and how you stack up to the competition. Once we've hand-picked the keywords with the most potential, we can help you develop a content strategy that will shoot you straight to the top of the search results.
 
-![san-antonio-seo.png](/sites/default/files/san-antonio-seo.png)
+![san-antonio-seo.png](/assets/san-antonio-seo.png)

@@ -59,7 +59,7 @@ The final step in optimizing your article involves creating your meta descriptio
 
 A meta description is the short summary that appears under each link in search results:
 
-![seo-tips-strategy.jpg](/sites/default/files/seo-tips-strategy.jpg)
+![seo-tips-strategy.jpg](/assets/seo-tips-strategy.jpg)
 
 If no specific meta description is entered for your content, the search engines will do their best to automatically pull a relevant snippet from the page when it is going to appear in search results. But why leave it to a search engine to select your meta description?
 

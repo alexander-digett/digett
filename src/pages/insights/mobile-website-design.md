@@ -22,7 +22,7 @@ It's not uncommon for a button to be really big on a mobile site, sometimes bigg
 
 ### Examples
 
-![big-buttons.png](/sites/default/files/big-buttons.png)
+![big-buttons.png](/assets/big-buttons.png)
 
 Navigation
 ----------
@@ -31,7 +31,7 @@ For a mobile site, navigation is often edited to the bare necessities. Conservin
 
 ### Examples
 
-![simple-navigation.png](/sites/default/files/simple-navigation.png)
+![simple-navigation.png](/assets/simple-navigation.png)
 
 Mobile Design
 -------------
@@ -40,7 +40,7 @@ Too often, mobile sites are designed poorly, or not designed at all, which drive
 
 ### Example
 
-![mobile-design.png](/sites/default/files/mobile-design.png)
+![mobile-design.png](/assets/mobile-design.png)
 
 The Future of Mobile Design
 ---------------------------
@@ -52,4 +52,4 @@ Is your website ready for mobile?
 
 So you're interested in seeing how a mobile website can help your business — awesome. We think that the best place to start is our [free website analysis](/free-website-analysis); it'll give you a good idea of how your main website is performing, as well as your opportunities for success with a mobile site.
 
-[![web-analysis_2_0.jpg](/sites/default/files/web-analysis_2_0.jpg)](/free-website-analysis)
+[![web-analysis_2_0.jpg](/assets/web-analysis_2_0.jpg)](/free-website-analysis)

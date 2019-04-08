@@ -16,7 +16,7 @@ I want to tell you about two amazing products, Pixelapse and Invision. The two o
 Visual version control with Pixelapse
 -------------------------------------
 
-[![](/sites/default/files/pixelapse.png)](https://www.pixelapse.com/)I use SVN and GIT for code. I also have version control for design files — [Pixelapse](https://www.pixelapse.com/). With this tool, I create a restore point every time I save a design file (PSD, AI, etc to about 50 file types).
+[![](/assets/pixelapse.png)](https://www.pixelapse.com/)I use SVN and GIT for code. I also have version control for design files — [Pixelapse](https://www.pixelapse.com/). With this tool, I create a restore point every time I save a design file (PSD, AI, etc to about 50 file types).
 
 Once the tool is installed, save your design files into the special folder that Pixelapse creates. Every time you save a file, it uploads the file to the service.
 
@@ -26,7 +26,7 @@ This tool changed my workflow. During design and review, I keep my design files 
 
 In the screenshot below, you can see the thumbnails representing each time I saved the file. I could view and restore any version in this timeline of thumbnails.
 
-![](/sites/default/files/visual-version-control-with-pixelapse_0.png)
+![](/assets/visual-version-control-with-pixelapse_0.png)
 
 Visual feedback and review with InVision
 ----------------------------------------
@@ -39,7 +39,7 @@ In the past, I always found it a challenge to get feedback on a visual design. I
 
 I want a tool that powers collaboration, not just a way to send a PNG file to a coworker.
 
-[![](/sites/default/files/invision.png)](http://www.invisionapp.com/)Enter [InVision](http://www.invisionapp.com/).
+[![](/assets/invision.png)](http://www.invisionapp.com/)Enter [InVision](http://www.invisionapp.com/).
 
 With this tool, I output a screen-sized static image (PNG, JPG) of a design to the InVision sync folder on my computer. The file is auto uploaded to InVision and from there I can send it out for feedback and manage the review process.
 
@@ -47,7 +47,7 @@ I also use InVision to add dev notes. Often, there are behaviors, font attribute
 
 In the screenshot below, you can see a conversation about some copy on a print brochure. The comment could just as easily be placed there to discuss heading color or other visual aspects of the design. When I implement a piece of feedback, I can mark it complete to hide it from my default view.
 
-![](/sites/default/files/manage-feedback-with-invision_0.png)
+![](/assets/manage-feedback-with-invision_0.png)
 
 I find myself surprised and delighted on a regular basis with InVision. There are lots of other features I'm not mentioning — hotspots to allow you to mock up a design and email notifications to name two more.
 

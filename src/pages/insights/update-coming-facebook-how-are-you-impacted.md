@@ -29,6 +29,6 @@ Learn more
 
 Attend our free Webinar: [The 5 Social Media Mistakes You Can’t Afford to Make](/webinar)
 
-[![126944398.jpeg](/sites/default/files/126944398.jpeg)](/webinar)
+[![126944398.jpeg](/assets/126944398.jpeg)](/webinar)
 
 _Image by [Mateusz Dembek](http://dembsky.me/freebies)_

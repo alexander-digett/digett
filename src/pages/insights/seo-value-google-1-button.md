@@ -25,7 +25,7 @@ This small change in function radically changes the purpose of the +1 Button fro
 
 Let’s say I’m looking for a plumber in my area so I go to Google and search for “San Antonio plumber. ” The results might look like this:
 
-![google-1-button-example_copy.png](/sites/default/files/images/google-1-button-example_copy.png)
+![google-1-button-example_copy.png](/assets/images/google-1-button-example_copy.png)
 
 I see that my best friend Barry +1’d E.L. Smith Plumbers. I might be more likely to visit their site instead of going with the first search result because of the recommendation. Conversely, if Barry had posted 3 months ago on Facebook that he had a good experience with E.L. Smith plumbers, how likely is it that I would remember that now that I need a plumber?
 

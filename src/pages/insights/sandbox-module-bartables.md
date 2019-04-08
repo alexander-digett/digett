@@ -34,23 +34,23 @@ In our example, we have a table which contains one row of data for each column. 
 
 **Desktop Table:**
 
-![](/sites/default/files/bartables-desktop.png)
+![](/assets/bartables-desktop.png)
 
 **Mobile Table:**
 
-![](/sites/default/files/bartables-mobile.png)
+![](/assets/bartables-mobile.png)
 
 To make this work, we configure a CSS class or ID for the table at _admin/config/content/bartables_ and put that same class or ID on the table. We have intentionally tried to make this as easy as possible for the average non-technical user.
 
 **BarTables Configuration Screen:**
 
-![](/sites/default/files/screen_shot_2013-07-29_at_2.16.04_pm.png)
+![](/assets/screen_shot_2013-07-29_at_2.16.04_pm.png)
 
 To add the class to the table from within WYSIWYG, right-click on the table and select Table Properties. Under the advanced tab, enter the CSS ID or class that you entered on the module configuration page.
 
-![](/sites/default/files/screen_shot_2013-07-29_at_2.18.47_pm.png)
+![](/assets/screen_shot_2013-07-29_at_2.18.47_pm.png)
 
-![](/sites/default/files/screen_shot_2013-07-29_at_2.19.09_pm.png)
+![](/assets/screen_shot_2013-07-29_at_2.19.09_pm.png)
 
 What's next?
 ------------

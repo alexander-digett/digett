@@ -17,7 +17,7 @@ If you had asked me this question a year ago, I would have told you yes, your bu
 
 Here's what I've learned: **it's not about what your website looks like, it's about what it does for your business.**
 
-![dollars-sense.png](/sites/default/files/dollars-sense.png)The most beautiful website in the world is good for nothing if it doesn't build relationships with visitors, generate leads and ultimately convert those leads into customers. Let's face it — if it doesn't make dollars, it doesn't make sense.
+![dollars-sense.png](/assets/dollars-sense.png)The most beautiful website in the world is good for nothing if it doesn't build relationships with visitors, generate leads and ultimately convert those leads into customers. Let's face it — if it doesn't make dollars, it doesn't make sense.
 
 ### Template-based design has advantages:
 

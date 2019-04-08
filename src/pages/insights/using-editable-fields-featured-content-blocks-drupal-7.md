@@ -43,7 +43,7 @@ The first step to solving this hiccup is to create a second view that displays a
 
 The next step is to install the [editablefields modules](https://www.drupal.org/project/editablefields) and make the featured field on the view “editable.” This module makes the featured field show up as a checkbox when the view is displayed. Now the client can check and uncheck all of the properties where they want to change the featured status and save the page.
 
-![](/sites/default/files/editablefields-table_0.png)
+![](/assets/editablefields-table_0.png)
 
 As with most tasks in Drupal there are many ways to accomplish the same goal. This solution to the featured content problem works well for me because it uses many of the same techniques used elsewhere in the site with the exception of the editablefields module. However, this module can have alternate uses on the site and it is lightweight.
 

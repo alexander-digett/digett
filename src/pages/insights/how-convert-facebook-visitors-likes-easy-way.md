@@ -41,11 +41,11 @@ Reveal Tab Implementation
 
 There are a number of ways to implement these reveal tabs, but the easiest way is by using a Facebook App called “Static HTML: iframe tabs”.
 
-1.  Just type that name into the search field on Facebook. You will end up on a page that looks like this:![static-html-iframe-tab_0.png](/sites/default/files/static-html-iframe-tab_0.png)
+1.  Just type that name into the search field on Facebook. You will end up on a page that looks like this:![static-html-iframe-tab_0.png](/assets/static-html-iframe-tab_0.png)
 2.  Click on “Add to My Page” (left column, highlighted in above image)
 3.  Select the Page where you want to add it.
 4.  Navigate to your Facebook Page.
-5.  Navigate to the newly created tab. It's called “Welcome” by default.![static-html-iframe-tab-config_0.png](/sites/default/files/static-html-iframe-tab-config_0.png)
+5.  Navigate to the newly created tab. It's called “Welcome” by default.![static-html-iframe-tab-config_0.png](/assets/static-html-iframe-tab-config_0.png)
 6.  Check the box next to “No scrollbars” and leave “Enable FBML” unchecked.
 7.  There are two fields where you can paste HTML code for the default content (for non-fans) and for the Fans-only content. You will have to get the HTML code from your website designer or developer unless you’ve built the pages elsewhere and can copy and paste the code.
 8.  Click “Save and view tab..”

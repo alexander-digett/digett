@@ -18,13 +18,13 @@ The love
 
 The targeting options Facebook gives advertisers are wonderful. And this is arguably my favorite part about advertising through Facebook. Even if your target audience is broad, you can get creative with your messaging and targeting. Just how creative can you get? Here’s a screenshot of just a few of the categories in [Power Editor](https://www.facebook.com/help/162528860609436/): 
 
-![](/sites/default/files/facebook_categories.png)
+![](/assets/facebook_categories.png)
 
 Now this is just an example. Each of those categories expands into more subcategories.
 
 [Compared to Google AdWords](/insights/facebook-vs-google-debate-old-school-leverage-them-both-work-you), Facebook makes getting your message across a little easier — you’re not limited to 35 characters. At least when you’re using [Page Post Ads](https://www.facebook.com/help/153611548180567/), like the example shown below. 
 
-![](/sites/default/files/facebook_ppa.png)
+![](/assets/facebook_ppa.png)
 
 I look at this as a trade-off, though. While Google limits your character space, your ad is shown to people actively searching for your keywords. On Facebook, your ad is shown based on your targeting criteria that you’ve outlined. Meaning, you tell Facebook what kind of people you want to see your ad. That aside, being able to include a picture, video, etc. tied to your messaging and product (with a link to your page) is insanely awesome.
 
@@ -49,7 +49,7 @@ Alas, Power Editor isn’t perfect. The hair-pulling generally comes from one cr
 
 Yes, if I create a PPA (Page Post Ad) in Power Editor and change my mind about something or find a typo, I have to create a whole new unpublished post. Which isn’t necessarily time consuming, but more of an annoyance than anything. Here’s what you have to fill out and get right the first time (It’s taught me to proofread like no other):
 
-![](/sites/default/files/facebook_pe.png)
+![](/assets/facebook_pe.png)
 
 ### The worst formula, ever
 

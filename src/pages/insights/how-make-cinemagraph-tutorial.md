@@ -43,15 +43,15 @@ I imported the video into iPhoto as a .MOV file. Next, I opened Photoshop CS3 an
 
 Note: I tried importing the video frames into CS5, but apparently I need the 32-bit version of the program to do so. Instead of reloading the program, I decided to revert to CS3 instead.
 
-![video-frames-to-layers.png](/sites/default/files/video-frames-to-layers.png)
+![video-frames-to-layers.png](/assets/video-frames-to-layers.png)
 
-![frame-selection.jpg](/sites/default/files/frame-selection.png)
+![frame-selection.jpg](/assets/frame-selection.png)
 
 Photoshop imported 300 frames to individual layers.
 
 Next, I opened the Animation window, which is where you'll choose the frames you want to use, clip the rest, and adjust the animation settings. Your animation window will look something like this:
 
-![animation-window.jpg](/sites/default/files/animation-window.png)
+![animation-window.jpg](/assets/animation-window.png)
 
 Choose the frames you want to animate
 -------------------------------------
@@ -61,7 +61,7 @@ Choosing the frames to animate is important. When selecting the frames, I focuse
 *   With animated GIFs, file sizes tend to get out of control in a hurry, so I chose to select just 50 frames, or as close to that number as I could get.
 *   I searched frame by frame to find two instances where my hands were in the very same position, or again, as close as I could get. In this case, frame one and frame 55 were a match.
 
-![cinemagraph-frames.jpg](/sites/default/files/cinemagraph-frames.jpg)
+![cinemagraph-frames.jpg](/assets/cinemagraph-frames.jpg)
 
 Once I had chosen these 55 frames, I deleted the remaining 245 frames and their corresponding layers.
 
@@ -74,16 +74,16 @@ I duplicated this layer and put it at the top of all the other layers in my laye
 
 I added a layer mask to the Static layer and began to paint away the part of the image that want to move, in this case, my hands. Here's what the mask looks like and how it effects the layer.
 
-![layer-mask.jpg](/sites/default/files/layer-mask.jpg)
+![layer-mask.jpg](/assets/layer-mask.jpg)
 
 In a nutshell, Photoshop created 55 layers that animate like a flip book to create the movement. Then, I added one more static layer on top and cut a hole in it so the movement shows through.
 
-![animation-diagram.png](/sites/default/files/animation-diagram.png)
+![animation-diagram.png](/assets/animation-diagram.png)
 
 Apply the desired animation settings
 ------------------------------------
 
-![loop-settings_0.png](/sites/default/files/loop-settings_0.png)I had the layers in place and it was time to set them in motion. In the bottom-left corner of the animation window I chose loop "forever" from the drop-down menu. Then, so the movie would play at a believable speed, I selected all the frames and chose "no delay" from the the drop-down menu under the first frame.
+![loop-settings_0.png](/assets/loop-settings_0.png)I had the layers in place and it was time to set them in motion. In the bottom-left corner of the animation window I chose loop "forever" from the drop-down menu. Then, so the movie would play at a believable speed, I selected all the frames and chose "no delay" from the the drop-down menu under the first frame.
 
 I played the movie a couple of times to see how it turned out. I was pleased with the loop. Because I had been so careful to choose two frames that were close to identical, I had barely a hiccup where the last frame met the first frame. I was lucky in that way. If there hadn't been such a seamless loop, I would have had to spend time tween-ing frames, or running a few duplicate frames in reverse to smooth out the transition.
 

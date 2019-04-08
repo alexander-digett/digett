@@ -41,6 +41,7 @@
     "gatsby-transformer-sharp": "^2.1.17",
     "gatsby-v2-plugin-page-transitions": "^1.0.0",
     "glamor": "^2.20.40",
+    "html-entities": "^1.2.1",
     "image-downloader": "^3.4.2",
     "lodash": "^4.17.11",
     "netlify-cms": "^2.9.0",

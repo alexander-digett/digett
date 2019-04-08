@@ -19,7 +19,7 @@ I can quickly scan the data to determine which module has the slowest average ca
 
 One of the most useful pieces of data is the average load time for a page and the [Apdex score](https://en.wikipedia.org/wiki/Apdex) for the site. The Apdex is a complex algorithm which measures user satisfaction of application performance / response time.
 
-![](/sites/default/files/screenshot_2014-10-07_10.35.22.png)
+![](/assets/screenshot_2014-10-07_10.35.22.png)
 
 There is a mountain of data in this tool, but here are a few highlights that affect Drupalistas the most:
 
@@ -34,9 +34,9 @@ There is a mountain of data in this tool, but here are a few highlights that aff
 
 The list really could go on and on. You are able to drill into almost any metric to get more detailed information.
 
-![](/sites/default/files/screenshot_2014-10-07_09.57.58.png)
+![](/assets/screenshot_2014-10-07_09.57.58.png)
 
-![](/sites/default/files/screenshot_2014-10-07_10.15.43_0.png)
+![](/assets/screenshot_2014-10-07_10.15.43_0.png)
 
 How to get it
 -------------

@@ -32,7 +32,7 @@ Drupal Commerce (D7) vs. Ubercart (D6)
 
 Drupal Commerce is very tightly integrated into Drupal 7 core, Views, and Rules — so much so that it’s sometimes not clear where to go to customize certain parts of it (the answer is usually Views or Rules). This tight integration means that much of Drupal 7’s entity model is leveraged in Drupal Commerce, thereby reducing the duplicate work for the DC developers. It also means that once you overcome that feeling of wondering how to get into the store administration area and accept the fact that it’s just all Drupal administration, then DC begins to make so much sense.
 
-![](/sites/default/files/ubercart_logo_0.png)In contrast, Ubercart in D6 was really a stand alone program that used Drupal's nodes and exposed itself to Views. This made the administration of your store feel separate from administering Drupal.
+![](/assets/ubercart_logo_0.png)In contrast, Ubercart in D6 was really a stand alone program that used Drupal's nodes and exposed itself to Views. This made the administration of your store feel separate from administering Drupal.
 
 I think that the less experience you have with Drupal the more this will feel like the better way. And clients seem to understand that separateness very well. It will remain to be seen how our clients respond to Drupal Commerce. But worst case scenario we will have to create administrative views and dashboards to help the client with DC.
 
@@ -45,7 +45,7 @@ My Impressions
 
 I’m initially very positive on the way Drupal Commerce is built and functions. I think the decision to base it so deeply on Drupal’s entity structure is best in the long run. I’ve seen complaints about needing to creating a new product for each product variation, but I see how this approach provides much more flexibility.  And there are already some projects focusing on making simple product variations easier to build.
 
-Drupal Commerce was blazing fast to configure. In less than five hours (including the time spent watching some of the [tutorial videos from Commerce Guys](https://vimeo.com/channels/commerceguys)) I had a fully functioning test site with Drupal Commerce configured to allow access to a particular node of video content when a particular product was purchased just as the client needed.![](/sites/default/files/drupal-rules-module-logo_1.png)
+Drupal Commerce was blazing fast to configure. In less than five hours (including the time spent watching some of the [tutorial videos from Commerce Guys](https://vimeo.com/channels/commerceguys)) I had a fully functioning test site with Drupal Commerce configured to allow access to a particular node of video content when a particular product was purchased just as the client needed.![](/assets/drupal-rules-module-logo_1.png)
 
 DC’s use of Rules for most of the logic, while providing an overwhelming capability for customization, could be a barrier for certain groups of Drupal users who are not used to Rules. If you’ve not used Rules much, it’s worth the effort to develop some experience there. It will help you in all of your Drupal development.
 

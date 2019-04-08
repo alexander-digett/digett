@@ -20,7 +20,7 @@ A hashtag is a word or a phrase preceded by the pound (#) symbol. You may have s
 
 For example, I did a search for the hashtag _#SanAntonio_ on Twitter and all of the other tweets that had the hashtag _#SanAntonio_ are together in one page.
 
-![](/sites/default/files/twitter_hashtags_0.png)
+![](/assets/twitter_hashtags_0.png)
 
 Benefits of hashtags
 --------------------

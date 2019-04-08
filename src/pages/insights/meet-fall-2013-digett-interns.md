@@ -18,22 +18,22 @@ We're happy to introduce...
 Michelle Kafie - Marketer
 -------------------------
 
-![](/sites/default/files/michelle-kafie.png)Michelle is a Senior at St. Mary’s University, majoring in Marketing and Information Systems Management. Her strategic thinking and marketing skills have contributed to the success of several groups and companies in the US, as well as in her native country of Honduras.
+![](/assets/michelle-kafie.png)Michelle is a Senior at St. Mary’s University, majoring in Marketing and Information Systems Management. Her strategic thinking and marketing skills have contributed to the success of several groups and companies in the US, as well as in her native country of Honduras.
 
 Gabrielle Kinderknecht - Designer
 ---------------------------------
 
-![](/sites/default/files/gabrielle-kinderknecht_0.png)Gabrielle is a Senior at the University of the Incarnate Word, majoring in Computer Graphic Arts and minoring in Business Marketing and Art History. Her resume is creative and unique, and showcases her eye for detail. We were also impressed by her portfolio, which contains a good balance of print and digital work, plus a good deal of front-end coding projects.
+![](/assets/gabrielle-kinderknecht_0.png)Gabrielle is a Senior at the University of the Incarnate Word, majoring in Computer Graphic Arts and minoring in Business Marketing and Art History. Her resume is creative and unique, and showcases her eye for detail. We were also impressed by her portfolio, which contains a good balance of print and digital work, plus a good deal of front-end coding projects.
 
 Wes Mills - Marketer/Analyst
 ----------------------------
 
-![](/sites/default/files/wes-mills.png)Wes just graduated from the University of Texas at San Antonio with degrees in Marketing and Economics. He’s a quintessential “numbers guy,” with lots of data analysis experience — in short, the perfect person to help us whip our SEM and SEO processes into shape.
+![](/assets/wes-mills.png)Wes just graduated from the University of Texas at San Antonio with degrees in Marketing and Economics. He’s a quintessential “numbers guy,” with lots of data analysis experience — in short, the perfect person to help us whip our SEM and SEO processes into shape.
 
 Oliver Yin - Developer
 ----------------------
 
-![](/sites/default/files/oliver-yin.png)Oliver is a sophomore at Trinity University, working toward a degree in Computer Science. He spent this summer tinkering with web development alongside server management and application development, and his list of technology languages is impressive.
+![](/assets/oliver-yin.png)Oliver is a sophomore at Trinity University, working toward a degree in Computer Science. He spent this summer tinkering with web development alongside server management and application development, and his list of technology languages is impressive.
 
 Looking ahead
 -------------

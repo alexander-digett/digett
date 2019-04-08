@@ -36,15 +36,15 @@ Here are a few examples of how a portfolio can be displayed uniquely:
 
 **A case with screw-post book:** Using a suitcase portfolio can be a nice customization to your brand.
 
-![](/sites/default/files/portfolio-case-with-screw-post-book.png)
+![](/assets/portfolio-case-with-screw-post-book.png)
 
 **A Box with loose samples:** A box portfolio may suit a photographer better, that helps allow them to change the order or images wanted when showing a client.
 
-![](/sites/default/files/portfolio-box-with-loose-samples.png)
+![](/assets/portfolio-box-with-loose-samples.png)
 
 **A Screw-post Book:** Using a screwpost book will allow you to make quick changes and help save you money on having to reprint the entire book.
 
-![](/sites/default/files/portfolio-screw-post-book.png)
+![](/assets/portfolio-screw-post-book.png)
 
 In choosing a style it is wise to consider all of these things before purchasing a portfolio case.
 

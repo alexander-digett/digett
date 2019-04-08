@@ -18,7 +18,7 @@ Form Theming Basics
 
 The default comment form in D7 is just like D6, contains fields for name, email, homepage, subject, and comment. The email and homepage fields can be turned off in the content type settings. Plus you can add new fields to the comment form and change some of their display options in the content type settings.  But for more advanced theming we have to override the form.
 
-![theme-comment-form-drupal7-original.png](/sites/default/files/theme-comment-form-drupal7-original.png)
+![theme-comment-form-drupal7-original.png](/assets/theme-comment-form-drupal7-original.png)
 
 In D6 and D7 you can use the [hook\_form\_alter](https://api.drupal.org/api/drupal/modules--system--system.api.php/function/hook_form_alter/7) function to make changes to a form before it is rendered, but the issue with this function is that it is called for every form rendered by Drupal. I’m going to suggest that you use [hook\_form\_FORM\_ID\_alter](https://api.drupal.org/api/drupal/modules--system--system.api.php/function/hook_form_FORM_ID_alter/7) instead, since it is only called for the specific form with the id of FORM\_ID. Plus this function is called last of all the form override functions, so you will know that your changes won’t be undone anywhere else. All you have to do is locate the FORM\_ID for the comment form and begin building your function.
 
@@ -60,7 +60,7 @@ _This code will only work if the [devel module](https://www.drupal.org/project/d
 
 Now when you load a page on your site containing a comment form you will see this at the top of the page:
 
-![theme-comment-form-drupal7-dpm.png](/sites/default/files/theme-comment-form-drupal7-dpm.png)
+![theme-comment-form-drupal7-dpm.png](/assets/theme-comment-form-drupal7-dpm.png)
 
 Click on the gray bar that says “Array, x elements” to expand the $form array. These are all of the elements of the comment form.
 
@@ -152,4 +152,4 @@ Here is the entire override function containing all of our changes (replace THEM
     
     }
 
-![theme-comment-form-drupal7-result.png](/sites/default/files/theme-comment-form-drupal7-result.png)
+![theme-comment-form-drupal7-result.png](/assets/theme-comment-form-drupal7-result.png)

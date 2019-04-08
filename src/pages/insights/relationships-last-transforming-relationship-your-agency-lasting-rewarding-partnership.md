@@ -21,7 +21,7 @@ We want you to love us and we want to love you. More importantly though, as an a
 
 In our lives, we’ve all had some good relationships and some not so good relationships. You may have had some bad experiences with a digital marketing agency partner. You need someone who can be there for you in the good times and in the challenging times. It’s time for a good relationship!
 
-![](/sites/default/files/are-you-ok-along.jpg)
+![](/assets/are-you-ok-along.jpg)
 
 First, are you ok alone?
 ------------------------
@@ -43,7 +43,7 @@ It is ok if you don’t have everything worked out. It is acceptable to work out
 
 So, take a good look in the mirror. Are you ready for an agency partner?
 
-![](/sites/default/files/choose-the-right-partner.jpg)
+![](/assets/choose-the-right-partner.jpg)
 
 Ensure you have the right partner
 ---------------------------------
@@ -59,7 +59,7 @@ To find the right agency partner, remember you will need to work with this partn
     Check if their previous work has a range that includes what you think your audience will like. Expect to be challenged a bit on this one. The agency should push you to try new things, to explore what might work best for your audience … after all, you are hiring them to advise you from their expertise. On this topic, it is just good to make certain you respect their work and don’t find that it has poor quality.
     
 
-![](/sites/default/files/work-at-the-relationship.jpg)
+![](/assets/work-at-the-relationship.jpg)
 
 Work at it
 ----------

@@ -20,25 +20,25 @@ Encourage visitor engagment
 
 We revamped the way a visitor can browse ranch listings and filter for exactly the kind of property they want.
 
-### ![](/sites/default/files/blog-filter540_0.jpg)
+### ![](/assets/blog-filter540_0.jpg)
 
 Texas Ranches for Sale has beautiful photography produced for each of their properties. Previous photo galleries were small. We're now letting the photography tell the story. Pictures are large, immersive and easy to browse, providing greater opportunity for a potential buyer to determine their level of interest.
 
-![](/sites/default/files/blog-gallery540.jpg)
+![](/assets/blog-gallery540.jpg)
 
 Clearer calls to action
 -----------------------
 
 In the previous iteration of the site calls-to-action were the last thing visible on the page. We’ve put them much higher and given them a place of prominence under the featured photos.
 
-![](/sites/default/files/blog-cta.jpg)
+![](/assets/blog-cta.jpg)
 
 Responsive design for compatibility with all devices
 ----------------------------------------------------
 
 A redesign allowed for a more modern look and feel and mobile-friendly, responsive interface, all while still conveying the refinement and quality of Texas Ranches for Sale’s listings and services.
 
-![](/sites/default/files/blog-mobile.jpg)
+![](/assets/blog-mobile.jpg)
 
 Better site, more leads
 -----------------------

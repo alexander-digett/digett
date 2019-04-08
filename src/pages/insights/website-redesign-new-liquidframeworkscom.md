@@ -23,7 +23,7 @@ Let FieldFX information shine through
 
 The FieldFX product can be a huge business-changer. It can replace and streamline many existing processes and cut down on costs. It does so much, though, that the offering is easiest to understand broken down into seven pieces or modules. We created an interactive graphic and menu structure to cleanly organize the descriptions of all the great FieldFX features.
 
-![](/sites/default/files/fieldfx-modules_0.jpg)
+![](/assets/fieldfx-modules_0.jpg)
 
 Empower decision makers find the information they need
 ------------------------------------------------------
@@ -32,7 +32,7 @@ Product information and descriptions are great but to be valuable, busy decision
 
 The website caters to different FieldFX audiences in different ways. We speak directly to CFOs and COOs on the home page, offering them premium content targeted to explain precisely how FieldFX can make their lives easier. People who need a lot of details or like to do extensive research before choosing a product will be drawn to the Knowledge Center, full of detailed data sheets, whitepapers and case studies.
 
-![](/sites/default/files/liquidframeworks-whitepapers_0.jpg)
+![](/assets/liquidframeworks-whitepapers_0.jpg)
 
 Make a website for the executive on-the-go
 ------------------------------------------

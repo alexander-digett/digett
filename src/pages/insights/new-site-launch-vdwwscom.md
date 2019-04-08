@@ -25,11 +25,11 @@ The previous site design for Van Delden was several years old. We modernized the
 
 ### Previous Home Page
 
-![](/sites/default/files/van-delden-old-homepage.png)
+![](/assets/van-delden-old-homepage.png)
 
 ### New Home Page
 
-![](/sites/default/files/vandelden-new-homepage_0.png)
+![](/assets/vandelden-new-homepage_0.png)
 
 Mobile-Friendly Web Design
 --------------------------
@@ -40,7 +40,7 @@ Even though their previous site didn’t specifically cater to a mobile audience
 
 The new [vdwws.com](http://www.vdwws.com/) is a responsive web design, meaning the same website is smart enough to serve up an ideal viewing experience for desktop, tablet and mobile-devices. ([Learn more about responsive web design](/insights/why-should-my-company-consider-responsive-design-my-mobile-website).)
 
-![](/sites/default/files/vandelden-responsive-web-design.png)
+![](/assets/vandelden-responsive-web-design.png)
 
 Better vehicle for ongoing marketing activities
 -----------------------------------------------

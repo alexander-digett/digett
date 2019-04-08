@@ -18,17 +18,17 @@ Multi-column sub-menus
 
 [Superfish for Drupal 7](https://www.drupal.org/project/superfish) provides support for simple mega menus using the multi-column sub-menus plugin which is available out of the box. Using it is as simple as structuring your menu and configuring the Superfish menu block with the appropriate options.
 
-I found that multi-column sub-menus tend to work best with menus which have a simple two-layer structure. An example of this structure can be seen [here](/sites/default/files/sample-menu-structure.png).
+I found that multi-column sub-menus tend to work best with menus which have a simple two-layer structure. An example of this structure can be seen [here](/assets/sample-menu-structure.png).
 
 With this structure in place, you can configure the Superfish block settings. Start by going to admin/config/user-interface/superfish and verifying that you have at least one Superfish block enabled.
 
 Then go to admin/structure/block and click Configure on the Superfish block. The critical setting here is to Enable multi-column sub-menus as shown here:
 
-![](/sites/default/files/enable-sub-menus.png)
+![](/assets/enable-sub-menus.png)
 
 Once this is saved, you should now have a simple mega menu ready to be styled.
 
-![](/sites/default/files/final-output.png)
+![](/assets/final-output.png)
 
 Caveats
 -------

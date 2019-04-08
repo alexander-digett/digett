@@ -32,4 +32,4 @@ Free Download
 
 Like I said, over the years I've collected a few custom icons, and now I'm going to share a few with you. Please don't hesitate to download my free custom icon set, for use as you see fit. Yes, they're a bit random but what makes them a set is the fact that I designed each of them for a specific purpose, hopefully so you don't have to. Enjoy!
 
-[![download-free-set.png](/sites/default/files/download-free-set.png)](/sites/default/files/icons.psd)
+[![download-free-set.png](/assets/download-free-set.png)](/assets/icons.psd)

@@ -33,7 +33,7 @@ Up until now, Page posts could be targeted by language and location. Now Faceboo
 
 You may have to enable this feature in your Facebook account in order to use it. Look for a crosshair symbol in your post creation area. If you don’t see it, go to Edit Page > Manage Permissions. Check the box next to Post Privacy Gating - Allow me to control the privacy of new posts I make on my Page.
 
-![](/sites/default/files/facebook-post-targeting.png)
+![](/assets/facebook-post-targeting.png)
 
 What does this mean for me?
 ---------------------------

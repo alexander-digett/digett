@@ -28,7 +28,7 @@ We repeat the latter two multiple times depending on what we’re searching for.
 
 When I search for “men's button-down shirt,” below are the ads that generated with those keywords:
 
-![](/sites/default/files/googleadwordsshirtsearch.png)
+![](/assets/googleadwordsshirtsearch.png)
 
 I’ll come back to this shortly, but let’s take a look at Facebook for a moment.
 
@@ -41,7 +41,7 @@ From a marketing perspective, the most beautiful thing about Facebook advertisin
 
 Neither of the suggestions are something that I was actively searching for but are somewhat related to my interests from pages I’ve liked previously or what others from my friends list have liked.
 
-![](/sites/default/files/screen_shot_2013-09-17_at_10.07.14_am.png)
+![](/assets/screen_shot_2013-09-17_at_10.07.14_am.png)
 
 Facebook now includes [partner categories](https://www.facebook.com/help/353223368111533) which you can read more about [here](/insights/facebook-advertising-just-got-much-more-powerful). This takes targeting to a whole new level. Advertisers can get extremely creative and narrow in on their target most likely to convert. You can be as broad as homeowners and parents, or as narrow as people likely to buy a Volvo and who work in an administrative position. 
 
@@ -62,7 +62,7 @@ To piggyback on my Google Search example, let's say I “Liked” Brooks Brother
 
 So instead of “men's button-down shirt” I might now change my search query to “brooks brothers button-down shirt”. What happens to those Google Search results I showed earlier? 
 
-![](/sites/default/files/googlesearchshirtshopping.png)
+![](/assets/googlesearchshirtshopping.png)
 
 Now the ads are only related to Brooks Brothers. Facebook put the brand fresh in my mind while now Google is showing me where I can begin my buying process. I was exposed to the brand while browsing Facebook and Google Search showed me the product offerings for that brand.
 

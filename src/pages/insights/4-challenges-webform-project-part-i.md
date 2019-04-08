@@ -15,7 +15,7 @@ I like Javascript. There, I said it. It’s all out there floating across the in
 
 A recent Drupal project allowed me the opportunity for some Javascript/jQuery troubleshooting, which I usually find to be the fun part of any given day. Even when I’m not technically at work.
 
-![Sleeping Programmer](/sites/default/files/programmer_250.jpg)
+![Sleeping Programmer](/assets/programmer_250.jpg)
 
 _Computering until this point, basically._
 

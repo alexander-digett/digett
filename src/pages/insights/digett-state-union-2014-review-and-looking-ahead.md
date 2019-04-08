@@ -52,7 +52,7 @@ Why not celebrate?
 
 Having closed the books on a profitable year, it seems only fitting that we hold a celebration. We aborted our first attempt due to an illness, but finally got everyone together on January 10 at [Il Sogno Osteria](http://atpearl.com/food/restaurants/il_sogno_osteria) (that’s “dream tavern”) at the Pearl for a fabulous dinner.
 
-![Digett celebrated a great 2014 at Il Sogno Osteria](/sites/default/files/il-sogno-exterior.png)
+![Digett celebrated a great 2014 at Il Sogno Osteria](/assets/il-sogno-exterior.png)
 
 We upheld our white elephant gift tradition, and I found this year’s exchanges to be particularly funny (and fun). J.D.’s wife, Laurel, showed all of us up with her homemade extension cord Christmas wreath. The woman, by the way, has unparalleled talent in the world of crafts.
 

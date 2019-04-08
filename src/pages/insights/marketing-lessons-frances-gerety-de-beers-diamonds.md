@@ -29,9 +29,9 @@ Campaigns should tell a story
 
 De Beers ads were not the splashy, sexy things we see in magazines today. They were beautiful and eye-catching of course, but what mattered most was the copy, the _story_ of the ad.  
 
-![](/sites/default/files/marketing-lessons-gerety.jpg)
+![](/assets/marketing-lessons-gerety.jpg)
 
-![](/sites/default/files/marketing-lessons.png)
+![](/assets/marketing-lessons.png)
 
 Okay, so the ads are more than a little saccharine, but no one can argue that they didn’t work. They hinted at lives filled with love and happiness, and who doesn’t want that?
 
@@ -42,8 +42,8 @@ Telling a story is important, but so is telling the right story; you have to kno
 
 Gerety knew De Beers’ audience well. She tapped into their fears and desires, smoothed away their hesitations, and wasn’t afraid of introducing a little guilt when necessary.
 
-![](/sites/default/files/marketing-lessons-de-beers.png)
---------------------------------------------------------
+![](/assets/marketing-lessons-de-beers.png)
+-------------------------------------------
 
 Content marketing at its finest
 

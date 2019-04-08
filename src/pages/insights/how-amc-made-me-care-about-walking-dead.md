@@ -33,11 +33,11 @@ AMC has developed a reputation for utilizing Guerrilla marketing to promote thei
 
 First up, the mobile (and eye-catching) ad:
 
-![](/sites/default/files/walking-dead-guerilla-marketing-moving-ad.png)
+![](/assets/walking-dead-guerilla-marketing-moving-ad.png)
 
 Followed by the “creepy countdown” display in Toronto’s Union Station (bonus points for creating a Twitter contest in which people tweeted a photo of themselves with the hashtag #TWDFeb10 for a chance to win one of the severed fingers).
 
-![](/sites/default/files/walking-dead-guerilla-marketing-countdown.png)
+![](/assets/walking-dead-guerilla-marketing-countdown.png)
 
 Then they hijacked a movie theater and filmed the results.
 

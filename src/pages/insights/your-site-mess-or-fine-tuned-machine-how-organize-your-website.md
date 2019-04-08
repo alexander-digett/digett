@@ -26,7 +26,7 @@ The first step in the process is to identify what you already have. You can use 
 
 Try not to worry about the order of the top level pages (here they are About Us, Services, etc.) at this point. Just get all your content on the page and organized.
 
-![](/sites/default/files/list_all_content_on_current_site.gif)
+![](/assets/list_all_content_on_current_site.gif)
 
 List content you already know you want
 --------------------------------------
@@ -47,7 +47,7 @@ Ways to gather missing content:
 
 I like to track these items in a category I call "orphans."  If I try to add content into my current website organization, I'll get bogged down trying to organize. I find it most helpful to just create a new grouping.  Here is what my "orphan" category has at this point in the process:
 
-![](/sites/default/files/list_missing_content.gif)
+![](/assets/list_missing_content.gif)
 
 Organize content
 ----------------
@@ -82,7 +82,7 @@ Wrap up
 
 Here is my final product. I have only four top level menu items because I want to leave room for a "Home" menu on this site.
 
-![](/sites/default/files/organized_site_0.gif)
+![](/assets/organized_site_0.gif)
 
 This is one of my favorite parts of building a website. The potential in this part of the process can make this a great website or a terrible website. I have seen sites win awards that look terrible but have great content organization. Imagine how great your site can be with great organization and great design!
 

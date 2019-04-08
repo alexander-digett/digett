@@ -55,7 +55,7 @@ In Internet Explorer 7 or 8:
 *   For “Time Range to Clear,” choose "Everything."
 *   Select "Clear Now."
 
-### ![clear-cache-in-chrome.jpg](/sites/default/files/clear-cache-in-chrome.jpg)Instructions for clearing cache in Chrome
+### ![clear-cache-in-chrome.jpg](/assets/clear-cache-in-chrome.jpg)Instructions for clearing cache in Chrome
 
 *   Click on the Settings button in the top right of the browser. (It looks like a wrench or three horizontal lines).
 *   Select Clear Browsing Data. (In later versions of Chrome, go to Tools > Clear Browsing Data).

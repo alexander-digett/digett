@@ -28,7 +28,7 @@ Usually each ad within your Google AdWords account can only link a user to one p
 
 Once your changes have taken effect, the ads for that campaign will look something like this:
 
-![google-adwords-sitelinks-extensions.jpg](/sites/default/files/google-adwords-sitelinks-extensions.jpg)
+![google-adwords-sitelinks-extensions.jpg](/assets/google-adwords-sitelinks-extensions.jpg)
 
 Please note that Sitelinks Extensions will only appear when your ad lands in the top one or two positions in search results. There isn’t room for lower-positioned ads (which appear along the right side of Google search results) to have Sitelinks Extensions.
 
@@ -49,7 +49,7 @@ Once these two accounts are associated, enabling Product Extensions takes three 
 
 Once you’ve saved your changes, AdWords will associate the products in your Google Merchant Center account with the ads in your campaign. They should look similar to this:
 
-![google-adwords-product-extensions.jpg](/sites/default/files/google-adwords-product-extensions.jpg)
+![google-adwords-product-extensions.jpg](/assets/google-adwords-product-extensions.jpg)
 
 As you can see from the circled area, users will be able to expand and collapse the list of your products. Please note that Product Extensions will only appear when your ad lands in the top one or two positions in search results. There isn’t room for lower-positioned ads (which appear along the right side of Google search results) to have Product Extensions.
 

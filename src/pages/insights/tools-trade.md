@@ -24,26 +24,26 @@ Productivity Tools
 
 <!--/\*--><!\[CDATA\[/\* ><!--\*/ <!--/\*--><!\[CDATA\[/\* ><!--\*/ table.jdcontent, .jdcontent tbody,.jdcontent tr,.jdcontent td{ text-align: left;border-style: none; font: 14px "Lucida Grande", Lucida, Verdana, sans-serif;line-height:1.5em; } .jdcontent td{ padding-bottom: 10px; } /\*--><!\]\]\]\]><!\[CDATA\[>\*/ /\*--><!\]\]>\*/
 
-![toggl.png](/sites/default/files/toggl.png)
+![toggl.png](/assets/toggl.png)
 
 [Toggl](http://www.google.com/url?q=https%3A%2F%2Fwww.toggl.com&sa=D&sntz=1&usg=AFQjCNHv2p12UDUmN1MOsFhoCUssrTIYjA): Nice little time tracking application so that I can enter my time in a tool like Freshbooks or Quickbooks at the end of the day. It even has an Autopilot feature to automate time tracking … I will be adventurous someday soon and try it.
 
-![mailplane.png](/sites/default/files/mailplane.png)
+![mailplane.png](/assets/mailplane.png)
 
 [Mailplane](http://mailplaneapp.com/comparison/): I’m a Gmail fan. I can’t imagine using anything else. I really like that Mailplane puts my Gmail into a wrapper so that I don’t accidentally close the browser window. There are too many benefits over a browser-only experience, so I’ve included the link.
 
-![evernote.png](/sites/default/files/evernote.png)
+![evernote.png](/assets/evernote.png)
 
 [Evernote](https://www.evernote.com/): I use Evernote for so much. I take notes in meetings, store snippets of code I want to remember, store web pages. I even use it for grocery lists. I like the trust I feel when I add something and I know it will be on my app, on the web, and on my device within seconds.
 
-![onepassword_0.png](/sites/default/files/onepassword_0.png)
+![onepassword_0.png](/assets/onepassword_0.png)
 
 [LastPass](https://lastpass.com/): I have always been a huge fan of 1Password. LastPass recently won me over with the ability to send credentials to coworkers. I can send a coworker account credentials without them even seeing the password. I can’t remember all the passwords in my life and this tools keeps them all wonderfully secure in a vault that only I can access.
 
 Programming Tools
 -----------------
 
-![espresso.png](/sites/default/files/espresso.png)
+![espresso.png](/assets/espresso.png)
 
 [Espresso](http://macrabbit.com/espresso/): This little programming tool is wonderful. I am also a fan of Coda, but the feature that keeps me in Espresso? Code expanding! I love that I can type ul>li\*4>a and then press Ctrl+, and it expands everything into fully indented HTML with four rows of LIs. It seems to read my mind with the smart tab feature that knows when I want to tab inside a tag and when I just want to jump past a closing tag and start something fresh.
 
@@ -51,7 +51,7 @@ Programming Tools
 
 [CSSEdit](http://macrabbit.com/cssedit/): Before CSS Edit, I used Firebug. I am a fan of Firebug, but I’m much much faster in CSS Edit. My favorite feature in CSS Edit is X-ray inspector. I can click what I want to style, click to add that complex CSS selector and then click a few properties. I also like that it quickly jumps to the existing styles to edit … a lifesaver when working with someone else’s code. _\[Note, this tool is being integrated into Espresso in the near future.\]_
 
-![versions.png](/sites/default/files/versions.png)
+![versions.png](/assets/versions.png)
 
 [Versions](http://versionsapp.com): I’m very visual. I love using this tool to manage files under source control. I find that I fight with it from time to time, but that is always my fault (I accidentally delete .svn folders all the time — am I the only one?
 
