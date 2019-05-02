@@ -17,6 +17,8 @@ content:
         type: markdown
     type: section
   - backgroundcolor: '#ffffff'
+    sectionid: subscribe
+    sectiontitle: Subscribe
     sectionvalue:
       - markdown: >-
           ## FREE EBOOK FOR MANAGED IT SERVICES PROVIDERS
