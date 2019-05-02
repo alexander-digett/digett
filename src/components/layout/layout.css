@@ -12,6 +12,9 @@
   margin: 0;
   -webkit-font-smoothing: antialiased;
   color: #5b5e5e;
+  background-image:url(/assets/gridtransparent50.png);
+  background-size:cover;
+  background-repeat:no-repeat;
 }
 .button{
   text-transform: uppercase;

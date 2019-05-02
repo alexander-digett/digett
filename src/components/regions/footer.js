@@ -4,7 +4,7 @@ import * as variable from '../variables.js'
 import styled from 'styled-components'
 const Leftfooter = styled.div`
 flex-basis:30%;
-background-color:${variable.brand3};
+background-color:#dddddd;
 padding:40px 0px;
 padding-right:20px;
 position:relative;
@@ -19,7 +19,7 @@ h4{
   height:100%;
   position: absolute;
   left:-2000px;
-  background-color:${variable.brand3};
+  background-color:#dddddd;
   width: 2000px;
   top: 0px;
 }
@@ -63,7 +63,7 @@ h4{
 
 const Footer = () => (
   <footer style={{
-    backgroundColor:variable.darkGray,
+    backgroundColor:'#626363',
     overflow:'hidden',
     }}>
     <Container style={{

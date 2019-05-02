@@ -7,19 +7,20 @@ import TopMenu from '../topmenu'
 import styled from "styled-components"
 import Image from "../image"
 import logo from "../../images/logo_white.png"
-import Search from "../organisms/search"
 import { StaticQuery } from "gatsby"
 
 const HeaderStyle = styled.header`
   top: 0px;
   width: 100%;
   z-index: 999;
-  box-shadow: 0px 1px 2px #ccc;
   position:relative;
+  background-color:#dddddd;
   .header-menu-logo{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    padding:20px 0px;
+    
   }
   .logo{
     flex-basis:150px;
@@ -52,7 +53,7 @@ const Header = ({variable}) => (
       <TopMenu
       variable={variable}
       ></TopMenu>
-      <Search searchIndex={data.siteSearchIndex.index} />
+      {/* <Search searchIndex={data.siteSearchIndex.index} /> */}
       <Container className="header-menu-logo">
       <Link className="logo"to="/"><img src={logo} alt="logo" /></Link>
       <Menu>

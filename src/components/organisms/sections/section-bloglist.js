@@ -15,7 +15,7 @@ export const BlogList = () => (
     query={graphql`
       query EntityQyery {
         blogs: allMarkdownRemark(
-          limit: 2
+          limit: 3
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
@@ -26,17 +26,17 @@ export const BlogList = () => (
                 slug
               }
               frontmatter {
-                summary
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 image{
                   childImageSharp {
-                    sizes(maxWidth: 900) {
-                      ...GatsbyImageSharpSizes
+                    fluid(maxWidth: 345, maxHeight: 230) {
+                      ...GatsbyImageSharpFluid
                     }
                   }
                 }
+                author
               }
             }
           }
@@ -45,7 +45,7 @@ export const BlogList = () => (
     `}
   render={data => (
     <>
-    <BlogListStyle>
+    <BlogListStyle className="blog-list-container">
     {data.blogs.edges.map((post, index) => (
       <BlogTeaser
       key={index}

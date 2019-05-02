@@ -28,20 +28,33 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
-      - {label: "Hero Image", name: "heroimage", widget: "image"}
-      - {label: "Content", name: "content", widget: "list", types: [
-          {label: "Section", name: "section", widget: "object", fields: [
-            {label: "Section Title", name: "sectiontitle", widget: "string"},
-            {label: "Section ID", name: "sectionid", widget: "string"},
-            {label: "Page H1 Title", name: "pagetitle", widget: "boolean", default: false},
-            {label: "Default Text Color", name: "textcolor", widget: "string"},
-            {label: "Background Image", name: "backgroundimage", widget: "image"},
-            {label: "Background Color", name: "backgroundcolor", widget: "string"},
-            {label: "Section Value", name: "sectionvalue", widget: "list", types: [
-              {label: "Markdown", name: "markdown", widget: "object", fields: [
-                {label: "Markdown", name: "markdown", widget: "markdown"}
+      - {label: "Content", name: "content", widget: "list", required: false, types: [
+          {label: "Section", name: "section", widget: "object", required: false, fields: [
+            {label: "Section Title", name: "sectiontitle", widget: "string", required: false},
+            {label: "Section ID", name: "sectionid", widget: "string", required: false},
+            {label: "Page H1 Title", name: "pagetitle", widget: "boolean", required: false, default: false},
+            {label: "Section Full Width", name: "sectionwidth", widget: "boolean", required: false, default: false},
+            {label: "Default Text Color", name: "textcolor", widget: "string", required: false},
+            {label: "Background Image", name: "backgroundimage", widget: "image", required: false},
+            {label: "Background Color", name: "backgroundcolor", widget: "string", required: false},
+            {label: "Section Value", name: "sectionvalue", widget: "list", required: false, types: [
+              {label: "Markdown", name: "markdown", widget: "object", required: false, fields: [
+                {label: "Markdown", name: "markdown", widget: "markdown", required: false}
               ]},
-              {label: "Blog List", name: "bloglist", widget: "object", description: "List of blog teasers will be rendered.", fields: [
+              {label: "Content Left Content Right", name: "contentleftcontentright", widget: "object", required: false, fields: [
+                {label: "Left Markdown", name: "leftmarkdown", widget: "markdown", required: false},
+                {label: "Right Markdown", name: "rightmarkdown", widget: "markdown", required: false}
+              ]},
+              {label: "Columns", name: "columns", widget: "object", required: false, fields: [
+                {label: "Number of columns", name: "columnnumber", widget: "number", required: false},
+                {label: "Column Markdown", name: "columnmarkdown", widget: "list", required: false, fields: [
+                {label: "Markdown", name: "markdown", widget: "markdown", required: false}
+                ]}
+              ]},
+              {label: "Form", name: "form", widget: "object", required: false, fields: [
+                {label: "Markdown", name: "markdown", widget: "markdown", required: false}
+              ]},
+              {label: "Blog List", name: "bloglist", widget: "object", description: "List of blog teasers will be rendered.", required: false, fields: [
              ]} 
             ]}
           ]}
