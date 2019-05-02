@@ -72,6 +72,7 @@ module.exports = {
         includeInDevelopment: true,
       },
     },
+    
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
