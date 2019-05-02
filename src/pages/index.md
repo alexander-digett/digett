@@ -2,51 +2,45 @@
 title: Home Page
 templateKey: page
 content:
-  - backgroundimage: /assets/front-page-1.jpg
-    pagetitle: true
-    sectionid: hero
-    sectiontitle: Home Page Section Title
+  - backgroundcolor: '#dddddd'
     sectionvalue:
       - markdown: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum cur
-          ista res digna odio est, nisi quod est turpis? _Cum salvum_ esse
-          flentes sui respondissent, rogavit essentne fusi hostes. Sed ea mala
-          virtuti [magnitudine](http://www.google.com) obruebantur. Graecum enim
-          hunc versum nostis omnes-: **Suavis laborum est praeteritorum
-          memoria.** Qui enim voluptatem ipsam contemnunt, iis licet dicere se
-          acupenserem maenae non anteponere. Ut optime, secundum naturam
-          affectum esse possit.
+          ## We Craft Digital Marketing Initiatives that Grow Revenue and
+          Strengthen Relationships
 
 
-          > Ne seges quidem igitur spicis uberibus et crebris, si avenam uspiam
-          videris, nec mercatura quaestuosa, si in maximis lucris paulum aliquid
-          damni contraxerit.
+          Digett helps B2B professional services firms engage prospects, convert
+          leads, and delight customers.
 
 
-          _Sed et illum, quem nominavi, et ceteros sophistas, ut e Platone
-          intellegi potest, lusos videmus a Socrate._
-
-
-          _Quando enim Socrates, qui parens philosophiae iure dici potest,
-          quicquam tale fecit?_
-
-
-          * Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud
-          negotii nihil habemus.
-
-          * Duo Reges: constructio interrete.
-
-          * Eiuro, inquit adridens, iniquum, hac quidem de re;
-
-          * Quo tandem modo?
+          [See How It Works](/contact)
         type: markdown
     type: section
-  - backgroundcolor: '#cccccc'
-    sectionid: bloglist
-    sectiontitle: Recent Blogs
+  - backgroundcolor: '#ffffff'
     sectionvalue:
-      - type: bloglist
-    textcolor: '#000000'
+      - markdown: >-
+          ## FREE EBOOK FOR MANAGED IT SERVICES PROVIDERS
+
+
+          ### Fueling Growth with Insights: An MSPs Guide to Content Marketing
+          in a Digital Age
+
+
+          Fueling Growth with Insights was written for IT leaders who want to
+          understand how to leverage content marketing to attract high-quality
+          sales leads.
+
+
+          * You'll Learn How To:
+
+          * Get your business found on the internet
+
+          * Better articulate your firm's expertise
+
+          * Prove your unique value to your prospects & clients
+
+          * Leverage and optimize your firm's capacity
+        type: form
     type: section
 ---
 
