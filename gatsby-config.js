@@ -69,7 +69,15 @@ module.exports = {
         id: "GTM-TZFPPLH",
         // Include GTM in development.
         // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: false,
+        includeInDevelopment: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-139423832-1",
+        // Avoids sending pageview hits from custom paths
+        exclude: ["/admin/**"],
       },
     },
     {
