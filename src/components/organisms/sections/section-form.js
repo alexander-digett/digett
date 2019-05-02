@@ -42,13 +42,13 @@ const SectionForm = ({object}) => {
 	return(
 
 <SectionFormStyle className="section-form">
-<Helmet>
-		<script src="https://digett.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
-		</Helmet>
 <div dangerouslySetInnerHTML={{ __html: converter.makeHtml(object.markdown) }} />
 <div className="_form_1"></div>
-
+<Helmet>
+		<script src="https://digett.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
+</Helmet>
 </SectionFormStyle>
+
 	)
 
 }
