@@ -28,9 +28,6 @@ const Layout = ({ children }) => (
         logo={data.site.siteMetadata.logo}
         variable={variable}
         />
-        <Helmet>
-		      <script src="https://digett.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
-        </Helmet>
         <div>
         <PageTransition>
           {children}
