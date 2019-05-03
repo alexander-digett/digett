@@ -47,6 +47,14 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
+      resolve: 'gatsby-plugin-crisp-chat',
+      options: {
+        websiteId: '09e3e8f3-0240-4acd-bbe5-94d9c6a21525',
+        enableDuringDevelop: true, // Optional. Disables Crisp Chat during gatsby develop. Defaults to true.
+        defer: true, // Optional. Sets the Crisp loading script to defer instead of async. Defaults to false.
+      },
+    },
+    {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
         // Fields to index
@@ -72,7 +80,7 @@ module.exports = {
         includeInDevelopment: true,
       },
     },
-    
+
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
