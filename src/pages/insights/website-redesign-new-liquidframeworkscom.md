@@ -21,18 +21,12 @@ The [LiquidFrameworks](http://www.liquidframeworks.com/) team provides ways for 
 Let FieldFX information shine through
 -------------------------------------
 
-The FieldFX product can be a huge business-changer. It can replace and streamline many existing processes and cut down on costs. It does so much, though, that the offering is easiest to understand broken down into seven pieces or modules. We created an interactive graphic and menu structure to cleanly organize the descriptions of all the great FieldFX features.
-
-![](/assets/fieldfx-modules_0.jpg)
+The FieldFX product can be a huge business-changer. It can replace and streamline many existing processes and cut down on costs. It does so much, though, that the offering is easiest to understand broken down into seven pieces or modules. We created an interactive graphic and menu structure to cleanly organize the descriptions of all the great FieldFX features. ![](/assets/fieldfx-modules_0.jpg)
 
 Empower decision makers find the information they need
 ------------------------------------------------------
 
-Product information and descriptions are great but to be valuable, busy decision makers have to be able to locate the the information that will appeal to them most very quickly.
-
-The website caters to different FieldFX audiences in different ways. We speak directly to CFOs and COOs on the home page, offering them premium content targeted to explain precisely how FieldFX can make their lives easier. People who need a lot of details or like to do extensive research before choosing a product will be drawn to the Knowledge Center, full of detailed data sheets, whitepapers and case studies.
-
-![](/assets/liquidframeworks-whitepapers_0.jpg)
+Product information and descriptions are great but to be valuable, busy decision makers have to be able to locate the the information that will appeal to them most very quickly. The website caters to different FieldFX audiences in different ways. We speak directly to CFOs and COOs on the home page, offering them premium content targeted to explain precisely how FieldFX can make their lives easier. People who need a lot of details or like to do extensive research before choosing a product will be drawn to the Knowledge Center, full of detailed data sheets, whitepapers and case studies. ![](/assets/liquidframeworks-whitepapers_0.jpg)
 
 Make a website for the executive on-the-go
 ------------------------------------------
@@ -42,6 +36,4 @@ Additionally, the website is great for the busy executive who browses the web vi
 We build smart websites that can bring you leads
 ------------------------------------------------
 
-Whatever your business, your website should be working hard for you. It should be one of your salesforce, bringing in leads and achieving business goals. If your website isn’t performing, [we redesign websites that aren't performing](/we-redesign-bad-websites).
-
-[Get started](/we-redesign-bad-websites)
+Whatever your business, your website should be working hard for you. It should be one of your salesforce, bringing in leads and achieving business goals. If your website isn’t performing, [we redesign websites that aren't performing](/we-redesign-bad-websites). [Get started](/we-redesign-bad-websites)

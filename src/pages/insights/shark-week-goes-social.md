@@ -11,29 +11,17 @@ author: Amy Peveto
 image: /assets/shark-week-social-media-case-study.jpg
 ---
 
-As the Discovery Channel's 25th year of Shark Week begins, it’s interesting to see how the longest running program event on cable has kept up with the times, especially when it comes to technology and social media.
-
-What started as an idea scribbled on a cocktail napkin has become a media sensation, seen by 30.8 million people in 2010 and bringing Discovery Communications’ shares up more than 2% that same year.
+As the Discovery Channel's 25th year of Shark Week begins, it’s interesting to see how the longest running program event on cable has kept up with the times, especially when it comes to technology and social media. What started as an idea scribbled on a cocktail napkin has become a media sensation, seen by 30.8 million people in 2010 and bringing Discovery Communications’ shares up more than 2% that same year.
 
 Why the obsession?
 ------------------
 
-At first blush there doesn’t seem to be much to the event. One can only watch so many clips of sharks swimming and eating chunks of meat; combine that with the fact that Shark Week has been running annually for 25 years and one starts to wonder what all the fuss is about.
-
-The secret to Shark Week’s success lies not in the variety of its programming, but rather in its inventiveness in community engagement.
-
-*   In 2000, over 6 million 3D glasses were distributed to viewers for a show featuring 3D segments.
-*   In 2007, a game called “Sharkrunners” allowed viewers to take control of active research vessels, track tagged sharks, and gather information on them in real time.
-*   Other Discovery Channel shows have special episodes featuring shark-related topics, pulling in new audiences that might not otherwise get into Shark Week.
-
-This year marks Shark Week’s move into new waters, and they’re showing the rest of us how social should be done.
+At first blush there doesn’t seem to be much to the event. One can only watch so many clips of sharks swimming and eating chunks of meat; combine that with the fact that Shark Week has been running annually for 25 years and one starts to wonder what all the fuss is about. The secret to Shark Week’s success lies not in the variety of its programming, but rather in its inventiveness in community engagement. In 2000, over 6 million 3D glasses were distributed to viewers for a show featuring 3D segments. In 2007, a game called “Sharkrunners” allowed viewers to take control of active research vessels, track tagged sharks, and gather information on them in real time. Other Discovery Channel shows have special episodes featuring shark-related topics, pulling in new audiences that might not otherwise get into Shark Week. This year marks Shark Week’s move into new waters, and they’re showing the rest of us how social should be done.
 
 A new kind of host
 ------------------
 
-In previous years Discovery Channel stars like Mike Rowe, Adam Savage, and Jamie Hyneman have filled the role of Shark Week host; things got interesting when it was announced that video blogger and YouTube celebrity Philip DeFranco would have that honor for the program’s 25th year.
-
-DeFranco brings with him millions of subscribers, many of whom are firmly entrenched in platforms like YouTube, Twitter, and Facebook. This change in audience was a perfect opportunity for Discovery to dive further into social media, and they took it.
+In previous years Discovery Channel stars like Mike Rowe, Adam Savage, and Jamie Hyneman have filled the role of Shark Week host; things got interesting when it was announced that video blogger and YouTube celebrity Philip DeFranco would have that honor for the program’s 25th year. DeFranco brings with him millions of subscribers, many of whom are firmly entrenched in platforms like YouTube, Twitter, and Facebook. This change in audience was a perfect opportunity for Discovery to dive further into social media, and they took it.
 
 A new level of engagement
 -------------------------
@@ -57,8 +45,4 @@ Discovery is a perfect example of a company daring to wade out past the swim mar
 
 ### More social media case studies
 
-*   [How One COO Uses Social Media for Community Engagement](/blog/05/03/2012/how-one-coo-uses-social-media-community-engagement-interview)
-*   [PR Suicide? Sweden Hands its Twitter Account Over to Citizens](/blog/12/19/2011/pr-suicide-sweden-hands-its-twitter-account-over-citizens)
-*   [KLM Surprise: How a Little Research Earned 1,000,000 Impressions on Twitter](/2011/01/11/klm-surprise-how-little-research-earned-1000000-impressions-twitter)
-
-_\[Image: [National Geographic](http://animals.nationalgeographic.com/animals/photos/great-white-sharks/#/eye-level-great-white_6448_600x450.jpg)\]_
+[How One COO Uses Social Media for Community Engagement](/blog/05/03/2012/how-one-coo-uses-social-media-community-engagement-interview) [PR Suicide? Sweden Hands its Twitter Account Over to Citizens](/blog/12/19/2011/pr-suicide-sweden-hands-its-twitter-account-over-citizens) [KLM Surprise: How a Little Research Earned 1,000,000 Impressions on Twitter](/2011/01/11/klm-surprise-how-little-research-earned-1000000-impressions-twitter) \[Image: [National Geographic](http://animals.nationalgeographic.com/animals/photos/great-white-sharks/#/eye-level-great-white_6448_600x450.jpg)\]

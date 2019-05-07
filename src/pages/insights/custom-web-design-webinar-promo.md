@@ -28,8 +28,4 @@ We want our visitors to take action, so a call-to-action is always important. Wh
 Social Media Webinar Promo
 --------------------------
 
-With these things in mind, I recently sat down to design a promo for our free webinar, [Five Social Media Mistake You Can't Afford to Make](/webinar). To give you a better understanding of what goes into designing such an image, I decided to screen cast the effort and play it back for you to see. From start to finish it took me about four hours, but I've condensed it here to just over two minutes. Enjoy!
-
-[Custom Web Design: Webinar Promo](https://vimeo.com/26886806) from [Digett](https://vimeo.com/digett) on [Vimeo](https://vimeo.com).
-
-If you're interesting in learning more about the dos and don'ts of social media, sign up for our free webinar, [Five Social Media Mistake You Can't Afford to Make.](/webinar)
+With these things in mind, I recently sat down to design a promo for our free webinar, [Five Social Media Mistake You Can't Afford to Make](/webinar). To give you a better understanding of what goes into designing such an image, I decided to screen cast the effort and play it back for you to see. From start to finish it took me about four hours, but I've condensed it here to just over two minutes. Enjoy! [Custom Web Design: Webinar Promo](https://vimeo.com/26886806) from [Digett](https://vimeo.com/digett) on [Vimeo](https://vimeo.com). If you're interesting in learning more about the dos and don'ts of social media, sign up for our free webinar, [Five Social Media Mistake You Can't Afford to Make.](/webinar)

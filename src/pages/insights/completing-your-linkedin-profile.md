@@ -18,12 +18,7 @@ Basic info
 
 ### Photo
 
-People want to connect to and interact with a person, not a placeholder image. Make sure you upload a photo that is:
-
-*   **Of yourself -** Don’t use a logo or picture of your dog.
-*   **Current -** Make sure the photo was taken in the last two or three years. If you’ve experienced some big changes (weight/loss or gain, hair color change, etc.) more recently than that, use a photo that reflects that change.
-*   **Appropriate -** Your connections are professional ones, and probably don’t care to see a photo of you drinking a beer (even if you own a brewery).
-*   **Sized correctly -** Any picture bigger than 100x100 pixels will be cropped. Use LinkedIn’s photo cropping feature (or a program like Photoshop) to make sure your photo looks its best. Zoom in close to your face so users can clearly see who you are.
+People want to connect to and interact with a person, not a placeholder image. Make sure you upload a photo that is: Of yourself - Don’t use a logo or picture of your dog. Current - Make sure the photo was taken in the last two or three years. If you’ve experienced some big changes (weight/loss or gain, hair color change, etc.) more recently than that, use a photo that reflects that change. Appropriate - Your connections are professional ones, and probably don’t care to see a photo of you drinking a beer (even if you own a brewery). Sized correctly - Any picture bigger than 100x100 pixels will be cropped. Use LinkedIn’s photo cropping feature (or a program like Photoshop) to make sure your photo looks its best. Zoom in close to your face so users can clearly see who you are.
 
 ### Name, headline, and location & industry
 
@@ -37,10 +32,7 @@ The summary section is a place for you to talk about your current position, prof
 Experience
 ----------
 
-Like on a traditional resume, this section is where you list your previous and current positions.
-
-*   List only the jobs you’ve had in your ideal field. If you want to be hired as a social media expert, don’t list that year you spent working for an ice cream shop. If you’re just starting out in the workforce, use this space to list volunteer and/or any other work that may apply to your ideal job.
-*   For each position you list, emphasize the value you’ve brought to the company. Don’t just list your tasks and responsibilities.
+Like on a traditional resume, this section is where you list your previous and current positions. List only the jobs you’ve had in your ideal field. If you want to be hired as a social media expert, don’t list that year you spent working for an ice cream shop. If you’re just starting out in the workforce, use this space to list volunteer and/or any other work that may apply to your ideal job. For each position you list, emphasize the value you’ve brought to the company. Don’t just list your tasks and responsibilities.
 
 Skills and expertise
 --------------------
@@ -95,8 +87,4 @@ As with all articles on social media, this one hits the high points. There’s l
 
 ### More on LinkedIn and branding
 
-*   [How to Create a LinkedIn Company Profile](/insights/how-create-linkedin-company-profile)
-*   [How to Generate Leads with LinkedIn](/insights/how-generate-leads-linkedin)
-*   [Personal Branding Basics](/insights/personal-branding-basics)
-
-_\[Image: [nan palmero](http://www.flickr.com/photos/nanpalmero/4278432941/)\]_
+[How to Create a LinkedIn Company Profile](/insights/how-create-linkedin-company-profile) [How to Generate Leads with LinkedIn](/insights/how-generate-leads-linkedin) [Personal Branding Basics](/insights/personal-branding-basics) \[Image: [nan palmero](http://www.flickr.com/photos/nanpalmero/4278432941/)\]

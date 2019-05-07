@@ -65,7 +65,4 @@ Do you have any challenges or successes with these modules? I would love to disc
 
 ### Further Drupal module reading:
 
-*   [3 great Drupal 7 Modules you may have missed](/insights/3-great-drupal-7-modules-you-may-have-missed)
-*   [Digett's Favorite Drupal 7 Contrib Modules](/insights/digett-s-favorite-drupal-7-contrib-modules)
-
-_Photo by [David Villarreal Fernández](http://www.flickr.com/photos/davidvillarreal/5042992464/)_
+[3 great Drupal 7 Modules you may have missed](/insights/3-great-drupal-7-modules-you-may-have-missed) [Digett's Favorite Drupal 7 Contrib Modules](/insights/digett-s-favorite-drupal-7-contrib-modules) Photo by [David Villarreal Fernández](http://www.flickr.com/photos/davidvillarreal/5042992464/)

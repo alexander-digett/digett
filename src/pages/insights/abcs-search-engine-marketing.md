@@ -11,9 +11,7 @@ author: Cindy
 image: /assets/post-placeholder.png
 ---
 
-Economic times, increased awareness, and online competition are making affordable top search rankings harder to come by. The day of simply placing an ad and assuming it will rank well are over. Considerable time and attention to detail are required to obtain front-page ranking while not overpaying for the coveted positions. Ad, keyword, and landing page quality—along with competition and other factors—are part of the mysterious algorithms search engines use to rank your ads. While this is all quite complicated, a simple ABC approach will help you get started.
-
-When setting up a new [Search Engine Marketing (SEM)](/2009/10/28/seo-and-sem-decoded) advertising campaign, these a few key areas that I focus on:
+Economic times, increased awareness, and online competition are making affordable top search rankings harder to come by. The day of simply placing an ad and assuming it will rank well are over. Considerable time and attention to detail are required to obtain front-page ranking while not overpaying for the coveted positions. Ad, keyword, and landing page quality—along with competition and other factors—are part of the mysterious algorithms search engines use to rank your ads. While this is all quite complicated, a simple ABC approach will help you get started. When setting up a new [Search Engine Marketing (SEM)](/2009/10/28/seo-and-sem-decoded) advertising campaign, these a few key areas that I focus on:
 
 Ad Relevance
 ------------
@@ -28,6 +26,4 @@ As with every other marketing effort, business goals must be well defined in ord
 Call to Action
 --------------
 
-With such limited ad space, many are tempted to focus exclusively on the balance of hype and information. However, the right call to action is a necessity when trying to "speak" to an intended audience. The ad should direct a response—call now, order now, buy now, sign up, get a quote, etc.. The ad should be focused on one product or service and should differentiate you from your competitors, creating a sence of urgency and driving a response.
-
-Creating and maintaining an effective search engine marketing campaign can be a complicated process. However, following the ABCs we discussed helps put a campaign on the right track. If setting up and managing your SEM campaigns seems like a daunting task, please [contact us](/contact).
+With such limited ad space, many are tempted to focus exclusively on the balance of hype and information. However, the right call to action is a necessity when trying to "speak" to an intended audience. The ad should direct a response—call now, order now, buy now, sign up, get a quote, etc.. The ad should be focused on one product or service and should differentiate you from your competitors, creating a sence of urgency and driving a response. Creating and maintaining an effective search engine marketing campaign can be a complicated process. However, following the ABCs we discussed helps put a campaign on the right track. If setting up and managing your SEM campaigns seems like a daunting task, please [contact us](/contact).

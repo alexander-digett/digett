@@ -11,14 +11,7 @@ author: Amy Peveto
 image: /assets/new-site-launch-moxieplay.png
 ---
 
-MoxiePlay is the go-to website for women who love NFL football. Members are active on Facebook, but wanted an online hub where they could more easily talk teams, tailgating recipes, and maybe a little trash.
-
-The goals of the [MoxiePlay](http://www.moxieplay.com/) site were numerous:
-
-*   Create a place where both die-hard fans and those new to the sport would feel at home.
-*   Integrate closely with social media so that MoxiePlay’s thirty thousand fans can easily pass through from Facebook and share content back to their friends.
-*   Keep the freshest news prominent.
-*   Make it easy for users to communicate and add their own content to the site.
+MoxiePlay is the go-to website for women who love NFL football. Members are active on Facebook, but wanted an online hub where they could more easily talk teams, tailgating recipes, and maybe a little trash. The goals of the [MoxiePlay](http://www.moxieplay.com/) site were numerous: Create a place where both die-hard fans and those new to the sport would feel at home. Integrate closely with social media so that MoxiePlay’s thirty thousand fans can easily pass through from Facebook and share content back to their friends. Keep the freshest news prominent. Make it easy for users to communicate and add their own content to the site.
 
 Joining two audiences
 ---------------------
@@ -52,5 +45,4 @@ We loved working with MoxiePlay to grow their online presence and make this site
 
 ### Related Links
 
-*   [View MoxiePlay.com](http://www.moxieplay.com/)
-*   [Why you should use Drupal for your next web project](/insights/why-you-should-use-drupal-your-next-website-project)
+[View MoxiePlay.com](http://www.moxieplay.com/) [Why you should use Drupal for your next web project](/insights/why-you-should-use-drupal-your-next-website-project)

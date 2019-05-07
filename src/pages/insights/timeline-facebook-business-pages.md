@@ -11,11 +11,7 @@ author: Amy Peveto
 image: /assets/facebook-timeline.png
 ---
 
-Have you updated your Facebook business page to use Timeline? If you haven’t, you’ve got 24-48 hours before your page updates automatically. Fortunately [Marketo](http://www.marketo.com/) has created a great infographic that shows you what you need to do to get your Facebook page looking spiffy.
-
-_Click the image to see the full infographic. Scroll down for the highlights._
-
-[![](/assets/facebook-timeline.jpg)](http://blog.marketo.com/2012/03/the-guide-to-facebook-timeline-for-businesses-infographic.html?fullsize=http://blog.marketo.com/wp-content/uploads/2012/03/New-Fbook-Timeline-Guide2.png)
+Have you updated your Facebook business page to use Timeline? If you haven’t, you’ve got 24-48 hours before your page updates automatically. Fortunately [Marketo](http://www.marketo.com/) has created a great infographic that shows you what you need to do to get your Facebook page looking spiffy. Click the image to see the full infographic. Scroll down for the highlights. [![](/assets/facebook-timeline.jpg)](http://blog.marketo.com/2012/03/the-guide-to-facebook-timeline-for-businesses-infographic.html?fullsize=http://blog.marketo.com/wp-content/uploads/2012/03/New-Fbook-Timeline-Guide2.png)
 
 Cover photo
 -----------
@@ -30,9 +26,7 @@ This is the smaller image that appears on the bottom left of your cover photo. Y
 Icons
 -----
 
-Icons appears below and to the right of your cover photo, and can include your uploaded photos, Likes, a map of your business’ location, and links to any apps you may have on your Facebook page.
-
-You are able to change which icons appear, and in what order they appear, but you can only showcase four at any given time. Emphasize the strongest and most popular apps or features.
+Icons appears below and to the right of your cover photo, and can include your uploaded photos, Likes, a map of your business’ location, and links to any apps you may have on your Facebook page. You are able to change which icons appear, and in what order they appear, but you can only showcase four at any given time. Emphasize the strongest and most popular apps or features.
 
 Milestones
 ----------
@@ -42,5 +36,4 @@ Got a big event (the company’s founding, completion of a big project, etc) you
 More resources
 --------------
 
-*   [Facebook’s Timeline FAQ](https://www.facebook.com/help/pages/new-design) - Get detailed information and answers here.
-*   [Image size guide](https://www.facebook.com/note.php?note_id=319265671463265) - Need to know what size your cover photo, profile picture, apps images, and milestone images should be? Here’s a visual guide.
+[Facebook’s Timeline FAQ](https://www.facebook.com/help/pages/new-design) - Get detailed information and answers here. [Image size guide](https://www.facebook.com/note.php?note_id=319265671463265) - Need to know what size your cover photo, profile picture, apps images, and milestone images should be? Here’s a visual guide.

@@ -21,13 +21,7 @@ Content (or inbound) marketing is the art of creating and sharing relevant, usef
 Content marketing example
 -------------------------
 
-While researching new backyard grills online, John discovers Acme Grilling. They have dozens of grills for sale, but John isn’t ready to buy yet.
-
-Instead he visits the Acme Grilling Blog, which features helpful articles like “Tailgating Tips,” YouTube videos showing how to clean and properly store his grill during the winter, and a whitepaper titled “Buying Your Perfect Grill.”
-
-When he visits Acme’s Facebook page he’s able to submit his favorite recipe to their “Best Grilling Recipes in America” contest and see photos of happy Acme customers with their grills and grub.
-
-Each piece of content John reads, watches, or downloads helps him pinpoint his own needs while simultaneously proving Acme Grilling’s expertise and trustworthiness. John buys his perfect grill — and when Sandra asks his advice on making her own purchase a month later, his first suggestion is Acme Grilling.
+While researching new backyard grills online, John discovers Acme Grilling. They have dozens of grills for sale, but John isn’t ready to buy yet. Instead he visits the Acme Grilling Blog, which features helpful articles like “Tailgating Tips,” YouTube videos showing how to clean and properly store his grill during the winter, and a whitepaper titled “Buying Your Perfect Grill.” When he visits Acme’s Facebook page he’s able to submit his favorite recipe to their “Best Grilling Recipes in America” contest and see photos of happy Acme customers with their grills and grub. Each piece of content John reads, watches, or downloads helps him pinpoint his own needs while simultaneously proving Acme Grilling’s expertise and trustworthiness. John buys his perfect grill — and when Sandra asks his advice on making her own purchase a month later, his first suggestion is Acme Grilling.
 
 Benefits of content marketing
 -----------------------------
@@ -38,9 +32,7 @@ Companies using inbound tactics like content marketing experience a [61% lower c
 
 ### Boost SEO
 
-If you’re interested in ranking well in search engines, that static website you put up three years ago isn’t going to cut it. [Google loves fresh content](http://support.contentgems.com/), and continually producing value in the form of blog posts, online videos, whitepapers, and webinars gives the search engine more to love.
-
-The number of websites linking to your content also affects your Google rankings, so it’s important to make content worth linking to.
+If you’re interested in ranking well in search engines, that static website you put up three years ago isn’t going to cut it. [Google loves fresh content](http://support.contentgems.com/), and continually producing value in the form of blog posts, online videos, whitepapers, and webinars gives the search engine more to love. The number of websites linking to your content also affects your Google rankings, so it’s important to make content worth linking to.
 
 ### Better use of resources
 
@@ -53,10 +45,4 @@ B2B companies often have longer sales cycles and bigger price tags. [Content mar
 First steps
 -----------
 
-Depending on how your business functions now, getting started with content marketing may require a significant shift in company policies and processes. It is common for many companies to initially rely on outside sources—such as [freelancers or content agencies](/blog/04/16/2012/creating-content-agency-vs-freelance)—but you will want to consider developing competent internal resources over time.
-
-To learn more about how content marketing can change the way you do business, download our _[Marketing Plan for Growth](/marketing-plan-growth)._
-
-[Get the whitepaper!](/marketing-plan-growth)
-
-_\[Image: [neelaka](http://www.flickr.com/photos/33925187@N00/5038787927/)\]  _
+Depending on how your business functions now, getting started with content marketing may require a significant shift in company policies and processes. It is common for many companies to initially rely on outside sources—such as [freelancers or content agencies](/blog/04/16/2012/creating-content-agency-vs-freelance)—but you will want to consider developing competent internal resources over time. To learn more about how content marketing can change the way you do business, download our [Marketing Plan for Growth](/marketing-plan-growth). [Get the whitepaper!](/marketing-plan-growth) \[Image: [neelaka](http://www.flickr.com/photos/33925187@N00/5038787927/)\]

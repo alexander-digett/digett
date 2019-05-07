@@ -36,8 +36,4 @@ Need help spotting typos, inconsistencies, or potential challenges? Look no furt
 Digett League to the rescue!
 ----------------------------
 
-Okay, so maybe that’s a little too much. But we’re always excited to help growth-oriented organizations take their marketing to the next level.
-
-**If you’d like to reach new levels of success with your digital or content marketing, no bat signal needed — just [drop us a line](/contact-us) anytime.**
-
-_\[Image: [DC Comics](http://www.dccomics.com/)\] _
+Okay, so maybe that’s a little too much. But we’re always excited to help growth-oriented organizations take their marketing to the next level. If you’d like to reach new levels of success with your digital or content marketing, no bat signal needed — just [drop us a line](/contact-us) anytime. \[Image: [DC Comics](http://www.dccomics.com/)\]

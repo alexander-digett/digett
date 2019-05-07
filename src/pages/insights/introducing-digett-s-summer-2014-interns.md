@@ -36,6 +36,4 @@ Kelsey Ransom - Marketing
 Summer 2014 is going to be fun
 ------------------------------
 
-We’ve already got a big list of design, marketing, and development projects lined up, and will be looking for any opportunities to get these talented individuals involved in projects that help them build their portfolios and skillsets.
-
-And it all starts...now!
+We’ve already got a big list of design, marketing, and development projects lined up, and will be looking for any opportunities to get these talented individuals involved in projects that help them build their portfolios and skillsets. And it all starts...now!

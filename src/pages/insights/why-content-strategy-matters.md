@@ -11,9 +11,7 @@ author: Amy Peveto
 image: /assets/why-content-strategy-matters.jpg
 ---
 
-If you’ve put so much as a toe into the blogging/social media world, you’ve got an idea of the time and effort it takes to continually produce valuable, targeted content. It’s easy to get [stuck on the details](http://www.businessesgrow.com/2012/05/09/are-you-obsessed-with-the-social-small-stuff/): headlines, posting frequency, moderation. But it’s important to take a step back and think about your goals, and what your content should actually be conveying.
-
-The steps of deciding what content to create and share, how and when to share it, and what goals that content has all fall under the umbrella known as **content strategy**. Working through this process can be tedious, but it’s critical to your business’ success for several reasons.
+If you’ve put so much as a toe into the blogging/social media world, you’ve got an idea of the time and effort it takes to continually produce valuable, targeted content. It’s easy to get [stuck on the details](http://www.businessesgrow.com/2012/05/09/are-you-obsessed-with-the-social-small-stuff/): headlines, posting frequency, moderation. But it’s important to take a step back and think about your goals, and what your content should actually be conveying. The steps of deciding what content to create and share, how and when to share it, and what goals that content has all fall under the umbrella known as content strategy. Working through this process can be tedious, but it’s critical to your business’ success for several reasons.
 
 Write right
 -----------
@@ -42,8 +40,4 @@ The importance of content is only growing. As the Internet and social media cont
 
 ### Related links
 
-*   [The 5 Characteristics of Compelling Content](http://www.digett.com/blog/07/21/2011/five-characteristics-compelling-content)
-*   [Creating Content: Agency vs. Freelance](http://www.digett.com/blog/04/16/2012/creating-content-agency-vs-freelance)
-*   [The Biggest Reason Your Marketing Strategy is Failing](http://www.digett.com/blog/10/11/2011/biggest-reason-your-inbound-marketing-strategy-failing)
-
-_\[Image: [existentialism](http://www.flickr.com/photos/bng/25164905/)\]_
+[The 5 Characteristics of Compelling Content](http://www.digett.com/blog/07/21/2011/five-characteristics-compelling-content) [Creating Content: Agency vs. Freelance](http://www.digett.com/blog/04/16/2012/creating-content-agency-vs-freelance) [The Biggest Reason Your Marketing Strategy is Failing](http://www.digett.com/blog/10/11/2011/biggest-reason-your-inbound-marketing-strategy-failing) \[Image: [existentialism](http://www.flickr.com/photos/bng/25164905/)\]

@@ -16,9 +16,7 @@ Everplans.com is a website meant to help people prepare for and deal with death.
 Architecting a solution
 -----------------------
 
-After reviewing the initial scope of work as provided by the Everplans team, we determined that the best approach would be to conduct interviews with each of their team members, as well as a full evaluation of their existing site. This allowed us to gather a full list of expectations and requirements which we were then able to transform into a functional specification upon which we could base our work and results.
-
-This functional specification became the foundation of our work and allowed us to verify that the Everplans vision for design, content and user experience were implemented properly.
+After reviewing the initial scope of work as provided by the Everplans team, we determined that the best approach would be to conduct interviews with each of their team members, as well as a full evaluation of their existing site. This allowed us to gather a full list of expectations and requirements which we were then able to transform into a functional specification upon which we could base our work and results. This functional specification became the foundation of our work and allowed us to verify that the Everplans vision for design, content and user experience were implemented properly.
 
 Requirements and expectations
 -----------------------------
@@ -40,9 +38,7 @@ Ensuring a consistent user experience requires managing the presentation of cont
 Modules: The building blocks of success
 ---------------------------------------
 
-One of the most difficult aspects of working with Drupal is finding the _right_ way to do something. For every aspect of a project there are often an infinite number of ways of accomplishing it. Each of the modules used on Everplans was chosen based on project requirements, growth expectations for the site, and overall acceptance by the Drupal community.
-
-This is not a complete list of modules in use, and is primarily limited to those modules which have lent themselves to core functionality of the site.
+One of the most difficult aspects of working with Drupal is finding the right way to do something. For every aspect of a project there are often an infinite number of ways of accomplishing it. Each of the modules used on Everplans was chosen based on project requirements, growth expectations for the site, and overall acceptance by the Drupal community. This is not a complete list of modules in use, and is primarily limited to those modules which have lent themselves to core functionality of the site.
 
 ### Entity Reference
 
@@ -54,9 +50,7 @@ Rules allows us to help maintain entity references between each referenced conte
 
 #### Component 1: Create Entity References
 
-This component is called after saving new content or after updating existing content. It accepts three arguments and uses those to add entity references back to the entity being saved in each of the entities that are referenced from the entity being saved.
-
-As that last sentence can be a bit confusing, think of it like this: The entity we are saving is considered the parent, and every entity which the parent references is considered a child. We take the list of children and, if no reference to the parent exists, we add a reference to the parent to each child.
+This component is called after saving new content or after updating existing content. It accepts three arguments and uses those to add entity references back to the entity being saved in each of the entities that are referenced from the entity being saved. As that last sentence can be a bit confusing, think of it like this: The entity we are saving is considered the parent, and every entity which the parent references is considered a child. We take the list of children and, if no reference to the parent exists, we add a reference to the parent to each child.
 
 /\*
   $items : The list of entities that we are referencing. Drupal is kind enough to load the full
@@ -92,9 +86,7 @@ if (!empty($items)) {
 
 #### Component 2 : Delete Entity References
 
-This is called before saving content. It accepts four arguments and uses those to remove entity references from any entity that is no longer referenced by the entity being saved.
-
-In other words, the item being saved is considered the parent entity, and every item which is referenced by the parent is considered a child entity. We compare the list of children from the original parent with the parent that we are about to save and, if the child is no longer referenced by the parent, we remove the reference to the parent from the child. Failure to do this would eventually result in problems with modifying the entities.
+This is called before saving content. It accepts four arguments and uses those to remove entity references from any entity that is no longer referenced by the entity being saved. In other words, the item being saved is considered the parent entity, and every item which is referenced by the parent is considered a child entity. We compare the list of children from the original parent with the parent that we are about to save and, if the child is no longer referenced by the parent, we remove the reference to the parent from the child. Failure to do this would eventually result in problems with modifying the entities.
 
 /\*
   $items : The list of entities that we are about to save. These are the children. Drupal is
@@ -136,9 +128,7 @@ if (!empty($items\_unchanged)) {
 
 #### Component 3: Remove Deleted Entity References
 
-This is called after deleting content. It accepts three arguments  and uses those to remove entity references from any entity that referenced the entity which has been deleted.
-
-Think of it like this: The entity which has been deleted is considered the child entity, and all entities which reference it are considered parent entities. We go through each parent entity and remove any reference to this child entity as it is no longer valid. If we didn't do this, we would have trouble editing the parent entities later.
+This is called after deleting content. It accepts three arguments  and uses those to remove entity references from any entity that referenced the entity which has been deleted. Think of it like this: The entity which has been deleted is considered the child entity, and all entities which reference it are considered parent entities. We go through each parent entity and remove any reference to this child entity as it is no longer valid. If we didn't do this, we would have trouble editing the parent entities later.
 
 /\*
   $items : The list of entities that we need to update. Drupal is kind enough to load the full
@@ -168,9 +158,7 @@ if (!empty($items)) {
 
 ### Views
 
-While our usage of Views is not necessarily unique, it helps to note that we are using them in a non-standard way. Due to the unique nature of how content is displayed on the site, there may be occassions where we do not want view-based content to appear, or where we need to have different content appear instead of the view. We found that it was easier to manage this programatically from with node template files as opposed to trying to do so with the Drupal block system.
-
-In those instances, we are using calls to views\_get\_view\_result to retrieve the view data and then outputting it where needed.
+While our usage of Views is not necessarily unique, it helps to note that we are using them in a non-standard way. Due to the unique nature of how content is displayed on the site, there may be occassions where we do not want view-based content to appear, or where we need to have different content appear instead of the view. We found that it was easier to manage this programatically from with node template files as opposed to trying to do so with the Drupal block system. In those instances, we are using calls to views\_get\_view\_result to retrieve the view data and then outputting it where needed.
 
 ### Custom Formatters
 
@@ -183,14 +171,7 @@ Draggable Views allows us to provide a quick and easy way for content administra
 Automation: Dev, Stage, Deploy
 ------------------------------
 
-One of the principal requirements from Everplans revolved around being able to manage the site and have development, staging, and live environments. Digett developed deployment scripts to manage the movement of code and content between each environment — this allows for a smooth process when rolling out new features.
-
-The deployment script is primarily responsible for:
-
-*   Cloning the database and file system between environments.
-*   Resetting the file system permissions as needed.
-*   Modifying the robots.txt file to prevent index of the dev and stage environments.
-*   And clearing cache and running cron.
+One of the principal requirements from Everplans revolved around being able to manage the site and have development, staging, and live environments. Digett developed deployment scripts to manage the movement of code and content between each environment — this allows for a smooth process when rolling out new features. The deployment script is primarily responsible for: Cloning the database and file system between environments. Resetting the file system permissions as needed. Modifying the robots.txt file to prevent index of the dev and stage environments. And clearing cache and running cron.
 
 Outcome
 -------
@@ -199,7 +180,4 @@ Our goal was to make the new Everplans website as functional as it is beautiful.
 
 ### Related articles
 
-*   [New Site Launch: Everplans.com](/blog/04/04/2013/new-site-launch-everplanscom-resource-tough-topic-death)
-*   [Why You Should Use Drupal for Your Next Website Project](/blog/06/15/2011/why-you-should-use-drupal-your-next-website-project)
-
-_\[Image: [lusi](http://www.freeimages.com/photo/red-curtain-1203512)\]_
+[New Site Launch: Everplans.com](/blog/04/04/2013/new-site-launch-everplanscom-resource-tough-topic-death) [Why You Should Use Drupal for Your Next Website Project](/blog/06/15/2011/why-you-should-use-drupal-your-next-website-project)   \[Image: [lusi](http://www.freeimages.com/photo/red-curtain-1203512)\]

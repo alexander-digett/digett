@@ -35,9 +35,7 @@ Add an image to your page. Give the reader an idea of what they’ll get by incl
 
 ### Form
 
-Arguably the most important element of the page. Collect enough information to be useful to your sales team, but keep it short as well. If your form is too long or asks for too much personal information, fewer people will fill it out. Make only necessary information required, and give visitors the option to enter other information if they wish.
-
-A study conducted by Dan Zarrella shows that labeling a landing page’s submission button ["Submit" can lower conversion rates](http://blog.hubspot.com/blog/tabid/6307/bid/6737/Don-t-Submit-To-Landing-Page-Button-Text.aspx). Top-performing variations include “Click here” and “Go,” but feel free to experiment with different labels.
+Arguably the most important element of the page. Collect enough information to be useful to your sales team, but keep it short as well. If your form is too long or asks for too much personal information, fewer people will fill it out. Make only necessary information required, and give visitors the option to enter other information if they wish. A study conducted by Dan Zarrella shows that labeling a landing page’s submission button ["Submit" can lower conversion rates](http://blog.hubspot.com/blog/tabid/6307/bid/6737/Don-t-Submit-To-Landing-Page-Button-Text.aspx). Top-performing variations include “Click here” and “Go,” but feel free to experiment with different labels.
 
 ### Sharing options
 
@@ -46,4 +44,4 @@ Lastly, make it easy for visitors to email the landing page to a friend, or shar
 A word of caution
 -----------------
 
-Landing pages are important, but don’t let them become your only focus; don’t forget that **the content or products behind those pages are just as important as the page itself**.
+Landing pages are important, but don’t let them become your only focus; don’t forget that the content or products behind those pages are just as important as the page itself.

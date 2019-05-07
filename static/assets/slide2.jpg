@@ -1,0 +1,2 @@
+
+Fatal error: Allowed memory size of 268435456 bytes exhausted (tried to allocate 257163343 bytes) in /srv/bindings/1040f1153f684d83bd21b40798953960/code/modules/contrib/devel/webprofiler/src/DataCollector/HttpDataCollector.php on line 108

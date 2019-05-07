@@ -11,9 +11,7 @@ author: AMac
 image: /assets/mobile-web-design.png
 ---
 
-Over the past several months, I've had the opportunity to design a few mobile sites, and from a designer's perspective, they're a lot of fun. What I find engaging are the design challenges that come with optimizing a full-size website for a small screen.
-
-Solutions to these challenges are not as hard to come by as you may think. A limited amount of space and substantially less content combine to make designing mobile websites fairly quick and painless. What follows are some examples from our portfolio, with design elements that make for a good mobile website design.
+Over the past several months, I've had the opportunity to design a few mobile sites, and from a designer's perspective, they're a lot of fun. What I find engaging are the design challenges that come with optimizing a full-size website for a small screen. Solutions to these challenges are not as hard to come by as you may think. A limited amount of space and substantially less content combine to make designing mobile websites fairly quick and painless. What follows are some examples from our portfolio, with design elements that make for a good mobile website design.
 
 Buttons
 -------
@@ -50,6 +48,4 @@ What's exciting about mobile design is that it's a relative infant when compared
 Is your website ready for mobile?
 ---------------------------------
 
-So you're interested in seeing how a mobile website can help your business — awesome. We think that the best place to start is our [free website analysis](/free-website-analysis); it'll give you a good idea of how your main website is performing, as well as your opportunities for success with a mobile site.
-
-[![web-analysis_2_0.jpg](/assets/web-analysis_2_0.jpg)](/free-website-analysis)
+So you're interested in seeing how a mobile website can help your business — awesome. We think that the best place to start is our [free website analysis](/free-website-analysis); it'll give you a good idea of how your main website is performing, as well as your opportunities for success with a mobile site. [![web-analysis_2_0.jpg](/assets/web-analysis_2_0.jpg)](/free-website-analysis)

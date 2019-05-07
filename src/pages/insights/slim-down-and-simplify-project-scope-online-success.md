@@ -11,16 +11,12 @@ author: Zachary
 image: /assets/post-placeholder.png
 ---
 
-The New Year's Diet has become a staple resolution for many—not us, of course, but other people—and for good cause. In the course of a busy week, our thoughts of eating well and exercising quickly devolve into a maelstrom of fast food, microwave dinners, and "quality" time in front of our televisions. It's rarely intentional—it just ... happens.
-
-Unfortunately, the same is true in web marketing. Part of that is conditioning by those in my own industry; in our efforts to better demonstrate [the value of our services](/2009/05/19/economy-provides-even-more-incentive-consider-drupal), we've been telling our clients that their websites can do anything and everything. Our clients, likewise, begin requesting more and more capability be added to their sites. The result is feature (or scope) creep, and it produces web projects that are unrealistic and, in most cases, unsuccessful.
-
-Properly defining scope is a great way to help [keep a web project on track](/2009/12/30/six-ways-keep-web-project-track), but the hard part is determining the boundaries. Thankfully, 2009 showed us that [simple, focused websites are the trend](http://news.cnet.com/2702-1023_3-443.html?tag=newsLeadStoriesArea.1), if not the user preference, so there are plenty of examples for one to consider when reimagining their own web presence. Likewise, consider the following when determining scope:
+The New Year's Diet has become a staple resolution for many—not us, of course, but other people—and for good cause. In the course of a busy week, our thoughts of eating well and exercising quickly devolve into a maelstrom of fast food, microwave dinners, and "quality" time in front of our televisions. It's rarely intentional—it just ... happens. Unfortunately, the same is true in web marketing. Part of that is conditioning by those in my own industry; in our efforts to better demonstrate [the value of our services](/2009/05/19/economy-provides-even-more-incentive-consider-drupal), we've been telling our clients that their websites can do anything and everything. Our clients, likewise, begin requesting more and more capability be added to their sites. The result is feature (or scope) creep, and it produces web projects that are unrealistic and, in most cases, unsuccessful. Properly defining scope is a great way to help [keep a web project on track](/2009/12/30/six-ways-keep-web-project-track), but the hard part is determining the boundaries. Thankfully, 2009 showed us that [simple, focused websites are the trend](http://news.cnet.com/2702-1023_3-443.html?tag=newsLeadStoriesArea.1), if not the user preference, so there are plenty of examples for one to consider when reimagining their own web presence. Likewise, consider the following when determining scope:
 
 Focus on tasks, not vision
 --------------------------
 
-As a strategist, I know how difficult it can be to see the trees for the forest. Your users, however, are far more focused; people come to your site to _do_ something, not debate your organization's soul in perpetuity. If you put yourself in their shoes, you better understand how limiting your site's features and capabilities can provide a more efficient and, ultimately, more satisfying experience.
+As a strategist, I know how difficult it can be to see the trees for the forest. Your users, however, are far more focused; people come to your site to do something, not debate your organization's soul in perpetuity. If you put yourself in their shoes, you better understand how limiting your site's features and capabilities can provide a more efficient and, ultimately, more satisfying experience.
 
 Let your users determine direction
 ----------------------------------

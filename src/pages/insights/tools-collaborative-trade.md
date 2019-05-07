@@ -11,18 +11,12 @@ author: Jeff Lamboy
 image: /assets/business-productivity-tools.png
 ---
 
-There are tools I use everyday to conduct business and keep myself organized. Often I find I am inundated with new apps to simplify both my business and my personal life. I love to try new things, but in reality, I need tools that are reliable and accessible 24/7.
-
-In similar fashion, when it comes to apps, small business infrastructure needs a number of things — most importantly, communication, collaboration and Cloud computing options.
+There are tools I use everyday to conduct business and keep myself organized. Often I find I am inundated with new apps to simplify both my business and my personal life. I love to try new things, but in reality, I need tools that are reliable and accessible 24/7. In similar fashion, when it comes to apps, small business infrastructure needs a number of things — most importantly, communication, collaboration and Cloud computing options.
 
 Google for Business
 -------------------
 
-As usual, Google leads the collaborative tool game; [Google Apps for Business](http://www.entrepreneur.com/slideshow/224514) provides you a host of tools to keep your team communicating and on track. Google Apps includes a suite of tools to communicate through Gmail, keep you on schedule through Calendar, and allow collaboration and document storage through Drive. Google’s document suite includes everything you need for documents, presentations, and spreadsheets.
-
-Google Apps is Cloud-based, and Google Drive is a great place to store, organize, and share your files — access management and security included.
-
-While I use Google Apps on a daily basis, that was not always the case. For productivity, I am used to tried and true Microsoft Office products. Office 365 is a great Google Apps competitor, and is another potential collaboration platform.
+As usual, Google leads the collaborative tool game; [Google Apps for Business](http://www.entrepreneur.com/slideshow/224514) provides you a host of tools to keep your team communicating and on track. Google Apps includes a suite of tools to communicate through Gmail, keep you on schedule through Calendar, and allow collaboration and document storage through Drive. Google’s document suite includes everything you need for documents, presentations, and spreadsheets. Google Apps is Cloud-based, and Google Drive is a great place to store, organize, and share your files — access management and security included. While I use Google Apps on a daily basis, that was not always the case. For productivity, I am used to tried and true Microsoft Office products. Office 365 is a great Google Apps competitor, and is another potential collaboration platform.
 
 Assess Productivity Needs
 -------------------------
@@ -35,17 +29,11 @@ When I need flexible spreadsheet and presentation power, Excel and PowerPoint ar
 
 ### Speed and Collaboration
 
-Let’s say I am working in a document and I need my pal Amy to review and edit my musings — Google has this down. Google Docs are easily shared, accessible, and readily available so that both Amy and I can access, edit, and save our document as we are both working in it.
-
-While some document collaboration tools share similar features, the “check in” and “check out” process is clunky and slow. Did I update an outdated version and add to the confusion, not to mention the time it took two of us to figure this out? This is never a problem with Google Apps.
+Let’s say I am working in a document and I need my pal Amy to review and edit my musings — Google has this down. Google Docs are easily shared, accessible, and readily available so that both Amy and I can access, edit, and save our document as we are both working in it. While some document collaboration tools share similar features, the “check in” and “check out” process is clunky and slow. Did I update an outdated version and add to the confusion, not to mention the time it took two of us to figure this out? This is never a problem with Google Apps.
 
 ### Organization
 
-The last productivity tool I wanted to share briefly is Evernote. This is notetaking that is accessible from smartphone to tablet to laptop anywhere in the world. You are able to sync your notes so that no matter what your locale or your device, you have access anytime, every time.
-
-And it’s more than just traditional notes; Evernote lets you index and share your documents. It also allows you to organize and manage projects while capturing voice and imagery as well. More features, including collaboration and security access, are found in [Evernote for Business](http://www.informationweek.com/applications/evernote-for-business-end-of-butt-ugly-software/d/d-id/1107646?).
-
-By adding Business Notebooks and Business Libraries, Evernote for Business allows your team to collaborate, share, and search those documents across your company. With a built-in smart index, Evernote finds files relevant to the topic you are working on.
+The last productivity tool I wanted to share briefly is Evernote. This is notetaking that is accessible from smartphone to tablet to laptop anywhere in the world. You are able to sync your notes so that no matter what your locale or your device, you have access anytime, every time. And it’s more than just traditional notes; Evernote lets you index and share your documents. It also allows you to organize and manage projects while capturing voice and imagery as well. More features, including collaboration and security access, are found in [Evernote for Business](http://www.informationweek.com/applications/evernote-for-business-end-of-butt-ugly-software/d/d-id/1107646?). By adding Business Notebooks and Business Libraries, Evernote for Business allows your team to collaborate, share, and search those documents across your company. With a built-in smart index, Evernote finds files relevant to the topic you are working on.
 
 Experiment with ease
 --------------------

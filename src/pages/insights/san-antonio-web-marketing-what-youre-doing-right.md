@@ -11,13 +11,7 @@ author: Valarie Geckler
 image: /assets/san-antonio-web-marketing-done-right.jpg
 ---
 
-There’s a lot of web marketing advice and tips about what you’re doing wrong with your website strategy. We’re guilty of it, too. We’ve written posts about:
-
-*   [What’s wrong with San Antonio SEO](/blog/02/23/2011/3-reasons-why-san-antonio-doesn%E2%80%99t-need-more-seo)
-*   [Your cardinal sins of email marketing](/blog/06/09/2011/email-marketing-what-am-i-doing-wrong)
-*   [Explaining the phrases web design and web development using simple San Antonio jargon!](/blog/06/09/2011/email-marketing-what-am-i-doing-wrong) (In which we assume you didn’t know the difference between the two in the first place).
-
-It’s all good advice, yes; forget all that for now. Let’s focus on what you’re doing **right**.
+There’s a lot of web marketing advice and tips about what you’re doing wrong with your website strategy. We’re guilty of it, too. We’ve written posts about: [What’s wrong with San Antonio SEO](/blog/02/23/2011/3-reasons-why-san-antonio-doesn%E2%80%99t-need-more-seo) [Your cardinal sins of email marketing](/blog/06/09/2011/email-marketing-what-am-i-doing-wrong) [Explaining the phrases web design and web development using simple San Antonio jargon!](/blog/06/09/2011/email-marketing-what-am-i-doing-wrong) (In which we assume you didn’t know the difference between the two in the first place). It’s all good advice, yes; forget all that for now. Let’s focus on what you’re doing right.
 
 You’re reading this right now.
 ------------------------------
@@ -39,6 +33,4 @@ If you’re visiting digett.com, it may mean you’re exploring hiring some outs
 You are absolutely not doing it all wrong
 -----------------------------------------
 
-In fact, if you end up reading this, you’re doing something right. Pat yourself on the back and take a quick breather. When you’re ready, there’s plenty of advice to absorb.
-
-_Image by [Sarah Reido  .reid.](http://www.flickr.com/photos/sarahreido/3120877348/)_
+In fact, if you end up reading this, you’re doing something right. Pat yourself on the back and take a quick breather. When you’re ready, there’s plenty of advice to absorb.   Image by [Sarah Reido  .reid.](http://www.flickr.com/photos/sarahreido/3120877348/)

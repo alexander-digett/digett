@@ -16,20 +16,12 @@ Every time I start a new project, I find myself struggling to choose between usi
 One file for everything
 -----------------------
 
-I love keeping all page designs and client iterations in ONE file. Fireworks has the same concept of layers as Photoshop, but it goes a step further: in Fireworks, I have Pages and States as well as Layers. Use the Pages palette to hold the Home Page, Content Page and other page designs you need. Use the States palette to hold each iteration of each page design.
-
-Here's an example of the Pages Palette showing a Home page and Content page comp. I also like to keep a Page for design assets that I'm going to need — icons, logos, photos:
-
-![](/assets/pages_palette.png)
-
-Here's an example of the States palette showing two iterations of the Home Page design:
-
-![](/assets/states_palette.png)
+I love keeping all page designs and client iterations in ONE file. Fireworks has the same concept of layers as Photoshop, but it goes a step further: in Fireworks, I have Pages and States as well as Layers. Use the Pages palette to hold the Home Page, Content Page and other page designs you need. Use the States palette to hold each iteration of each page design. Here's an example of the Pages Palette showing a Home page and Content page comp. I also like to keep a Page for design assets that I'm going to need — icons, logos, photos: ![](/assets/pages_palette.png) Here's an example of the States palette showing two iterations of the Home Page design: ![](/assets/states_palette.png)
 
 Grouping simplicity
 -------------------
 
-When I'm in Photoshop, I miss the easy selecting and grouping functions of Fireworks. In Photoshop, I need to change the mode from selecting layers to groups, or I have to _very_ carefully click on the correct element of a group to move a set of layers. In Fireworks, this is simple. I can select layers, group them and then click and move the group ... easy peasy.
+When I'm in Photoshop, I miss the easy selecting and grouping functions of Fireworks. In Photoshop, I need to change the mode from selecting layers to groups, or I have to very carefully click on the correct element of a group to move a set of layers. In Fireworks, this is simple. I can select layers, group them and then click and move the group ... easy peasy.
 
 Better scaling
 --------------
@@ -39,19 +31,12 @@ Scaling works better! There are two aspects of Fireworks that work better for me
 Other little wins for Fireworks
 -------------------------------
 
-*   Drag and drop from browser or desktop works better. Often when I drag something into Photoshop, the transparency doesn't come through unless I use the Place command. In Fireworks, it just works.
-*   Easily adjust objects to pixel sizes by typing in the width, height sizes. One extra click can also ensure the aspect ratio remains intact.
-*   Slices are easier to turn on and off and manipulate with Fireworks' Web Layer.
-*   Illustrator-like control of vector shapes.
+Drag and drop from browser or desktop works better. Often when I drag something into Photoshop, the transparency doesn't come through unless I use the Place command. In Fireworks, it just works. Easily adjust objects to pixel sizes by typing in the width, height sizes. One extra click can also ensure the aspect ratio remains intact. Slices are easier to turn on and off and manipulate with Fireworks' Web Layer. Illustrator-like control of vector shapes.
 
 The best for last
 -----------------
 
-The best feature of all that makes me prefer Fireworks? Fireworks has a CSS3 property palette which can give you all the CSS3 code for an object you select — brilliant! In my screenprint, you can see the property/value pairs at the top of the palette and the cross-browser CSS3 at the bottom. I can click copy and paste all the code into my CSS editor. I do like to clean out the extra comments in the code, but that only takes me a moment.
-
-![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.")
-
-[Here's an article that explains how to accomplish this.](https://helpx.adobe.com/fireworks/using/whats-new-cs6.html)
+The best feature of all that makes me prefer Fireworks? Fireworks has a CSS3 property palette which can give you all the CSS3 code for an object you select — brilliant! In my screenprint, you can see the property/value pairs at the top of the palette and the cross-browser CSS3 at the bottom. I can click copy and paste all the code into my CSS editor. I do like to clean out the extra comments in the code, but that only takes me a moment. ![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.") [Here's an article that explains how to accomplish this.](https://helpx.adobe.com/fireworks/using/whats-new-cs6.html)
 
 What I miss
 -----------

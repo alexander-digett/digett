@@ -21,19 +21,8 @@ Your homepage is no place for long content. Compare navigating through your webs
 Approaches to long content
 --------------------------
 
-So your longer content is appropriately located on your site and your customer has clicked a link asking for details. By all means, give them details — but even here, there shouldn't be a wall of words.
-
-*   **Break long paragraphs into multiple paragraphs.** Sometimes this little step can really help.
-*   **Break things into bullet points.** Lists are scannable and make content seem easier.
-*   **Use graphics!**
-    *   Is there a subtle icon you can use for each bullet point to illuminate the topic of the bullet point?
-    *   Is there a photo or illustration that can create visual interest?
-*   **Use headings.** A good heading allows a reader to jump to the portion they need and makes the overall page better organized.
-*   **Bold key points** (sparingly) in your paragraphs.
-*   **Consider using a larger font size.** Just one notch larger can enhance your page. (Proof [here](http://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/) and [here](https://ia.net/blog/100e2r/).)
+So your longer content is appropriately located on your site and your customer has clicked a link asking for details. By all means, give them details — but even here, there shouldn't be a wall of words. Break long paragraphs into multiple paragraphs. Sometimes this little step can really help. Break things into bullet points. Lists are scannable and make content seem easier. Use graphics! Is there a subtle icon you can use for each bullet point to illuminate the topic of the bullet point? Is there a photo or illustration that can create visual interest? Use headings. A good heading allows a reader to jump to the portion they need and makes the overall page better organized. Bold key points (sparingly) in your paragraphs. Consider using a larger font size. Just one notch larger can enhance your page. (Proof [here](http://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/) and [here](https://ia.net/blog/100e2r/).)
 
 ### Learn more
 
-*   [Web Writing: Re-Write, Don’t Re-Purpose.](/insights/web-writing-re-write-don-t-re-purpose)
-*   [Great content is wasted if there is no focus!](/insights/great-content-wasted-if-there-no-focus)
-*   [The 5 Characteristics of Compelling Content](/insights/five-characteristics-compelling-content)
+[Web Writing: Re-Write, Don’t Re-Purpose.](/insights/web-writing-re-write-don-t-re-purpose) [Great content is wasted if there is no focus!](/insights/great-content-wasted-if-there-no-focus) [The 5 Characteristics of Compelling Content](/insights/five-characteristics-compelling-content)

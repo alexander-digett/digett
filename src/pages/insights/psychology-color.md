@@ -11,9 +11,7 @@ author: AMac
 image: /assets/post-placeholder.png
 ---
 
-One of the more important decisions to be made when designing your website is choosing color. Color plays in integral role in the impact your site has on visitors. To be sure to make a positive impact, consider learning a bit about the psychology of color.
-
-For example, the color blue is most popular, and has few negative connotations worldwide. Knowing a little about how people perceive color can go a long way toward designing a successful website. Let's take a look at a few sites I've designed, the colors I chose, and why.
+One of the more important decisions to be made when designing your website is choosing color. Color plays in integral role in the impact your site has on visitors. To be sure to make a positive impact, consider learning a bit about the psychology of color. For example, the color blue is most popular, and has few negative connotations worldwide. Knowing a little about how people perceive color can go a long way toward designing a successful website. Let's take a look at a few sites I've designed, the colors I chose, and why.
 
 ### ![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.")McMillin Homes
 
@@ -25,6 +23,4 @@ The color brown is all about nature, as it is the color of our earth. It wasn't 
 
 ### ![Image removed.](/core/misc/icons/e32700/error.svg "This image has been removed. For security reasons, only images from the local domain are allowed.")ADKF
 
-Green is the second most popular color. I chose a dark green when designing [ADKF.com](http://www.adkf.com/), because there's no better color to represent an accounting firm than a color Americans associate with wealth and safety. This design also has a great deal of white, which establishes a sense of truth and transparency.
-
-Again, color plays an important role in how your website communicates to the user. Choose colors that are closely associated with your brand and the message you want to convey. Think about how you want your visitors to feel as soon as they arrive and what colors can get them there quickly. Making this connection is crucial to an effective design. Choose carefully and wisely.
+Green is the second most popular color. I chose a dark green when designing [ADKF.com](http://www.adkf.com/), because there's no better color to represent an accounting firm than a color Americans associate with wealth and safety. This design also has a great deal of white, which establishes a sense of truth and transparency. Again, color plays an important role in how your website communicates to the user. Choose colors that are closely associated with your brand and the message you want to convey. Think about how you want your visitors to feel as soon as they arrive and what colors can get them there quickly. Making this connection is crucial to an effective design. Choose carefully and wisely.

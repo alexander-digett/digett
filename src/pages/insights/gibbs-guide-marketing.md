@@ -11,18 +11,12 @@ author: Amy Peveto
 image: /assets/guide-to-marketing.jpg
 ---
 
-I’m a big fan of the CBS show “NCIS,” and an even bigger fan of team leader Special Agent Leroy Jethro Gibbs. He’s prickly and prone to back-of-the-head slapping, but he’s also a potential source of great inspiration for marketers.
-
-Gibbs lives his life by a set of rules, a personal code. Over 50 of those rules have been revealed throughout the show’s nine seasons, but six of them ring true for marketers, business owners, and employees.
+I’m a big fan of the CBS show “NCIS,” and an even bigger fan of team leader Special Agent Leroy Jethro Gibbs. He’s prickly and prone to back-of-the-head slapping, but he’s also a potential source of great inspiration for marketers. Gibbs lives his life by a set of rules, a personal code. Over 50 of those rules have been revealed throughout the show’s nine seasons, but six of them ring true for marketers, business owners, and employees.
 
 Rule #5 - You don’t waste good
 ------------------------------
 
-I’d rephrase this rule as “Don’t let ‘perfect’ be the enemy of ‘good.’ ” Whether you’re writing a blog post, filming and editing a video, creating a whitepaper, designing a website or developing a product, don’t let the fear of its not being perfect keep you from producing something that is good, or great.
-
-Humans aren’t perfect, and what they create can’t be either. If you spend all your time striving to create one perfect anything, you’ll never have a finished product. You’ll never have a solid foundation on which you can build future improvements.
-
-It’s better to try creating something and falling short of the ideal, than to keep trying for perfection and never create anything.
+I’d rephrase this rule as “Don’t let ‘perfect’ be the enemy of ‘good.’ ” Whether you’re writing a blog post, filming and editing a video, creating a whitepaper, designing a website or developing a product, don’t let the fear of its not being perfect keep you from producing something that is good, or great. Humans aren’t perfect, and what they create can’t be either. If you spend all your time striving to create one perfect anything, you’ll never have a finished product. You’ll never have a solid foundation on which you can build future improvements. It’s better to try creating something and falling short of the ideal, than to keep trying for perfection and never create anything.
 
 Rule #15 - Always work as a team
 --------------------------------
@@ -42,21 +36,13 @@ If it’s too good to be true, it probably is. If someone promises results that 
 Rule #51 - Sometimes you’re wrong
 ---------------------------------
 
-As much as it sucks to be called out for doing something wrong, it’s an important learning experience and—if handled well—a chance to redeem your company’s standing in consumers’ eyes.
-
-Refusing to acknowledge a mistake (or actively trying to cover it up) will bring you nothing but trouble. Remember last year’s [Ocean Marketing PR bloodbath](http://venturebeat.com/2011/12/27/ocean-marketing-how-to-self-destruct-your-company-with-just-a-few-measly-emails/)? Everyone else does, too.
+As much as it sucks to be called out for doing something wrong, it’s an important learning experience and—if handled well—a chance to redeem your company’s standing in consumers’ eyes. Refusing to acknowledge a mistake (or actively trying to cover it up) will bring you nothing but trouble. Remember last year’s [Ocean Marketing PR bloodbath](http://venturebeat.com/2011/12/27/ocean-marketing-how-to-self-destruct-your-company-with-just-a-few-measly-emails/)? Everyone else does, too.
 
 Rule #45 - Clean up the mess you make
 -------------------------------------
 
-After you recognize and acknowledge a mistake, be honest when responding to complaints, issue an apology (if necessary), and do your best to make it right.
-
-Are any of these rules part of your personal marketing code? What would you add?
+After you recognize and acknowledge a mistake, be honest when responding to complaints, issue an apology (if necessary), and do your best to make it right. Are any of these rules part of your personal marketing code? What would you add?
 
 ### More on marketing
 
-*   [The Three Musketeers and Marketing](/insights/three-musketeers-and-marketing)
-*   [Creative Marketing Ideas: Zombie Apocalypse!](/insights/creative-marketing-ideas-zombie-apocalypse)
-*   [Lessons in Inbound Marketing: Choral Performance](/insights/lessons-inbound-marketing-choral-performance)
-
-_\[Image: [CBS](http://www.cbs.com/shows/ncis/)\]_
+[The Three Musketeers and Marketing](/insights/three-musketeers-and-marketing) [Creative Marketing Ideas: Zombie Apocalypse!](/insights/creative-marketing-ideas-zombie-apocalypse) [Lessons in Inbound Marketing: Choral Performance](/insights/lessons-inbound-marketing-choral-performance) \[Image: [CBS](http://www.cbs.com/shows/ncis/)\]

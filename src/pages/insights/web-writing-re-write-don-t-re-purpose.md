@@ -16,9 +16,7 @@ One of the biggest tips discussed in our [Writing for the Web webinar](/insights
 Re-writing vs. Re-purposing
 ---------------------------
 
-Because web readers behave differently than print readers, you need to take time to re-write your print content before it goes onto your website. Web content needs to be to the point, conversational, and encourage interaction; print content, especially press releases, is generally the opposite.
-
-So before you post a copy of a print piece to your site, consider five simple changes that make it easier for web readers to enjoy and share.
+Because web readers behave differently than print readers, you need to take time to re-write your print content before it goes onto your website. Web content needs to be to the point, conversational, and encourage interaction; print content, especially press releases, is generally the opposite. So before you post a copy of a print piece to your site, consider five simple changes that make it easier for web readers to enjoy and share.
 
 Tips for re-writing
 -------------------
@@ -46,8 +44,4 @@ What do you want visitors to do after they read your content? If you want them t
 Need some help?
 ---------------
 
-Great content is just one of the building blocks of marketing. Download Digett's _[Digital Marketing Guide to Growth](http://offer.digett.com/marketing-guide-growth) _to see how content fits into your overall marketing strategy, and how you can use it to generate leads and sales in the new year.
-
-[Get my whitepaper!](http://offer.digett.com/marketing-guide-growth)
-
-_\[Image: [neilalderney123](http://www.flickr.com/photos/neilsingapore/5418231833/)\]_
+Great content is just one of the building blocks of marketing. Download Digett's [Digital Marketing Guide to Growth](http://offer.digett.com/marketing-guide-growth) to see how content fits into your overall marketing strategy, and how you can use it to generate leads and sales in the new year. [Get my whitepaper!](http://offer.digett.com/marketing-guide-growth) \[Image: [neilalderney123](http://www.flickr.com/photos/neilsingapore/5418231833/)\]

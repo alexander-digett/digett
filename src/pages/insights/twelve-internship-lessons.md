@@ -11,9 +11,7 @@ author: Oliver Yin
 image: /assets/oliver-yin-developer-internship-lessons.png
 ---
 
-There are a lot of things that I learned from my internship. So much in fact, to list them all would cause the list to degenerate into a long, boring set of paragraphs few would want to read. Therefore, I believe the best course of action is to put my newfound knowledge into song. Sung to the tune of The Twelve Days of Christmas, here’s what I learned during my internship.
-
-_On the twelfth day of Christmas, Digett gave to me:_
+There are a lot of things that I learned from my internship. So much in fact, to list them all would cause the list to degenerate into a long, boring set of paragraphs few would want to read. Therefore, I believe the best course of action is to put my newfound knowledge into song. Sung to the tune of The Twelve Days of Christmas, here’s what I learned during my internship. On the twelfth day of Christmas, Digett gave to me:
 
 Twelve Tricky Tricks
 --------------------
@@ -73,6 +71,4 @@ Two Moving Goals
 And an Internship at the Digett Office
 --------------------------------------
 
-Thanks to everyone at Digett for having me, and thank you, the reader, for singing along.
-
-From this sophomore to you, have a great year!
+Thanks to everyone at Digett for having me, and thank you, the reader, for singing along. From this sophomore to you, have a great year!

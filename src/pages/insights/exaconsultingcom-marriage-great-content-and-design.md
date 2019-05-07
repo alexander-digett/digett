@@ -16,17 +16,9 @@ Exa Consulting, Inc. develops and deploys oil and gas industry software solution
 Content is (almost) everything
 ------------------------------
 
-Because Exa Consulting is a relatively new company with solutions unfamiliar to many in the oil and gas industry, developing excellent website content was a critical project component.
-
-Our team worked closely with Exa to develop content that clearly and concisely explains what Exa does and how their solutions benefit their customers.
-
-There were many phone calls made, draft copies shared, and questions asked and answered; this dedication (particularly on Exa’s part) resulted in the tight, customer-focused website content you see on their website today.
+Because Exa Consulting is a relatively new company with solutions unfamiliar to many in the oil and gas industry, developing excellent website content was a critical project component. Our team worked closely with Exa to develop content that clearly and concisely explains what Exa does and how their solutions benefit their customers. There were many phone calls made, draft copies shared, and questions asked and answered; this dedication (particularly on Exa’s part) resulted in the tight, customer-focused website content you see on their website today.
 
 Bringing it all together with design
 ------------------------------------
 
-Exa Consulting’s website is professional and modern, reflecting the company’s agile approach to technology solutions.
-
-This site incorporates a great deal of iconography; it pulls double duty, providing visual interest while also consistently reinforcing the website content for visitors.
-
-We love building on Drupal, but we’ve got a soft spot for WordPress — especially the [Enfold theme](http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990). This theme’s flexibility makes it easy to create responsive websites that look as great as Exa Consulting’s.
+Exa Consulting’s website is professional and modern, reflecting the company’s agile approach to technology solutions. This site incorporates a great deal of iconography; it pulls double duty, providing visual interest while also consistently reinforcing the website content for visitors. We love building on Drupal, but we’ve got a soft spot for WordPress — especially the [Enfold theme](http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990). This theme’s flexibility makes it easy to create responsive websites that look as great as Exa Consulting’s.

@@ -11,8 +11,4 @@ author: AMac
 image: /assets/type.png
 ---
 
-While designing artwork for Digett's latest whitepaper download, I developed a unique technique for creating believable 3D text. In this video, I'll run through a quick Photoshop tutorial on how you can use my technique to add beautiful typography to your next web design.
-
-To see a large and more detailed view of this tutorial, check it out on [Vimeo](https://vimeo.com/24497747).
-
-[Photoshop Tutorial: 3D Text in Web Design](https://vimeo.com/24497747) from [Digett](https://vimeo.com/digett) on [Vimeo](https://vimeo.com).
+While designing artwork for Digett's latest whitepaper download, I developed a unique technique for creating believable 3D text. In this video, I'll run through a quick Photoshop tutorial on how you can use my technique to add beautiful typography to your next web design. To see a large and more detailed view of this tutorial, check it out on [Vimeo](https://vimeo.com/24497747). [Photoshop Tutorial: 3D Text in Web Design](https://vimeo.com/24497747) from [Digett](https://vimeo.com/digett) on [Vimeo](https://vimeo.com).

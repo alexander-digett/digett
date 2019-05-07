@@ -29,7 +29,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 		const alias = row.alias.split('/insights/')[1]
 		const category = row.term_node_tid;
 		var bodyreplace = row.body.replace(/sites\/default\/files\/inline-images/g, "assets")
-		var bodyreplace = row.body.replace(/sites\/default\/files/g, "assets")
+		var bodyreplace = bodyreplace.replace(/sites\/default\/files/g, "assets")
 		const body = turndownService.turndown(bodyreplace);
 		const date = new Date(row.created * 1000);
 	  var summary = row.body_1.replace(/\r?\n|\r/g, ' ').replace('“', '"').replace('”', '"');
@@ -58,14 +58,14 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/blog.json", (error, re
 						url: image,
 						dest: __dirname + '/../../static/assets/' + imagefilename       // Save to /path/to/dest/photo.jpg
 					}		
-					download.image(options)
-					.then(({ filename, image }) => {
-						console.log('File saved to', imagefilename)
+					// download.image(options)
+					// .then(({ filename, image }) => {
+					// 	console.log('File saved to', imagefilename)
 						
-					})
-					.catch((err) => {
-						console.error(err)
-					})
+					// })
+					// .catch((err) => {
+					// 	console.error(err)
+					// })
 					file.write('image: /assets/' + imagefilename + '\n');	
 		      // file.write(`![${image.filename}](./${image.filename})\n\n`);
 				}

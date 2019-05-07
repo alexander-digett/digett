@@ -21,15 +21,9 @@ However, in my experience, there are times when that perfect icon can't be found
 My Design Process
 -----------------
 
-I usually start by studying photographs and existing icons that are similar to that which I'm trying to create. Then I "sketch" it in Photoshop; that is, create a bitmap rendering of the icon. I push pixels around until I've got what I think looks good.
-
-Once the pixels are in place, I begin to trace my drawing with paths as a way of vectorizing the icon. A vector-based icon is ideal because it can be re-sized easily, and made smaller or larger without distortion or pixelation of the image.
-
-I then save the vector art as a custom shape and name it appropriately. And anytime in the future I need call on my custom icon, I grab it from my dropdown menu and plop it on the canvas. Voilà!
+I usually start by studying photographs and existing icons that are similar to that which I'm trying to create. Then I "sketch" it in Photoshop; that is, create a bitmap rendering of the icon. I push pixels around until I've got what I think looks good. Once the pixels are in place, I begin to trace my drawing with paths as a way of vectorizing the icon. A vector-based icon is ideal because it can be re-sized easily, and made smaller or larger without distortion or pixelation of the image. I then save the vector art as a custom shape and name it appropriately. And anytime in the future I need call on my custom icon, I grab it from my dropdown menu and plop it on the canvas. Voilà!
 
 Free Download
 -------------
 
-Like I said, over the years I've collected a few custom icons, and now I'm going to share a few with you. Please don't hesitate to download my free custom icon set, for use as you see fit. Yes, they're a bit random but what makes them a set is the fact that I designed each of them for a specific purpose, hopefully so you don't have to. Enjoy!
-
-[![download-free-set.png](/assets/download-free-set.png)](/assets/icons.psd)
+Like I said, over the years I've collected a few custom icons, and now I'm going to share a few with you. Please don't hesitate to download my free custom icon set, for use as you see fit. Yes, they're a bit random but what makes them a set is the fact that I designed each of them for a specific purpose, hopefully so you don't have to. Enjoy! [![download-free-set.png](/assets/download-free-set.png)](/assets/icons.psd)

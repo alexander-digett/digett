@@ -11,9 +11,7 @@ author: Valarie Geckler
 image: /assets/post-placeholder.png
 ---
 
-We frequently field questions from clients related to email campaigns. What makes a good subject line? How do you get readers to click-through? There's a lot of factors that go into a successful email campaign so we're breaking our tips up into a series of posts to share some of our expertise.
-
-Before you can consider content details about your email campaigns or e-newsletters, you must first consider the service through which you'll distribute. There are important elements to consider when choosing an email campaign service.
+We frequently field questions from clients related to email campaigns. What makes a good subject line? How do you get readers to click-through? There's a lot of factors that go into a successful email campaign so we're breaking our tips up into a series of posts to share some of our expertise. Before you can consider content details about your email campaigns or e-newsletters, you must first consider the service through which you'll distribute. There are important elements to consider when choosing an email campaign service.
 
 ### Cost Effectiveness
 
@@ -25,6 +23,4 @@ You'll spend a lot of time deciding on the content to put in your email, so you 
 
 ### Measurable
 
-After all the effort of putting together a campaign, you want to be able to judge your success. Paying close attention to the tracking statistics and reports provided by your service post-send out can go a long way towards showing who's eye you're catching, who you're getting clicks from, and who marks you as spam. Statistic reports can let you know what worked and what you need to change to increase the effectiveness of your next campaign. The real-time confirmation of how many people you've reached is a great confidence builder, as well.
-
-Digett has helped clients run successful campaigns using [MailBuild](http://mailbuild.com/) and [Campaign Monitor](http://www.campaignmonitor.com/), if you want to check those out. And stay on the look out for more e-campaign tips.
+After all the effort of putting together a campaign, you want to be able to judge your success. Paying close attention to the tracking statistics and reports provided by your service post-send out can go a long way towards showing who's eye you're catching, who you're getting clicks from, and who marks you as spam. Statistic reports can let you know what worked and what you need to change to increase the effectiveness of your next campaign. The real-time confirmation of how many people you've reached is a great confidence builder, as well. Digett has helped clients run successful campaigns using [MailBuild](http://mailbuild.com/) and [Campaign Monitor](http://www.campaignmonitor.com/), if you want to check those out. And stay on the look out for more e-campaign tips.

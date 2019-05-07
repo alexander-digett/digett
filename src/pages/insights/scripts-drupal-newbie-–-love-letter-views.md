@@ -16,9 +16,7 @@ Drupal is definitely not something you can master or even comprehend in a few we
 An eloquent comparison for Views
 --------------------------------
 
-Most people enjoy using the television, or at least enjoy watching the entertaining shows that pop up every now and again. Yet, turning on the television nowadays requires having to fiddle with unresponsive touch glass that decides to work if your fingers are just dry enough, or pushing a button behind the television in that indentation in the wall…
-
-…or, you could just use the television remote and save yourself all that hassle.
+Most people enjoy using the television, or at least enjoy watching the entertaining shows that pop up every now and again. Yet, turning on the television nowadays requires having to fiddle with unresponsive touch glass that decides to work if your fingers are just dry enough, or pushing a button behind the television in that indentation in the wall… …or, you could just use the television remote and save yourself all that hassle.
 
 What are Views…
 ---------------
@@ -28,15 +26,8 @@ That ineloquent metaphor for my discovery of the Views module describes how I fe
 … and why I like Views
 ----------------------
 
-The Views module is essentially a customizable data presentation layer on top of Drupal that allows for flexible presentation of content in a lot of ways that would require individual modules, hacks, or additional code to maintain otherwise.
-
-When I first started using Views, I thought it was just an entertaining and useful way to make data appear the way I wanted it to. But I soon found myself examining all the different presentation types that Views can generate, ranging from simple article presenters to interactive slideshows. To say the least, I’m somewhat intimidated by the scope of what Views is capable of. But in all honesty, what in Drupal isn’t very intimidating at first glance?
-
-Oh well. It’s going to be my pleasure learning how this wonderful interface works. Needless to say, I’m more than happy to continue pursuing Drupal. Especially if little joys like this are in store for me.
+The Views module is essentially a customizable data presentation layer on top of Drupal that allows for flexible presentation of content in a lot of ways that would require individual modules, hacks, or additional code to maintain otherwise. When I first started using Views, I thought it was just an entertaining and useful way to make data appear the way I wanted it to. But I soon found myself examining all the different presentation types that Views can generate, ranging from simple article presenters to interactive slideshows. To say the least, I’m somewhat intimidated by the scope of what Views is capable of. But in all honesty, what in Drupal isn’t very intimidating at first glance? Oh well. It’s going to be my pleasure learning how this wonderful interface works. Needless to say, I’m more than happy to continue pursuing Drupal. Especially if little joys like this are in store for me.
 
 ### Related Links
 
-*   [Digett's Favorite Drupal 7 Contrib Modules](/insights/digett-s-favorite-drupal-7-contrib-modules)
-*   [How I Build Drupal Sites: A Fresh-Year Audit](/insights/how-i-build-drupal-sites-fresh-year-audit)
-
-_\[Image: [espensorvik](https://commons.wikimedia.org/wiki/File:Remote_Control,_Television_-_TV-controller.jpg)\]_
+[Digett's Favorite Drupal 7 Contrib Modules](/insights/digett-s-favorite-drupal-7-contrib-modules) [How I Build Drupal Sites: A Fresh-Year Audit](/insights/how-i-build-drupal-sites-fresh-year-audit) \[Image: [espensorvik](https://commons.wikimedia.org/wiki/File:Remote_Control,_Television_-_TV-controller.jpg)\]

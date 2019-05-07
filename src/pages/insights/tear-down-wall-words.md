@@ -11,19 +11,12 @@ author: JD Collier
 image: /assets/3403745922_aecc8374a4.jpeg
 ---
 
-Often I have a client who needs a lot of words on the page. At first glance, I feel like I can condense the message — but just as often, the nature of my client's industry requires specific language. Good design and marketing practices tell me to have a short page to read, but when I try to edit the page, there isn't much content I can trim (especially when there are product features or legally-required points to cover).
-
-We are busy, we want short sentences, we want people to get to the point — how do you keep it short when you have a lot of information to share?
+Often I have a client who needs a lot of words on the page. At first glance, I feel like I can condense the message — but just as often, the nature of my client's industry requires specific language. Good design and marketing practices tell me to have a short page to read, but when I try to edit the page, there isn't much content I can trim (especially when there are product features or legally-required points to cover). We are busy, we want short sentences, we want people to get to the point — how do you keep it short when you have a lot of information to share?
 
 Step 1: Trim what you can
 -------------------------
 
-There is always some trimming possible. Here are a few ideas:
-
-*   [Change passive to active voice](http://www.quickanddirtytips.com/education/grammar/active-voice-versus-passive-voice). This makes the content more engaging and easier to read and many times it eliminates some extra words.
-*   Remove unneeded [prepositional phrases](http://grammarist.com/grammar/prepositional-phrases/).
-*   Replace big words with small ones.
-*   Throw out entire sentences if they repeat something already said, or if they do not logically flow from the previous sentence.
+There is always some trimming possible. Here are a few ideas: [Change passive to active voice](http://www.quickanddirtytips.com/education/grammar/active-voice-versus-passive-voice). This makes the content more engaging and easier to read and many times it eliminates some extra words. Remove unneeded [prepositional phrases](http://grammarist.com/grammar/prepositional-phrases/). Replace big words with small ones. Throw out entire sentences if they repeat something already said, or if they do not logically flow from the previous sentence.
 
 Step 2: Graphics can replace words
 ----------------------------------
@@ -42,6 +35,4 @@ The key here is interest. The page needs to be interesting. The wall of words ma
 
 ### Read more about this topic
 
-*   ["Is anybody reading this?" Writing content for the Web.](/insights/anybody-reading-writing-content-web-webinar-recording)
-
-_Image credit:  by [misterfifths](http://www.flickr.com/photos/misterfifths/)_
+["Is anybody reading this?" Writing content for the Web.](/insights/anybody-reading-writing-content-web-webinar-recording) Image credit:  by [misterfifths](http://www.flickr.com/photos/misterfifths/)

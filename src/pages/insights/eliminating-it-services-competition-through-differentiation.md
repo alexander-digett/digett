@@ -11,20 +11,12 @@ author: Mark Figart
 image: /assets/blog2_sized1.jpg
 ---
 
-How many times have you lost an opportunity to a competitor? It’s happened to me countless times over the years, and it never feels good. It’s even worse when I’ve invested hours—sometimes way too many—into crafting the perfect proposal, sometimes while ignoring the knot in my stomach arising from something my subconscious mind is telling me. My subconscious seems to know that my efforts are in vain, while my conscious brain powers on blindly. "What alternative is there?", I might have asked myself, to wasting countless hours on deals that never happen. Fortunately for me this was a lesson learned long ago, because lucky is the enterprise that thrives long without understanding it.
-
-There _is_ an alternative to a world where battling the competition in a crowded IT services market seems the norm, and while it’s a fundamental concept of Marketing 101, few are the firms that master the art of positioning. Not only is it one of the more nuanced and difficult marketing principles to embrace, the benefit of strong positioning—commonly referred to as differentiation, is mostly unrecognized by all except those who consciously and successfully address it. Differentiation is the single most important building block of a successful B2B marketing effort and is by any measure a critical factor in any MSP’s overall success. Take a look at the top 10% of MSPs under $20MM as measured by financial performance, and you’ll see example after example of firms who understand and leverage the concept of positioning to their advantage. The stronger a firm’s position, the less likely they will face stiff competition in the pursuit of closing a sale.
+How many times have you lost an opportunity to a competitor? It’s happened to me countless times over the years, and it never feels good. It’s even worse when I’ve invested hours—sometimes way too many—into crafting the perfect proposal, sometimes while ignoring the knot in my stomach arising from something my subconscious mind is telling me. My subconscious seems to know that my efforts are in vain, while my conscious brain powers on blindly. "What alternative is there?", I might have asked myself, to wasting countless hours on deals that never happen. Fortunately for me this was a lesson learned long ago, because lucky is the enterprise that thrives long without understanding it. There is an alternative to a world where battling the competition in a crowded IT services market seems the norm, and while it’s a fundamental concept of Marketing 101, few are the firms that master the art of positioning. Not only is it one of the more nuanced and difficult marketing principles to embrace, the benefit of strong positioning—commonly referred to as differentiation, is mostly unrecognized by all except those who consciously and successfully address it. Differentiation is the single most important building block of a successful B2B marketing effort and is by any measure a critical factor in any MSP’s overall success. Take a look at the top 10% of MSPs under $20MM as measured by financial performance, and you’ll see example after example of firms who understand and leverage the concept of positioning to their advantage. The stronger a firm’s position, the less likely they will face stiff competition in the pursuit of closing a sale.
 
 What is Positioning, Really?
 ----------------------------
 
-A firm’s brand position is, in its most simplistic form, nothing more than the answers to some variation of the following questions:
-
-*   What do you do?
-*   For whom do you do it?
-*   What's better about how you do it?
-
-In more formal terms, Digett defines positioning as the intersection of a firm's chosen discipline, its target market, and its unique value proposition. Having quality answers to the underlying questions related to discipline, target market and unique value proposition yields competitive advantage.
+A firm’s brand position is, in its most simplistic form, nothing more than the answers to some variation of the following questions: What do you do? For whom do you do it? What's better about how you do it? In more formal terms, Digett defines positioning as the intersection of a firm's chosen discipline, its target market, and its unique value proposition. Having quality answers to the underlying questions related to discipline, target market and unique value proposition yields competitive advantage.
 
 ### Discipline
 
@@ -36,20 +28,14 @@ Successful MSPs avoid trying to be all things to all customers, and part of that
 
 ### Unique Value Proposition
 
-While discipline and market are easily understood, there is infinite subtlety and debate to be found surrounding the concept of a firm's unique value proposition, or UVP. I usually think of UVP as "the adjectives of differentiation": Bigger, badder, stronger, cheaper, faster, to name some possibilities. Remember, you're answering the question, "Why are you better than your competitors?". It may not be as simple as one word, but your UVP needs to be simple enough to easily explain. It must imply value to the customer, and ideally it's not easy for competitors to copy.
-
-By developing and articulating a position defined by your firm's discipline, its target market, and a unique value proposition, you may be ahead of most firms already. Is your discipline narrow enough to separate you from most of the other providers? If not, can you seek advantage through deeper than average expertise related to the problems faced by your target market? Is your company able to create unique value for your customers, whether through proprietary processes, deeper knowledge, or another unique advantage? These questions need asking, and they demand honest answers.
-
-If you don't feel like you've developed a strong brand position,be honest about it and don't despair. With some hard work and dogged dedication you can differentiate your firm. Read on for a couple more ideas.
+While discipline and market are easily understood, there is infinite subtlety and debate to be found surrounding the concept of a firm's unique value proposition, or UVP. I usually think of UVP as "the adjectives of differentiation": Bigger, badder, stronger, cheaper, faster, to name some possibilities. Remember, you're answering the question, "Why are you better than your competitors?". It may not be as simple as one word, but your UVP needs to be simple enough to easily explain. It must imply value to the customer, and ideally it's not easy for competitors to copy. By developing and articulating a position defined by your firm's discipline, its target market, and a unique value proposition, you may be ahead of most firms already. Is your discipline narrow enough to separate you from most of the other providers? If not, can you seek advantage through deeper than average expertise related to the problems faced by your target market? Is your company able to create unique value for your customers, whether through proprietary processes, deeper knowledge, or another unique advantage? These questions need asking, and they demand honest answers. If you don't feel like you've developed a strong brand position,be honest about it and don't despair. With some hard work and dogged dedication you can differentiate your firm. Read on for a couple more ideas.
 
 Other Elements of Brand Positioning
 -----------------------------------
 
 ### Point of View
 
-Your opinion matters. And it _really_ matters when it impacts the way that your firm approaches solving customers' problems. In marketing we refer to this concept as "point of view". We see point of view reflected in tag lines and commercials, and savvy firms understand its power. The more controversial a point of view, the more likely it will have strong appeal to some portion of your target market. It's most effective, too, when your point of view influences other aspects of your position, whether discipline, target market, unique value proposition, or any combination thereof.
-
-A point of view might explain what's wrong with the way the rest of the world approaches solving the same problems that you do. It may explain how you go about identifying priorities in a unique way and why that's better. It might explain how and why your firm uniquely measures success. Whatever angle it takes, a strong point of view can do a lot to shore up what may otherwise be a relatively weak brand position.
+Your opinion matters. And it really matters when it impacts the way that your firm approaches solving customers' problems. In marketing we refer to this concept as "point of view". We see point of view reflected in tag lines and commercials, and savvy firms understand its power. The more controversial a point of view, the more likely it will have strong appeal to some portion of your target market. It's most effective, too, when your point of view influences other aspects of your position, whether discipline, target market, unique value proposition, or any combination thereof. A point of view might explain what's wrong with the way the rest of the world approaches solving the same problems that you do. It may explain how you go about identifying priorities in a unique way and why that's better. It might explain how and why your firm uniquely measures success. Whatever angle it takes, a strong point of view can do a lot to shore up what may otherwise be a relatively weak brand position.
 
 ### Reasons to Believe
 
@@ -63,15 +49,7 @@ It's absolutely painful to see a managed services provider invest heavily in mar
 The Benefits of Differentiation
 -------------------------------
 
-When firms adopt a strong position and leverage that position to differentiate themselves in the marketplace:
-
-*   They more easily win and maintain the trust of prospects and customers.
-*   They speak the language of their target market.
-*   They know exactly whom they need to reach and persuade.
-*   They see the quantity and quality of sales leads improve.
-*   They spend less time qualifying prospects.
-*   They create a competitive advantage that increases their power in the sales process.
-*   They encounter less competition.
+When firms adopt a strong position and leverage that position to differentiate themselves in the marketplace: They more easily win and maintain the trust of prospects and customers. They speak the language of their target market. They know exactly whom they need to reach and persuade. They see the quantity and quality of sales leads improve. They spend less time qualifying prospects. They create a competitive advantage that increases their power in the sales process. They encounter less competition.
 
 Stand Alone and with Confidence
 -------------------------------

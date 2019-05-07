@@ -16,10 +16,4 @@ As the Marketing Strategist and Business Development guy for Digett, one part of
 The typical answer
 ------------------
 
-I used to identify our target market by listing popular indicators about a company I thought would be a likely fit for Digett to work with:
-
-_A mid-sized B2B organization with hefty annual revenues that translated to a certain amount of marketing spend, salespeople, blah blah blah._
-
-But, my perspective changed after Digett established our Guiding Principles.
-
-[Read the rest of the post on the American Advertising Federation San Antonio's website.](http://www.aaf-sanantonio.org/2012/10/01/who-is-your-perfect-client/)
+I used to identify our target market by listing popular indicators about a company I thought would be a likely fit for Digett to work with: A mid-sized B2B organization with hefty annual revenues that translated to a certain amount of marketing spend, salespeople, blah blah blah. But, my perspective changed after Digett established our Guiding Principles. [Read the rest of the post on the American Advertising Federation San Antonio's website.](http://www.aaf-sanantonio.org/2012/10/01/who-is-your-perfect-client/)

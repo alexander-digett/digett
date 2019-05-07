@@ -11,11 +11,7 @@ author: AMac
 image: /assets/analytics.png
 ---
 
-I always find in interesting to hear people's reaction when I tell them we can track how many people visit pages on our website. I shouldn't say, "we can track," because it's Google that does the tracking. Google knows everything and learning from their analytics is key to a successful inbound marketing strategy.
-
-Google Analytics is a feature we can add to any website to track just about everything you'd want to know about site visitors — how many, where they come from, where they go, how long they stay, what they click on, and on, and on. It truly is remarkable what we can learn from these statistics and how important they are to [optimizing inbound marketing](/how-it-works/optimize) efforts.
-
-![stats_0.png](/assets/stats_0.png)I thought it'd be fun to take a quick look at the analytics for my [video blog from last week](/insights/photoshop-tutorial-3d-text-web-design-video) and explain a little about it's performance over the past seven days.
+I always find in interesting to hear people's reaction when I tell them we can track how many people visit pages on our website. I shouldn't say, "we can track," because it's Google that does the tracking. Google knows everything and learning from their analytics is key to a successful inbound marketing strategy. Google Analytics is a feature we can add to any website to track just about everything you'd want to know about site visitors — how many, where they come from, where they go, how long they stay, what they click on, and on, and on. It truly is remarkable what we can learn from these statistics and how important they are to [optimizing inbound marketing](/how-it-works/optimize) efforts. ![stats_0.png](/assets/stats_0.png)I thought it'd be fun to take a quick look at the analytics for my [video blog from last week](/insights/photoshop-tutorial-3d-text-web-design-video) and explain a little about it's performance over the past seven days.
 
 Pageviews
 ---------
@@ -45,6 +41,4 @@ Exit rate is the percentage of visitors to your page that then leave the website
 In Conclusion
 -------------
 
-These statistics are just the tip of the iceberg when it comes to the breadth of Google Analytics. It is really an amazing tool that will help you completely understand your website and optimize each and every page for better performance.
-
-I personally love to look at the analytics because it shows me that there are actually people out there consuming the content I create. It drives me to not only continue to blog, but to create better content that attracts more and more people. Analytics can be a motivator to keep at it, which I think is an unspoken necessity of inbound marketing. Keep at it.
+These statistics are just the tip of the iceberg when it comes to the breadth of Google Analytics. It is really an amazing tool that will help you completely understand your website and optimize each and every page for better performance. I personally love to look at the analytics because it shows me that there are actually people out there consuming the content I create. It drives me to not only continue to blog, but to create better content that attracts more and more people. Analytics can be a motivator to keep at it, which I think is an unspoken necessity of inbound marketing. Keep at it.

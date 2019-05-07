@@ -11,9 +11,7 @@ author: Mark Figart
 image: /assets/use-video-tell-story.jpg
 ---
 
-After a recent insightful conversation with Stephen Mick of [Proof Creative](http://www.proofcreative.com/) in Austin, I felt like I had to capture his advice in a post. I'm positioning it as advice to digital agencies, but anyone should be able to extract value from it. My apologies to Stephen in advance if I've misrepresented anything he intended to say.
-
-Stephen asks himself the following questions as he approaches a video project. (These are my comments below each of the questions, not Stephen's. I'm sure he has a lot more and better things to say about each of these than what I've mustered below.)
+After a recent insightful conversation with Stephen Mick of [Proof Creative](http://www.proofcreative.com/) in Austin, I felt like I had to capture his advice in a post. I'm positioning it as advice to digital agencies, but anyone should be able to extract value from it. My apologies to Stephen in advance if I've misrepresented anything he intended to say. Stephen asks himself the following questions as he approaches a video project. (These are my comments below each of the questions, not Stephen's. I'm sure he has a lot more and better things to say about each of these than what I've mustered below.)
 
 1\. Is there a story to tell?
 -----------------------------
@@ -33,8 +31,4 @@ You're inevitably going to find some clients who are not comfortable telling the
 The bigger picture
 ------------------
 
-What made this advice hit home for me is its relevance beyond video. Substitute the word "content" for "video" and you have some pretty good insight into what makes for great content strategy.
-
-As a digital agency, it's sometimes easy to get caught up in the details of design, development, and integration. But if we're not telling a story, is it all really worth the effort?
-
-_\[Image: [emitea](http://www.freeimages.com/photo/button-1150628)\]_
+What made this advice hit home for me is its relevance beyond video. Substitute the word "content" for "video" and you have some pretty good insight into what makes for great content strategy. As a digital agency, it's sometimes easy to get caught up in the details of design, development, and integration. But if we're not telling a story, is it all really worth the effort? \[Image: [emitea](http://www.freeimages.com/photo/button-1150628)\]

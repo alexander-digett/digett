@@ -11,9 +11,7 @@ author: Amy Peveto
 image: /assets/fall-2013-digett-interns.png
 ---
 
-We’ve got four great students in our [internship program](/internship-program) this fall, and can’t wait to dive into projects with them. They've all got different backgrounds and passions, and having their energy, skills, and creativity in the office is going to be awesome.
-
-We're happy to introduce...
+We’ve got four great students in our [internship program](/internship-program) this fall, and can’t wait to dive into projects with them. They've all got different backgrounds and passions, and having their energy, skills, and creativity in the office is going to be awesome. We're happy to introduce...
 
 Michelle Kafie - Marketer
 -------------------------
@@ -38,6 +36,4 @@ Oliver Yin - Developer
 Looking ahead
 -------------
 
-First up on the interns’ project list is selecting a [non-profit project](/blog/07/23/2013/digett-seeks-non-profit-project-fall-internship-program) and get it moving forward. They’ll be assisting with client projects, freshening their portfolios, and adding their voices to our blog.
-
-Each intern is smart, dedicated to his or her craft, and ready and willing to learn. We hope to give them as much inspiration as they give to us.
+First up on the interns’ project list is selecting a [non-profit project](/blog/07/23/2013/digett-seeks-non-profit-project-fall-internship-program) and get it moving forward. They’ll be assisting with client projects, freshening their portfolios, and adding their voices to our blog. Each intern is smart, dedicated to his or her craft, and ready and willing to learn. We hope to give them as much inspiration as they give to us.

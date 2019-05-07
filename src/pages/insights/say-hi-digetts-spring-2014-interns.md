@@ -31,6 +31,4 @@ Gabrielle Kinderknecht - Designer
 What’s next?
 ------------
 
-Over the next few months we’ll have these three knee-deep in code, designing email templates and print pieces, creating scripts and storyboards, adding to their portfolios, and — of course — blogging.
-
-We’re excited to be working with such great students, and look forward to all they are able to accomplish this semester.
+Over the next few months we’ll have these three knee-deep in code, designing email templates and print pieces, creating scripts and storyboards, adding to their portfolios, and — of course — blogging. We’re excited to be working with such great students, and look forward to all they are able to accomplish this semester.

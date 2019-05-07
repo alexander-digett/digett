@@ -1,0 +1,14 @@
+---
+title: 'Google Analytics is a Short Ride to Enlightenment'
+templateKey: blog-post
+date: 2006-12-06T06:00:00.000Z
+category: 
+  -Analytics
+alias: google-analytics-short-ride-enlightenment
+summary: > 
+ I first wrote about Google Analytics a number of months back.  Since then we've added numerous web sites to the list of those we monitor using this cool tool, and we continue to be amazed. If you have a Google Analytics account, then it's a quick task to set your web site up to use it. From within Analytics, you create what's called a "profile". Google provides a code snippet that your webmaster pastes into your web page(s), and "voila!".
+author: Mark Figart
+image: /assets/post-placeholder.png
+---
+
+I first [wrote about Google Analytics a number of months back.](/insights/new-statistics-capabilities-provide-incredible-insight) Since then we've added numerous web sites to the list of those we monitor using this cool tool, and we continue to be amazed. If you have a [Google Analytics](http://www.google.com/analytics/) account, then it's a quick task to set your web site up to use it. From within Analytics, you create what's called a "profile". Google provides a code snippet that your webmaster pastes into your web page(s), and "voila!". You're analyzin'! Google Analytics tells you things like the number of unique visitors to your site, where those visitors are geographically, what kind of browser they're using, and many, many more facts that can be used to make decisions that will improve the effectiveness of your site. Recently we've discovered the power of using Analytics in conjunction with [Google AdWord](http://adwords.google.com/select/Login)s. The integration of these toolsets provides unbelievable insight into comparisons between PPC (pay-per-click) traffic and traditional traffic from organic search engine listings and other referring sources. What's more, we've now begun creating multiple profiles for single domains. These profiles and their respective "filters" allow us to quickly see web site statistics from different perspectives. While these types of techniques are not necessarily new, Google has made them accessible to almost anyone with a little time to learn how to maneuver around their beautiful user interface. Google Analytics won't address some issues that only server-side analytics can, such as bandwidth consumption or response times. But for the marketer or business owner, those are typically not top-of-the-list concerns. And neither server-side nor real-time analysis is a substitute for the other, in any case. Check out Google Analytics if you haven't already. There's real value to be had, for a price just about anybody can agree with.

@@ -26,17 +26,9 @@ Developing for Drupal has become successively more difficult with each release. 
 Something smaller
 -----------------
 
-Only time will tell if Backdrop will be successful, and preservation of the community will be critical to its success. And while I agree that Drupal has reached a point of complexity which makes it economically inefficient to develop small sites on Drupal, I do not believe that removing core improvements is the best way to move forward.
-
-The improvements between Drupal 6 and 7 created a dramatically different learning curve; however, they brought with them numerous improvements which I would find difficult to live without. I fully expect to have a similar experience in moving from Drupal 7 to Drupal 8.
-
-Backdrop has once again highlighted the need for a smaller core capable of providing a wordpress-like experience for rapid and cheap development of smaller sites. As a community, we need to address the need that exists at both ends of the spectrum and help to preserve our community by encouraging developers of all walks to participate and contribute to Drupal.
+Only time will tell if Backdrop will be successful, and preservation of the community will be critical to its success. And while I agree that Drupal has reached a point of complexity which makes it economically inefficient to develop small sites on Drupal, I do not believe that removing core improvements is the best way to move forward. The improvements between Drupal 6 and 7 created a dramatically different learning curve; however, they brought with them numerous improvements which I would find difficult to live without. I fully expect to have a similar experience in moving from Drupal 7 to Drupal 8. Backdrop has once again highlighted the need for a smaller core capable of providing a wordpress-like experience for rapid and cheap development of smaller sites. As a community, we need to address the need that exists at both ends of the spectrum and help to preserve our community by encouraging developers of all walks to participate and contribute to Drupal.
 
 Final thoughts
 --------------
 
-There is still a lot that is unknown about Backdrop. A large amount of what is known is speculation based on git commit messages, Twitter comments and what little information is available on [backdropcms.org](https://backdropcms.org/).
-
-Will the continued march of Drupal towards an Enterprise platform lead to its demise as a general CMS? Will Backdrop become the Drupal we once knew? What are your thoughts on Backdrop? Let us know in the comments.
-
-_\[Image: [lusi](http://www.freeimages.com/photo/two-forks-in-an-egg-holder-1323002)\]_
+There is still a lot that is unknown about Backdrop. A large amount of what is known is speculation based on git commit messages, Twitter comments and what little information is available on [backdropcms.org](https://backdropcms.org/). Will the continued march of Drupal towards an Enterprise platform lead to its demise as a general CMS? Will Backdrop become the Drupal we once knew? What are your thoughts on Backdrop? Let us know in the comments. \[Image: [lusi](http://www.freeimages.com/photo/two-forks-in-an-egg-holder-1323002)\]

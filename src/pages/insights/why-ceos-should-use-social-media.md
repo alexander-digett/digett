@@ -16,16 +16,12 @@ Many CEOs are hesitant to use social media, citing fears of negative feedback, b
 Business benefits
 -----------------
 
-Mashable’s [The Future Social CEO](http://4.mshcdn.com/wp-content/uploads/2011/11/02_FutureSocialCEO.png) infographic has lots of info on the CEO of the future, but it also includes some current statistics that may surprise you:
-
-*   45% of businesses have reduced their marketing expenses using social media.
-*   48% have generated more qualified leads using social media.
-*   35% of those businesses have used social media to close business deals.
+Mashable’s [The Future Social CEO](http://4.mshcdn.com/wp-content/uploads/2011/11/02_FutureSocialCEO.png) infographic has lots of info on the CEO of the future, but it also includes some current statistics that may surprise you: 45% of businesses have reduced their marketing expenses using social media. 48% have generated more qualified leads using social media. 35% of those businesses have used social media to close business deals.
 
 Gain consumers’ trust
 ---------------------
 
-The [2012 CEO, Social Media & Leadership Survey](http://www.brandfog.com/CEOSocialMediaSurvey/BRANDfog_2012_CEO_Survey.pdf) revealed that 82% of respondents are more likely to trust a company whose CEO and leadership steam openly communicate via social media. Also, 77% of respondents are more likely to _buy_ from brands whose CEO and/or leadership team uses social media to communicate.
+The [2012 CEO, Social Media & Leadership Survey](http://www.brandfog.com/CEOSocialMediaSurvey/BRANDfog_2012_CEO_Survey.pdf) revealed that 82% of respondents are more likely to trust a company whose CEO and leadership steam openly communicate via social media. Also, 77% of respondents are more likely to buy from brands whose CEO and/or leadership team uses social media to communicate.
 
 Humanize your company
 ---------------------
@@ -35,14 +31,8 @@ The Madmen days of high-rise offices and dry, useless press releases are over. I
 Lead the way
 ------------
 
-As a CEO, part of your job is to be a visionary. You are the leader of your company; how can you expect your employees to innovate or be “authentic” or “engaged” with your customers if you’re dragging your feet?
-
-It’s trite but true: great leaders lead by example, and attitude reflects leadership. What kind of leader are you?
+As a CEO, part of your job is to be a visionary. You are the leader of your company; how can you expect your employees to innovate or be “authentic” or “engaged” with your customers if you’re dragging your feet? It’s trite but true: great leaders lead by example, and attitude reflects leadership. What kind of leader are you?
 
 ### More CEO resources
 
-*   [Why Your Company Needs a Mobile Website](/insights/why-your-company-needs-mobile-website)
-*   [Completing Your LinkedIn Profile](/insights/completing-your-linkedin-profile)
-*   [Should My Company Use Pinterest?](/insights/should-my-company-use-pinterest)
-
-_\[Image: [AltMuslimah](http://www.flickr.com/photos/aslanmedia_official/6292167103/)\] _
+[Why Your Company Needs a Mobile Website](/insights/why-your-company-needs-mobile-website) [Completing Your LinkedIn Profile](/insights/completing-your-linkedin-profile) [Should My Company Use Pinterest?](/insights/should-my-company-use-pinterest) \[Image: [AltMuslimah](http://www.flickr.com/photos/aslanmedia_official/6292167103/)\]

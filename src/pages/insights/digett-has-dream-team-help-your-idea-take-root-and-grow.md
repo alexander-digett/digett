@@ -15,27 +15,15 @@ I recently attended a Web development conference in Portland, Oregon. One sessio
 
 ### Engineers: build your website
 
-*   Reduce chaos
-*   Believe in right and wrong answers
-*   Are willing to go deep into the problem
-*   Have an urge to build something
-*   Make your site efficient
+Reduce chaos Believe in right and wrong answers Are willing to go deep into the problem Have an urge to build something Make your site efficient
 
 ### Designers: focus on the experience of your customer
 
-*   Represent the humans
-*   Understand what most users want, and use this knowledge to prioritize and exceed their expectations
-*   Have the same urge to build something
-*   Bring a balance between art and science
+Represent the humans Understand what most users want, and use this knowledge to prioritize and exceed their expectations Have the same urge to build something Bring a balance between art and science
 
 ### Dictator: focus on deadlines, budgets and keeping everyone working together
 
-*   Moderators
-*   Have to know what they want
-*   Strong desire to create consistency
-*   Want to kill ambiguity
-*   Create velocity
-*   Great dictators are forces of nature
+Moderators Have to know what they want Strong desire to create consistency Want to kill ambiguity Create velocity Great dictators are forces of nature
 
 For Digett
 ----------
@@ -44,4 +32,4 @@ Digett has what your project needs. Digett will assign an Engineer, a Designer a
 
 ### Related articles
 
-*   [Secrets to Working with a Marketing Agency](/insights/secrets-working-marketing-agency)
+[Secrets to Working with a Marketing Agency](/insights/secrets-working-marketing-agency)

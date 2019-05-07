@@ -11,13 +11,7 @@ author: Emma Ruehl
 image: /assets/8.27.15.jpg
 ---
 
-We’ve all been there. Your team creates an amazing marketing piece or package, and users aren’t biting. They’re not opening it, posting, retweeting, or contacting you. The content is great, but the time investment just isn’t paying off.
-
-How did this happen? Even the most expert marketers can be subject to customers tuning out their messages. At a certain point, your content can filter out of their minds and become background noise. Let’s locate that point and how to avoid it. It’s easy to fall into the trap of sending too many marketing messages, especially emails. How many times have you signed up for a new email subscription, only to check your inbox hours later to find it flooded with a mountain of emails (read: brain work)? Unsubscribe.
-
-Perhaps you liked a new local coffee shop’s Facebook page because they have great lattes. However their posts are centering around your town’s night life and the intern’s Instagram food photos. Unlike.
-
-Where is the value to the consumer? Are we meeting him in his terms? What he wants to see and when he wants to see it? Let’s make this about him, and less about patting ourselves on the back for how often we can post or email.
+We’ve all been there. Your team creates an amazing marketing piece or package, and users aren’t biting. They’re not opening it, posting, retweeting, or contacting you. The content is great, but the time investment just isn’t paying off. How did this happen? Even the most expert marketers can be subject to customers tuning out their messages. At a certain point, your content can filter out of their minds and become background noise. Let’s locate that point and how to avoid it. It’s easy to fall into the trap of sending too many marketing messages, especially emails. How many times have you signed up for a new email subscription, only to check your inbox hours later to find it flooded with a mountain of emails (read: brain work)? Unsubscribe. Perhaps you liked a new local coffee shop’s Facebook page because they have great lattes. However their posts are centering around your town’s night life and the intern’s Instagram food photos. Unlike. Where is the value to the consumer? Are we meeting him in his terms? What he wants to see and when he wants to see it? Let’s make this about him, and less about patting ourselves on the back for how often we can post or email.
 
 Email
 -----
