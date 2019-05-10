@@ -36,12 +36,13 @@ The origins of this script can be found [directly from Google](https://developer
 
 This one does involve some initial setup. But getting it going is simple. First, make a copy of [this spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Agg6qWimbbe4dG5rWUZRalRQUG16Tmx5d2wwb1lkR3c) in your Drive account. (File > Make a copy…) Following the instructions above, create a new script then copy and paste the source code below. Be sure to update “SPREADSHEET\_URL” with the URL of your new template. Lastly, to be sure you have it updating every morning, it has to be scheduled to run every day at a set time. Google recommends scheduling it at 5:00am, because there sometimes can be a delay in the statistics. 
 
-var SPREADSHEET\_URL = "\[YOUR\_URL\]";
+```js
+var SPREADdSHEET_URL = "[YOUR_URL]";
 
 function main() {
-  var spreadsheet = SpreadsheetApp.openByUrl(SPREADSHEET\_URL);
+  var spreadsheet = SpreadsheetApp.openByUrl(SPREADSHEET_URL);
   spreadsheet.getRangeByName("account\_id\_report").setValue(AdWordsApp.currentAccount().getCustomerId());  
-  
+
   var yesterday = getYesterday();
   var last\_check = spreadsheet.getRangeByName("last\_check").getValue();
   // Checks every day from last day checked to yesterday inclusive. If there isn't a last date checked,
@@ -201,7 +202,7 @@ function SpreadsheetAccess(spreadsheetUrl, sheetName) {
     this.sheet.getRange(startRow, startColumn, rows.length, rows\[0\].length).setValues(rows);
   }
 }
-
+```
 ### Search query performance report
 
 Looking at your search queries at least once a week is something that you should be doing to look for more potential negative and positive keywords. This script pulls search query performance over the last seven days, outputs it in a Google Doc, and emails a user-defined list of email addresses when it’s finished. The author of this script is [Russ Savage](http://www.freeadwordsscripts.com/2013/03/store-search-query-performance-report.html) and you can find all of his awesome scripts on his site.
@@ -209,7 +210,7 @@ Looking at your search queries at least once a week is something that you should
 #### Setup
 
 The setup here is fairly straightforward. Create a new Google Doc, input your Google Doc URL and email(s), then you’re good to go.
-
+```js
 //-----------------------------------
 // Store Search Query Perf Report in Google Doc
 // Created By: Russ Savage
@@ -273,7 +274,7 @@ function getSpreadsheet(spreadsheetUrl) {
   var spreadsheetId = matches\[1\];
   return SpreadsheetApp.openById(spreadsheetId);
 }
-
+```
 ### Track account, campaign, and ad group level Quality Scores
 
 If you’re unsure about what exactly Quality Score is, I would recommend reading about [how Quality Score is calculated](/insights/how-google-calculates-adwords-quality-score) and [everything that goes into Quality Score](/insights/how-google-calculates-adwords-quality-score). This script is also from [Russ Savage](http://www.freeadwordsscripts.com/2013/04/store-account-campaign-and-adgroup.html), and it does something that Google doesn’t allow you to do: view Quality Scores over time. It’s arguable whether there’s actionable insight available in doing this, but it’s always nice to have the data available. This script looks at the top 50,000 keywords in your account. (As a sidenote, re-running the script does not overwrite the previous entries.) 
@@ -281,7 +282,7 @@ If you’re unsure about what exactly Quality Score is, I would recommend readin
 #### Setup
 
 Create a new Google Spreadsheet and copy the URL in the script. Once you’ve done that, copy the script into AdWords and schedule it to run every 30 days.
-
+```js
 /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 \* Store Account, Campaign, and AdGroup Level Quality Score
 \* Version 1.2
@@ -414,7 +415,7 @@ function \_addHeadingsIfNeeded(sheet,headings) {
     sheet.appendRow(headings);
   }
 }
-
+```
 ### Ad, ad group, keyword, or campaign creation date
 
 Yet another script from the [Russ Savage gold mine](http://www.freeadwordsscripts.com/2013/07/figuring-out-when-your-ad-was-created.html). Because Google doesn’t actually store when these entities were created, the script uses the day it first started receiving impressions, which generally is the day it was created. This is most useful for A/B testing and seeing how long specific ads have been running. When A/B testing, it’s always important to leave enough time to collect data that can become actionable insight. Having a label showing the date created helps to make sure you don’t make changes to your account too soon (or too late). 
@@ -422,7 +423,7 @@ Yet another script from the [Russ Savage gold mine](http://www.freeadwordsscript
 #### Setup
 
 As far as setting up goes, this one is by far the easiest. Copy and paste the code in a new script and define which entity you want to track in the “ENTITY” line (if you want to track all of them, make a new script for each one). And you’re done. Depending on your account size, this script can take some time to complete so be patient!
-
+```js
 /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 \* Track Entity Creation Date
 \* Version 1.4
@@ -528,7 +529,7 @@ function getImpressionHistory() {
   }
   return ret\_map;
 }
-
+```
 Reaching success with Google AdWords
 ------------------------------------
 

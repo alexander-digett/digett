@@ -23,6 +23,7 @@ justify-content:space-between;
 const Blogleft = styled.div`
 flex-basis:70%;
 padding-right:20px;
+overflow:hidden;
 @media (max-width: ${variable.mobileWidth}) {
   flex-basis:calc(100%);
   padding:0px;
