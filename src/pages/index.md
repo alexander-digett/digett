@@ -16,7 +16,7 @@ content:
 
           [See How It Works](/contact)
         type: markdown
-    textcolor: '#777777'
+    textcolor: '#ffffff'
     type: section
   - backgroundcolor: '#ffffff'
     sectionid: subscribe
