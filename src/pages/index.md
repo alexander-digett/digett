@@ -3,6 +3,7 @@ title: Home Page
 templateKey: page
 content:
   - backgroundcolor: '#dddddd'
+    backgroundimage: /assets/poly.jpg
     sectionvalue:
       - markdown: >-
           ## We Craft Digital Marketing Initiatives that Grow Revenue and
