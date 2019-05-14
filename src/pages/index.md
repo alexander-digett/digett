@@ -2,7 +2,7 @@
 title: Home Page
 templateKey: page
 content:
-  - backgroundcolor: '#dddddd'
+  - backgroundcolor: ''
     backgroundimage: /assets/poly.jpg
     sectionvalue:
       - markdown: >-
