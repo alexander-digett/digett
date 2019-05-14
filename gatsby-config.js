@@ -71,24 +71,24 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-google-tagmanager`,
-      options: {
-        id: "GTM-TZFPPLH",
-        // Include GTM in development.
-        // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: true,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-tagmanager`,
+    //   options: {
+    //     id: "GTM-TZFPPLH",
+    //     // Include GTM in development.
+    //     // Defaults to false meaning GTM will only be loaded in production.
+    //     includeInDevelopment: true,
+    //   },
+    // },
 
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-139423832-1",
-        // Avoids sending pageview hits from custom paths
-        exclude: ["/admin/**"],
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: "UA-139423832-1",
+    //     // Avoids sending pageview hits from custom paths
+    //     exclude: ["/admin/**"],
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -157,6 +157,14 @@ module.exports = {
             },
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Great Vibes\:300,400,400i,700`,
+        ]
       },
     },
     {

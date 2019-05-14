@@ -8,19 +8,30 @@ import styled from "styled-components"
 import Image from "../image"
 import logo from "../../images/logo_white.png"
 import { StaticQuery } from "gatsby"
+import Search from "../organisms/search"
 
 const HeaderStyle = styled.header`
   top: 0px;
   width: 100%;
   z-index: 999;
   position:relative;
-  background-color:#dddddd;
   .header-menu-logo{
     display:flex;
     justify-content: space-between;
     align-items: center;
     padding:20px 0px;
-    
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    a{
+    padding: 0px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:white;
+    }
   }
   .logo{
     flex-basis:150px;
@@ -58,6 +69,7 @@ const Header = ({variable}) => (
       <Link className="logo"to="/"><img src={logo} alt="logo" /></Link>
       <Menu>
       </Menu>
+      <Search searchIndex={data.siteSearchIndex.index} />
       </Container>
   </HeaderStyle>
 )}

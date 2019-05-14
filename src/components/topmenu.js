@@ -29,8 +29,6 @@ const Nav = styled.div`
     font-weight: 600;
     transition: all 0.2s;
     text-transform:uppercase;
-    font-size:12px;
-    letter-spacing: 0.5px;
     -webkit-font-smoothing: antialiased;
     text-decoration:none;
     &:hover {
