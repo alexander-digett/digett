@@ -51,12 +51,16 @@ export const BlogPostTemplate = ({
   date,
   author,
   slug,
+  id,
 }) => {
   const PostContent = contentComponent
-  const disqusConfig = {
-    shortname: 'digett',
-    config: { identifier: slug, title },
-   }
+  const siteUrl = 'localhost:8000';
+    const disqusShortname = 'digett'
+    const disqusConfig = {
+      url: siteUrl + '/' + slug.slice(1),
+      identifier: id,
+      title: title,
+    };
    console.log(disqusConfig)
   const canonical = `https://digett.com${slug}`
   return (
@@ -112,7 +116,7 @@ export const BlogPostTemplate = ({
           </Form>
       </Blogright>
       </Blogfullcontainer>
-      <DiscussionEmbed {...disqusConfig} />
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
       </Container>
       </section>
       </Layout>
@@ -134,6 +138,7 @@ const BlogPost = ({ data }) => {
   return (
       <BlogPostTemplate
         content={post.html}
+        id={post.id}
         contentComponent={HTMLContent}
         frontmatter={post.frontmatter}
         title={entities.decode(post.frontmatter.title)}

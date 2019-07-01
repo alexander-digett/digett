@@ -16,7 +16,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/comments.json", (error
 		const folder = '/../pages/comments/';
 	  const path = __dirname + folder;
 		fs.mkdir(path, (err) => { });
-		const yourSite = "https://digett.netlify.com/"
+		const yourSite = "https://digett.netlify.com"
 		
 		const file = fs.createWriteStream(path + 'comments.xml', { flags: 'w' });
 
@@ -31,7 +31,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/comments.json", (error
 
 	result.forEach(row => {
 		const title = row.title
-		const alias = row.alias.split('/insights/')[1]
+		const alias = row.alias
 		const nodecreated = new Date(row.created * 1000)
 		const commentcreated = new Date(row.created_1 * 1000)
 		const comment = row.comment_body
