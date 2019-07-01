@@ -32,8 +32,8 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/comments.json", (error
 	result.forEach(row => {
 		const title = row.title
 		const alias = row.alias
-		const nodecreated = new Date(row.created * 1000)
-		const commentcreated = new Date(row.created_1 * 1000)
+		const nodecreated = row.created
+		const commentcreated = row.created_1
 		const comment = row.comment_body
 		const id = row.nid
 		const name = row.name

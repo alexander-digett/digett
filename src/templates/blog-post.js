@@ -54,7 +54,7 @@ export const BlogPostTemplate = ({
   id,
 }) => {
   const PostContent = contentComponent
-  const siteUrl = 'localhost:8000';
+  const siteUrl = 'https://digett.netlify.com';
     const disqusShortname = 'digett'
     const disqusConfig = {
       url: siteUrl + '/' + slug.slice(1),
