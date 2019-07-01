@@ -16,7 +16,7 @@ Request.get("https://gatsby-digett-d8.pantheonsite.io/api/comments.json", (error
 		const folder = '/../pages/comments/';
 	  const path = __dirname + folder;
 		fs.mkdir(path, (err) => { });
-		const yourSite = "https://digett.netlify.com"
+		const yourSite = "http://digett.netlify.com"
 		
 		const file = fs.createWriteStream(path + 'comments.xml', { flags: 'w' });
 
