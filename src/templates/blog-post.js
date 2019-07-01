@@ -8,7 +8,8 @@ import * as variable from '../components/variables'
 import styled from 'styled-components'
 import { HTMLContent } from '../components/Content'
 import Form from '../components/form'
-import Img from "gatsby-image";
+import Img from "gatsby-image"
+import { DiscussionEmbed } from 'disqus-react'
 
 const Entities = require('html-entities').AllHtmlEntities;
  
@@ -52,6 +53,11 @@ export const BlogPostTemplate = ({
   slug,
 }) => {
   const PostContent = contentComponent
+  const disqusConfig = {
+    shortname: 'digett',
+    config: { identifier: slug, title },
+   }
+   console.log(disqusConfig)
   const canonical = `https://digett.com${slug}`
   return (
 
@@ -106,6 +112,7 @@ export const BlogPostTemplate = ({
           </Form>
       </Blogright>
       </Blogfullcontainer>
+      <DiscussionEmbed {...disqusConfig} />
       </Container>
       </section>
       </Layout>

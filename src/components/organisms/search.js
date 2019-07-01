@@ -14,7 +14,7 @@ export default class Search extends Component {
  
   render() {
     return (
-      <div>
+      <div className="search">
         <input type="text" value={this.state.query} onChange={this.search} />
         <ul>
           {/* {console.log(this.state.results)}
@@ -43,12 +43,7 @@ export default class Search extends Component {
       query,
       // Query the index with search string to get an [] of IDs
       results: this.index
-        .search("10", "+Marketing", {
-            fields: {
-                title: {boost: 2},
-                category: {boost: 1},
-            }
-        })
+        .search(query)
 
         // Map over each ID and return the full document
         .map(({ ref }) => this.index.documentStore.getDoc(ref)),

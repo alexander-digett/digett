@@ -8,7 +8,7 @@ import Container from '../components/layout/container'
 import { FaLinkedinIn } from "react-icons/fa";
 const Nav = styled.div`
   background-color:${props => props.variable.gray}; 
-  padding:20px 0px; 
+  padding: 8px 0px;
   ul{
     margin:0px;
     padding:0px;

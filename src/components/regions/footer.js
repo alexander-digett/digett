@@ -41,24 +41,48 @@ h4{
   }
 }
 `
-const Rightfooter = styled.div`
-flex-basis:70%;
-padding:40px 0px;
-position:relative;
-padding-left:20px;
-color:white;
-h4{
-  color:white;
-  margin:0px;
-}
-@media (max-width: ${variable.tabletWidth}) {
-  flex-basis:60%;
-}
-@media (max-width: ${variable.mobileWidth}) {
-  flex-basis:100%;
-  padding-left:0px;
-  padding-right:0px;
-}
+const FooterContainer = styled.div`
+      display:flex;
+      flexWrap:wrap;
+      padding-bottom:40px;
+      .footer-column{
+        flex-basis:30%;
+        margin-right:5%;
+        color:white;
+        a{
+          color:white;
+        }
+        h3{
+          color:white;
+          font-size: 22px;
+          line-height: 27px;
+          border-bottom: solid 2px #ffffff;
+          padding-bottom: 5px;
+        }
+        &:last-child(){
+          margin-right:0px;
+        }
+        ul{
+          padding:0px;
+          margin:0px;
+          margin-bottom:10px;
+        }
+        li{
+          list-style:none;
+          display: inline;
+          text-decoration: none;
+          margin-right: 10px;
+          i{
+            font-size:30px;
+          }
+          a:hover{
+            color: #407992;
+          }
+        }
+      }
+      .button{
+        margin-top:20px;
+      }
 `
 
 const Footer = () => (
@@ -66,20 +90,28 @@ const Footer = () => (
     backgroundColor:'#626363',
     overflow:'hidden',
     }}>
-    <Container style={{
-      display:'flex',
-      flexWrap:'wrap',
-    }}>
-      <Leftfooter>
-      <h4>CONTACT US</h4>
-      <p>P.O Box 443</p>
-      <p>San Antonio</p>
-      <p>1800-323-2323</p>
-      </Leftfooter>
-      <Rightfooter>
-      <h4>ABOUT US</h4>
-      <p>digett.com is a small web development / design / marketing firm based in America! We're real humans ready to chat face to face.</p>
-      </Rightfooter>
+    <Container>
+<FooterContainer>
+<div class="footer-column">
+<h3 class="footer-label">TALK TO US TODAY</h3>
+<div>Telephone: <a class="footer-bottom-phone" href="tel:1-210-853-5808">210-853-5808</a></div>
+<a href="/contact" class="button">CONTACT</a>
+</div>
+<div class="footer-column">
+<h3 class="footer-label">LOCATION</h3>
+<div>4358 Lockhill Selma, Suite 108</div>
+<div>San Antonio, TX 78249</div>
+</div>
+<div class="footer-column">
+<h3 class="footer-label">FOLLOW US</h3>
+<ul class="footer-social-icon">
+<li><a href="https://www.facebook.com/Digett/" class="facebook 0" target="_blank" rel="nofollow"><i class="fab fa-facebook-square"></i></a></li>
+<li><a href="https://twitter.com/digett" class="twitter 0" target="_blank" rel="nofollow"><i class="fab fa-twitter-square"></i></a></li>
+<li><a href="http://www.linkedin.com/company/digett" class="linkedin 0" target="_blank" rel="nofollow"><i class="fab fa-linkedin"></i></a></li>
+</ul>
+<div><span><a href="/privacy-policy">Privacy Policy</a></span> | <span>All Rights Reserved</span></div> 
+</div>
+</FooterContainer>
     </Container>
   </footer>
 )

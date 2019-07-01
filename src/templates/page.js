@@ -3,11 +3,18 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/layout/layout";
 import Section from "../components/organisms/sections/section"
+import styled from 'styled-components'
+
+const MainPage = styled.main`
+  section:nth-child(1){
+    padding-top:100px;
+  }
+`
 
 export const PageTemplate = ({ title, content }) => {
 
   return (
-    <main id="main" className="main">
+    <MainPage className="main main-type-page">
       {content.map(( section, index ) => (
         
         <Section
@@ -16,7 +23,7 @@ export const PageTemplate = ({ title, content }) => {
         >
         </Section>
       ))}
-    </main>
+    </MainPage>
   );
 };
 

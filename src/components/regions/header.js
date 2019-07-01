@@ -9,6 +9,7 @@ import Image from "../image"
 import logo from "../../images/logo_white.png"
 import { StaticQuery } from "gatsby"
 import Search from "../organisms/search"
+import * as variable from '../variables.js'
 
 const HeaderStyle = styled.header`
   top: 0px;
@@ -19,7 +20,7 @@ const HeaderStyle = styled.header`
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding:20px 0px;
+    padding:45px 0px;
     position: absolute;
     margin-left: auto;
     margin-right: auto;
@@ -34,7 +35,7 @@ const HeaderStyle = styled.header`
     }
   }
   .logo{
-    flex-basis:150px;
+    flex-basis:175px;
     border-bottom:none;
     img{
       width:100%;
@@ -44,9 +45,22 @@ const HeaderStyle = styled.header`
     }
   }
   nav{
-    flex-basis:calc(60% - 200px);
-    display:flex;
-    justify-content:flex-end;
+    flex-basis:calc(80% - 300px);
+    ul{
+      width:100%;
+      display:flex;
+      justify-content:space-between;
+    }
+  }
+  .search{
+    flex-basis:20%;
+    position:relative;
+    @media (max-width: ${variable.tabletWidth}) {
+      display:none;
+    }
+    ul{
+      position:absolute;
+    }
   }
 `;
 
