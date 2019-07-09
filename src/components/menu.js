@@ -30,6 +30,7 @@ const Nav = styled.nav`
     text-decoration:none;
     border-bottom:0px;
     &:hover {
+      text-decoration:none;
     }
   }
   @media (max-width: ${variable.tabletWidth}) {
@@ -56,9 +57,11 @@ const Menu = () => (
     <>
     <Nav>
     <ul>
+    
       {data.site.siteMetadata.menuLinks.map((menuitem, index) =>(
         <li key={index}><Link to={menuitem.link}>{menuitem.name}</Link></li>
       ))}
+
     </ul>
     </Nav>
     <Mobilemenu />
