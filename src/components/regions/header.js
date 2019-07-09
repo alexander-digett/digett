@@ -45,12 +45,7 @@ const HeaderStyle = styled.header`
     }
   }
   nav{
-    flex-basis:calc(80% - 300px);
-    ul{
-      width:100%;
-      display:flex;
-      justify-content:space-between;
-    }
+    flex-basis:calc(80% - 350px);
   }
   .search{
     flex-basis:20%;

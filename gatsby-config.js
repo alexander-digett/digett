@@ -24,7 +24,21 @@ module.exports = {
     menuLinks:[
       {
          name:'solutions',
-         link:'/digital-marketing-solutions'
+         link:'/digital-marketing-solutions',
+         children:[
+           {
+              name:'Strategy',
+              link:'/strategy'
+           },
+           {
+            name:'Infrastructure',
+            link:'/infrastructure'
+           },
+           {
+            name:'Operations',
+            link:'/operations'
+           }
+         ]
       },
       {
          name:'msp marketing',
